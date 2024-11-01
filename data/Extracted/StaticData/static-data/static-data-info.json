@@ -260,7 +260,9 @@
 				"gacha-182",
 				"gacha-183",
 				"gacha-184",
-				"gacha-185"
+				"gacha-185",
+				"gacha-186",
+				"gacha-187"
             ]
         },
         {
@@ -1218,11 +1220,17 @@
             "guide-ui-mirrordungeon-battle-reward-card"
           ]
         },
-      {
-        "dataClass": "buff-by-formation",
-        "fileList": [
-          "buff-by-formation-01"
-        ]
-      }
+        {
+          "dataClass": "buff-by-formation",
+          "fileList": [
+            "buff-by-formation-01"
+          ]
+        },
+        {
+          "dataClass": "personality-voice",
+          "fileList": [
+            "personality-voice"
+          ]
+        }
     ]
 }

@@ -4,7 +4,7 @@
       "id": 10801,
       "appearance": "10801_Ishmael_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE"
+        "BASE_APPEARANCE", "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 8,
@@ -104,6 +104,7 @@
     {
       "id": 10802,
       "appearance": "10802_Ishmael_RCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "R_CORP" ],
       "characterId": 8,
       "panicType": 9999,
@@ -202,7 +203,7 @@
     {
       "id": 10803,
       "appearance": "10803_Ishmael_ShiAssoAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "SHI" ],
       "characterId": 8,
       "panicType": 9999,
@@ -301,6 +302,7 @@
     {
       "id": 10804,
       "appearance": "10804_Ishmael_LCCSodeAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 8,
       "panicType": 9999,
@@ -410,6 +412,7 @@
     {
       "id": 10805,
       "appearance": "10805_Ishmeal_FairyAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "ATL" ],
       "characterId": 8,
       "panicType": 9999,
@@ -508,7 +511,7 @@
     {
       "id": 10806,
       "appearance": "10806_Ishmael_LiuAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "LIU" ],
       "characterId": 8,
       "panicType": 9999,
@@ -608,7 +611,7 @@
     {
       "id": 10807,
       "appearance": "10807_Ishmael_molarAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "MOLAR" ],
       "characterId": 8,
       "panicType": 9999,
@@ -709,7 +712,7 @@
     {
       "id": 10808,
       "appearance": "10808_Ishmael_AhabAppearance",
-      "unitKeywordList": [ "PEQUOD_CAPTAIN" ],
+      "unitKeywordList": [ "PEQUOD_CAPTAIN", "SMALL" ],
       "associationList": [ "PEQUOD_CREW" ],
       "characterId": 8,
       "panicType": 9999,
@@ -813,7 +816,7 @@
       "id": 10809,
       "appearance": "10809_Ishmael_MaidAppearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "characterId": 8,
       "panicType": 9999,
       "season": 4,

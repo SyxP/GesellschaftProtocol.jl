@@ -7,7 +7,7 @@
       "sdPortrait": 8577,
       "viewid": 8577,
       "appearance": "8577_FireMothAppearance",
-      "unitKeywordList": [ "ARDOR_BLOSSOM_MOTH" ],
+      "unitKeywordList": [ "ARDOR_BLOSSOM_MOTH", "LARGE" ],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -315,7 +315,8 @@
       "viewid": 8585,
       "appearance": "8585_ContemptSpiralAppearance",
       "unitKeywordList": [
-        "SPIRAL_OF_CONTEMPT"
+        "SPIRAL_OF_CONTEMPT",
+        "REGULAR"
       ],
       "patternID": "8585",
       "classType": "WAW",
@@ -1118,7 +1119,7 @@
       "sdPortrait": 8510,
       "nameID": 8075,
       "appearance": "8503_CryToadAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE" ],
       "level": 40,
       "classType": "ZAYIN",
       "attributeType": "AZURE",
@@ -1692,7 +1693,7 @@
       "sdPortrait": 8550,
       "viewid": 8550,
       "appearance": "8550_LostPassengerAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 1,
       "classType": "HE",
       "attributeType": "SHAMROCK",
@@ -2232,7 +2233,7 @@
       "viewid": 8560,
       "sdPortrait": 8551,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -2274,7 +2275,7 @@
       "viewid": 8561,
       "sdPortrait": 8551,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -2316,7 +2317,7 @@
       "viewid": 8562,
       "sdPortrait": 8551,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -2358,7 +2359,7 @@
       "originID": 8563,
       "storyID": 8563,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -2400,7 +2401,7 @@
       "viewid": 8200,
       "sdPortrait": 8200,
       "appearance": "8604_ContemptSpiralHandAppearance",
-      "unitKeywordList": [ "GRASP" ],
+      "unitKeywordList": [ "GRASP", "REGULAR" ],
       "patternID": "8604",
       "abnormalityPartList": [
         820001
@@ -2430,7 +2431,7 @@
       "storyID": 8556,
       "appearance": "8556_RoseSignAppearance",
       "classType": "WAW",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "attributeType": "VIOLET",
       "hp": {
@@ -2818,7 +2819,7 @@
       "viewid": 8564,
       "originID": 8564,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "CRIMSON",
       "hp": {
@@ -2857,7 +2858,7 @@
       "viewid": 8565,
       "originID": 8565,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "SCARLET",
       "hp": {
@@ -2895,7 +2896,7 @@
       "viewid": 8566,
       "originID": 8566,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "AMBER",
       "hp": {
@@ -2956,7 +2957,7 @@
       "viewid": 8567,
       "originID": 8567,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "SHAMROCK",
       "hp": {
@@ -2998,7 +2999,7 @@
       "viewid": 8568,
       "originID": 8568,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "AZURE",
       "hp": {
@@ -3059,7 +3060,7 @@
       "viewid": 8569,
       "originID": 8569,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "INDIGO",
       "hp": {
@@ -3101,7 +3102,7 @@
       "viewid": 8570,
       "originID": 8570,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "VIOLET",
       "hp": {
@@ -3158,7 +3159,7 @@
       "sdPortrait": 8045,
       "viewid": 8045,
       "appearance": "8045_ElectricCentipedeAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 10,
       "classType": "HE",
       "attributeType": "VIOLET",
@@ -3804,7 +3805,7 @@
       "originID": 8555,
       "storyID": 8555,
       "appearance": "8555_SteamMachineAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE" ],
       "level": 10,
       "classType": "HE",
       "attributeType": "AZURE",
@@ -4329,7 +4330,7 @@
       "storyID": 8577,
       "appearance": "8577_FireMothAppearance",
       "unitKeywordList": [
-        "ARDOR_BLOSSOM_MOTH"
+        "ARDOR_BLOSSOM_MOTH", "LARGE"
       ],
       "classType": "HE",
       "attributeType": "CRIMSON",
@@ -4598,7 +4599,7 @@
       "sdPortrait": 8058,
       "storyID": 8549,
       "appearance": "8058_FairyLanternAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "VIOLET",
@@ -4953,7 +4954,7 @@
       "sdPortrait": 8059,
       "storyID": 8059,
       "appearance": "8059_FairyLongLegsAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -5321,7 +5322,7 @@
       "sdPortrait": 8062,
       "storyID": 8062,
       "appearance": "8062_FairyLongLegs_CloverAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -5355,7 +5356,8 @@
       "nameID": 8102,
       "appearance": "8102_FluorescentWhaleAppearance",
       "unitKeywordList": [
-        "KILLER_WHALE"
+        "KILLER_WHALE",
+        "LARGE" 
       ],
       "classType": "WAW",
       "attributeType": "INDIGO",
@@ -5773,7 +5775,8 @@
       "appearance": "8108_FluorescentWhaleAppearance",
       "unitKeywordList": [
         "TETRAPOD",
-        "NONE_BLOOD"
+        "NONE_BLOOD",
+        "SMALL"
       ],
       "classType": "ZAYIN",
       "attributeType": "INDIGO",
@@ -5805,7 +5808,7 @@
       "storyID": 8519,
       "appearance": "8504_kqe1j23Appearance",
       "unitKeywordList": [
-        "MACHINE_BOUND_ORGANISM"
+        "MACHINE_BOUND_ORGANISM", "LARGE"
       ],
       "level": 30,
       "classType": "HE",
@@ -6166,7 +6169,7 @@
       "storyID": 8520,
       "appearance": "8520_kqe1j23HandAppearance",
       "unitKeywordList": [
-        "MACHINE_BOUND_ORGANISM"
+        "MACHINE_BOUND_ORGANISM", "LARGE"
       ],
       "level": 30,
       "classType": "ZAYIN",
@@ -6201,7 +6204,8 @@
       "nameID": 8101,
       "appearance": "8101_WalkingPearlAppearance",
       "unitKeywordList": [
-        "WALKING_PEARL"
+        "WALKING_PEARL", 
+        "LARGE"
       ],
       "classType": "WAW",
       "attributeType": "SHAMROCK",
@@ -6636,7 +6640,8 @@
       "appearance": "8109_WalkingPearlAppearance",
       "unitKeywordList": [
         "GREEN_SLIME",
-        "NONE_BLOOD"
+        "NONE_BLOOD",
+        "SMALL"
       ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -6669,7 +6674,8 @@
       "viewid": 8585,
       "appearance": "8585_ContemptSpiralAppearance",
       "unitKeywordList": [
-        "SPIRAL_OF_CONTEMPT"
+        "SPIRAL_OF_CONTEMPT",
+        "REGULAR"
       ],
       "patternID": "8585",
       "classType": "WAW",
@@ -7473,7 +7479,7 @@
       "sdPortrait": 8200,
       "appearance": "8604_ContemptSpiralHandAppearance",
       "unitKeywordList": [
-        "GRASP"
+        "GRASP", "REGULAR"
       ],
       "patternID": "8604",
       "abnormalityPartList": [
@@ -7503,7 +7509,7 @@
       "viewid": 8550,
       "nameID": 8119,
       "appearance": "8550_LostPassengerAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 10,
       "classType": "HE",
       "attributeType": "SHAMROCK",
@@ -8043,7 +8049,7 @@
       "viewid": 8527,
       "nameID": 8078,
       "appearance": "8505_RedBuddhaAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE" ],
       "level": 30,
       "classType": "WAW",
       "attributeType": "SCARLET",
@@ -8338,6 +8344,7 @@
         "N_CORP",
         "N_CORP_FNATIC"
       ],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -8380,7 +8387,7 @@
       "nameID": 91004,
       "sdPortrait": 91004,
       "appearance": "91004_EyedAppearance",
-      "unitKeywordList": [ "CLAN", "BACK_STREET" ],
+      "unitKeywordList": [ "CLAN", "BACK_STREET", "SMALL" ],
       "associationList": [
         "MARIACHI"
       ],
@@ -8423,6 +8430,7 @@
       "sdPortrait": 91002,
       "appearance": "91002_GCorp_Infested_BossAppearance",
       "associationList": [ "G_CORP" ],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -8463,7 +8471,7 @@
       "viewid": 8041,
       "phaseIDList": 8041,
       "appearance": "8041_BrassBullAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -8743,7 +8751,8 @@
       "nameID": 8100,
       "appearance": "8100_ProphetofSkinAppearance",
       "unitKeywordList": [
-        "SkinProphet"
+        "SkinProphet",
+        "REGULAR"
       ],
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -9079,7 +9088,7 @@
       "viewid": 8047,
       "sdPortrait": 8047,
       "appearance": "8047_DontcryAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 40,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -9353,7 +9362,7 @@
       "viewid": 8046,
       "sdPortrait": 8046,
       "appearance": "8046_UmbrellaFoxAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 10,
       "classType": "HE",
       "attributeType": "AZURE",
@@ -9745,7 +9754,7 @@
       "viewid": 8053,
       "sdPortrait": 8053,
       "appearance": "8053_Camellia_RainbowAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "VIOLET",
@@ -9778,7 +9787,7 @@
       "viewid": 8578,
       "storyID": 8578,
       "appearance": "8578_BloodSoakedCottonAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE"],
       "classType": "TETH",
       "attributeType": "SCARLET",
       "hp": {
@@ -10337,7 +10346,8 @@
       "appearance": "8107_ProphetofSkinCandleAppearance",
       "unitKeywordList": [
         "CANDLE",
-        "NONE_BLOOD"
+        "NONE_BLOOD",
+        "SMALL"
       ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -10412,7 +10422,7 @@
       "storyID": 8048,
       "nameID": 8048,
       "appearance": "8048_GentleFairyAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 40,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -10754,7 +10764,7 @@
       "sdPortrait": 8051,
       "appearance": "8051_FairyWineAppearance",
       "unitKeywordList": [
-        "FAIRY_LIQUOR"
+        "FAIRY_LIQUOR", "SMALL"
       ],
       "level": 30,
       "classType": "TETH",
@@ -10786,7 +10796,7 @@
       "nameID": 8120,
       "storyID": 8560,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -10828,7 +10838,7 @@
       "nameID": 8121,
       "storyID": 8561,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -10870,7 +10880,7 @@
       "nameID": 8122,
       "storyID": 8562,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -10912,7 +10922,7 @@
       "nameID": 8123,
       "storyID": 8563,
       "appearance": "8551_LostPassengerPortalAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -11821,6 +11831,7 @@
       "viewid": 8110,
       "sdPortrait": 90098,
       "appearance": "90098_PequodAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "PEQUOD_CREW" ],
       "level": 2,
       "patternID": "8186",
@@ -12014,6 +12025,7 @@
       "viewid": 8111,
       "sdPortrait": 90099,
       "appearance": "90099_PequodAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "PEQUOD_CREW" ],
       "level": 2,
       "patternID": "8187",
@@ -12208,7 +12220,7 @@
       "storyID": 8054,
       "sdPortrait": 8054,
       "appearance": "8054_Camellia_FlowerAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -12258,7 +12270,7 @@
       "storyID": 8055,
       "sdPortrait": 8055,
       "appearance": "8054_Camellia_FlowerAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "VIOLET",
@@ -12287,7 +12299,7 @@
       "storyID": 8053,
       "sdPortrait": 8053,
       "appearance": "8053_Camellia_RainbowAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "VIOLET",
@@ -12320,7 +12332,7 @@
       "sdPortrait": 8578,
       "storyID": 8578,
       "appearance": "8578_BloodSoakedCottonAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "LARGE"],
       "classType": "TETH",
       "attributeType": "SCARLET",
       "hp": {
@@ -14299,7 +14311,7 @@
       "viewid": 8106,
       "storyID": 8106,
       "appearance": "8582_Ahab_Awaken_MirrorAppearance",
-      "unitKeywordList": [ "PEQUOD_CAPTAIN" ],
+      "unitKeywordList": [ "PEQUOD_CAPTAIN", "SMALL" ],
       "associationList": [ "PEQUOD_CREW" ],
       "patternID": "8106_mirror",
       "attributeType": "WHITE",
@@ -15327,7 +15339,7 @@
       "storyID": 8556,
       "appearance": "8556_RoseSignAppearance",
       "classType": "WAW",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "REGULAR" ],
       "level": 30,
       "attributeType": "VIOLET",
       "hp": {
@@ -15716,7 +15728,7 @@
       "originID": 8564,
       "storyID": 8564,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "CRIMSON",
       "hp": {
@@ -15756,7 +15768,7 @@
       "originID": 8565,
       "storyID": 8565,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "SCARLET",
       "hp": {
@@ -15795,7 +15807,7 @@
       "originID": 8566,
       "storyID": 8566,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "AMBER",
       "hp": {
@@ -15857,7 +15869,7 @@
       "originID": 8567,
       "storyID": 8567,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "SHAMROCK",
       "hp": {
@@ -15900,7 +15912,7 @@
       "originID": 8568,
       "storyID": 8568,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "AZURE",
       "hp": {
@@ -15962,7 +15974,7 @@
       "originID": 8569,
       "storyID": 8569,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "INDIGO",
       "hp": {
@@ -16005,7 +16017,7 @@
       "originID": 8570,
       "storyID": 8570,
       "appearance": "8564_RoseSign_RoseAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 35,
       "attributeType": "VIOLET",
       "hp": {
@@ -16063,6 +16075,7 @@
       "viewid": 8044,
       "storyID": 8044,
       "appearance": "8044_Camellia_AwakenAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "ATL" ],
       "level": 6,
       "classType": "TETH",
@@ -16508,6 +16521,7 @@
       "originID": 8044,
       "storyID": 8044,
       "appearance": "8044_Camellia_AwakenAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "ATL" ],
       "level": 6,
       "classType": "TETH",
@@ -16924,6 +16938,7 @@
       "viewid": 8050,
       "storyID": 8050,
       "appearance": "8050_DongLang_AwakenAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "K_CORP" ],
       "level": 6,
       "classType": "TETH",
@@ -17610,7 +17625,7 @@
       "viewid": 8060,
       "storyID": 8060,
       "appearance": "8056_DongLang_TreeAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "VIOLET",
@@ -17684,7 +17699,7 @@
       "viewid": 8061,
       "storyID": 8061,
       "appearance": "8056_DongLang_TreeAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "VIOLET",
@@ -17719,7 +17734,7 @@
       "viewid": 8010,
       "storyID": 8010,
       "appearance": "8010_EnhancedMan_AAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -17765,7 +17780,7 @@
       "viewid": 8011,
       "storyID": 8011,
       "appearance": "8011_EnhancedMan_BAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -17811,7 +17826,7 @@
       "viewid": 8012,
       "storyID": 8012,
       "appearance": "8012_EnhancedMan_CAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "patternID": "8012",
       "level": 10,
       "classType": "TETH",
@@ -18091,7 +18106,7 @@
       "viewid": 8013,
       "storyID": 8013,
       "appearance": "8013_PinkShose_AAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -18191,7 +18206,7 @@
       "viewid": 8014,
       "storyID": 8014,
       "appearance": "8014_PinkShose_BAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -18291,7 +18306,7 @@
       "viewid": 8015,
       "storyID": 8015,
       "appearance": "8015_PinkShose_CAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "patternID": "8015",
       "level": 10,
       "classType": "TETH",
@@ -18486,7 +18501,7 @@
       "viewid": 8019,
       "storyID": 8019,
       "appearance": "8019_Villager_Rodion_AAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -18527,7 +18542,7 @@
       "viewid": 8020,
       "storyID": 8020,
       "appearance": "8020_Villager_Rodion_BAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -18568,7 +18583,7 @@
       "viewid": 8021,
       "storyID": 8021,
       "appearance": "8021_BabayagaSlave_AAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -18609,7 +18624,7 @@
       "viewid": 8022,
       "storyID": 8022,
       "appearance": "8022_BabayagaSlave_BAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "SMALL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",

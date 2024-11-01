@@ -4,7 +4,7 @@
       "id": 90140,
       "appearance": "90140_Euro_Mob_1Appearance",
       "unitKeywordList": [
-        "CLAN"
+        "CLAN", "SMALL"
       ],
       "associationList": [
         "YURODIVY"
@@ -152,7 +152,8 @@
       "id": 90141,
       "appearance": "90141_Euro_Mob_2Appearance",
       "unitKeywordList": [
-        "CLAN"
+        "CLAN",
+        "SMALL"
       ],
       "associationList": [
         "YURODIVY"
@@ -300,7 +301,8 @@
       "id": 91017,
       "appearance": "91017_Yuro_EliteAppearance",
       "unitKeywordList": [
-        "CLAN"
+        "CLAN",
+        "SMALL"
       ],
       "associationList": [
         "YURODIVY"
@@ -710,6 +712,9 @@
       "associationList": [
         "T_CORP"
       ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -855,6 +860,9 @@
       "appearance": "90143_TCorp_EliteAppearance",
       "associationList": [
         "T_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1005,6 +1013,9 @@
       "appearance": "90144_TCorp_EliteAppearance",
       "associationList": [
         "T_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [

@@ -4,7 +4,7 @@
       "id": 10901,
       "appearance": "10901_Rodion_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE"
+        "BASE_APPEARANCE", "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 9,
@@ -105,7 +105,7 @@
     {
       "id": 10902,
       "appearance": "10902_Rodion_BlackCloudAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLACK_CLOUD" ],
       "characterId": 9,
       "panicType": 9999,
@@ -205,6 +205,7 @@
     {
       "id": 10903,
       "appearance": "10903_Rodion_EpiAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 9,
       "panicType": 9999,
@@ -304,6 +305,7 @@
     {
       "id": 10904,
       "appearance": "10904_Rodion_NCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 9,
       "panicType": 9999,
@@ -403,7 +405,7 @@
     {
       "id": 10905,
       "appearance": "10905_Rodion_EliteFixerAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "TROUBLE_SHOOTER" ],
       "characterId": 9,
       "panicType": 9999,
@@ -503,7 +505,7 @@
     {
       "id": 10906,
       "appearance": "10906_Rodion_ZweiAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "ZWEI" ],
       "characterId": 9,
       "panicType": 9999,
@@ -602,7 +604,7 @@
     {
       "id": 10907,
       "appearance": "10907_Rodion_DieciAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "DIECI" ],
       "characterId": 9,
       "panicType": 9999,
@@ -711,7 +713,7 @@
     {
       "id": 10908,
       "appearance": "10908_Rodion_LiuAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "LIU" ],
       "characterId": 9,
       "panicType": 9999,
@@ -811,6 +813,7 @@
     {
       "id": 10909,
       "appearance": "10909_Rodion_TCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [
         "T_CORP"
       ],

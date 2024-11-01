@@ -518,9 +518,7 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "maxStack": 7,
-      "list": [
-        {}
-      ]
+      "list": []
     },
     {
       "id": "PhotoElectricity",
@@ -540,6 +538,96 @@
             "activeRound": 0,
             "value": 3,
             "limit" : 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "Coffin",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 10,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnREPerStack",
+          "value": 3,
+          "buffData": {
+            "buffKeyword": "AttackDmgUp",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 1,
+            "limit": 6
+          }
+        },
+        {
+          "ability": "MinSpeedAdderPerBuffStack",
+          "value": 4
+        },
+        {
+          "ability": "GiveBuffOnREPerStack",
+          "value": 5,
+          "buffData": {
+            "buffKeyword": "ParryingResultUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 1,
+            "limit": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "WildHunt",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "WildHunt",
+          "value": 3
+        },
+        {
+          "ability": "GetLowestSinStockOnDie",
+          "value": 1
+        },
+        {
+          "ability": "DoNotAffectAllyMpDownOnDie"
+        }
+      ]
+    },
+    {
+      "id": "NightPathfinding",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "DefAdder",
+          "value": -3
+        },
+        {
+          "ability": "AtkAdder",
+          "value": 3
+        },
+        {
+          "ability": "MinSpeedAdder",
+          "value": 1
+        },
+        {
+          "ability": "MaxSpeedAdder",
+          "value": 1
+        },
+        {
+          "ability": "NightPathfinding",
+          "value": -25,
+          "buffData": {
+            "buffKeyword": "Coffin",
+            "limit": 10
           }
         }
       ]

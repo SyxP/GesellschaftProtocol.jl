@@ -4,7 +4,7 @@
       "id": 11001,
       "appearance": "11001_Sinclair_BaseAppearance",
       "unitKeywordList": [
-                "BASE_APPEARANCE"
+                "BASE_APPEARANCE", "SMALL"
             ],
             "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 10,
@@ -105,7 +105,7 @@
     {
       "id": 11002,
       "appearance": "11002_Sinclair_SwordGroupAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 10,
       "panicType": 9999,
@@ -204,7 +204,7 @@
     {
       "id": 11003,
       "appearance": "11003_Sinclair_ZweiAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "ZWEI" ],
       "characterId": 10,
       "panicType": 9999,
@@ -303,7 +303,7 @@
     {
       "id": 11004,
       "appearance": "11004_Sinclair_MexicanAppearance",
-      "unitKeywordList": [ "CLAN", "BACK_STREET" ],
+      "unitKeywordList": [ "CLAN", "BACK_STREET", "SMALL" ],
       "associationList": [ "MARIACHI" ],
       "characterId": 10,
       "panicType": 9999,
@@ -401,6 +401,7 @@
     {
       "id": 11005,
       "appearance": "11005_Sinclair_NCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 10,
       "panicType": 9999,
@@ -499,6 +500,7 @@
     {
       "id": 11006,
       "appearance": "11006_Sinclair_TalismanAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "ATL" ],
       "characterId": 10,
       "panicType": 9999,
@@ -597,7 +599,7 @@
     {
       "id": 11007,
       "appearance": "11007_Sinclair_WorkshopWorkerAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "MOLAR" ],
       "characterId": 10,
       "panicType": 9999,
@@ -698,7 +700,7 @@
     {
       "id": 11008,
       "appearance": "11008_Sinclair_CinqAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "CINQ" ],
       "characterId": 10,
       "panicType": 9999,
@@ -797,7 +799,7 @@
     {
       "id": 11009,
       "appearance": "11009_Sinclair_PhilipAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "DAWN" ],
       "characterId": 10,
       "panicType": 9999,

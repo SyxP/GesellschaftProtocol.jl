@@ -5,7 +5,7 @@
             "nameID": 90004,
             "sdPortrait": 90004,
             "appearance": "90004_backstreet_slashmobAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -135,7 +135,7 @@
             "nameID": 90005,
             "sdPortrait": 90005,
             "appearance": "90005_backstreet_piercemobAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -265,7 +265,7 @@
             "nameID": 90006,
             "sdPortrait": 90006,
             "appearance": "90006_backstreet_hitmobAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -394,7 +394,7 @@
             "nameID": 90007,
             "sdPortrait": 90007,
             "appearance": "90007_backstreet_bossAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -531,7 +531,7 @@
             "nameID": 90008,
             "sdPortrait": 90008,
             "appearance": "90008_GCorp_Homeless_BaldAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "associationList": [
                 "G_CORP"
             ],
@@ -663,7 +663,7 @@
             "nameID": 90009,
             "sdPortrait": 90009,
             "appearance": "90009_GCorp_Homeless_BobAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -792,7 +792,7 @@
             "nameID": 90010,
             "sdPortrait": 90010,
             "appearance": "90010_GCorp_Homeless_ShortcutAppearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -925,7 +925,7 @@
             "nameID": 90101,
             "sdPortrait": 90101,
             "appearance": "90101_Gnome_GreenAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "SMALL" ],
             "slotWeightConditionList": [
                 "Default1"
             ],
@@ -1065,7 +1065,7 @@
             "nameID": 90102,
             "sdPortrait": 90102,
             "appearance": "90102_Gnome_RedAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "SMALL" ],
             "slotWeightConditionList": [
                 "Default1"
             ],
@@ -1205,7 +1205,7 @@
             "nameID": 90103,
             "sdPortrait": 90103,
             "appearance": "90103_Gnome_BlackAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "SMALL" ],
             "slotWeightConditionList": [
                 "Default1"
             ],
@@ -1345,7 +1345,7 @@
             "nameID": 90104,
             "sdPortrait": 90104,
             "appearance": "90104_Gnome_EliteAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "SMALL" ],
             "slotWeightConditionList": [
                 "Default1"
             ],
@@ -1489,7 +1489,7 @@
             "nameID": 90114,
             "sdPortrait": 90114,
             "appearance": "90114_TCrop_Gang_1Appearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -1632,7 +1632,7 @@
             "nameID": 90115,
             "sdPortrait": 90115,
             "appearance": "90115_TCrop_Gang_2Appearance",
-            "unitKeywordList": [ "BACK_STREET" ],
+            "unitKeywordList": [ "BACK_STREET", "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -1779,7 +1779,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "CLAN", "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY", "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -1929,7 +1929,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "CLAN", "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY", "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2079,7 +2079,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "CLAN", "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY", "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2231,7 +2231,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "CLAN", "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY", "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2384,7 +2384,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER", 
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2536,7 +2537,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2688,7 +2690,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2845,7 +2848,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER", 
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2996,7 +3000,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER", 
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -3147,7 +3152,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER", 
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -3303,7 +3309,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER", 
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -3456,7 +3463,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -3609,7 +3617,8 @@
             ],
             "unitKeywordList": [
                 "FIXER", 
-                "BUTLER"
+                "BUTLER",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -4014,6 +4023,7 @@
             "nameID": 90128,
             "sdPortrait": 90128,
             "appearance": "90128_Oufi_1Appearance",
+            "unitKeywordList": [ "SMALL" ],
             "associationList": [],
             "level": 3,
             "slotWeightConditionList": [
@@ -4158,6 +4168,7 @@
             "nameID": 90129,
             "sdPortrait": 90129,
             "appearance": "90129_Oufi_2Appearance",
+            "unitKeywordList": [ "SMALL" ],
             "associationList": [],
             "level": 3,
             "slotWeightConditionList": [
@@ -4302,6 +4313,7 @@
             "nameID": 90130,
             "sdPortrait": 90130,
             "appearance": "90130_Oufi_EliteAppearance",
+            "unitKeywordList": [ "SMALL" ],
             "associationList": [],
             "level": 3,
             "slotWeightConditionList": [
@@ -4419,8 +4431,9 @@
             "nameID": 90131,
             "sdPortrait": 90128,
             "appearance": "90131_Oufi_1_v1Appearance",
-            "unitKeywordList": [
-                "CLAN"
+            "unitKeywordList": [ 
+                "CLAN", 
+                "SMALL" 
             ],
             "associationList": [
                 "RING_FINGER"
@@ -4571,7 +4584,8 @@
             "sdPortrait": 90129,
             "appearance": "90132_Oufi_2_v1Appearance",
             "unitKeywordList": [
-                "CLAN"
+                "CLAN",
+                "SMALL"
             ],
             "associationList": [
                 "RING_FINGER"
@@ -4722,7 +4736,7 @@
             "sdPortrait": 90130,
             "appearance": "90134_Oufi_Elite_v2Appearance",
             "unitKeywordList": [
-                "CLAN"
+                "CLAN", "SMALL"
             ],
             "associationList": [
                 "RING_FINGER"
@@ -5129,7 +5143,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "CLAN", "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY", "SMALL"
             ],
             "nameID": 90116,
             "sdPortrait": 90116,
@@ -5279,7 +5293,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "CLAN", "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY", "SMALL"
             ],
             "nameID": 90117,
             "sdPortrait": 90117,
@@ -5428,6 +5442,7 @@
             "sdPortrait": 91015,
             "appearance": "91015_HindleyAppearance",
             "associationList": [ "WUTHERING_HEIGHTS" ],
+            "unitKeywordList": [ "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -5836,7 +5851,8 @@
             "unitKeywordList": [
                 "FIXER", 
                 "BUTLER",
-                "GLASS_ENEMY"
+                "GLASS_ENEMY",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -6248,7 +6264,8 @@
                 "WILD_HUNT"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "GLASS_ENEMY",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -6655,7 +6672,8 @@
                 "LINTON", "WILD_HUNT"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "GLASS_ENEMY",
+                "SMALL"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -6978,7 +6996,7 @@
             "nameID": 90083,
             "sdPortrait": 90083,
             "appearance": "90083_FishCreatureAppearance",
-            "unitKeywordList": [ "MERMAID", "ON_THE_LAKE" ],
+            "unitKeywordList": [ "MERMAID", "ON_THE_LAKE", "SMALL" ],
             "level": 2,
             "slotWeightConditionList": [
               "Default1"
@@ -7096,7 +7114,7 @@
             "nameID": 91011,
             "sdPortrait": 91011,
             "appearance": "91011_FishCreature_EliteAppearance",
-            "unitKeywordList": [ "MERMAID", "ON_THE_LAKE" ],
+            "unitKeywordList": [ "MERMAID", "ON_THE_LAKE", "REGULAR" ],
             "level": 2,
             "slotWeightConditionList": [
               "Default1"
@@ -7220,7 +7238,7 @@
             "nameID": 90140,
             "appearance": "90140_Euro_Mob_1Appearance",
             "unitKeywordList": [
-              "CLAN"
+              "CLAN", "SMALL"
             ],
             "associationList": [
               "YURODIVY"
@@ -7370,7 +7388,8 @@
             "nameID": 90141,
             "appearance": "90141_Euro_Mob_2Appearance",
             "unitKeywordList": [
-              "CLAN"
+              "CLAN",
+              "SMALL"
             ],
             "associationList": [
               "YURODIVY"
@@ -7520,7 +7539,8 @@
             "nameID": 91017,
             "appearance": "91017_Yuro_EliteAppearance",
             "unitKeywordList": [
-              "CLAN"
+              "CLAN",
+              "SMALL"
             ],
             "associationList": [
               "YURODIVY"
@@ -7932,6 +7952,9 @@
             "associationList": [
               "T_CORP"
             ],
+            "unitKeywordList": [
+              "SMALL"
+            ],
             "level": 3,
             "slotWeightConditionList": [
               "Default1"
@@ -8079,6 +8102,9 @@
             "appearance": "90143_TCorp_EliteAppearance",
             "associationList": [
               "T_CORP"
+            ],
+            "unitKeywordList": [
+              "SMALL"
             ],
             "level": 3,
             "slotWeightConditionList": [
@@ -8231,6 +8257,9 @@
             "appearance": "90144_TCorp_EliteAppearance",
             "associationList": [
               "T_CORP"
+            ],
+            "unitKeywordList": [
+              "SMALL"
             ],
             "level": 3,
             "slotWeightConditionList": [

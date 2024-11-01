@@ -3,7 +3,7 @@
     {
       "id": 90114,
       "appearance": "90114_TCrop_Gang_1Appearance",
-      "unitKeywordList": [ "BACK_STREET" ],
+      "unitKeywordList": [ "BACK_STREET", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -146,7 +146,7 @@
     {
       "id": 90115,
       "appearance": "90115_TCrop_Gang_2Appearance",
-      "unitKeywordList": [ "BACK_STREET" ],
+      "unitKeywordList": [ "BACK_STREET", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -290,7 +290,7 @@
       "id": 90116,
       "appearance": "90116_DeadRabbits_1Appearance",
       "associationList": [ "DEAD_RABBITS" ],
-      "unitKeywordList": [ "CLAN", "GLASS_ENEMY" ],
+      "unitKeywordList": [ "CLAN", "GLASS_ENEMY", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -434,7 +434,7 @@
       "id": 90117,
       "appearance": "90117_DeadRabbits_2Appearance",
       "associationList": [ "DEAD_RABBITS" ],
-      "unitKeywordList": [ "CLAN", "GLASS_ENEMY" ],
+      "unitKeywordList": [ "CLAN", "GLASS_ENEMY", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -578,7 +578,7 @@
       "id": 90118,
       "appearance": "90118_DeadRabbits_RedEye_1Appearance",
       "associationList": [ "DEAD_RABBITS" ],
-      "unitKeywordList": [ "CLAN", "GLASS_ENEMY" ],
+      "unitKeywordList": [ "CLAN", "GLASS_ENEMY", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -724,7 +724,7 @@
       "id": 90119,
       "appearance": "90119_DeadRabbits_RedEye_2Appearance",
       "associationList": [ "DEAD_RABBITS" ],
-      "unitKeywordList": [ "CLAN", "GLASS_ENEMY" ],
+      "unitKeywordList": [ "CLAN", "GLASS_ENEMY", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -870,7 +870,7 @@
       "id": 90120,
       "appearance": "90120_Maid_1Appearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -1015,7 +1015,7 @@
       "id": 90121,
       "appearance": "90121_Maid_2Appearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -1160,7 +1160,7 @@
       "id": 90122,
       "appearance": "90122_Maid_3Appearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -1310,7 +1310,7 @@
       "id": 90123,
       "appearance": "90123_Butler_1Appearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -1454,7 +1454,7 @@
       "id": 90124,
       "appearance": "90124_Butler_2Appearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -1598,7 +1598,7 @@
       "id": 90125,
       "appearance": "90125_Butler_3Appearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -1893,7 +1893,7 @@
       "id": 90127,
       "appearance": "90127_Butler_W_2Appearance",
       "associationList": [ "WUTHERING_HEIGHTS" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"
@@ -2039,7 +2039,7 @@
       "id": 91014,
       "appearance": "91014_JosephineAppearance",
       "associationList": [ "WUTHERING_HEIGHTS" ],
-      "unitKeywordList": [ "FIXER", "BUTLER" ],
+      "unitKeywordList": [ "FIXER", "BUTLER", "SMALL" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"

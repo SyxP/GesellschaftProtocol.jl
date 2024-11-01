@@ -6,6 +6,7 @@
       "associationList": [
         
       ],
+      "unitKeywordList": [ "REGULAR" ],
       "phaseIDList": [
         8278
       ],
@@ -492,6 +493,7 @@
       "associationList": [
 
       ],
+      "unitKeywordList": [ "REGULAR" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "startActionSlotNum": 5,
@@ -1092,7 +1094,7 @@
       "id": 8279,
       "appearance": "8279_TCorp_Brain_MonAppearance",
       "unitKeywordList": [
-        "MACHINE"
+        "MACHINE", "REGULAR"
       ],
       "level": 5,
       "classType": "TETH",
@@ -1137,6 +1139,9 @@
       "attributeType": "SHAMROCK",
       "associationList": [
         "T_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1221,6 +1226,9 @@
       "attributeType": "SHAMROCK",
       "associationList": [
         "T_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1310,6 +1318,9 @@
       "associationList": [
         "T_CORP"
       ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -1395,7 +1406,7 @@
       "appearance": "90140_Euro_Mob_1Appearance",
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [
         "YURODIVY"
       ],
@@ -1478,7 +1489,7 @@
       "appearance": "90141_Euro_Mob_2Appearance",
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [
         "YURODIVY"
       ],
@@ -1561,7 +1572,7 @@
       "appearance": "91017_Yuro_EliteAppearance",
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [
         "YURODIVY"
       ],

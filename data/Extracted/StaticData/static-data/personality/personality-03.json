@@ -4,7 +4,7 @@
       "id": 10301,
       "appearance": "10301_Donquixote_BaseAppearance",
       "unitKeywordList": [
-                "BASE_APPEARANCE"
+                "BASE_APPEARANCE", "SMALL"
             ],
             "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 3,
@@ -105,6 +105,7 @@
     {
       "id": 10302,
       "appearance": "10302_Donquixote_WAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "W_CORP" ],
       "characterId": 3,
       "panicType": 9999,
@@ -204,7 +205,7 @@
     {
       "id": 10303,
       "appearance": "10303_Donquixote_ShiAssoAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "SHI" ],
       "characterId": 3,
       "panicType": 9999,
@@ -303,6 +304,7 @@
     {
       "id": 10304,
       "appearance": "10304_Donquixote_NCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 3,
       "panicType": 9999,
@@ -411,7 +413,7 @@
     {
       "id": 10305,
       "appearance": "10305_Donquixote_CinqAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "CINQ" ],
       "characterId": 3,
       "panicType": 9999,
@@ -521,7 +523,7 @@
     {
       "id": 10306,
       "appearance": "10306_Donquixote_MiddleFingerAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "MIDDLE_FINGER" ],
       "characterId": 3,
       "panicType": 9999,
@@ -621,7 +623,7 @@
     {
       "id": 10307,
       "appearance": "10307_Donquixote_MeatLanternAppearance",
-      "unitKeywordList": [ "LOBOTOMY_HEAD" ],
+      "unitKeywordList": [ "LOBOTOMY_HEAD", "SMALL" ],
       "associationList": [ "L_CORP" ],
       "characterId": 3,
       "panicType": 9999,
@@ -721,7 +723,7 @@
     {
       "id": 10308,
       "appearance": "10308_Donquixote_SwordGroupAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 3,
       "panicType": 9999,
@@ -822,6 +824,7 @@
     {
       "id": 10309,
       "appearance": "10309_Donquixote_TCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [
         "T_CORP"
       ],

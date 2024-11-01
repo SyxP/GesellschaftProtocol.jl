@@ -4,7 +4,7 @@
       "id": 10501,
       "appearance": "10501_Meursault_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE"
+        "BASE_APPEARANCE", "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 5,
@@ -104,7 +104,7 @@
     {
       "id": 10502,
       "appearance": "10502_Meursault_LiuAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "LIU" ],
       "characterId": 5,
       "panicType": 9999,
@@ -204,6 +204,7 @@
     {
       "id": 10503,
       "appearance": "10503_Meursault_WCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "W_CORP" ],
       "characterId": 5,
       "panicType": 9999,
@@ -302,6 +303,7 @@
     {
       "id": 10504,
       "appearance": "10504_Meursault_NCorpGuidoAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 5,
       "panicType": 9999,
@@ -399,7 +401,7 @@
     {
       "id": 10505,
       "appearance": "10505_Meursault_HammerFixerAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "TROUBLE_SHOOTER" ],
       "characterId": 5,
       "panicType": 9999,
@@ -498,6 +500,7 @@
     {
       "id": 10506,
       "appearance": "10506_Meursault_RCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "R_CORP" ],
       "characterId": 5,
       "panicType": 9999,
@@ -595,7 +598,7 @@
     {
       "id": 10507,
       "appearance": "10507_Meursault_MiddleFingerAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "MIDDLE_FINGER" ],
       "characterId": 5,
       "panicType": 9999,
@@ -694,7 +697,7 @@
     {
       "id": 10508,
       "appearance": "10508_Meursault_KimSatGatAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 5,
       "panicType": 9999,
@@ -798,7 +801,7 @@
     {
       "id": 10509,
       "appearance": "10509_Meursault_DeadrabbitsAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "DEAD_RABBITS" ],
       "characterId": 5,
       "panicType": 9999,
@@ -897,7 +900,7 @@
     {
       "id": 10510,
       "appearance": "10510_Meursault_DieciAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "DIECI" ],
       "characterId": 5,
       "panicType": 9999,

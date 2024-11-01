@@ -3,6 +3,9 @@
     {
       "id": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [],
       "level": 3,
       "slotWeightConditionList": [
@@ -121,6 +124,9 @@
     {
       "id": 90146,
       "appearance": "90146_Passenger_Blood_BAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [],
       "level": 3,
       "slotWeightConditionList": [
@@ -239,6 +245,9 @@
     {
       "id": 90147,
       "appearance": "90147_Passenger_Blood_CAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [],
       "level": 3,
       "slotWeightConditionList": [
@@ -359,6 +368,9 @@
       "nameID": 90145,
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [],
       "level": 3,
       "slotWeightConditionList": [
@@ -479,6 +491,9 @@
       "nameID": 90146,
       "sdPortrait": 90146,
       "appearance": "90146_Passenger_Blood_BAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [],
       "level": 3,
       "slotWeightConditionList": [
@@ -599,6 +614,9 @@
       "nameID": 90147,
       "sdPortrait": 90147,
       "appearance": "90147_Passenger_Blood_CAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [],
       "level": 3,
       "slotWeightConditionList": [
@@ -719,7 +737,7 @@
       "appearance": "90151_CyborgFixer_Blood_SpearAppearance",
       "associationList": [ "MULTI_CRACK" ],
       "unitScriptID": "MultiCrack_Enemy",
-      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM" ],
+      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM", "SMALL" ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -841,7 +859,7 @@
       "appearance": "91018_CyborgFixer_Blood_SwordAppearance",
       "associationList": [ "MULTI_CRACK" ],
       "unitScriptID": "MultiCrack_Enemy",
-      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM" ],
+      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM", "SMALL" ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -1278,6 +1296,9 @@
       "associationList": [
           "W_CORP"
       ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
           "Default1"
@@ -1396,6 +1417,9 @@
   {
       "id": 90149,
       "appearance": "90149_WCorp_Blood_DuelswordAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [
           "W_CORP"
       ],
@@ -1518,7 +1542,10 @@
       "id": 90150,
       "appearance": "90150_WCorp_Blood_SpearAppearance",
       "associationList": [
-          "W_CORP"
+        "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1642,7 +1669,7 @@
       "appearance": "90151_CyborgFixer_Blood_SpearAppearance",
       "associationList": [ "MULTI_CRACK" ],
       "unitScriptID": "MultiCrack_Enemy",
-      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM" ],
+      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM", "SMALL" ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -1766,7 +1793,7 @@
       "appearance": "91018_CyborgFixer_Blood_SwordAppearance",
       "associationList": [ "MULTI_CRACK" ],
       "unitScriptID": "MultiCrack_Enemy",
-      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM" ],
+      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM", "SMALL" ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -2205,6 +2232,9 @@
       "associationList": [
           "W_CORP"
       ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
           "Default1"
@@ -2325,6 +2355,9 @@
       "nameID": 90149,
       "sdPortrait": 90149,
       "appearance": "90149_WCorp_Blood_DuelswordAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "associationList": [
           "W_CORP"
       ],
@@ -2449,7 +2482,10 @@
       "sdPortrait": 90150,
       "appearance": "90150_WCorp_Blood_SpearAppearance",
       "associationList": [
-          "W_CORP"
+        "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [

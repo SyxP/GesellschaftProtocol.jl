@@ -4,7 +4,7 @@
       "id": 11101,
       "appearance": "11101_Outis_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE"
+        "BASE_APPEARANCE", "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 11,
@@ -105,7 +105,7 @@
     {
       "id": 11102,
       "appearance": "11102_Outis_SwordGroupAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "defenseSkillIDList": [
         1110204
@@ -205,6 +205,7 @@
     {
       "id": 11103,
       "appearance": "11103_Outis_GCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "G_CORP" ],
       "characterId": 11,
       "panicType": 9999,
@@ -303,7 +304,7 @@
     {
       "id": 11104,
       "appearance": "11104_Outis_SevenAssoAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "SEVEN" ],
       "characterId": 11,
       "panicType": 9999,
@@ -401,7 +402,7 @@
     {
       "id": 11105,
       "appearance": "11105_Outis_OlgaAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "MOLAR" ],
       "characterId": 11,
       "panicType": 9999,
@@ -502,7 +503,7 @@
     {
       "id": 11106,
       "appearance": "11106_Outis_CinqAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "CINQ" ],
       "characterId": 11,
       "panicType": 9999,
@@ -600,7 +601,7 @@
     {
       "id": 11107,
       "appearance": "11107_Outis_DerFreischutzAppearance",
-      "unitKeywordList": [ "LOBOTOMY_HEAD" ],
+      "unitKeywordList": [ "LOBOTOMY_HEAD", "SMALL" ],
       "associationList": [ "L_CORP" ],
       "characterId": 11,
       "panicType": 9999,
@@ -713,7 +714,7 @@
       "id": 11108,
       "appearance": "11108_Outis_JosephineAppearance",
       "associationList": [ "WUTHERING_HEIGHTS" ],
-      "unitKeywordList": [  "FIXER", "BUTLER" ],
+      "unitKeywordList": [  "FIXER", "BUTLER", "SMALL" ],
       "characterId": 11,
       "panicType": 9999,
       "season": 4,
@@ -818,7 +819,7 @@
     {
       "id": 11109,
       "appearance": "11109_Outis_RingFingerAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "RING_FINGER" ],
       "characterId": 11,
       "panicType": 9999,
@@ -918,6 +919,7 @@
     {
       "id": 11110,
       "appearance": "11110_Outis_WCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "W_CORP" ],
       "characterId": 11,
       "panicType": 9999,

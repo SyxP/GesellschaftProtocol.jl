@@ -3,6 +3,7 @@
     {
       "id": 8263,
       "appearance": "8263_FairyFestivalAppearance",
+      "unitKeywordList": [ "LARGE" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "hp": {
@@ -54,6 +55,7 @@
     {
       "id": 8264,
       "appearance": "8264_FairyFestivalAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "hp": {
@@ -155,6 +157,7 @@
       "nameID": 8263,
       "sdPortrait": 8263,
       "appearance": "8263_FairyFestivalAppearance",
+      "unitKeywordList": [ "LARGE" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "hp": {
@@ -217,6 +220,7 @@
       "nameID": 8264,
       "sdPortrait": 8264,
       "appearance": "8264_FairyFestivalAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "hp": {

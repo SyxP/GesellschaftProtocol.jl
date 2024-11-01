@@ -4,7 +4,7 @@
       "id": 10401,
       "appearance": "10401_Ryoshu_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE"
+        "BASE_APPEARANCE", "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 4,
@@ -105,7 +105,7 @@
     {
       "id": 10402,
       "appearance": "10402_Ryoshu_SevenAssoAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "SEVEN" ],
       "characterId": 4,
       "panicType": 9999,
@@ -205,7 +205,7 @@
     {
       "id": 10403,
       "appearance": "10403_Ryoshu_BlackCloudAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLACK_CLOUD" ],
       "characterId": 4,
       "panicType": 9999,
@@ -305,7 +305,7 @@
     {
       "id": 10404,
       "appearance": "10404_Ryoshu_PierreAppearance",
-      "unitKeywordList": [ "CLAN", "BACK_STREET" ],
+      "unitKeywordList": [ "CLAN", "BACK_STREET", "SMALL" ],
       "associationList": [ "BACKSTREET_COOK" ],
       "characterId": 4,
       "panicType": 9999,
@@ -406,6 +406,7 @@
     {
       "id": 10405,
       "appearance": "10405_Ryoshu_WCorpAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "W_CORP" ],
       "characterId": 4,
       "panicType": 9999,
@@ -505,6 +506,7 @@
     {
       "id": 10406,
       "appearance": "10406_Ryoshu_LCCBAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 4,
       "panicType": 9999,
@@ -614,7 +616,7 @@
     {
       "id": 10407,
       "appearance": "10407_Ryoshu_LiuAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "LIU" ],
       "characterId": 4,
       "panicType": 9999,
@@ -715,7 +717,7 @@
       "id": 10408,
       "appearance": "10408_Ryoshu_NellyAppearance",
       "associationList": [ "LINTON" ],
-      "unitKeywordList": [  "FIXER", "BUTLER" ],
+      "unitKeywordList": [  "FIXER", "BUTLER", "SMALL" ],
       "characterId": 4,
       "panicType": 9999,
       "season": 4,
@@ -814,7 +816,7 @@
     {
       "id": 10409,
       "appearance": "10409_Ryoshu_YuroAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "YURODIVY" ],
       "characterId": 4,
       "panicType": 9999,

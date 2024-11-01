@@ -4,7 +4,7 @@
       "id": 10201,
       "appearance": "10201_Faust_BaseAppearance",
       "unitKeywordList": [
-        "BASE_APPEARANCE"
+        "BASE_APPEARANCE", "SMALL"
       ],
       "associationList": [ "LIMBUS_COMPANY" ],
       "characterId": 2,
@@ -106,6 +106,7 @@
       "id": 10202,
       "appearance": "10202_Faust_WAppearance",
       "associationList": [ "W_CORP" ],
+      "unitKeywordList": [ "SMALL" ],
       "characterId": 2,
       "panicType": 9999,
       "season": 0,
@@ -203,7 +204,7 @@
     {
       "id": 10203,
       "appearance": "10203_Faust_YuriAppearance",
-      "unitKeywordList": [ "FIXER", "LOBOTOMY_BRANCH" ],
+      "unitKeywordList": [ "FIXER", "LOBOTOMY_BRANCH", "SMALL" ],
       "associationList": [ "L_CORP" ],
       "characterId": 2,
       "panicType": 9999,
@@ -303,6 +304,7 @@
     {
       "id": 10204,
       "appearance": "10204_Faust_CromerAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 2,
       "panicType": 9999,
@@ -402,7 +404,7 @@
     {
       "id": 10205,
       "appearance": "10205_Faust_ZweiAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "ZWEI" ],
       "characterId": 2,
       "panicType": 9999,
@@ -501,7 +503,7 @@
     {
       "id": 10206,
       "appearance": "10206_Faust_SevenAppearance",
-      "unitKeywordList": [ "FIXER" ],
+      "unitKeywordList": [ "FIXER", "SMALL" ],
       "associationList": [ "SEVEN" ],
       "characterId": 2,
       "panicType": 9999,
@@ -601,7 +603,7 @@
     {
       "id": 10207,
       "appearance": "10207_Faust_ForsakenMurderer_LOBAppearance",
-      "unitKeywordList": [ "LOBOTOMY_HEAD" ],
+      "unitKeywordList": [ "LOBOTOMY_HEAD", "SMALL" ],
       "associationList": [ "L_CORP" ],
       "characterId": 2,
       "panicType": 9999,
@@ -701,7 +703,7 @@
     {
       "id": 10208,
       "appearance": "10208_Faust_SwordGroupAppearance",
-      "unitKeywordList": [ "CLAN" ],
+      "unitKeywordList": [ "CLAN", "SMALL" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 2,
       "panicType": 9999,
@@ -803,7 +805,7 @@
       "id": 10209,
       "appearance": "10209_Faust_ButlerAppearance",
       "associationList": [ "WUTHERING_HEIGHTS" ],
-      "unitKeywordList": [  "FIXER", "BUTLER" ],
+      "unitKeywordList": [  "FIXER", "BUTLER", "SMALL" ],
       "characterId": 2,
       "panicType": 9999,
       "season": 4,
@@ -902,7 +904,7 @@
     {
       "id": 10210,
       "appearance": "10210_Faust_CyborgFixerAppearance",
-      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM" ],
+      "unitKeywordList": [ "FIXER", "MACHINE_BOUND_ORGANISM", "SMALL" ],
       "associationList": [ "MULTI_CRACK" ],
       "characterId": 2,
       "panicType": 9999,

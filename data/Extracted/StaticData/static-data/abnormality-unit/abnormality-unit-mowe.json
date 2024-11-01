@@ -3,6 +3,7 @@
     {
       "id": 8350,
       "appearance": "8350_CassetteAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -782,7 +783,8 @@
       ],
       "unitKeywordList": [
         "FIXER",
-        "MACHINE_BOUND_ORGANISM"
+        "MACHINE_BOUND_ORGANISM",
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -840,7 +842,8 @@
       ],
       "unitKeywordList": [
         "FIXER",
-        "MACHINE_BOUND_ORGANISM"
+        "MACHINE_BOUND_ORGANISM",
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1211,8 +1214,11 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90150,
       "appearance": "90150_WCorp_Blood_SpearAppearance",
-      "unitKeywordList": [
+      "associationList": [
         "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1264,6 +1270,9 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -1319,7 +1328,9 @@
         "MULTI_CRACK"
       ],
       "unitKeywordList": [
-        "MACHINE_BOUND_ORGANISM"
+        "FIXER",
+        "MACHINE_BOUND_ORGANISM",
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1377,7 +1388,9 @@
         "MULTI_CRACK"
       ],
       "unitKeywordList": [
-        "MACHINE_BOUND_ORGANISM"
+        "FIXER",
+        "MACHINE_BOUND_ORGANISM",
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1750,8 +1763,11 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90150,
       "appearance": "90150_WCorp_Blood_SpearAppearance",
-      "unitKeywordList": [
+      "associationList": [
         "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -1804,6 +1820,9 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -1852,6 +1871,7 @@
       "sdPortrait": 8350,
       "nameID": 8350,
       "appearance": "8350_CassetteAppearance",
+      "unitKeywordList": [ "SMALL" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "hp": {
@@ -2632,7 +2652,9 @@
         "MULTI_CRACK"
       ],
       "unitKeywordList": [
-        "MACHINE_BOUND_ORGANISM"
+        "FIXER",
+        "MACHINE_BOUND_ORGANISM",
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -2691,7 +2713,9 @@
         "MULTI_CRACK"
       ],
       "unitKeywordList": [
-        "MACHINE_BOUND_ORGANISM"
+        "FIXER",
+        "MACHINE_BOUND_ORGANISM",
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -3064,8 +3088,11 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90150,
       "appearance": "90150_WCorp_Blood_SpearAppearance",
-      "unitKeywordList": [
+      "associationList": [
         "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
       ],
       "level": 3,
       "slotWeightConditionList": [
@@ -3119,6 +3146,9 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90145,
       "appearance": "90145_Passenger_Blood_AAppearance",
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -3168,6 +3198,12 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90148,
       "appearance": "90148_WCorp_Blood_AxeAppearance",
+      "associationList": [
+          "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -3218,6 +3254,12 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90149,
       "appearance": "90149_WCorp_Blood_DuelswordAppearance",
+      "associationList": [
+          "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"
@@ -3269,6 +3311,12 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90150,
       "appearance": "90150_WCorp_Blood_SpearAppearance",
+      "associationList": [
+        "W_CORP"
+      ],
+      "unitKeywordList": [
+        "SMALL"
+      ],
       "level": 3,
       "slotWeightConditionList": [
         "Default1"

@@ -110,6 +110,15 @@
       ]
     },
     {
+      "id": "WanderingFootsteps",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
       "id": "Switch_Vibration",
       "buffClass": "TypoOnlyBuff",
       "buffType": "Neutral",
