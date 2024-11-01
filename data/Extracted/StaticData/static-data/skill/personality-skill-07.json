@@ -1118,6 +1118,7 @@
             {
               "operatorType": "ADD",
               "scale": 4,
+              "cutsceneStart": true,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveAdditionalDmgOnSuccessAttackTargetHead10"

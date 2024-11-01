@@ -1127,6 +1127,7 @@
               "operatorType": "ADD",
               "scale": 2,
               "actionIndex": 3,
+              "cutsceneStart": true,
               "abilityScriptList": [
                 {
                   "scriptName": "DmgUpByBuff",

@@ -15,9 +15,10 @@
       ]
     },
     {
-      "bannerType": "attendance_rewards",
+      "bannerType": "event_banner",
       "resourceIdList": [
-        "banner_event"
+        "banner_event",
+        "banner_april_event_story"
       ]
     }
   ]

@@ -152,6 +152,85 @@
       ],
       "awakeningSkillId": 2030211,
       "corrosionSkillId": 2030221
+    },
+    {
+      "id": 20303,
+      "characterId": 3,
+      "egoType": "HE",
+      "egoClass": 2,
+      "season": 0,
+      "skillTier": 3,
+      "attributeResistList": [
+        {
+          "type": "CRIMSON",
+          "value": 1
+        },
+        {
+          "type": "SCARLET",
+          "value": 1
+        },
+        {
+          "type": "AMBER",
+          "value": 2
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 2
+        },
+        {
+          "type": "AZURE",
+          "value": 1
+        },
+        {
+          "type": "INDIGO",
+          "value": 0.75
+        },
+        {
+          "type": "VIOLET",
+          "value": 0.5
+        },
+        {
+          "type": "WHITE",
+          "value": 2
+        },
+        {
+          "type": "BLACK",
+          "value": 2
+        }
+      ],
+      "requirementList": [
+        {
+          "attributeType": "CRIMSON",
+          "num": 1
+        },
+        {
+          "attributeType": "AZURE",
+          "num": 2
+        },
+        {
+          "attributeType": "VIOLET",
+          "num": 2
+        }
+      ],
+      "corrosionSectionList": [
+        {
+          "section": 0.5,
+          "probability": 0.25
+        },
+        {
+          "section": 0.25,
+          "probability": 0.75
+        },
+        {
+          "section": 0,
+          "probability": 1.0
+        }
+      ],
+      "awakeningPassiveList": [
+        2030311
+      ],
+      "awakeningSkillId": 2030311,
+      "corrosionSkillId": 2030321
     }
   ]
 }

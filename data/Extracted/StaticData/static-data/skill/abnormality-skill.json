@@ -5265,8 +5265,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "skillTargetType": "FRONT",
           "abilityScriptList": [
             {
@@ -5309,8 +5309,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -5353,8 +5353,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "skillTargetType": "FRONT",
           "abilityScriptList": [
             {
@@ -5412,8 +5412,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "skillTargetType": "FRONT",
           "abilityScriptList": [
             {
@@ -5457,8 +5457,8 @@
           "targetNum": 1,
           "range": 999,
           "defaultValue": 15,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -5511,8 +5511,8 @@
           "targetNum": 5,
           "range": 999,
           "defaultValue": 15,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {

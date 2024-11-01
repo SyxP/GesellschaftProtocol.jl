@@ -15,34 +15,18 @@
         "subChapterId": 102,
         "nodeId": 10212
       },
-      "chanceReward": {
-        "acquireExp": 40,
-        "acquireTotalExpForPersonality": 0,
-        "rewards": [
-          {
-            "id": 211,
-            "num": 8,
-            "type": "ITEM"
-          },
-          {
-            "id": 212,
-            "num": 8,
-            "type": "ITEM"
-          }
-        ]
-      },
       "normalReward": {
         "acquireExp": 40,
         "acquireTotalExpForPersonality": 0,
         "rewards": [
           {
             "id": 211,
-            "num": 4,
+            "num": 6,
             "type": "ITEM"
           },
           {
             "id": 212,
-            "num": 6,
+            "num": 7,
             "type": "ITEM"
           }
         ]
@@ -63,34 +47,18 @@
         "subChapterId": 102,
         "nodeId": 10219
       },
-      "chanceReward": {
-        "acquireExp": 40,
-        "acquireTotalExpForPersonality": 0,
-        "rewards": [
-          {
-            "id": 212,
-            "num": 6,
-            "type": "ITEM"
-          },
-          {
-            "id": 213,
-            "num": 3,
-            "type": "ITEM"
-          }
-        ]
-      },
       "normalReward": {
         "acquireExp": 40,
         "acquireTotalExpForPersonality": 0,
         "rewards": [
           {
             "id": 212,
-            "num": 4,
+            "num": 3,
             "type": "ITEM"
           },
           {
             "id": 213,
-            "num": 2,
+            "num": 3,
             "type": "ITEM"
           }
         ]
@@ -111,34 +79,18 @@
         "subChapterId": 103,
         "nodeId": 10316
       },
-      "chanceReward": {
-        "acquireExp": 40,
-        "acquireTotalExpForPersonality": 0,
-        "rewards": [
-          {
-            "id": 212,
-            "num": 5,
-            "type": "ITEM"
-          },
-          {
-            "id": 213,
-            "num": 5,
-            "type": "ITEM"
-          }
-        ]
-      },
       "normalReward": {
         "acquireExp": 40,
         "acquireTotalExpForPersonality": 0,
         "rewards": [
           {
             "id": 212,
-            "num": 3,
+            "num": 4,
             "type": "ITEM"
           },
           {
             "id": 213,
-            "num": 3,
+            "num": 4,
             "type": "ITEM"
           }
         ]
