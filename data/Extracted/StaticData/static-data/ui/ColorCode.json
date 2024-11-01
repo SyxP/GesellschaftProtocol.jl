@@ -95,6 +95,18 @@
     {
       "id": "DefeatDuel",
       "color": "#e30000"
+    },
+    {
+      "id": "EndSkillHead",
+      "color": "#ff59c2"
+    },
+    {
+      "id": "CriticalEndSkill",
+      "color": "#ff59c2"
+    },
+    {
+      "id": "EndSkillTail",
+      "color": "#cb0080"
     }
   ]
 }

@@ -3,6 +3,8 @@
     "subChapterId": -1,
     "stageMapPosZ": -2000.0,
     "stageNodeZoomAnimationPivotX": 0.35,
+    "upperStageNodeZoomAnimationPivotY": 0.55,
+    "lowerStageNodeZoomAnimationPivotY": 0.4,
     "stageIconSlotScale": 0.5,
     "selectedIconScale": 1.0
   },
@@ -11,6 +13,8 @@
       "subChapterId": 104,
       "stageMapPosZ": 0.0,
       "stageNodeZoomAnimationPivotX": 0.275,
+      "upperStageNodeZoomAnimationPivotY": 0.55,
+      "lowerStageNodeZoomAnimationPivotY": 0.4,
       "stageIconSlotScale": 0.75,
       "selectedIconScale": 1.25,
       "boundarySetting": {
@@ -67,6 +71,15 @@
           }
         ]
       }
+    },
+    {
+      "subChapterId": 9104,
+      "stageMapPosZ": 0,
+      "stageNodeZoomAnimationPivotX": 0.29,
+      "upperStageNodeZoomAnimationPivotY": 0.535,
+      "lowerStageNodeZoomAnimationPivotY": 0.4,
+      "stageIconSlotScale": 0.75,
+      "selectedIconScale": 1.25
     }
   ]
 }

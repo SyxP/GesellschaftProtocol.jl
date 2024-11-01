@@ -18,7 +18,8 @@
       "fileList": [
         "abnormality-part",
         "abnormality-mirror-part",
-        "abnormality-refraction-part"
+        "abnormality-refraction-part",
+        "abnormality-part91-4"
       ]
     },
     {
@@ -26,7 +27,8 @@
       "fileList": [
         "abnormality-unit",
         "abnormality-mirror-unit",
-        "abnormality-refraction-unit"
+        "abnormality-refraction-unit",
+        "abnormality-unit91-4"
       ]
     },
     {
@@ -94,7 +96,8 @@
     {
       "dataClass": "enemy",
       "fileList": [
-        "enemy"
+        "enemy",
+        "enemy91-4"
       ]
     },
     {
@@ -116,7 +119,9 @@
         "gacha-121",
         "gacha-122",
         "gacha-123",
-        "gacha-124"
+        "gacha-124",
+        "gacha-125",
+        "gacha-126"
       ]
     },
     {
@@ -129,7 +134,8 @@
         "item-400-consumablebox",
         "item-1100-season-randompackage",
         "item-1200-season-optionalpackage",
-        "item-piece"
+        "item-piece",
+        "item-20000-event"
       ]
     },
     {
@@ -178,6 +184,7 @@
       "dataClass": "skill",
       "fileList": [
         "abnormality-skill",
+        "abnormality-skill91-4",
         "abnormality-refraction-skill",
         "abnormality-mirror-skill",
         "ego-skill-1",
@@ -205,7 +212,8 @@
         "personality-skill-09",
         "personality-skill-10",
         "personality-skill-11",
-        "personality-skill-12"
+        "personality-skill-12",
+        "enemy-skill91-4"
       ]
     },
     {
@@ -215,6 +223,7 @@
         "storybattle1-2",
         "storybattle1-3",
         "storybattle91-3",
+        "storybattle91-4",
         "storybattle1-4",
         "stage_Test",
         "stage_Tutorial"
@@ -259,7 +268,8 @@
         "stagenodereward1-2",
         "stagenodereward1-3",
         "stagenodereward91-3",
-        "stagenodereward1-4"
+        "stagenodereward1-4",
+        "stagenodereward91-4"
       ]
     },
     {
@@ -390,6 +400,7 @@
       "dataClass": "storytheater-other",
       "fileList": [
         "storytheater-other-9103",
+        "storytheater-other-9104",
         "storytheater-other-9010"
       ]
     },
@@ -549,7 +560,8 @@
         "loadingCG-stage_102",
         "loadingCG-stage_103",
         "loadingCG-stage_9103",
-        "loadingCG-stage_104"
+        "loadingCG-stage_104",
+        "loadingCG-stage_9104"
       ]
     },
     {
@@ -767,6 +779,12 @@
       "dataClass": "mirrordungeon-special-battle",
       "fileList": [
         "mirrordungeon-special-battle"
+      ]
+    },
+    {
+      "dataClass": "event",
+      "fileList": [
+        "umida-event"
       ]
     }
   ]

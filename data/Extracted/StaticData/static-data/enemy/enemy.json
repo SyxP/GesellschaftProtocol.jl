@@ -19471,10 +19471,6 @@
       "slotWeightConditionList": [
         "Default1"
       ],
-      "phaseIDList": [
-        90068,
-        90069
-      ],
       "hp": {
         "defaultStat": 60,
         "incrementByLevel": 2.07
@@ -19496,7 +19492,6 @@
       "lowMorale": -30,
       "panic": -45,
       "panicType": 1005,
-      "patternID": "RevivalKCorp",
       "mentalConditionInfo": {
         "add": [
           {

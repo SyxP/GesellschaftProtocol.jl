@@ -29,7 +29,12 @@
             "acquireExp": 0,
             "acquireTotalExpForPersonality": 0,
 
-            "normalClearRewards": [],
+          "normalClearRewards": [
+            {
+              "type": "UNLOCK_CODE",
+              "id": 100
+            }
+          ],
             "exClearRewards": []
         }
     ]

@@ -4,12 +4,12 @@
       "chapterId": 90,
       "subChapterId": 9010,
       "codition": "StageClear",
+      "sortingOrder": 2,
       "unLockCondition": {
         "chapterId": 91,
         "subChapterId": 9103,
         "nodeId": 910309
       },
-      "sortingOrder": 2,
       "storyList": [
         {
           "id": 1,

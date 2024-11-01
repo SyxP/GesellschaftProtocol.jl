@@ -11553,7 +11553,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
                   "buffData": {
                     "buffKeyword": "Paralysis",
                     "buffOwner": "Self",

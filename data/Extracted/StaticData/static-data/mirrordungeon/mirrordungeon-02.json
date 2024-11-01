@@ -24,7 +24,8 @@
         "chapterCleared": {
           "mainChapterId": 1,
           "subChapterId": 104,
-          "nodeId": 10454
+          "nodeId": 10454,
+          "unlockCode": 104
         },
         "dungeonCleared": {
           "isConditionExist": true,

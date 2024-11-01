@@ -60,6 +60,9 @@
           "subChapterNumber": "1",
           "mapSizeRow": 1,
           "mapSizeColoumn": 5,
+          "unlockCondition": {
+            "unlockCode": 100
+          },
           "stageNodeList": [
             {
               "nodeId": 10101,
@@ -152,9 +155,9 @@
               "stageNodeType": "DUNGEON"
             }
           ],
-          "nextMainchapterid":1,
-          "nextSubchapterid":102,
-          "lastnodeid":10111
+          "nextMainchapterid": 1,
+          "nextSubchapterid": 102,
+          "lastnodeid": 10111
         },
         {
           "id": 102,
@@ -164,6 +167,9 @@
           "subChapterNumber": "2",
           "mapSizeRow": 2,
           "mapSizeColoumn": 4,
+          "unlockCondition": {
+            "unlockCode": 101
+          },
           "stageNodeList": [
             {
               "nodeId": 10201,
@@ -330,6 +336,9 @@
           "subChapterNumber": "3",
           "mapSizeRow": 2,
           "mapSizeColoumn": 9,
+          "unlockCondition":{
+            "unlockCode":102
+          },
           "stageNodeList": [
             {
               "nodeId": 10301,
@@ -520,6 +529,9 @@
           "subChapterNumber": "4",
           "mapSizeRow": 4,
           "mapSizeColoumn": 18,
+          "unlockCondition":{
+            "unlockCode":9103
+          },
           "stageNodeList": [
             {
               "nodeId": 10401,
@@ -954,8 +966,8 @@
               "stageNodeType": "DUNGEON"
             }
           ],
-          "nextMainchapterid":-1,
-          "nextSubchapterid":-1,
+          "nextMainchapterid":91,
+          "nextSubchapterid":9104,
           "lastnodeid":10454
         }
       ]
@@ -972,6 +984,9 @@
           "subChapterNumber": "3.5",
           "mapSizeRow": 1,
           "mapSizeColoumn": 5,
+          "unlockCondition":{
+            "unlockCode":103
+          },
           "stageNodeList": [
             {
               "nodeId": 910301,
@@ -1054,9 +1069,151 @@
               "stageNodeType": "DUNGEON"
             }
           ],
-          "nextMainchapterid":1,
-          "nextSubchapterid":104,
-          "lastnodeid":910309
+          "nextMainchapterid": 1,
+          "nextSubchapterid": 104,
+          "lastnodeid": 910309
+        },
+        {
+          "id": 9104,
+          "illustSprName": "9104",
+          "region": "u",
+          "sprName": "chapter-umida",
+          "subChapterNumber": "4.5",
+          "mapSizeRow": 1,
+          "mapSizeColoumn": 5,
+          "unlockCondition": {
+            "unlockCode": 104
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 910401,
+              "stageId": 910401,
+              "posx": 1281,
+              "posy": 1460,
+              "upper": 1,
+              "stageNodeType": "STORY"
+
+            },
+            {
+              "nodeId": 910402,
+              "stageId": 910402,
+              "posx": 1992,
+              "posy": 1060,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910403,
+              "stageId": 910403,
+              "posx": 2677,
+              "posy": 1060,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910404,
+              "stageId": 910404,
+              "posx": 3497,
+              "posy": 1060,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910405,
+              "stageId": 910405,
+              "posx": 4035,
+              "posy": 1340,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910406,
+              "stageId": 910406,
+              "posx": 4576,
+              "posy": 1060,
+              "upper": 1,
+              "stageNodeType": "STORY",
+              "unlockCondition": {
+                "possession": {
+                  "type": "ITEM",
+                  "id": 20001,
+                  "num": 150
+                }
+              }
+            },
+            {
+              "nodeId": 910407,
+              "stageId": 910407,
+              "posx": 5225,
+              "posy": 900,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910408,
+              "stageId": 910408,
+              "posx": 5884,
+              "posy": 1060,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910409,
+              "stageId": 910409,
+              "posx": 6448,
+              "posy": 1340,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "unlockCondition": {
+                "possession": {
+                  "type": "ITEM",
+                  "id": 20001,
+                  "num": 300
+                }
+              }
+            },
+            {
+              "nodeId": 910410,
+              "stageId": 910410,
+              "posx": 7187,
+              "posy": 975,
+              "upper": 1,
+              "stageNodeType": "STORY",
+              "unlockCondition": {
+                "possession": {
+                  "type": "ITEM",
+                  "id": 20001,
+                  "num": 450
+                }
+              }
+            },
+            {
+              "nodeId": 910411,
+              "stageId": 910411,
+              "posx": 8294,
+              "posy": 1060,
+              "upper": 1,
+              "stageNodeType": "NORMAL",
+              "unlockCondition": {
+                "possession": {
+                  "type": "ITEM",
+                  "id": 20001,
+                  "num": 500
+                }
+              }
+            },
+            {
+              "nodeId": 910412,
+              "stageId": 910412,
+              "posx": 9125,
+              "posy": 1340,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            }
+          ],
+          "nextMainchapterid": -1,
+          "nextSubchapterid": -1,
+          "lastnodeid": 910411
         }
       ]
     }

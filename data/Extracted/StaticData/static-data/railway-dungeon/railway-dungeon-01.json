@@ -6,17 +6,21 @@
       "openChapterData": {
         "mainChapterId": 1,
         "subChapterId": 103,
-        "nodeId": 10322
+        "nodeId": 10322,
+        "unlockCode": 103
       },
+      "challengeType": "CLEAR_TURN_COUNT",
+      "isHealAfterRest": true,
+      "isResetAfterLose": false,
       "startDate": "2023-04-06T03:00:00.000Z",
       "endDate": "2023-05-18T00:59:59.000Z",
-      "bannerRewards":[
+      "bannerRewards": [
         {
           "isMinValue": true,
-          "clearTurn":999,
-          "requiredCondition":{
-              "type":"CLEAR_TURN_COUNT",
-              "count":999
+          "clearTurn": 999,
+          "requiredCondition": {
+            "type": "CLEAR_TURN_COUNT",
+            "count": 999
           },
           "endDate": "2023-05-18T00:59:59.000Z",
           "reward": {
@@ -26,10 +30,10 @@
           }
         },
         {
-            "clearTurn":120,
-          "requiredCondition":{
-              "type":"CLEAR_TURN_COUNT",
-              "count":120
+          "clearTurn": 120,
+          "requiredCondition": {
+            "type": "CLEAR_TURN_COUNT",
+            "count": 120
           },
           "endDate": "2023-05-18T00:59:59.000Z",
           "reward": {
@@ -39,11 +43,11 @@
           }
         },
         {
-          "isDateLimited" : true,
-          "clearTurn":120,
-          "requiredCondition":{
-              "type":"CLEAR_TURN_COUNT",
-              "count":120
+          "isDateLimited": true,
+          "clearTurn": 120,
+          "requiredCondition": {
+            "type": "CLEAR_TURN_COUNT",
+            "count": 120
           },
           "endDate": "2023-04-20T00:59:59.000Z",
           "reward": {
@@ -53,6 +57,7 @@
           }
         }
       ],
+      "extraRewards": [],
       "sector": [
         {
           "nodeId": 1,
@@ -67,7 +72,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 1
+          "spriteId": 1,
+          "nextNodes": [ 1, 2 ],
+          "clearRequiredNodesForEnter": []
         },
         {
           "nodeId": 2,
@@ -82,7 +89,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 2
+          "spriteId": 2,
+          "nextNodes": [ 1, 2, 3 ],
+          "clearRequiredNodesForEnter": [ 1 ]
         },
         {
           "nodeId": 3,
@@ -97,7 +106,9 @@
             ]
           },
           "isAbBattleIcon": true,
-          "spriteId": 3
+          "spriteId": 3,
+          "nextNodes": [ 1, 2, 3, 4 ],
+          "clearRequiredNodesForEnter": [ 2 ]
         },
         {
           "nodeId": 4,
@@ -112,7 +123,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 4
+          "spriteId": 4,
+          "nextNodes": [ 1, 2, 3, 4, 5 ],
+          "clearRequiredNodesForEnter": [ 3 ]
         },
         {
           "nodeId": 5,
@@ -127,7 +140,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 5
+          "spriteId": 5,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6 ],
+          "clearRequiredNodesForEnter": [ 4 ]
         },
         {
           "nodeId": 6,
@@ -142,7 +157,9 @@
             ]
           },
           "isAbBattleIcon": true,
-          "spriteId": 6
+          "spriteId": 6,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7 ],
+          "clearRequiredNodesForEnter": [ 5 ]
         },
         {
           "nodeId": 7,
@@ -157,7 +174,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 7
+          "spriteId": 7,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7, 8 ],
+          "clearRequiredNodesForEnter": [ 6 ]
         },
         {
           "nodeId": 8,
@@ -172,7 +191,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 8
+          "spriteId": 8,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+          "clearRequiredNodesForEnter": [ 7 ]
         },
         {
           "nodeId": 9,
@@ -187,7 +208,9 @@
             ]
           },
           "isAbBattleIcon": true,
-          "spriteId": 9
+          "spriteId": 9,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+          "clearRequiredNodesForEnter": [ 8 ]
         },
         {
           "nodeId": 10,
@@ -202,7 +225,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 10
+          "spriteId": 10,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ],
+          "clearRequiredNodesForEnter": [ 9 ]
         },
         {
           "nodeId": 11,
@@ -217,7 +242,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 11
+          "spriteId": 11,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ],
+          "clearRequiredNodesForEnter": [ 10 ]
         },
         {
           "nodeId": 12,
@@ -232,7 +259,9 @@
             ]
           },
           "isAbBattleIcon": false,
-          "spriteId": 12
+          "spriteId": 12,
+          "nextNodes": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ],
+          "clearRequiredNodesForEnter": [ 11 ]
         },
         {
           "nodeId": 13,
@@ -247,9 +276,14 @@
             ]
           },
           "isAbBattleIcon": true,
-          "spriteId": 13
+          "spriteId": 13,
+          "nextNodes": [],
+          "clearRequiredNodesForEnter": [ 12 ]
         }
-      ]
+      ],
+      "uiOptions":{
+          "isBackToCancel":true
+      }
     }
   ]
 }

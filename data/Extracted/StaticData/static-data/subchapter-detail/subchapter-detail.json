@@ -20,6 +20,17 @@
           "lockedNodePosY": 7554
         }
       ]
+    },
+    {
+      "partId": 91,
+      "subchapterId": 9103,
+      "bgmTypeByUIPanel": "HELL_CHICKEN"
+    },
+    {
+      "partId": 91,
+      "subchapterId": 9104,
+      "relatedEventId": "UmidaMain",
+      "bgmTypeByUIPanel": "EVENT_UMIDA_MAIN"
     }
   ]
 }

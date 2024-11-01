@@ -14,7 +14,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 3,
           "mpUsage": 15,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 11,
           "canTeamKill": false,
           "canDuel": true,
@@ -119,7 +119,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 20,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 17,
           "canTeamKill": false,
           "canDuel": true,
@@ -243,7 +243,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 20,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 27,
           "canTeamKill": true,
           "canDuel": true,
@@ -415,7 +415,7 @@
           "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 25,
-          "skillLevelCorrection" : 1,
+          "skillLevelCorrection": 1,
           "defaultValue": 20,
           "canTeamKill": false,
           "canDuel": true,
@@ -556,7 +556,7 @@
           "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 30,
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 5,
           "defaultValue": 22,
           "canTeamKill": true,
           "canDuel": true,
@@ -670,6 +670,231 @@
         {
           "gaksungLevel": 4,
           "targetNum": 3
+        }
+      ]
+    },
+    {
+      "id": 2060411,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "skillLevelCorrection": -5,
+          "defaultValue": 20,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealHpOnEndCoinHead10LeastHpRatioAlly2"
+                },
+                {
+                  "scriptName": "HealMpOnEndCoinTail10LeastMpAlly2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "targetNum": 2,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealHpOnEndCoinHead12LeastHpRatioAlly2"
+                },
+                {
+                  "scriptName": "HealMpOnEndCoinTail12LeastMpAlly2"
+                },
+                {
+                  "scriptName": "HealHpOnEndCoinCritical6LeastHpRatioAlly1"
+                },
+                {
+                  "scriptName": "HealMpOnEndCoinCritical6LeastMpAlly1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealHpOnEndCoinHead15LeastHpRatioAlly2"
+                },
+                {
+                  "scriptName": "HealMpOnEndCoinTail15LeastMpAlly2"
+                },
+                {
+                  "scriptName": "HealHpOnEndCoinCritical8LeastHpRatioAlly1"
+                },
+                {
+                  "scriptName": "HealMpOnEndCoinCritical8LeastMpAlly1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060421,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "skillLevelCorrection": -3,
+          "defaultValue": 25,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackLowestHpAbnormalityTarget"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 15,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "targetNum": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackLowestHpAbnormalityTarget"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 15,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackLowestHpAbnormalityTarget"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 15,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

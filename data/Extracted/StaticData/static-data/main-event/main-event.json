@@ -1,5 +1,18 @@
 {
   "list": [
-    
+    {
+      "eventId": "UmidaMain",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_umida_event"
+    },
+    {
+      "eventId": "UmidaReward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ]
+    }
   ]
 }

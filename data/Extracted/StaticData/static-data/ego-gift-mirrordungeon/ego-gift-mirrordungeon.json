@@ -254,6 +254,11 @@
     {
       "id": 9029,
       "attributeType": "INDIGO",
+      "subEgoGiftAbilityIDList": [
+        90291,
+        90292,
+        90293
+      ],
       "tag": [
         "TIER_2"
       ],

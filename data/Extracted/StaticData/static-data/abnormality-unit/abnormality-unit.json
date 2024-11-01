@@ -14643,7 +14643,7 @@
     {
       "id": 8051,
       "appearance": "8051_FairyWineAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "FAIRY_LIQUOR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",

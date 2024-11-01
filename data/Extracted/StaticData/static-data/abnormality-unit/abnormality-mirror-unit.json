@@ -1174,6 +1174,8 @@
     },
     {
       "id": 8077,
+      "sdPortrait": 8520,
+      "viewid": 8520,
       "appearance": "8520_kqe1j23HandAppearance",
       "unitKeywordList": [ "MACHINE_BOUND_ORGANISM" ],
       "level": 30,
@@ -1203,6 +1205,8 @@
     },
     {
       "id": 8078,
+      "sdPortrait": 8527,
+      "viewid": 8527,
       "appearance": "8505_RedBuddhaAppearance",
       "unitKeywordList": [ ],
       "level": 30,
@@ -4514,6 +4518,8 @@
     },
     {
       "id": 8086,
+      "sdPortrait": 8045,
+      "viewid": 8045,
       "appearance": "8045_ElectricCentipedeAppearance",
       "unitKeywordList": [],
       "level": 10,
@@ -5198,6 +5204,8 @@
     },
     {
       "id": 8087,
+      "viewid": 8046,
+      "sdPortrait": 8046,
       "appearance": "8046_UmbrellaFoxAppearance",
       "unitKeywordList": [],
       "level": 10,
@@ -5586,6 +5594,8 @@
     },
     {
       "id": 8088,
+      "viewid": 8053,
+      "sdPortrait": 8053,
       "appearance": "8053_Camellia_RainbowAppearance",
       "unitKeywordList": [],
       "level": 30,
@@ -5615,6 +5625,8 @@
     },
     {
       "id": 8089,
+      "viewid": 8047,
+      "sdPortrait": 8047,
       "appearance": "8047_DontcryAppearance",
       "unitKeywordList": [],
       "level": 40,
@@ -5887,6 +5899,8 @@
     },
     {
       "id": 8090,
+      "viewid": 8048,
+      "sdPortrait": 8048,
       "appearance": "8048_GentleFairyAppearance",
       "unitKeywordList": [],
       "level": 40,
@@ -6224,8 +6238,10 @@
     },
     {
       "id": 8091,
+      "viewid": 8051,
+      "sdPortrait": 8051,
       "appearance": "8051_FairyWineAppearance",
-      "unitKeywordList": [],
+      "unitKeywordList": [ "FAIRY_LIQUOR" ],
       "level": 30,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -6252,6 +6268,8 @@
     },
     {
       "id": 8092,
+      "viewid": 8059,
+      "sdPortrait": 8059,
       "appearance": "8059_FairyLongLegsAppearance",
       "unitKeywordList": [],
       "level": 10,
@@ -6616,6 +6634,8 @@
     },
     {
       "id": 8093,
+      "viewid": 8062,
+      "sdPortrait": 8062,
       "appearance": "8062_FairyLongLegs_CloverAppearance",
       "unitKeywordList": [],
       "level": 10,
@@ -6645,6 +6665,7 @@
     },
     {
       "id": 8094,
+      "sdPortrait": 8008,
       "viewid": 8008,
       "appearance": "8008_Maggotapple_p1Appearance",
       "unitKeywordList": [],
@@ -6771,6 +6792,7 @@
     },
     {
       "id": 8095,
+      "sdPortrait": 8009,
       "viewid": 8009,
       "appearance": "8009_Maggotapple_p2Appearance",
       "unitKeywordList": [],
@@ -6887,6 +6909,7 @@
     {
       "id": 8096,
       "viewid": 8041,
+      "phaseIDList": 8041,
       "appearance": "8041_BrassBullAppearance",
       "unitKeywordList": [],
       "level": 30,
