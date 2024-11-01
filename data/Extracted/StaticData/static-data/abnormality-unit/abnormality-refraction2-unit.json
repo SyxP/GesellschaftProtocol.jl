@@ -2987,7 +2987,7 @@
         "defaultStat": 180,
         "incrementByLevel": 6.2
       },
-      "patternID": "PickByPattern_Abnormality",
+      "patternID": "NotAffectedFromAbMp",
       "abnormalityPartList": [
         855101
       ],
@@ -3193,7 +3193,7 @@
         "defaultStat": 180,
         "incrementByLevel": 6.2
       },
-      "patternID": "PickByPattern_Abnormality",
+      "patternID": "NotAffectedFromAbMp",
       "abnormalityPartList": [
         855701
       ],
@@ -3399,7 +3399,7 @@
         "defaultStat": 180,
         "incrementByLevel": 6.2
       },
-      "patternID": "PickByPattern_Abnormality",
+      "patternID": "NotAffectedFromAbMp",
       "abnormalityPartList": [
         855801
       ],
@@ -3605,7 +3605,7 @@
         "defaultStat": 180,
         "incrementByLevel": 6.2
       },
-      "patternID": "PickByPattern_Abnormality",
+      "patternID": "NotAffectedFromAbMp",
       "abnormalityPartList": [
         855901
       ],

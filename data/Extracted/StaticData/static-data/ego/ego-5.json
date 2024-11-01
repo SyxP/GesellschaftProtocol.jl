@@ -314,6 +314,82 @@
       ],
       "awakeningSkillId": 2050411,
       "corrosionSkillId": 2050421
+    },
+    {
+      "id": 20505,
+      "characterId": 5,
+      "egoType": "TETH",
+      "egoClass": 1,
+      "season": 9101,
+      "skillTier": 3,
+      "egoKeywordList": [ "WALPURGIS" , "LAIBRARY_OF_RUINA" ],
+      "attributeResistList": [
+        {
+          "type": "CRIMSON",
+          "value": 1
+        },
+        {
+          "type": "SCARLET",
+          "value": 1
+        },
+        {
+          "type": "AMBER",
+          "value": 1
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 1
+        },
+        {
+          "type": "AZURE",
+          "value": 0.5
+        },
+        {
+          "type": "INDIGO",
+          "value": 2
+        },
+        {
+          "type": "VIOLET",
+          "value": 2
+        },
+        {
+          "type": "WHITE",
+          "value": 2
+        },
+        {
+          "type": "BLACK",
+          "value": 2
+        }
+      ],
+      "requirementList": [
+        {
+          "attributeType": "CRIMSON",
+          "num": 3
+        },
+        {
+          "attributeType": "INDIGO",
+          "num": 2
+        }
+      ],
+      "corrosionSectionList": [
+        {
+          "section": 0.5,
+          "probability": 0.25
+        },
+        {
+          "section": 0.25,
+          "probability": 0.75
+        },
+        {
+          "section": 0,
+          "probability": 1.0
+        }
+      ],
+      "awakeningPassiveList": [
+        2050511
+      ],
+      "awakeningSkillId": 2050511,
+      "corrosionSkillId": 2050521
     }
   ]
 }

@@ -85,6 +85,18 @@
       ]
     },
     {
+      "id": 1020711,
+      "attributeStockCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 6
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
       "id": 1100511,
       "attributeStockCondition": [
         {

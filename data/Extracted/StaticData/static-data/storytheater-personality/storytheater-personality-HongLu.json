@@ -59,38 +59,52 @@
               ],
               "profileId": "LiuAsso5_honglu_profile",
               "analysisId": "LiuAsso5_honglu_analysis"
-          },
-          {
-            "personalityId": 10605,
-            "releaseDay": 20230629,
-            "cv_Id": "",
-            "personalityStoryList": [
+            },
+            {
+              "personalityId": 10605,
+              "releaseDay": 20230629,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10605",
+                  "lockCondition": "gacksung",
+                  "order": 7,
+                  "reward":{"type":"ITEM","id":2,"num":40}
+                }
+             ],
+              "profileId": "kcorp_honglu_profile",
+              "analysisId": "kcorp_honglu_analysis"
+            },
+            {
+              "personalityId": 10606,
+              "releaseDay": 20230824,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10606",
+                  "lockCondition": "gacksung",
+                "order": 5,
+                "reward":{"type":"ITEM","id":2,"num":40}
+                }
+              ],
+            "profileId": "Wcorp_honglu_profile",
+            "analysisId": "Wcorp_honglu_analysis"
+            },
+            {
+              "personalityId": 10607,
+              "releaseDay": 20231026,
+              "cv_Id": "",
+              "personalityStoryList": [
               {
-                "storyId": "P10605",
+                "storyId": "P10607",
                 "lockCondition": "gacksung",
-                "order": 7,
+                "order": 1,
                 "reward":{"type":"ITEM","id":2,"num":40}
               }
             ],
-            "profileId": "kcorp_honglu_profile",
-            "analysisId": "kcorp_honglu_analysis"
-        },
-        {
-          "personalityId": 10606,
-          "releaseDay": 20230824,
-          "cv_Id": "",
-          "personalityStoryList": [
-            {
-              "storyId": "P10606",
-              "lockCondition": "gacksung",
-              "order": 5,
-              "reward":{"type":"ITEM","id":2,"num":40}
-            }
-          ],
-          "profileId": "Wcorp_honglu_profile",
-          "analysisId": "Wcorp_honglu_analysis"
-      }
-      
+            "profileId": "hook_honglu_profile",
+            "analysisId": "hook_honglu_analysis"
+            }      
         ]
     }
   ]

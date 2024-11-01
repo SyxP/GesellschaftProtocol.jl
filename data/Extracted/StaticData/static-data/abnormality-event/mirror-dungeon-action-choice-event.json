@@ -992,14 +992,14 @@
                   {
                     "resultForm": {
                       "resultEffectTarget": "LowestHpAlly_1",
-                      "resultEffect": "RecoverHpOnly_40",
+                      "resultEffect": "LoseMpOnly_10",
                       "nextBattleID": -1
                     }
                   },
                   {
                     "resultForm": {
                       "resultEffectTarget": "LowestHpAlly_1",
-                      "resultEffect": "LoseMpOnly_10",
+                      "resultEffect": "RecoverHpOnly_40",
                       "nextBattleID": -1
                     }
                   }

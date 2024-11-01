@@ -388,6 +388,57 @@
           }
         ]
       }
+    },
+    {
+      "panicID": 1013,
+      "lowMorale": {
+        "id": "Impurity_LowMorale",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "VULNERABLE",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 1,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveMpDmgOnLoseDuelTarget",
+            "value": 2
+          }
+        ]
+      },
+      "panic": {
+        "id": "Impurity_Panic",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "VULNERABLE",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveMpDmgOnLoseDuelTarget",
+            "value": 5
+          }
+        ]
+      }
     }
   ]
 }

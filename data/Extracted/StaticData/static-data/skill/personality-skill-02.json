@@ -2655,6 +2655,706 @@
           "iconID": "1020604_4"
         }
       ]
+    },
+    {
+      "id": 1020701,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020702,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "arearange": 2.5,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "AttackDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "TagetNumAdderOnCompleteCommandUsingBuffTurn1",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "AttackDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "TagetNumAdderOnCompleteCommandUsingBuffTurn1",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "AttackDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020703,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 3,
+          "arearange": 2.5,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "TagetNumAdderOnCompleteCommandUsingBuffTurn1RepeatUpto2",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnLoseDuelSelf20"
+            },
+            {
+              "scriptName": "AttackDmgUp3PerNegativeBuffCountWithLimit15"
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VEOnSAGiveCrimsonDmgByBgUpRatio20WithLimit13"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VEOnSAGiveCrimsonDmgByBgUpRatio20WithLimit13"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "cutsceneStart": true,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VEOnSAGiveCrimsonDmgByBgUpRatio20WithLimit13"
+                },
+                {
+                  "scriptName": "LoseBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "TagetNumAdderOnCompleteCommandUsingBuffTurn1RepeatUpto2",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnLoseDuelSelf20"
+            },
+            {
+              "scriptName": "AttackDmgUp6PerNegativeBuffCountWithLimit30"
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VEOnSAGiveCrimsonDmgByBgUpRatio30WithLimit20"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VEOnSAGiveCrimsonDmgByBgUpRatio30WithLimit20"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "cutsceneStart": true,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VEOnSAGiveCrimsonDmgByBgUpRatio30WithLimit20"
+                },
+                {
+                  "scriptName": "LoseBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020704,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 9,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "attributeType": "AZURE",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 6,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
     }
   ]
 }

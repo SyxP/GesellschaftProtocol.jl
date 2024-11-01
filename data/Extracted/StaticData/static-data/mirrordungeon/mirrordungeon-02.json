@@ -1416,7 +1416,10 @@
             }
           ]
         }
-      ]
+      ],
+      "clientConfig": {
+        "startUnitsParticipateCount": 5
+      }
     }
   ]
 }

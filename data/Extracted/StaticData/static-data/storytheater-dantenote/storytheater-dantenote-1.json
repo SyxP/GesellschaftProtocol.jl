@@ -31,7 +31,8 @@
                 "id": 10102,
                 "name": "Mepis",
                 "danteNoteDetailId": [
-                  64
+                  64,
+                  87
                 ]
               },
               "smallDetailCategoryList": [
@@ -146,7 +147,8 @@
                   "id": 1020201,
                   "name": "LobotomyCorp",
                   "danteNoteDetailId": [
-                    29
+                    29,
+                    85
                   ]
                 }
               ]
@@ -159,7 +161,8 @@
                   11,
                   12,
                   75,
-                  76
+                  76,
+                  77
                 ]
               }
             },
@@ -191,6 +194,24 @@
                   45,
                   52,
                   55
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10207,
+                "name": "NestT",
+                "danteNoteDetailId": [
+                  79
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10208,
+                "name": "NestU",
+                "danteNoteDetailId": [
+                  80
                 ]
               }
             }
@@ -244,6 +265,20 @@
                 "danteNoteDetailId": [
                   74
                 ]
+              },
+              {
+                "id": 1030105,
+                "name": "SevenAsso",
+                "danteNoteDetailId": [
+                  83
+                ]
+              },
+              {
+                "id": 1030106,
+                "name": "DebatyAsso",
+                "danteNoteDetailId": [
+                  84
+                ]
               }
             ]
           },
@@ -253,7 +288,17 @@
               "name": "Office",
               "danteNoteDetailId": [
                 28,
-                31
+                31,
+                82
+              ]
+            }
+          },
+          {
+            "smallCategory": {
+              "id": 10303,
+              "name": "Armory",
+              "danteNoteDetailId": [
+                86
               ]
             }
           }
@@ -401,9 +446,71 @@
                   41
                 ]
               }
+            },
+            {
+              "smallCategory": {
+                "id": 10510,
+                "name": "MemoryDelete",
+                "danteNoteDetailId": [
+                  78
+                ]
+              }
             }
           ]
-        }           
+        },
+        {
+          "middleCategory": {
+            "id": 107,
+            "name": "Outside",
+            "danteNoteDetailId": [
+              88
+            ]
+          }
+        },
+        {
+          "middleCategory": {
+            "id": 108,
+            "name": "GreatPond",
+            "danteNoteDetailId": [
+              89
+            ]
+          }
+        },
+        {
+          "middleCategory": {
+            "id": 106,
+            "name": "Misc"
+          },
+          "smallCategoryList": [
+            {
+              "smallCategory": {
+                "id": 10601,
+                "name": "Walpurgis",
+                "danteNoteDetailId": [
+                  91        
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10602,
+                "name": "Library",
+                "danteNoteDetailId": [
+                  81        
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10603,
+                "name": "Creature",
+                "danteNoteDetailId": [
+                  90        
+                ]
+              }
+            }
+          ]
+        }            
       ]
     }
   ]

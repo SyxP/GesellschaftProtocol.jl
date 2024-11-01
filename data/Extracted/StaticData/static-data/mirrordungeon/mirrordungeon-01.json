@@ -960,7 +960,10 @@
             }
           ]
         }
-      ]
+      ],
+      "clientConfig": {
+        "startUnitsParticipateCount": 3
+      }
     }
   ]
 }

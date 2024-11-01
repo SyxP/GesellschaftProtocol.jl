@@ -591,6 +591,104 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10207,
+      "appearance": "10207_Faust_ForsakenMurderer_LOBAppearance",
+      "unitKeywordList": [ "L_CORP" ],
+      "characterId": 2,
+      "panicType": 9999,
+      "season": 9101,
+      "defenseSkillIDList": [
+        1020704
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.82
+      },
+      "defCorrection": 1,
+      "minSpeedList": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        6,
+        6
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          35
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1020701,
+          "number": 3
+        },
+        {
+          "skillId": 1020702,
+          "number": 2
+        },
+        {
+          "skillId": 1020703,
+          "number": 1
+        }
+      ]
     }
   ]
 }

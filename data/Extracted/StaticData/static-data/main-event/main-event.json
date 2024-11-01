@@ -6,6 +6,13 @@
         "Lobby"
       ],
       "bannerSpriteId": "banner_RailwayLine2"
+    },
+    {
+      "eventId": "HalloweenDailyLoginEvent",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_HalloweenLogin"
     }
   ]
 }
