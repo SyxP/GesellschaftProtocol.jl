@@ -4425,8 +4425,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 못을 3 부여\n못: 턴 시작 시 출혈 1을 주고, 출혈 횟수가 수치만큼 증가. 턴 종료 시 수치가 절반 감소 (소수점 버림)",
-                  "summary": "[OnSucceedAttack] 못을 3 부여"
+                  "desc": "[OnSucceedAttack] 못 3 부여",
+                  "summary": "[OnSucceedAttack] 못 3 부여"
                 }
               ]
             },
@@ -4447,8 +4447,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 못을 3 부여\n못: 턴 시작 시 출혈 1을 주고, 출혈 횟수가 수치만큼 증가. 턴 종료 시 수치가 절반 감소 (소수점 버림)",
-                  "summary": "[OnSucceedAttack] 못을 3 부여"
+                  "desc": "[OnSucceedAttack] 못 3 부여",
+                  "summary": "[OnSucceedAttack] 못 3 부여"
                 }
               ]
             },
@@ -4477,7 +4477,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 못을 2 부여"
+                  "desc": "[OnSucceedAttack] 다음 턴에 못 2 부여"
                 }
               ]
             },
@@ -4563,8 +4563,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 못을 1 부여\n못: 턴 시작 시 출혈 1을 주고, 출혈 횟수가 수치만큼 증가. 턴 종료 시 수치가 절반 감소 (소수점 버림)",
-                  "summary": "[OnSucceedAttack] 다음 턴에 못을 1 부여"
+                  "desc": "[OnSucceedAttack] 다음 턴에 못 1 부여",
+                  "summary": "[OnSucceedAttack] 다음 턴에 못 1 부여"
                 }
               ]
             },
@@ -4585,8 +4585,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 다음 턴에 못을 1 부여\n못: 턴 시작 시 출혈 1을 주고, 출혈 횟수가 수치만큼 증가. 턴 종료 시 수치가 절반 감소 (소수점 버림)",
-                  "summary": "[OnSucceedAttack] 다음 턴에 못을 1 부여"
+                  "desc": "[OnSucceedAttack] 다음 턴에 못 1 부여",
+                  "summary": "[OnSucceedAttack] 다음 턴에 못 1 부여"
                 }
               ]
             },

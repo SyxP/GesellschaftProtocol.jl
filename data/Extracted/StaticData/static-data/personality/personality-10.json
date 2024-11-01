@@ -5,7 +5,7 @@
       "appearance": "11001_Sinclair_BaseAppearance",
       "mainClique": "LIMBUS_COMPANY",
       "characterId": 10,
-      "season": 1,
+      "season": 0,
       "defenseSkillIDList": [
         1100104
       ],
@@ -85,7 +85,7 @@
       "appearance": "11002_Sinclair_SwordGroupAppearance",
       "mainClique": "BLADE_LINEAGE",
       "characterId": 10,
-      "season": 1,
+      "season": 0,
       "defenseSkillIDList": [
         1100204
       ],
@@ -165,7 +165,7 @@
       "appearance": "11003_Sinclair_ZweiAppearance",
       "mainClique": "ZWEI",
       "characterId": 10,
-      "season": 1,
+      "season": 0,
       "defenseSkillIDList": [
         1000101
       ],

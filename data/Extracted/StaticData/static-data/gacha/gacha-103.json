@@ -1,12 +1,12 @@
 {
   "list": [
     {
-      "id": 101,
+      "id": 103,
       "bannerInfo": {
-        "startDate": "2023-02-27T01:00:00.000Z",
-        "endDate": "2023-03-08T21:00:00.000Z",
-        "pickupIdList": [ 11201, 11202, 11203 ],
-        "illustList": [ "gacha_0_illust" ],
+        "startDate": "2023-03-16T06:00:00.000Z",
+        "endDate": "2023-04-01T00:59:59.000Z",
+        "pickupIdList": [ 10901, 10903, 10904, 10902 ],
+        "illustList": [ "gacha_5_illust" ],
         "videoList": []
       },
       "payments": [
@@ -15,7 +15,7 @@
           "gachaUIState": "Limit",
           "requiredItemId": 1,
           "requiredNum": 13,
-          "requiredChanceId": 101,
+          "requiredChanceId": 103,
           "count": 1
         },
         {
@@ -70,9 +70,9 @@
             10601,
             10701,
             10801,
-            10901,
             11001,
-            11101
+            11101,
+            11201
           ]
         },
         {
@@ -89,7 +89,7 @@
           ],
           "elementType": "PERSONALITY",
           "elementIdList": [
-            11201
+            10901
           ]
         },
         {
@@ -124,11 +124,11 @@
             10702,
             10803,
             10804,
-            10903,
             11003,
             11004,
             11102,
-            11103
+            11103,
+            11202
           ]
         },
         {
@@ -153,7 +153,8 @@
           ],
           "elementType": "PERSONALITY",
           "elementIdList": [
-            11202
+            10903,
+            10904
           ]
         },
         {
@@ -182,11 +183,12 @@
             10302,
             10403,
             10503,
+            10504,
             10603,
             10703,
             10802,
-            10902,
-            11002
+            11002,
+            11203
           ]
         },
         {
@@ -211,7 +213,7 @@
           ],
           "elementType": "PERSONALITY",
           "elementIdList": [
-            11203
+            10902
           ]
         },
         {
@@ -220,11 +222,11 @@
           "occupancyCaseList":[
             {
               "occupancyCase":"DEFAULT",
-              "occupancy":65
+              "occupancy":130
             },
             {
               "occupancyCase":"TENTH",
-              "occupancy":65
+              "occupancy":130
             }
           ],
           "elementType": "EGO",
@@ -233,24 +235,7 @@
             20203,
             20503,
             20803,
-            21103
-          ]
-        },
-        {
-          "groupType": "EGO_pickup",
-          "samplingWithoutReplacement":true,
-          "occupancyCaseList":[
-            {
-              "occupancyCase":"DEFAULT",
-              "occupancy":65
-            },
-            {
-              "occupancyCase":"TENTH",
-              "occupancy":65
-            }
-          ],
-          "elementType": "EGO",
-          "elementIdList": [
+            21103,
             21203
           ]
         }

@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "防御",
-          "desc": "マッチ勝利時、相手の混乱区間が上昇"
+          "desc": "マッチ勝利時、相手の混乱区間が前進"
         }
       ]
     },
@@ -16,7 +16,7 @@
         {
           "level": 1,
           "name": "回避",
-          "desc": "マッチ勝利時、自分の混乱区間が下落"
+          "desc": "マッチ勝利時、自分の混乱区間が後退"
         }
       ]
     },
@@ -3608,7 +3608,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ダメージ量の50%精神力を回復"
+                  "desc": "[OnSucceedAttackHead] ダメージ量の50%混乱区間を後退"
                 }
               ]
             }
@@ -4304,14 +4304,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の30%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の30%混乱区間を後退"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の30%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の30%混乱区間を後退"
                 }
               ]
             }
@@ -4325,14 +4325,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の60%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の60%混乱区間を後退"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] ダメージ量の60%精神力を回復"
+                  "desc": "[OnSucceedAttack] ダメージ量の60%混乱区間を後退"
                 }
               ]
             }
@@ -4351,8 +4351,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 釘*3を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
-                  "summary": "[OnSucceedAttack] 釘*3を付与"
+                  "desc": "[OnSucceedAttack] 釘 3を付与",
+                  "summary": "[OnSucceedAttack] 釘 3を付与"
                 }
               ]
             },
@@ -4373,8 +4373,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 釘*3を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
-                  "summary": "[OnSucceedAttack] 釘*3を付与"
+                  "desc": "[OnSucceedAttack] 釘 3を付与",
+                  "summary": "[OnSucceedAttack] 釘 3を付与"
                 }
               ]
             },
@@ -4384,7 +4384,7 @@
                   "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の釘*が5本以上なら、次のターンに束縛 2、攻撃威力減少 1を付与"
+                  "desc": "[OnSucceedAttack] 対象の釘 が5本以上なら、次のターンに束縛 2、攻撃威力減少 1を付与"
                 }
               ]
             }
@@ -4403,7 +4403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに釘*2を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに釘 2を付与"
                 }
               ]
             },
@@ -4489,8 +4489,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに釘*1を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
-                  "summary": "[OnSucceedAttack] 次のターンに釘*1を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに釘 1を付与",
+                  "summary": "[OnSucceedAttack] 次のターンに釘 1を付与"
                 }
               ]
             },
@@ -4511,8 +4511,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに釘*1を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
-                  "summary": "[OnSucceedAttack] 다次のターンに釘*1を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに釘 1を付与",
+                  "summary": "[OnSucceedAttack] 次のターンに釘 1を付与"
                 }
               ]
             },

@@ -252,7 +252,7 @@
     },
     {
       "id": "Nail",
-      "name": "N Corp's Nails",
+      "name": "N Corp’s Nails",
       "desc": "Turn Start: Gain 1 Bleed and increase the Bleed Count by {0}.\nTurn End: Reduce this effect by 1.",
       "summary": "Gain 1 Bleed and add +{0} Bleed Count"
     },
@@ -674,7 +674,7 @@
     {
       "id": "Assemble",
       "name": "Fanatic",
-      "desc": "Skill Final Power +{0} against units with Nails for this turn",
+      "desc": "Skill Final Power +{0} against units with Nails for this turn.",
       "summary": "Final Power +{0}"
     },
     {
@@ -901,7 +901,7 @@
     {
       "id": "AssemblePersonality",
       "name": "Fanatic",
-      "desc": "Skill Final Power +{0} against units with Nails for this turn",
+      "desc": "Skill Final Power +{0} against units with Nails for this turn.",
       "summary": "Final Power +{0}"
     }
   ]

@@ -93,12 +93,6 @@
           "offsetX": 0,
           "offsetY": 300.0,
           "lineDirection": "LEFT"
-        },
-        {
-          "id": 800903,
-          "offsetX": 200.0,
-          "offsetY": 150.0,
-          "lineDirection": "LEFT"
         }
       ]
     },
@@ -254,6 +248,314 @@
           "offsetX": -100,
           "offsetY": 300.0,
           "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8701,
+      "partPositionDatas": [
+        {
+          "id": 800101,
+          "offsetX": -200.0,
+          "offsetY": 100.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 800102,
+          "offsetX": 300.0,
+          "offsetY": 100.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 800103,
+          "offsetX": -200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 800104,
+          "offsetX": -250.0,
+          "offsetY": -100.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8721,
+      "partPositionDatas": [
+        {
+          "id": 800101,
+          "offsetX": -200.0,
+          "offsetY": 100.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 800102,
+          "offsetX": 300.0,
+          "offsetY": 100.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 800103,
+          "offsetX": -200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 800104,
+          "offsetX": -250.0,
+          "offsetY": -100.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8702,
+      "partPositionDatas": [
+        {
+          "id": 803101,
+          "offsetX": -100.0,
+          "offsetY": 400.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803102,
+          "offsetX": -150,
+          "offsetY": 200.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803103,
+          "offsetX": 150,
+          "offsetY": 350.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 803104,
+          "offsetX": 300,
+          "offsetY": 150.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8722,
+      "partPositionDatas": [
+        {
+          "id": 803101,
+          "offsetX": -100.0,
+          "offsetY": 400.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803102,
+          "offsetX": -150,
+          "offsetY": 200.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803103,
+          "offsetX": 150,
+          "offsetY": 350.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 803104,
+          "offsetX": 300,
+          "offsetY": 150.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8703,
+      "partPositionDatas": [
+        {
+          "id": 800801,
+          "offsetX": 300.0,
+          "offsetY": 300.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8704,
+      "partPositionDatas": [
+        {
+          "id": 800901,
+          "offsetX": -300.0,
+          "offsetY": 300.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 800902,
+          "offsetX": 0,
+          "offsetY": 300.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8723,
+      "partPositionDatas": [
+        {
+          "id": 800801,
+          "offsetX": 300.0,
+          "offsetY": 300.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8724,
+      "partPositionDatas": [
+        {
+          "id": 800901,
+          "offsetX": -300.0,
+          "offsetY": 300.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 800902,
+          "offsetX": 0,
+          "offsetY": 300.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8705,
+      "partPositionDatas": [
+        {
+          "id": 803201,
+          "offsetX": 500.0,
+          "offsetY": 100.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 803202,
+          "offsetX": 400,
+          "offsetY": 100.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 803203,
+          "offsetX": 0,
+          "offsetY": 400.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803204,
+          "offsetX": -200,
+          "offsetY": 300.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8725,
+      "partPositionDatas": [
+        {
+          "id": 803201,
+          "offsetX": 500.0,
+          "offsetY": 100.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 803202,
+          "offsetX": 400,
+          "offsetY": 100.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 803203,
+          "offsetX": 0,
+          "offsetY": 400.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803204,
+          "offsetX": -200,
+          "offsetY": 300.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 87122,
+      "partPositionDatas": [
+        {
+          "id": 800201,
+          "offsetX": 400.0,
+          "offsetY": 150.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 800202,
+          "offsetX": 100.0,
+          "offsetY": 400.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 87123,
+      "partPositionDatas": [
+        {
+          "id": 800203,
+          "offsetX": 300.0,
+          "offsetY": -100.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 87124,
+      "partPositionDatas": [
+        {
+          "id": 800203,
+          "offsetX": 300.0,
+          "offsetY": -100.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 87322,
+      "partPositionDatas": [
+        {
+          "id": 800201,
+          "offsetX": 400.0,
+          "offsetY": 150.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 800202,
+          "offsetX": 100.0,
+          "offsetY": 400.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 87323,
+      "partPositionDatas": [
+        {
+          "id": 800203,
+          "offsetX": 300.0,
+          "offsetY": -100.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 87324,
+      "partPositionDatas": [
+        {
+          "id": 800203,
+          "offsetX": 300.0,
+          "offsetY": -100.0,
+          "lineDirection": "LEFT"
         }
       ]
     }

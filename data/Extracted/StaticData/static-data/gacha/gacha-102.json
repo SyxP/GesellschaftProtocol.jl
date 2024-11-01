@@ -5,6 +5,7 @@
       "bannerInfo": {
         "startDate": "2023-03-08T21:00:00.000Z",
         "endDate": "2023-03-22T20:59:59.000Z",
+        "bannerType": "main",
         "pickupIdList": [ 10504, 10904 ],
         "illustList": [ "gacha_4_illust" ],
         "videoList": []
@@ -15,7 +16,7 @@
           "gachaUIState": "Limit",
           "requiredItemId": 1,
           "requiredNum": 13,
-          "requiredChanceId": 101,
+          "requiredChanceId": 102,
           "count": 1
         },
         {

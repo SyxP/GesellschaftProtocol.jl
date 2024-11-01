@@ -5,7 +5,7 @@
       "appearance": "10801_Ishmael_BaseAppearance",
       "mainClique": "LIMBUS_COMPANY",
       "characterId": 8,
-      "season": 1,
+      "season": 0,
       "rank": 1,
       "hp": {
         "defaultStat": 78,
@@ -85,7 +85,7 @@
       "appearance": "10802_Ishmael_RCorpAppearance",
       "mainClique": "R_CORP",
       "characterId": 8,
-      "season": 1,
+      "season": 0,
       "defenseSkillIDList": [
         1000102
       ],
@@ -165,7 +165,7 @@
       "appearance": "10803_Ishmael_ShiAssoAppearance",
       "mainClique": "SHI",
       "characterId": 8,
-      "season": 1,
+      "season": 0,
       "defenseSkillIDList": [
         1080304
       ],

@@ -1390,7 +1390,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] ダメージ量の50%精神力を回復"
+                  "desc": "[OnSucceedAttackHead] ダメージ量の50%混乱区間を後退"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 1,
           "name": "エクセレンテ！",
-          "desc": "[OnSucceedEvade] 精神力を5回復。対象に5精神力ダメージ",
+          "desc": "[OnSucceedEvade] 5混乱区間を後退。対象に5精神力ダメージ",
           "coinlist": [
             {}
           ]

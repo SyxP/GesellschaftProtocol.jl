@@ -1127,6 +1127,18 @@
     {
       "id": "gacha_alarm_title",
       "content": "抽出進行"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "{0} クリア"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "{0}章クリア"
+    },
+    {
+      "id": "ingredients",
+      "content": "材料"
     }
   ]
 }

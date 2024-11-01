@@ -27,7 +27,9 @@
     "ChoiceEventUI",
     "UpgradeCharacterUI",
     "IntegrateAccountUI",
-    "FAQ"
+    "FAQ",
+    "SeasonTitle",
+    "RewardDungeonUI"
   ],
   "bgmLyrics": [
     "BgmLyrics_Credit",
@@ -242,5 +244,8 @@
   ],
   "userBanner": [
     "UserBanner"
+  ],
+  "threadDungeon": [
+    "ThreadDungeon"
   ]
 }

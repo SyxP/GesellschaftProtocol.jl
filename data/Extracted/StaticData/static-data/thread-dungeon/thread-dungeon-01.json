@@ -1,0 +1,494 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "abnormalityId": 8701,
+      "validAttacks": [  ],
+      "validAttributes": [ "CRIMSON" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 1,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 8,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "abnormalityId": 8702,
+      "validAttacks": [  ],
+      "validAttributes": [ "SCARLET" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 2,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 9,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "abnormalityId": 8703,
+      "validAttacks": [  ],
+      "validAttributes": [ "AMBER" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 3,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 10,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "abnormalityId": 8705,
+      "validAttacks": [  ],
+      "validAttributes": [ "SHAMROCK" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 4,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 11,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "abnormalityId": 8708,
+      "validAttacks": [  ],
+      "validAttributes": [ "AZURE" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 5,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 12,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "abnormalityId": 8711,
+      "validAttacks": [  ],
+      "validAttributes": [ "INDIGO" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 6,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 13,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "abnormalityId": 8712,
+      "validAttacks": [  ],
+      "validAttributes": [ "VIOLET" ],
+      "selectStage": [
+        {
+          "requiredEnkephalin": 35,
+          "stageId": 7,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 102,
+            "nodeId": 10219
+          },
+          "chanceReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 6,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 35,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 2,
+                "type": "ITEM"
+              }
+            ]
+          }
+        },
+        {
+          "requiredEnkephalin": 40,
+          "stageId": 14,
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 103,
+            "nodeId": 10322
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 10,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1127,6 +1127,18 @@
     {
       "id": "gacha_alarm_title",
       "content": "Proceeding with Extraction"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "Clear {0}"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "Clear Ch. {0}"
+    },
+    {
+      "id": "ingredients",
+      "content": "Material"
     }
   ]
 }

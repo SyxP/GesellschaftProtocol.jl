@@ -1116,17 +1116,29 @@
       "id": "mainui_unlock_condition_by_ego_awaken_level",
       "content": "환상 해석 {0}단계 개방"
     },
-	{
+    {
       "id": "empty_mailbox_notice",
       "content": "보관 중인 우편이 없습니다."
     },
-	{
+    {
       "id": "gacha_rate_detail",
       "content": "추출 확률 상세"
     },
-	{
+    {
       "id": "gacha_alarm_title",
       "content": "추출 진행"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "{0} 클리어"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "{0}장 클리어"
+    },
+    {
+      "id": "ingredients",
+      "content": "재료"
     }
   ]
 }

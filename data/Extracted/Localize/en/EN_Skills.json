@@ -4351,8 +4351,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails*\n*Nails: At the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, halve the Count. (Rounded down)",
-                  "summary": "[OnSucceedAttack] Inflict 3 Nails*"
+                  "desc": "[OnSucceedAttack] Inflict 3 Nails",
+                  "summary": "[OnSucceedAttack] Inflict 3 Nails"
                 }
               ]
             },
@@ -4373,8 +4373,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Nails*\n*Nails: At the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, halve the Count. (Rounded down)",
-                  "summary": "[OnSucceedAttack] Inflict 3 Nails*"
+                  "desc": "[OnSucceedAttack] Inflict 3 Nails",
+                  "summary": "[OnSucceedAttack] Inflict 3 Nails"
                 }
               ]
             },
@@ -4384,7 +4384,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Nails*, inflict 2 Bind and 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Nails, inflict 2 Bind and 1 Attack Power Down next turn"
                 }
               ]
             }
@@ -4403,7 +4403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Nails* next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Nails next turn"
                 }
               ]
             },
@@ -4489,8 +4489,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails* next turn\n*Nails: At the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, halve the Count. (Rounded down)",
-                  "summary": "[OnSucceedAttack] Inflict 1 Nails* next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Nails next turn",
+                  "summary": "[OnSucceedAttack] Inflict 1 Nails next turn"
                 }
               ]
             },
@@ -4511,8 +4511,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Nails* next turn\n*Nails: At the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, halve the Count. (Rounded down)",
-                  "summary": "[OnSucceedAttack] Inflict 1 Nails* next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Nails next turn",
+                  "summary": "[OnSucceedAttack] Inflict 1 Nails next turn"
                 }
               ]
             },

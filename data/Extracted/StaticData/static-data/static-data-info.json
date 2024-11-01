@@ -91,9 +91,9 @@
       "fileList": [
         "gacha-1",
         "gacha-2",
-        "gacha-3",
-        "gacha-101",
-		"gacha-102"
+        "gacha-3",        
+        "gacha-102",        
+        "gacha-103"
       ]
     },
     {
@@ -236,7 +236,8 @@
       "fileList": [
         "chance-gacha",
         "chance-iap",
-        "chance-mirrordungeon"
+        "chance-mirrordungeon",
+        "chance-rewarddungeon"
       ]
     },
     {
@@ -445,6 +446,42 @@
       "dataClass": "gacksung-panning",
       "fileList": [
         "gacksung-panning"
+      ]
+    },
+    {
+      "dataClass": "thread-dungeon",
+      "fileList": [
+        "thread-dungeon-01"
+      ]
+    },
+    {
+      "dataClass": "battle-thread-dungeon",
+      "fileList": [
+        "battle-thread-dungeon-01"
+      ]
+    },
+    {
+      "dataClass": "exp-dungeon",
+      "fileList": [
+        "exp-dungeon-01"
+      ]
+    },
+    {
+      "dataClass": "battle-exp-dungeon",
+      "fileList": [
+        "battle-exp-dungeon-01"
+      ]
+    },
+    {
+      "dataClass": "reward-dungeon",
+      "fileList": [
+        "reward-dungeon"
+      ]
+    },
+    {
+      "dataClass": "dungeon-common",
+      "fileList": [
+        "dungeon-common-data"
       ]
     }
   ]
