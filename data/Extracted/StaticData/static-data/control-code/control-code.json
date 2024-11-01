@@ -29,7 +29,7 @@
   "isShowBattleResultAfterGiveUp": true,
   "isPassResetRailwayDungeonOnInitialize": true,
   "isCheckMirrorDungeonLoadByBoolean": false,
-  "isCheckForUpdateCatalog": true,
+  "isCheckForUpdateCatalog": false,
   "isClearDataReturnToLogin": true,
   "isBlockTextInputableForCounterUI": false
 }

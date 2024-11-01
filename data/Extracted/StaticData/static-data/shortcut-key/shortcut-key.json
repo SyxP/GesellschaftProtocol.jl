@@ -1,0 +1,23 @@
+{
+  "shortcutKeyDataList": [
+    {
+      "shortcutIdList": [
+        "confirm_popup",
+        "start_battle"
+      ],
+      "keyCodeList": [
+        "KeypadEnter",
+        "Space"
+      ]
+    },
+    {
+      "shortcutIdList": [
+        "pause_and_play"
+      ],
+      "keyCodeList": [
+        "Space",
+        "Mouse2"
+      ]
+    }
+  ]
+}

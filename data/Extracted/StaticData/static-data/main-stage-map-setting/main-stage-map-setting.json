@@ -5,6 +5,7 @@
     "stageNodeZoomAnimationPivotX": 0.35,
     "upperStageNodeZoomAnimationPivotY": 0.55,
     "lowerStageNodeZoomAnimationPivotY": 0.4,
+    "zoomInScale": 1.4,
     "stageIconSlotScale": 0.5,
     "selectedIconScale": 1.0
   },
@@ -15,6 +16,7 @@
       "stageNodeZoomAnimationPivotX": 0.275,
       "upperStageNodeZoomAnimationPivotY": 0.55,
       "lowerStageNodeZoomAnimationPivotY": 0.4,
+      "zoomInScale": 1.4,
       "stageIconSlotScale": 0.75,
       "selectedIconScale": 1.25,
       "boundarySetting": {
@@ -78,17 +80,9 @@
       "stageNodeZoomAnimationPivotX": 0.29,
       "upperStageNodeZoomAnimationPivotY": 0.535,
       "lowerStageNodeZoomAnimationPivotY": 0.4,
+      "zoomInScale": 1.4,
       "stageIconSlotScale": 0.75,
       "selectedIconScale": 1.25
-    },
-    {
-      "subChapterId": 105,
-      "stageMapPosZ": -575,
-      "stageNodeZoomAnimationPivotX": 0.31,
-      "upperStageNodeZoomAnimationPivotY": 0.55,
-      "lowerStageNodeZoomAnimationPivotY": 0.4,
-      "stageIconSlotScale": 0.55,
-      "selectedIconScale": 1.05
     }
   ]
 }

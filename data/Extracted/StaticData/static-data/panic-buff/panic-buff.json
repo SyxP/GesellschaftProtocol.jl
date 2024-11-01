@@ -392,7 +392,7 @@
     {
       "panicID": 1013,
       "lowMorale": {
-        "id": "Impurity_LowMorale",
+        "id": "AaCePbBc",
         "stack": 1,
         "turn": 0,
         "buffClass": "VolatileBuff",
@@ -402,7 +402,7 @@
           {
             "ability": "GiveBuffOnPanicOrLowMorale",
             "buffData": {
-              "buffKeyword": "VULNERABLE",
+              "buffKeyword": "Vulnerable",
               "target": "IfAbnormalityAllPartsOrSelf",
               "stack": 1,
               "turn": 0,
@@ -416,7 +416,7 @@
         ]
       },
       "panic": {
-        "id": "Impurity_Panic",
+        "id": "AaCePbBd",
         "stack": 1,
         "turn": 0,
         "buffClass": "VolatileBuff",
@@ -426,7 +426,7 @@
           {
             "ability": "GiveBuffOnPanicOrLowMorale",
             "buffData": {
-              "buffKeyword": "VULNERABLE",
+              "buffKeyword": "Vulnerable",
               "target": "IfAbnormalityAllPartsOrSelf",
               "stack": 2,
               "turn": 0,
@@ -437,6 +437,154 @@
             "ability": "GiveMpDmgOnLoseDuelTarget",
             "value": 5
           }
+        ]
+      }
+    },
+    {
+      "panicID": 1014,
+      "lowMorale": {
+        "id": "AaCePbBe",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Enhancement",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 1,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "DefenseDown",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 3,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "AaCePbBe",
+            "buffData": {
+              "buffKeyword": "AttackDmgUp",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": -1,
+              "turn": 0,
+              "activeRound": 0,
+              "value": 0.03
+            }
+          }
+        ]
+      },
+      "panic": {
+        "id": "AaCePbBf",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Enhancement",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "DefenseDown",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 6,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "AaCePbBe",
+            "buffData": {
+              "buffKeyword": "AttackDmgUp",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": -1,
+              "turn": 0,
+              "activeRound": 0,
+              "value": 0.03
+            }
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 1015,
+      "lowMorale": {
+        "id": "AaCePcBe",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "MentalSystemResultDecreaseAdder",
+            "value": 2
+          }
+        ]
+      },
+      "panic": {
+        "id": "AaCePcBf",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnRoundEnd",
+            "buffData": {
+              "buffKeyword": "Binding",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 1
+            }
+          },
+          {
+            "ability": "ForceCoinResultTail"
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 9998,
+      "lowMorale": {
+        "id": "NoneMp_LowMorale",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+        ]
+      },
+      "panic": {
+        "id": "NoneMp_Panic",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
         ]
       }
     }

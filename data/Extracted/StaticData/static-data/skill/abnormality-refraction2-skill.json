@@ -4262,15 +4262,15 @@
             {
               "scriptName": "855601_1"
             },
-			{
-                "scriptName": "GiveBuffOnUse",
-                "buffData": {
-                  "buffKeyword": "PrepareSinRose",
-                  "target": "EveryEnemy",
-                  "buffOwner": "",
-                  "stack": 1,
-                  "turn": 0
-                }
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "PrepareSinRose",
+                "target": "EveryEnemy",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0
+              }
             }
           ],
           "coinList": [
@@ -5423,14 +5423,14 @@
             },
             {
               "scriptName": "GiveBuffOnUse",
-			  "buffData": {
-                    "buffKeyword": "Breath",
-                    "target": "EveryAlly",
-                    "buffOwner": "",
-                    "stack": 3,
-                    "turn": 0,
-					"activeRound": 0
-                  }
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "EveryAlly",
+                "buffOwner": "",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0
+              }
             }
           ],
           "coinList": [
@@ -5471,14 +5471,14 @@
             },
             {
               "scriptName": "GiveBuffOnUse",
-			  "buffData": {
-                    "buffKeyword": "Breath",
-                    "target": "EveryAlly",
-                    "buffOwner": "",
-                    "stack": 0,
-                    "turn": 2,
-					"activeRound": 0
-                  }
+              "buffData": {
+                "buffKeyword": "Breath",
+                "target": "EveryAlly",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
             }
           ],
           "coinList": [
@@ -5578,27 +5578,27 @@
             {
               "scriptName": "EmptyBody"
             },
-			{
+            {
               "scriptName": "GiveBuffOnUse",
-			  "buffData": {
-                    "buffKeyword": "Charge",
-                    "target": "AbnormalitySelf",
-                    "buffOwner": "",
-                    "stack": 0,
-                    "turn": 3,
-					"activeRound": 0
-                  }
+              "buffData": {
+                "buffKeyword": "Charge",
+                "target": "AbnormalitySelf",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
             },
-			{
+            {
               "scriptName": "UseBuffAbnormalitySelfOnLoseDuel",
-			  "buffData": {
-                    "buffKeyword": "Charge",
-                    "target": "AbnormalitySelf",
-                    "buffOwner": "",
-                    "stack": 0,
-                    "turn": 3,
-					"activeRound": 0
-                  }
+              "buffData": {
+                "buffKeyword": "Charge",
+                "target": "AbnormalitySelf",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
             }
           ],
           "coinList": [

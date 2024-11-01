@@ -2,8 +2,9 @@
   "list": [
     {
       "id": 2,
-      "isCurrent": true,
+      "isCurrentForUI": true,
       "isExRewardAcquirable": true,
+      "limbusExRewardAcquireType": "COLLECT_AFTER_LIMBUS_PURCHASED",
       "exRewardStartDate": "2023-06-15T03:00:00.000Z",
       "passSeasonInfo": {
         "startDate": "2023-06-01T03:00:00.000Z",

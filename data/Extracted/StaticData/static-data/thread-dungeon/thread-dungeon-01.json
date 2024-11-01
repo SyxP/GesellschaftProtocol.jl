@@ -92,7 +92,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -188,7 +188,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -250,7 +250,7 @@
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"

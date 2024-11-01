@@ -2,8 +2,9 @@
   "list": [
     {
       "id": 1,
-      "isCurrent": false,
+      "isCurrentForUI": false,
       "isExRewardAcquirable": true,
+      "limbusExRewardAcquireType": "COLLECT_FROM_MAX_LEVEL",
       "passSeasonInfo": {
         "startDate": "2023-02-27T01:00:00.000Z",
         "endDate": "2023-05-31T21:00:00.000Z",
