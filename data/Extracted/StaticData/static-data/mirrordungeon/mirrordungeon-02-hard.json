@@ -6,8 +6,9 @@
       "isPersonalityLevelByUserData": true,
       "startCost": 200,
       "startBuffCoefficient": 1.5,
-      "startBuffAcquireChipMultiplyer" : 1.25,
-      "startMaxPersonalityNumber" : 5,
+      "startBuffAcquireChipMultiplyer": 1.25,
+      "startMaxPersonalityNumber": 5,
+      "isShopExistForFloor": [ false, true, false, true, true ],
 
       "eventPoolOfEgoGifTierInFloor": [
         { "list": [ 3, 2 ] },

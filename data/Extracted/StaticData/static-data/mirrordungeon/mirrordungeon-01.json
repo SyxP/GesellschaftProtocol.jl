@@ -6,8 +6,9 @@
       "isPersonalityLevelByUserData": false,
       "startCost": 0,
       "startBuffCoefficient": 1.0,
-      "startBuffAcquireChipMultiplyer" : 1,
-      "startMaxPersonalityNumber" : 5,
+      "startBuffAcquireChipMultiplyer": 1,
+      "startMaxPersonalityNumber": 5,
+      "isShopExistForFloor": [ true, true, true ],
 
       "randompickmaxcost": 0,
       "randompickrewardmultiplyer": 1.2,

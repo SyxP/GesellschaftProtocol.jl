@@ -3,6 +3,7 @@
     {
       "id": "Combustion",
       "buffClass": "SinBuff",
+      "attributeType": "CRIMSON",
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
@@ -18,6 +19,7 @@
     {
       "id": "Laceration",
       "buffClass": "SinBuff",
+      "attributeType": "SCARLET",
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
@@ -29,6 +31,7 @@
     {
       "id": "Vibration",
       "buffClass": "SinBuff",
+      "attributeType": "AMBER",
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
@@ -41,6 +44,7 @@
     {
       "id": "Burst",
       "buffClass": "SinBuff",
+      "attributeType": "SHAMROCK",
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
@@ -52,6 +56,7 @@
     {
       "id": "Sinking",
       "buffClass": "SinBuff",
+      "attributeType": "AZURE",
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [

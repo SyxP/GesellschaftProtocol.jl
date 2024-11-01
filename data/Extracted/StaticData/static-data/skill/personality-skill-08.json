@@ -1347,7 +1347,7 @@
               "scriptName": "AddTauntOnUse4"
             },
             {
-              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "scriptName": "SkillPowerAdderViaBuffCheck",
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "",

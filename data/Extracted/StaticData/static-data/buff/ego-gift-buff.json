@@ -15,7 +15,19 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Agility",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "RefreshSpeedOnRoundStart"
+        }
       ]
     },
     {
@@ -24,7 +36,19 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Agility",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "RefreshSpeedOnRoundStart"
+        }
       ]
     },
     {
@@ -33,7 +57,14 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "TakeHpDamageOnRoundStartByStack",
+          "attribute": "CRIMSON"
+        },
+        {
+          "ability": "LoseStackOnRoundStartByRatio",
+          "value": 1
+        }
       ]
     },
     {
@@ -42,7 +73,18 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "RecoverSelfHpOnRoundStart",
+          "value": 10
+        },
+        {
+          "ability": "RecoverSelfMpOnRoundStart",
+          "value": 10
+        },
+        {
+          "ability": "LoseStackOnRoundStart",
+          "value": 1
+        }
       ]
     },
     {
@@ -51,7 +93,10 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": -1
+        }
       ]
     },
     {
@@ -60,7 +105,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Choice901010"
+        }
       ]
     },
     {
@@ -69,7 +116,19 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Binding",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "RefreshSpeedOnRoundStart"
+        }
       ]
     },
     {
@@ -78,7 +137,16 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Enhancement",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
       ]
     },
     {
@@ -87,7 +155,16 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Reduction",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
       ]
     },
     {
@@ -96,7 +173,16 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "AttackDmgDown",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
       ]
     },
     {
@@ -105,7 +191,16 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Burst",
+            "target": "Self",
+            "stack": 10,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
       ]
     },
     {
@@ -123,7 +218,10 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        }
       ]
     },
     {
@@ -132,7 +230,10 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        }
       ]
     }
   ]

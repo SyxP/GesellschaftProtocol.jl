@@ -3,6 +3,7 @@
     {
       "id": "Breath",
       "buffClass": "SinBuff",
+      "attributeType": "INDIGO",
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
@@ -15,6 +16,7 @@
     {
       "id": "Charge",
       "buffClass": "SinBuff",
+      "attributeType": "VIOLET",
       "buffType": "Positive",
       "maxStack": 20,
       "canBeDespelled": true,

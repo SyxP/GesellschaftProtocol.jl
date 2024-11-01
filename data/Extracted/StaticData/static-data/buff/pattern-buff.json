@@ -17,7 +17,9 @@
       "maxStack": 1,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "ReinforcedAssemble"
+        }
       ]
     },
     {
@@ -26,7 +28,16 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStackIfSatisfied",
+          "value": 1,
+          "buffData": {
+            "buffKeyword": "Nail",
+            "buffOwner": "Target",
+            "stack": 1,
+            "turn": 0
+          }
+        }
       ]
     },
     {
@@ -108,7 +119,16 @@
       "buffType": "Positive",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnTakeAttackDamage",
+          "buffData": {
+            "buffKeyword": "Poison",
+            "target": "Target",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
       ]
     },
     {
@@ -117,7 +137,13 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeHpDamageOnRoundEndByStack"
+        },
+        {
+          "ability": "LoseStackOnRoundEndByRatio",
+          "value": 0.5
+        }
       ]
     },
     {
@@ -137,7 +163,9 @@
       "canBeDespelled": false,
       "destroyableOnZero": false,
       "list": [
-
+        {
+          "ability": "PseudoLastBossKingCrap"
+        }
       ]
     },
     {
@@ -146,7 +174,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "WhistleFear"
+        }
       ]
     },
     {
@@ -155,7 +185,9 @@
       "buffType": "Positive",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "WhistleCourage"
+        }
       ]
     },
     {
@@ -165,7 +197,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "CromerTarget"
+        }
       ]
     },
     {
@@ -174,7 +208,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "CromerBoredom"
+        }
       ]
     },
     {
@@ -183,7 +219,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "CromerEcstasy"
+        }
       ]
     },
     {
@@ -192,7 +230,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "CromerMadness"
+        }
       ]
     },
     {
@@ -202,7 +242,9 @@
       "maxStack": 5,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Exalted"
+        }
       ]
     },
     {
@@ -212,7 +254,9 @@
       "maxStack": 5,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Tipsiness"
+        }
       ]
     },
     {
@@ -222,7 +266,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Predation"
+        }
       ]
     },
     {
@@ -232,7 +278,32 @@
       "maxStack": 15,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "ReattachedCurseTag"
+        }
+      ]
+    },
+    {
+      "id": "ShardOfUmbrella",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundEnd",
+          "value": 5,
+          "buffData": {
+            "buffKeyword": "Burst",
+            "target": "Self",
+            "stack": -1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEndByRatio",
+          "value": 1
+        }
       ]
     },
     {
@@ -242,7 +313,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DistortedDongrangRadiantVanity"
+        }
       ]
     },
     {
@@ -252,7 +325,10 @@
       "maxStack": 2,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DistortedDongrangRadiantVanity",
+          "value": 0.5
+        }
       ]
     },
     {
@@ -262,7 +338,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DistortedDongrangEarnestAchievement"
+        }
       ]
     },
     {
@@ -272,7 +350,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DistortedDongrangEmptyHonor"
+        }
       ]
     },
     {
@@ -302,7 +382,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DistortedDongrangFruition"
+        }
       ]
     },
     {
@@ -345,7 +427,14 @@
       "maxStack": 108,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "value": 0.01
+        },
+        {
+          "ability": "InstantDeathOnRoundEnd",
+          "value": 108
+        }
       ]
     },
     {
@@ -363,16 +452,20 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Greedy"
+        }
       ]
-    }
+    },
     {
       "id": "Desire",
       "buffClass": "NonvolatileBuff",
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "Desire"
+        }
       ]
     },
     {
@@ -390,7 +483,16 @@
       "buffType": "Positive",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Enhancement",
+            "target": "IfAbnormalityAllPartsOrSelf",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
       ]
     },
     {
@@ -410,7 +512,9 @@
       "maxStack": 20,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SelfCharge"
+        }
       ]
     },
     {
@@ -419,7 +523,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Duress"
+        }
       ]
     },
     {
@@ -428,7 +534,10 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "MaxHpMultiplierByStack",
+          "value": -0.5
+        }
       ]
     },
     {
@@ -447,7 +556,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "BullSadness"
+        }
       ]
     },
     {
@@ -465,7 +576,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "BullBuzzingEmotion"
+        }
       ]
     },
     {
@@ -475,7 +588,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "EgoAwakenDongrangRadiantDesire"
+        }
       ]
     },
     {
@@ -484,7 +599,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "EgoAwakenDongrangSeed"
+        }
       ]
     },
     {
@@ -493,7 +610,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "EgoAwakenDongrangTreeDisplay"
+        }
       ]
     },
     {
@@ -502,7 +621,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "EgoAwakenDongrangTree"
+        }
       ]
     },
     {
@@ -512,7 +633,9 @@
       "maxStack": 50,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "EgoAwakenDongrangOverHeal"
+        }
       ]
     },
     {
@@ -531,7 +654,10 @@
       "maxStack": 3,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DongbaekGrow",
+          "value": 0.5
+        }
       ]
     },
     {
@@ -541,7 +667,9 @@
       "maxStack": 5,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "DongbaekFlorescence"
+        }
       ]
     },
     {
@@ -550,7 +678,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DongbaekFullBloomDisplay"
+        }
       ]
     },
     {
@@ -560,7 +690,9 @@
       "maxStack": 3,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DongbaekFullBloom"
+        }
       ]
     },
     {
@@ -570,7 +702,10 @@
       "maxStack": 3,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DongbaekFascination",
+          "value": 30
+        }
       ]
     },
     {
@@ -579,7 +714,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DongbaekShowdown"
+        }
       ]
     },
     {
@@ -588,7 +725,9 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DongbaekScatterPetal"
+        }
       ]
     },
     {
@@ -609,16 +748,50 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Reduction",
+            "target": "IfAbnormalityAllPartsOrSelf",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Vulnerable",
+            "target": "IfAbnormalityAllPartsOrSelf",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Binding",
+            "target": "IfAbnormalityAllPartsOrSelf",
+            "stack": 5,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "RefreshSpeedOnRoundStart"
+        }
       ]
-    }
+    },
     {
       "id": "Thorn",
       "buffClass": "VolatileBuff",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "Thorn"
+        }
       ]
     }
   ]

@@ -59,7 +59,23 @@
               ],
               "profileId": "23GuCooker_ryoshu_profile",
               "analysisId": "23GuCooker_ryoshu_analysis"
-          }
+          },
+          {
+            "personalityId": 10405,
+            "releaseDay": 20230824,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10405",
+                "lockCondition": "gacksung",
+                "order": 4,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "Wcorp_ryoshu_profile",
+            "analysisId": "Wcorp_ryoshu_analysis"
+        }
+        
         ]
     }
   ]

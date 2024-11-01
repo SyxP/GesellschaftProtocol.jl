@@ -6,16 +6,9 @@
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
-
-      ]
-    },
-    {
-      "id": "DimensionRift",
-      "buffClass": "VolatileBuff",
-      "buffType": "Negative",
-      "canBeDespelled": true,
-      "list": [
-
+        {
+          "ability": "Curse"
+        }
       ]
     },
     {
@@ -24,7 +17,9 @@
       "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "EmittedCurrent"
+        }
       ]
     },
     {
@@ -33,7 +28,14 @@
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "TakeHpDamageOnRoundEndByMaxHp",
+          "value": 0.02
+        },
+        {
+          "ability": "LoseStackOnRoundEndByRatio",
+          "value": 1
+        }
       ]
     }
   ]

@@ -688,18 +688,6 @@
       ]
     },
     {
-      "id": 1070311,
-      "attributeResonanceCondition": [
-        {
-          "type": "CRIMSON",
-          "value": 3
-        }
-      ],
-      "requireIDList": [
-        "CheckAwakenLevel4"
-      ]
-    },
-    {
       "id": 1080301,
       "attributeStockCondition": [
         {
@@ -1426,18 +1414,6 @@
       ]
     },
     {
-      "id": 1050611,
-      "attributeStockCondition": [
-        {
-          "type": "VIOLET",
-          "value": 5
-        }
-      ],
-      "requireIDList": [
-        "CheckAwakenLevel4"
-      ]
-    },
-    {
       "id": 1050621,
       "attributeStockCondition": [
         {
@@ -1570,41 +1546,77 @@
       ]
     },
     {
-	  "id": 1020501,
-	  "attributeStockCondition": [
-	    {
-		  "type": "AZURE",
-		  "value": 4
-	    }
-	  ],
-	  "requireIDList": [
-		"CheckAwakenLevel2"
-	  ]
-	},
-	{
-	  "id": 1020511,
-	  "attributeStockCondition": [
-		{
-		  "type": "AZURE",
-		  "value": 4
-		}
-	  ],
-	  "requireIDList": [
-		"CheckAwakenLevel4"
-	  ]
-	},
-	{
-	  "id": 1020521,
-	  "attributeResonanceCondition": [
-		{
-		  "type": "AZURE",
-		  "value": 2
-		}
-	  ],
-	  "requireIDList": [
-	    "CheckAwakenLevel3"
-	  ]
-	},
+      "id": 1020501,
+      "attributeStockCondition": [
+        {
+          "type": "AZURE",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1020521,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1040501,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1040521,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1060601,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1060621,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
     {
       "id": 90001
     },

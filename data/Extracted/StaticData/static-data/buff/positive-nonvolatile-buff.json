@@ -6,7 +6,10 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "ATLAgility",
+          "value": 2
+        }
       ]
     },
     {
@@ -16,7 +19,13 @@
       "maxStack": 10,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "TakeSinBuffDamageMultiplierByStack",
+          "value": -0.1,
+          "buffData": {
+            "buffKeyword": "Combustion"
+          }
+        }
       ]
     },
     {
@@ -26,7 +35,13 @@
       "maxStack": 10,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "TakeSinBuffDamageMultiplierByStack",
+          "value": -0.1,
+          "buffData": {
+            "buffKeyword": "Laceration"
+          }
+        }
       ]
     },
     {
@@ -35,7 +50,10 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "MaxHpMultiplierByStack",
+          "value": 0.01
+        }
       ]
     }
   ]

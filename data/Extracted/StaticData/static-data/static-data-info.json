@@ -40,7 +40,22 @@
     {
       "dataClass": "buff",
       "fileList": [
-        "mirror-dungeon-floor-buff"
+        "ally-skill-buff",
+        "common-buff",
+        "ego-gift-buff",
+        "mirror-dungeon-floor-buff",
+        "negative-nonvolatile-buff",
+        "mirror-dungeon-floor-buff",
+        "negative-sin-buff",
+        "negative-volatile-buff",
+        "neutral-nonvolatile-buff",
+        "neutral-volatile-buff",
+        "normal-enemy-buff",
+        "pattern-buff",
+        "positive-nonvolatile-buff",
+        "positive-sin-buff",
+        "positive-volatile-buff",
+        "typo-only-buff"
       ]
     },
     {
@@ -128,7 +143,9 @@
         "gacha-5",
         "gacha-125",
         "gacha-126",
-        "gacha-127"
+        "gacha-127",
+        "gacha-128",
+        "gacha-129"
       ]
     },
     {
@@ -709,18 +726,6 @@
       ]
     },
     {
-      "dataClass": "gacha-banner-sorting",
-      "fileList": [
-        "gacha-banner-sorting"
-      ]
-    },
-    {
-      "dataClass": "vending-machine-banner-sorting",
-      "fileList": [
-        "vending-machine-banner-sorting"
-      ]
-    },
-    {
       "dataClass": "daily-login-event",
       "fileList": [
         "daily-login-event"
@@ -786,12 +791,6 @@
       "dataClass": "mirrordungeon-special-battle",
       "fileList": [
         "mirrordungeon-special-battle"
-      ]
-    },
-    {
-      "dataClass": "event",
-      "fileList": [
-        "umida-event"
       ]
     }
   ]

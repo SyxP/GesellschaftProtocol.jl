@@ -61,7 +61,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -160,7 +160,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -259,7 +259,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -359,7 +359,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           65,
           35,
@@ -393,6 +393,105 @@
         },
         {
           "skillId": 1040403,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10405,
+      "appearance": "10405_Ryoshu_WCorpAppearance",
+      "unitKeywordList": [ "W_CORP" ],
+      "characterId": 4,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1040504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "defCorrection": -4,
+      "minSpeedList": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "INDIGO",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1040501,
+          "number": 3
+        },
+        {
+          "skillId": 1040502,
+          "number": 2
+        },
+        {
+          "skillId": 1040503,
           "number": 1
         }
       ]

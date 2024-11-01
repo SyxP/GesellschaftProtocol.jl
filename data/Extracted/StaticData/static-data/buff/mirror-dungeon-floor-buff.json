@@ -6,7 +6,7 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        
       ]
     },
     {
@@ -15,7 +15,10 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        }
       ]
     },
     {
@@ -24,7 +27,14 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        }
       ]
     },
     {
@@ -33,7 +43,18 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        }
       ]
     },
     {
@@ -42,7 +63,28 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 2
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -2
+        }
       ]
     },
     {
@@ -51,7 +93,28 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 2
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -2
+        }
       ]
     },
     {
@@ -60,7 +123,28 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 2
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -2
+        }
       ]
     },
     {
@@ -69,7 +153,28 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 2
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 2
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -2
+        }
       ]
     },
     {
@@ -78,7 +183,28 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 3
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 2
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -2
+        }
       ]
     },
     {
@@ -87,7 +213,28 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "value": 5
+        },
+        {
+          "ability": "AtkAdderByStack",
+          "value": 3
+        },
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 2
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -2
+        }
       ]
     }
   ]

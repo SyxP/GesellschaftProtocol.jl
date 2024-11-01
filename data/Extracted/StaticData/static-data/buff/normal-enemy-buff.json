@@ -7,7 +7,9 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "VibrationAssimilation"
+        }
       ]
     },
     {
@@ -17,7 +19,14 @@
       "maxStack": 10,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBsGaugeUpMultiplier",
+          "value": 0.03
+        },
+        {
+          "ability": "GiveHpDamageOnGiveBsGaugeUp",
+          "value": 3
+        }
       ]
     },
     {
@@ -27,7 +36,17 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundEndWhenMpUnder",
+          "value": -20,
+          "buffData": {
+            "buffKeyword": "Protection",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 1
+          }
+        }
       ]
     },
     {
@@ -37,7 +56,17 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundEndWhenMpUnder",
+          "value": -25,
+          "buffData": {
+            "buffKeyword": "Endurance",
+            "target": "Self",
+            "stack": 2,
+            "turn": 0,
+            "activeRound": 1
+          }
+        }
       ]
     },
     {
@@ -47,7 +76,17 @@
       "maxStack": 1,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "GiveBuffOnRoundEndWhenMpUnder",
+          "value": -15,
+          "buffData": {
+            "buffKeyword": "DefenseUp",
+            "target": "Self",
+            "stack": 5,
+            "turn": 0,
+            "activeRound": 1
+          }
+        }
       ]
     },
     {
@@ -66,7 +105,9 @@
       "buffType": "Neutral",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "InterlockingTime"
+        }
       ]
     },
     {
@@ -75,7 +116,9 @@
       "buffType": "Neutral",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TimeRental"
+        }
       ]
     }
   ]

@@ -74,7 +74,23 @@
             ],
             "profileId": "kcorp_honglu_profile",
             "analysisId": "kcorp_honglu_analysis"
-        }
+        },
+        {
+          "personalityId": 10606,
+          "releaseDay": 20230824,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P10606",
+              "lockCondition": "gacksung",
+              "order": 5,
+              "reward":{"type":"ITEM","id":2,"num":40}
+            }
+          ],
+          "profileId": "Wcorp_honglu_profile",
+          "analysisId": "Wcorp_honglu_analysis"
+      }
+      
         ]
     }
   ]

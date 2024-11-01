@@ -1987,6 +1987,7 @@
             {
               "operatorType": "ADD",
               "scale": 5,
+              "cutsceneStart": true,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -2034,21 +2035,22 @@
               "scriptName": "HealHpOnWinDuelSelf4"
             }
           ],
-          "coinList": [
-            {
-              "operatorType": "ADD",
-              "scale": 5
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 5,
-              "abilityScriptList": [
+            "coinList": [
                 {
-                  "scriptName": "1020503_4"
+                    "operatorType": "ADD",
+                    "scale": 5
+                },
+                {
+                    "operatorType": "ADD",
+                    "scale": 5,
+                    "cutsceneStart": true,
+                    "abilityScriptList": [
+                        {
+                            "scriptName": "1020503_4"
+                        }
+                    ]
                 }
-              ]
-            }
-          ]
+            ]
         }
       ]
     },

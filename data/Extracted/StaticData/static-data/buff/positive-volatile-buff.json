@@ -197,7 +197,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "atk": "SLASH",
+          "value": 1
+        }
       ]
     },
     {
@@ -206,7 +210,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "atk": "PENETRATE",
+          "value": 1
+        }
       ]
     },
     {
@@ -215,7 +223,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "atk": "HIT",
+          "value": 1
+        }
       ]
     },
     {
@@ -452,7 +464,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "CRIMSON",
+          "value": 1
+        }
       ]
     },
     {
@@ -461,7 +477,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "SCARLET",
+          "value": 1
+        }
       ]
     },
     {
@@ -470,7 +490,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "AMBER",
+          "value": 1
+        }
       ]
     },
     {
@@ -479,7 +503,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "SHAMROCK",
+          "value": 1
+        }
       ]
     },
     {
@@ -488,7 +516,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "AZURE",
+          "value": 1
+        }
       ]
     },
     {
@@ -497,7 +529,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "INDIGO",
+          "value": 1
+        }
       ]
     },
     {
@@ -506,7 +542,11 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerResultAdderAsStack",
+          "attribute": "VIOLET",
+          "value": 1
+        }
       ]
     },
     {
@@ -515,7 +555,10 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "AttackDmgUp_Weak",
+          "value": 0.01
+        }
       ]
     },
     {
@@ -525,7 +568,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "CRIMSON",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -535,7 +582,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "SCARLET",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -545,7 +596,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "AMBER",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -555,7 +610,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "SHAMROCK",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -565,7 +624,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "AZURE",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -575,7 +638,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "INDIGO",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -585,7 +652,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "attribute": "VIOLET",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -595,7 +666,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "atk": "SLASH",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -605,7 +680,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "atk": "PENETRATE",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -615,7 +694,11 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeAtkDamageMultiplierByStack",
+          "atk": "HIT",
+          "value": -0.1
+        }
       ]
     },
     {
@@ -624,7 +707,10 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "GainSinStockAdder",
+          "value": 1
+        }
       ]
     },
     {
@@ -633,7 +719,9 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "ATLBreath"
+        }
       ]
     },
     {
@@ -643,7 +731,9 @@
       "maxStack": 1,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "ATLTarget"
+        }
       ]
     },
     {
@@ -652,7 +742,10 @@
       "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "SkillPowerAdderAsStack",
+          "value": 1
+        }
       ]
     },
     {
@@ -662,7 +755,13 @@
       "maxStack": 10,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeSinBuffDamageAdderByStack",
+          "value": -1,
+          "buffData": {
+            "buffKeyword": "Burst"
+          }
+        }
       ]
     },
     {
@@ -672,7 +771,10 @@
       "maxStack": 5,
       "canBeDespelled": true,
       "list": [
-
+        {
+          "ability": "TakeHpHealMultiplierByStack",
+          "value": 0.1
+        }
       ]
     }
   ]

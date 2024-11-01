@@ -28,17 +28,9 @@
       "buffType": "Neutral",
       "canBeDespelled": true,
       "list": [
-
-      ]
-    },
-    {
-      "id": "WrappedCurseTag",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Neutral",
-      "maxStack": 10,
-      "canBeDespelled": false,
-      "list": [
-
+        {
+          "ability": "MeursaultLastRemodeling"
+        }
       ]
     }
   ]
