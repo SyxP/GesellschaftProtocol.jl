@@ -3,7 +3,8 @@
 		{
 			"id": 2,
 			"bannerInfo": {
-				"bannerSpr": "banner_vendingMachine2"
+				"bannerSpr": "banner_vendingMachine2",
+				"priority": 2
 			},
 			"groups": [
 				{

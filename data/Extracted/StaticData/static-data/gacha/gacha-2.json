@@ -3,6 +3,13 @@
     {
       "id": 2,
       "bannerInfo": {
+        "bannerType": "PERMANENT",
+        "priority": 1,
+        "condition": {
+          "type": "ITEM",
+          "id": 103,
+          "num": 1
+        },
         "pickupIdList": [],
         "illustList": [ "gacha_2_illust" ],
         "videoList": []
@@ -19,10 +26,10 @@
       "contents": [
         {
           "groupType": "1",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":8400
+              "occupancyCase": "DEFAULT",
+              "occupancy": 8400
             }
           ],
           "elementType": "PERSONALITY",
@@ -43,10 +50,10 @@
         },
         {
           "groupType": "2",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":1300
+              "occupancyCase": "DEFAULT",
+              "occupancy": 1300
             }
           ],
           "elementType": "PERSONALITY",
@@ -80,14 +87,14 @@
         },
         {
           "groupType": "3",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":300
+              "occupancyCase": "DEFAULT",
+              "occupancy": 300
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":10000
+              "occupancyCase": "TENTH",
+              "occupancy": 10000
             }
           ],
           "elementType": "PERSONALITY",

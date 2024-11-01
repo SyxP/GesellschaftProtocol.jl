@@ -2,10 +2,12 @@
   "list": [
     {
       "id": 126,
+      "startDate": "2023-07-13T03:00:00.000Z",
+      "endDate": "2023-08-10T00:59:59.000Z",
       "bannerInfo": {
-        "startDate": "2023-07-13T03:00:00.000Z",
         "endDate": "2023-08-10T00:59:59.000Z",
-        "bannerType": "main",
+        "bannerType": "TEMPORARY_MAIN",
+        "priority": 100,
         "pickupIdList": [ 20604, 10807 ],
         "illustList": [ "gacha_126_illust" ],
         "videoList": [ "20604", "10807_1" ]
@@ -234,15 +236,15 @@
         },
         {
           "groupType": "EGO_pickup",
-          "samplingWithoutReplacement":true,
-          "occupancyCaseList":[
+          "samplingWithoutReplacement": true,
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":65
+              "occupancyCase": "DEFAULT",
+              "occupancy": 65
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":65
+              "occupancyCase": "TENTH",
+              "occupancy": 65
             }
           ],
           "elementType": "EGO",
@@ -252,6 +254,7 @@
         }
       ],
       "pitySystem": {
+        "endDate": "2023-08-10T00:59:59.000Z",
         "catalog": [
           {
             "element": {

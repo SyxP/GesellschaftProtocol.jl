@@ -3,7 +3,8 @@
 		{
 			"id": 0,
 			"bannerInfo": {
-				"bannerSpr": "banner_vendingMachine0"
+				"bannerSpr": "banner_vendingMachine0",
+				"priority": 0
 			},
 			"groups": [
 				{
@@ -134,15 +135,15 @@
 							"id": 11202,
 							"price": 150
 						},
-						
-						
-						
-						
-						
-						
-						
-						
-						
+
+
+
+
+
+
+
+
+
 						{
 							"type": "EGO",
 							"id": 20103,
@@ -157,7 +158,7 @@
 							"type": "EGO",
 							"id": 20203,
 							"price": 400
-						},			
+						},
 						{
 							"type": "EGO",
 							"id": 20204,

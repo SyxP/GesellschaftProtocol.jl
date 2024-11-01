@@ -3,6 +3,14 @@
     {
       "id": 5,
       "bannerInfo": {
+        "bannerType": "PERMANENT",
+        "priority": 12,
+        "condition": {
+          "type": "ITEM",
+          "id": 105,
+          "num": 1
+        },
+
         "pickupIdList": [],
         "illustList": [ "gacha_5_illust" ],
         "videoList": []

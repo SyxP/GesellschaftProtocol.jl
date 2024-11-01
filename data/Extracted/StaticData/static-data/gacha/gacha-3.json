@@ -3,17 +3,25 @@
     {
       "id": 3,
       "bannerInfo": {
+        "bannerType": "PERMANENT",
+        "priority": 0,
+        "condition": {
+          "type": "CHANCE",
+          "id": 3,
+          "num": 1
+        },
         "pickupIdList": [],
         "illustList": [ "gacha_3_illust" ],
         "videoList": []
       },
+      "threeStarChanceId": 2,
       "payments": [
         {
           "paymentId": 1,
           "gachaUIState": "One",
           "requiredItemId": 3,
           "requiredNum": 80,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 1
         },
         {
@@ -21,7 +29,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 160,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 2
         },
         {
@@ -29,7 +37,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 240,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 3
         },
         {
@@ -37,7 +45,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 320,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 4
         },
         {
@@ -45,7 +53,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 400,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 5
         },
         {
@@ -53,7 +61,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 480,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 6
         },
         {
@@ -61,7 +69,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 560,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 7
         },
         {
@@ -69,7 +77,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 640,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 8
         },
         {
@@ -77,7 +85,7 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 720,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 9
         },
         {
@@ -85,21 +93,21 @@
           "gachaUIState": "Ten",
           "requiredItemId": 3,
           "requiredNum": 800,
-          "requiredChanceId":3,
+          "requiredChanceId": 3,
           "count": 10
         }
       ],
       "contents": [
         {
           "groupType": "1",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":8300
+              "occupancyCase": "DEFAULT",
+              "occupancy": 8300
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":8400
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 8400
             }
           ],
           "elementType": "PERSONALITY",
@@ -120,22 +128,22 @@
         },
         {
           "groupType": "2",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":1280
+              "occupancyCase": "DEFAULT",
+              "occupancy": 1280
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":9580
+              "occupancyCase": "TENTH",
+              "occupancy": 9580
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":1300
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 1300
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":9700
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 9700
             }
           ],
           "elementType": "PERSONALITY",
@@ -169,30 +177,30 @@
         },
         {
           "groupType": "3",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":290
+              "occupancyCase": "DEFAULT",
+              "occupancy": 290
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":290
+              "occupancyCase": "TENTH",
+              "occupancy": 290
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":300
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 300
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":300
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 300
             },
             {
-              "occupancyCase":"LAST_SPECIAL",
-              "occupancy":9870
+              "occupancyCase": "LAST_SPECIAL",
+              "occupancy": 9870
             },
             {
-              "occupancyCase":"COMPLETE_EGO_LAST_SPECIAL",
-              "occupancy":10000
+              "occupancyCase": "COMPLETE_EGO_LAST_SPECIAL",
+              "occupancy": 10000
             }
           ],
           "elementType": "PERSONALITY",
@@ -223,18 +231,18 @@
         },
         {
           "groupType": "EGO",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":130
+              "occupancyCase": "DEFAULT",
+              "occupancy": 130
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":130
+              "occupancyCase": "TENTH",
+              "occupancy": 130
             },
             {
-              "occupancyCase":"LAST_SPECIAL",
-              "occupancy":130
+              "occupancyCase": "LAST_SPECIAL",
+              "occupancy": 130
             }
           ],
           "elementType": "EGO",

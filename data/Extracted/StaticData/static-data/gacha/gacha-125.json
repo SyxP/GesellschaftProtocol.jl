@@ -2,9 +2,12 @@
   "list": [
     {
       "id": 125,
+      "startDate": "2023-07-13T03:00:00.000Z",
+      "endDate": "2023-08-10T00:59:59.000Z",
       "bannerInfo": {
-        "startDate": "2023-07-13T03:00:00.000Z",
         "endDate": "2023-08-10T00:59:59.000Z",
+        "bannerType": "TEMPORARY_SUB",
+        "priority": 99,
         "pickupIdList": [ 20404, 20403, 10403, 10402 ],
         "illustList": [ "gacha_125_illust" ],
         "videoList": [ "20404", "20403", "10403_1", "10402_1" ]
@@ -57,14 +60,14 @@
       "contents": [
         {
           "groupType": "1",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":4150
+              "occupancyCase": "DEFAULT",
+              "occupancy": 4150
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":4200
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 4200
             }
           ],
           "elementType": "PERSONALITY",
@@ -84,14 +87,14 @@
         },
         {
           "groupType": "1_pickup",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":4150
+              "occupancyCase": "DEFAULT",
+              "occupancy": 4150
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":4200
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 4200
             }
           ],
           "elementType": "PERSONALITY",
@@ -101,22 +104,22 @@
         },
         {
           "groupType": "2",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":640
+              "occupancyCase": "DEFAULT",
+              "occupancy": 640
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":4790
+              "occupancyCase": "TENTH",
+              "occupancy": 4790
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":650
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 650
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":4850
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 4850
             }
           ],
           "elementType": "PERSONALITY",
@@ -149,22 +152,22 @@
         },
         {
           "groupType": "2_pickup",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":640
+              "occupancyCase": "DEFAULT",
+              "occupancy": 640
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":4790
+              "occupancyCase": "TENTH",
+              "occupancy": 4790
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":650
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 650
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":4850
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 4850
             }
           ],
           "elementType": "PERSONALITY",
@@ -174,22 +177,22 @@
         },
         {
           "groupType": "3",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":145
+              "occupancyCase": "DEFAULT",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":145
+              "occupancyCase": "TENTH",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 150
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 150
             }
           ],
           "elementType": "PERSONALITY",
@@ -219,22 +222,22 @@
         },
         {
           "groupType": "3_pickup",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":145
+              "occupancyCase": "DEFAULT",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":145
+              "occupancyCase": "TENTH",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 150
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 150
             }
           ],
           "elementType": "PERSONALITY",
@@ -244,15 +247,15 @@
         },
         {
           "groupType": "EGO",
-          "samplingWithoutReplacement":true,
-          "occupancyCaseList":[
+          "samplingWithoutReplacement": true,
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":65
+              "occupancyCase": "DEFAULT",
+              "occupancy": 65
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":65
+              "occupancyCase": "TENTH",
+              "occupancy": 65
             }
           ],
           "elementType": "EGO",
@@ -272,15 +275,15 @@
         },
         {
           "groupType": "EGO_pickup",
-          "samplingWithoutReplacement":true,
-          "occupancyCaseList":[
+          "samplingWithoutReplacement": true,
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":65
+              "occupancyCase": "DEFAULT",
+              "occupancy": 65
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":65
+              "occupancyCase": "TENTH",
+              "occupancy": 65
             }
           ],
           "elementType": "EGO",
@@ -291,6 +294,7 @@
         }
       ],
       "pitySystem": {
+        "endDate": "2023-08-10T00:59:59.000Z",
         "catalog": [
           {
             "element": {
