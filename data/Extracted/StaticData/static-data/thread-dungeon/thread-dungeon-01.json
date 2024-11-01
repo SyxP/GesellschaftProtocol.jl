@@ -7,6 +7,8 @@
       "validAttributes": [ "CRIMSON" ],
       "selectStage": [
         {
+          "ui_id": 1,
+          "abnormalityId": 8001,
           "requiredItem": {
             "id": 11,
             "num": 2,
@@ -49,6 +51,8 @@
 		  "skipRewardModify": 1.5
         },
         {
+          "ui_id": 1,
+          "abnormalityId": 8001,
           "requiredItem": {
             "id": 11,
             "num": 2,
@@ -99,6 +103,8 @@
       "validAttributes": [ "SCARLET" ],
       "selectStage": [
         {
+          "ui_id": 2,
+          "abnormalityId": 8031,
           "requiredItem": {
             "id": 11,
             "num": 2,
@@ -141,6 +147,8 @@
 		  "skipRewardModify": 1.5
         },
         {
+          "ui_id": 2,
+          "abnormalityId": 8031,
           "requiredItem": {
             "id": 11,
             "num": 2,
@@ -191,6 +199,8 @@
       "validAttributes": [ "AMBER" ],
       "selectStage": [
         {
+          "ui_id": 3,
+          "abnormalityId": 8008,
           "requiredItem": {
             "id": 11,
             "num": 2,
@@ -233,6 +243,8 @@
 		  "skipRewardModify": 1.5
         },
         {
+          "ui_id": 3,
+          "abnormalityId": 8008,
           "requiredItem": {
             "id": 11,
             "num": 2,
@@ -272,7 +284,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -283,12 +295,14 @@
       "validAttributes": [ "SHAMROCK" ],
       "selectStage": [
         {
+          "ui_id": 4,
+          "abnormalityId": 8032,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -322,15 +336,17 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         },
         {
+          "ui_id": 4,
+          "abnormalityId": 8032,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -364,7 +380,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -375,12 +391,14 @@
       "validAttributes": [ "AZURE" ],
       "selectStage": [
         {
+          "ui_id": 5,
+          "abnormalityId": 8012,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -414,15 +432,17 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         },
         {
+          "ui_id": 5,
+          "abnormalityId": 8012,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -456,7 +476,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -467,12 +487,14 @@
       "validAttributes": [ "INDIGO" ],
       "selectStage": [
         {
+          "ui_id": 6,
+          "abnormalityId": 8015,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -506,15 +528,17 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         },
         {
+          "ui_id": 6,
+          "abnormalityId": 8015,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -548,7 +572,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -559,12 +583,14 @@
       "validAttributes": [ "VIOLET" ],
       "selectStage": [
         {
+          "ui_id": 7,
+          "abnormalityId": 8002,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -598,15 +624,17 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         },
         {
+          "ui_id": 7,
+          "abnormalityId": 8002,
           "requiredItem": {
             "id": 11,
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -640,7 +668,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         }
       ]
     }
