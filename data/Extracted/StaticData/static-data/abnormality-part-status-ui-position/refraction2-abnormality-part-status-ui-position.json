@@ -1,0 +1,123 @@
+{
+  "list": [
+    {
+      "id": 8541,
+      "partPositionDatas": [
+        {
+          "id": 854101,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 854102,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8539,
+      "partPositionDatas": [
+        {
+          "id": 853901,
+          "offsetX": 200.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 853902,
+          "offsetX": 0.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8544,
+      "partPositionDatas": [
+        {
+          "id": 854401,
+          "offsetX": 400.0,
+          "offsetY": 150.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 854402,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8542,
+      "partPositionDatas": [
+        {
+          "id": 854201,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 854202,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8547,
+      "partPositionDatas": [
+        {
+          "id": 854701,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 854702,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8549,
+      "partPositionDatas": [
+        {
+          "id": 854901,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 854902,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8555,
+      "partPositionDatas": [
+        {
+          "id": 855501,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 855502,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    }
+  ]
+}

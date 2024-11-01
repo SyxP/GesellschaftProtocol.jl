@@ -10,7 +10,7 @@
       "defenseSkillIDList": [
         1020104
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -61,7 +61,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           60,
           30,
@@ -109,7 +109,7 @@
       "defenseSkillIDList": [
         1020204
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -160,7 +160,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           60,
           30
@@ -207,7 +207,7 @@
       "defenseSkillIDList": [
         1020304
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -258,7 +258,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -306,7 +306,7 @@
       "defenseSkillIDList": [
         1020404
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -357,7 +357,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -395,7 +395,7 @@
         }
       ]
     },
-	{
+    {
       "id": 10205,
       "appearance": "10205_Faust_ZweiAppearance",
       "unitKeywordList": [ "ZWEI" ],
@@ -405,7 +405,7 @@
       "defenseSkillIDList": [
         1020504
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -456,7 +456,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           55,
           20
@@ -489,6 +489,105 @@
         },
         {
           "skillId": 1020503,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10206,
+      "appearance": "10206_Faust_SevenAppearance",
+      "unitKeywordList": [ "SEVEN" ],
+      "characterId": 2,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1020604
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 76,
+        "incrementByLevel": 2.4
+      },
+      "defCorrection": -2,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1020601,
+          "number": 3
+        },
+        {
+          "skillId": 1020602,
+          "number": 2
+        },
+        {
+          "skillId": 1020603,
           "number": 1
         }
       ]

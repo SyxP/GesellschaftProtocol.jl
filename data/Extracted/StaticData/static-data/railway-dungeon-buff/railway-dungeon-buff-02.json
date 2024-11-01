@@ -1,0 +1,165 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_1",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_A_ALLY"
+      ]
+    },
+    {
+      "id": 2,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_2",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_B_ALLY"
+      ]
+    },
+    {
+      "id": 3,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_3",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_C_ALLY"
+      ]
+    },
+    {
+      "id": 4,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_4",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_D_ALLY"
+      ]
+    },
+    {
+      "id": 5,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_5",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_E_ALLY"
+      ]
+    },
+    {
+      "id": 6,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_1",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_F_ALLY"
+      ]
+    },
+    {
+      "id": 7,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_2",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_G_ALLY"
+      ]
+    },
+    {
+      "id": 8,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_3",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_H_ALLY"
+      ]
+    },
+    {
+      "id": 9,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_4",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_I_ALLY"
+      ]
+    },
+    {
+      "id": 10,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_5",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_J_ALLY"
+      ]
+    },
+    {
+      "id": 11,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_1",
+      "iconId": "",
+      "intermissionBuffList": [
+        {
+          "key": "HealMpAmountForAll",
+          "value": 0.25
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_2",
+      "iconId": "",
+      "intermissionBuffList": [
+        {
+          "key": "HealHpMaxForSelected",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_1",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_B_ENEMY"
+      ]
+    },
+    {
+      "id": 14,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_2",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_C_ENEMY"
+      ]
+    },
+    {
+      "id": 15,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_3",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_D_ENEMY"
+      ]
+    },
+    {
+      "id": 16,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_4",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_E_ENEMY"
+      ]
+    },
+    {
+      "id": 17,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_5",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_F_ENEMY"
+      ]
+    },
+    {
+      "id": 18,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_3",
+      "iconId": "",
+      "intermissionBuffList": [
+        {
+          "key": "ResurrectForSelected",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "localizeId": "railway_dungeon_2_dummy_buff_name_5",
+      "iconId": "",
+      "battleBuffKeyword": [
+        "RailBuffForLine2_A_ENEMY"
+      ]
+    }
+  ]
+}

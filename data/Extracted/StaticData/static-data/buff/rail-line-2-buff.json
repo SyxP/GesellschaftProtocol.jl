@@ -1,14 +1,152 @@
 {
   "list": [
     {
+      "id": "RailBuffForLine2_A_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "atk": "SLASH",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_B_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "atk": "PENETRATE",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_C_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "atk": "HIT",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_D_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "CRIMSON",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_E_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "SCARLET",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_F_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "AMBER",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_G_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "SHAMROCK",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_H_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "AZURE",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_I_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "INDIGO",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_J_ALLY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplier",
+          "attribute": "VIOLET",
+          "value": 0.15
+        }
+      ]
+    },
+    {
       "id": "RailBuffForLine2_A_ENEMY",
       "buffClass": "VariableBuff",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "AtkDamageMultiplierByStack",
-          "value": 0.5
+          "ability": "AtkDamageMultiplier",
+          "value": 0.1
+        },
+        {
+          "ability": "AtkAdder",
+          "value": 1
+        },
+        {
+          "ability": "DefAdder",
+          "value": 1
         }
       ]
     },
@@ -19,18 +157,8 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "AtkDamageMultiplierByStack",
-          "value": 0.25
-        },
-        {
-          "ability": "GiveBuffOnSucceedAttack",
-          "buffData": {
-            "buffKeyword": "TakeHpHealReduce",
-            "target": "Target",
-            "stack": 5,
-            "turn": 0,
-            "activeRound": 0
-          }
+          "ability": "AtkAdderIfNotDamagedPrevTurn",
+          "value": 3
         }
       ]
     },
@@ -41,12 +169,12 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "AtkDamageMultiplierByStack",
-          "value": 0.5
+          "ability": "MaxHpMultiplier",
+          "value": 0.15
         },
         {
-          "ability": "MaxHpMultiplierByStack",
-          "value": 0.25
+          "ability": "SlotWeightAdder",
+          "value": 1
         }
       ]
     },
@@ -57,18 +185,12 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "AtkDamageMultiplierByStack",
-          "value": 0.25
+          "ability": "MaxSpeedAdder",
+          "value": 2
         },
         {
-          "ability": "CoinScaleAdderByStack",
-          "coinOperator": "ADD",
+          "ability": "MinSpeedAdder",
           "value": 1
-        },
-        {
-          "ability": "CoinScaleAdderByStack",
-          "coinOperator": "SUB",
-          "value": -1
         }
       ]
     },
@@ -79,12 +201,24 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "AtkDamageMultiplierByStack",
-          "value": 0.25
+          "ability": "TakeHpHealMultiplier",
+          "value": 0.4
         },
         {
-          "ability": "MaxHpMultiplierByStack",
-          "value": 0.25
+          "ability": "RecoverSelfHpOnSucceedAttackByDmg",
+          "value": 0.08
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_F_ENEMY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "RailEnemyBuffF",
+          "value": 1
         }
       ]
     }

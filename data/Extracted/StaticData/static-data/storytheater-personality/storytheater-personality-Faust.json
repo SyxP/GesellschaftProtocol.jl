@@ -74,7 +74,22 @@
             ],
             "profileId": "zwei_faust_profile",
             "analysisId": "zwei_faust_analysis"
-        }
+        },
+        {
+          "personalityId": 10206,
+          "releaseDay": 20230907,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P10206",
+              "lockCondition": "gacksung",
+              "order": 4,
+              "reward":{"type":"ITEM","id":2,"num":40}
+            }
+          ],
+          "profileId": "seven_faust_profile",
+          "analysisId": "seven_faust_analysis"
+      }
         ]
     }
   ]

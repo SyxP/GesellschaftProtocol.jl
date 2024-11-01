@@ -18,10 +18,12 @@
         {
           "isMinValue": true,
           "clearTurn": 999,
-          "requiredCondition": {
-            "type": "CLEAR_TURN_COUNT",
-            "count": 999
-          },
+          "requiredConditions": [
+            {
+              "type": "CLEAR_TURN_COUNT",
+              "count": 999
+            }
+          ],
           "endDate": "2023-05-18T00:59:59.000Z",
           "reward": {
             "type": "USERBANNER",
@@ -31,10 +33,12 @@
         },
         {
           "clearTurn": 120,
-          "requiredCondition": {
-            "type": "CLEAR_TURN_COUNT",
-            "count": 120
-          },
+          "requiredConditions": [
+            {
+              "type": "CLEAR_TURN_COUNT",
+              "count": 120
+            }
+          ],
           "endDate": "2023-05-18T00:59:59.000Z",
           "reward": {
             "type": "USERBANNER",
@@ -45,10 +49,12 @@
         {
           "isDateLimited": true,
           "clearTurn": 120,
-          "requiredCondition": {
-            "type": "CLEAR_TURN_COUNT",
-            "count": 120
-          },
+          "requiredConditions": [
+            {
+              "type": "CLEAR_TURN_COUNT",
+              "count": 120
+            }
+          ],
           "endDate": "2023-04-20T00:59:59.000Z",
           "reward": {
             "type": "USERBANNER",

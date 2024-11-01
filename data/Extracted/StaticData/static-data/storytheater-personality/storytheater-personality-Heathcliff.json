@@ -74,6 +74,21 @@
               ],
             "profileId": "lego_heathcliff_profile",
             "analysisId": "lego_heathcliff_analysis"
+            },
+            {
+              "personalityId": 10706,
+              "releaseDay": 20230907,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10706",
+                  "lockCondition": "gacksung",
+                  "order": 5,
+                  "reward":{"type":"ITEM","id":2,"num":40}
+                }
+              ],
+            "profileId": "seven_heathcliff_profile",
+            "analysisId": "seven_heathcliff_analysis"
             }
         ]
     }

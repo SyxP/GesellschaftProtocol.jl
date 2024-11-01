@@ -149,7 +149,9 @@
         "gacha-126",
         "gacha-127",
         "gacha-128",
-        "gacha-129"
+        "gacha-129",
+        "gacha-130",
+        "gacha-131"
       ]
     },
     {
@@ -548,6 +550,7 @@
       "fileList": [
         "abnormality-part-status-ui-position",
         "refraction-abnormality-part-status-ui-position",
+        "refraction2-abnormality-part-status-ui-position",
         "mirror-abnormality-part-status-ui-position"
       ]
     },
@@ -652,7 +655,8 @@
     {
       "dataClass": "battle-railway-dungeon",
       "fileList": [
-        "battle-railway-dungeon-01"
+        "battle-railway-dungeon-01",
+        "battle-railway-dungeon-02"
       ]
     },
     {
@@ -803,6 +807,18 @@
       "dataClass": "ui-config",
       "fileList": [
         "ui-config"
+      ]
+    },
+    {
+      "dataClass": "event",
+      "fileList": [
+        "daily-login-event-230907"
+      ]
+    },
+    {
+      "dataClass": "railway-dungeon-buff",
+      "fileList": [
+        "railway-dungeon-buff-02"
       ]
     }
   ]
