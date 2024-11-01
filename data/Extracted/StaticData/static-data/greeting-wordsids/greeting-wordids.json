@@ -244,6 +244,16 @@
       "id": 65,
       "condition": "GetPersonality",
       "conditionRefId": 10806
+    },
+    {
+      "id": 66,
+      "condition": "GetPersonality",
+      "conditionRefId": 10506
+    },
+    {
+      "id": 67,
+      "condition": "GetPersonality",
+      "conditionRefId": 10906
     }
   ]
 }

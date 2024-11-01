@@ -6302,7 +6302,7 @@
       ],
       "includeBoss": 1,
       "attackType": "SLASH",
-      "attributeType": "CRIMSON"
+      "attributeType": "INDIGO"
     },
     {
       "id": 2024102,
@@ -6485,117 +6485,11 @@
         801203,
         801204
       ],
-      "attackType": "HIT",
+      "attackType": "PENETRATE",
       "attributeType": "CRIMSON"
     },
     {
       "id": 2024105,
-      "stageLevel": 35,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 6,
-        "max": 6
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_PinkShoes"
-          },
-          "unitList": [
-            {
-              "unitID": 8013,
-              "unitCount": 2,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8015,
-              "unitCount": 1,
-              "unitLevel": 35
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp2_Ally_3",
-            "Battle_Cp2_Enemy_3"
-          ]
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "PinkShoe",
-      "eventScriptName": "PinkShoe",
-      "abnormalityEventList": [
-        801501,
-        801502
-      ],
-      "attackType": "HIT",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2024106,
-      "stageLevel": 35,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 6,
-        "max": 6
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_PinkShoes"
-          },
-          "unitList": [
-            {
-              "unitID": 8014,
-              "unitCount": 2,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8015,
-              "unitCount": 1,
-              "unitLevel": 35
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp2_Ally_3",
-            "Battle_Cp2_Enemy_3"
-          ]
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "PinkShoe",
-      "eventScriptName": "PinkShoe",
-      "abnormalityEventList": [
-        801501,
-        801502
-      ],
-      "attackType": "HIT",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2024107,
       "stageLevel": 35,
       "stageType": "Abnormality",
       "participantInfo": {
@@ -6887,7 +6781,7 @@
         803201
       ],
       "attackType": "HIT",
-      "attributeType": "AMBER"
+      "attributeType": "INDIGO"
     },
     {
       "id": 2024401,
@@ -6931,7 +6825,7 @@
       "dangerLevel": 0,
       "stageScriptNameAfterClear": "BrassBull_Second",
       "attackType": "HIT",
-      "attributeType": "AMBER"
+      "attributeType": "AZURE"
     },
     {
       "id": 2024402,
@@ -7105,11 +6999,6 @@
           "unitList": [
             {
               "unitID": 8048,
-              "unitCount": 1,
-              "unitLevel": 40
-            },
-            {
-              "unitID": 8051,
               "unitCount": 1,
               "unitLevel": 40
             }

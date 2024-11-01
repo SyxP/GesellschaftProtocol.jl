@@ -62,7 +62,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           65,
           35,
@@ -173,7 +173,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           60,
           30
@@ -282,7 +282,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -392,7 +392,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -443,7 +443,7 @@
     {
       "id": 10905,
       "appearance": "10905_Rodion_EliteFixerAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "characterId": 9,
       "panicType": 9999,
       "season": 2,
@@ -502,7 +502,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           65,
           35,
@@ -547,6 +547,115 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1090521
+        ]
+      }
+    },
+    {
+      "id": 10906,
+      "appearance": "10906_Rodion_ZweiAppearance",
+      "unitKeywordList": [ "ZWEI" ],
+      "characterId": 9,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1090604
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 88,
+        "incrementByLevel": 3.05
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.76
+      },
+      "minSpeedList": [
+        1,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        4
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          55,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1090601,
+          "number": 3
+        },
+        {
+          "skillId": 1090602,
+          "number": 2
+        },
+        {
+          "skillId": 1090603,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1090601
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1090621
         ]
       }
     }

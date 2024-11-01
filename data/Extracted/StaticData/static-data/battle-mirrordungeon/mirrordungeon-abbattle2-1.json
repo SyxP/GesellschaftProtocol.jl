@@ -6255,8 +6255,230 @@
       "attributeType": "SHAMROCK"
     },
     {
-      "id": 2034101,
+      "id": 2034051,
       "stageLevel": 35,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_SuperHuman"
+          },
+          "unitList": [
+            {
+              "unitID": 8010,
+              "unitCount": 2,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8011,
+              "unitCount": 1,
+              "unitLevel": 35
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp2_Enemy_3"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "attackType": "HIT",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034052,
+      "stageLevel": 35,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_PinkShoes"
+          },
+          "unitList": [
+            {
+              "unitID": 8013,
+              "unitCount": 2,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8014,
+              "unitCount": 1,
+              "unitLevel": 35
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp2_Enemy_3"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "attackType": "SLASH",
+      "attributeType": "AMBER"
+    },
+    {
+      "id": 2034053,
+      "stageLevel": 35,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp3_B1_LCorpE"
+          },
+          "unitList": [
+            {
+              "unitID": 8024,
+              "unitCount": 2,
+              "unitLevel": 35
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_4"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "attackType": "HIT",
+      "attributeType": "VIOLET"
+    },
+    {
+      "id": 2034054,
+      "stageLevel": 35,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp3_B1_LCorpE"
+          },
+          "unitList": [
+            {
+              "unitID": 8027,
+              "unitCount": 2,
+              "unitLevel": 35
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_4"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "attackType": "SLASH",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034055,
+      "stageLevel": 35,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp3_B2_LCorpS"
+          },
+          "unitList": [
+            {
+              "unitID": 8033,
+              "unitCount": 1,
+              "unitLevel": 35
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_4"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "attackType": "PENETRATE",
+      "attributeType": "AMBER"
+    },
+    {
+      "id": 2034151,
+      "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 6,
@@ -6271,7 +6493,7 @@
             {
               "unitID": 8001,
               "unitCount": 1,
-              "unitLevel": 35
+              "unitLevel": 40
             }
           ],
           "bgmList": [
@@ -6302,11 +6524,11 @@
       ],
       "includeBoss": 1,
       "attackType": "SLASH",
-      "attributeType": "CRIMSON"
+      "attributeType": "INDIGO"
     },
     {
-      "id": 2034102,
-      "stageLevel": 35,
+      "id": 2034152,
+      "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 6,
@@ -6321,12 +6543,12 @@
             {
               "unitID": 8002,
               "unitCount": 1,
-              "unitLevel": 35
+              "unitLevel": 40
             },
             {
               "unitID": 8003,
               "unitCount": 3,
-              "unitLevel": 35
+              "unitLevel": 40
             }
           ],
           "subUnitList": [
@@ -6377,12 +6599,12 @@
         800206
       ],
       "includeBoss": 1,
-      "attackType": "HIT",
+      "attackType": "SLASH",
       "attributeType": "AMBER"
     },
     {
-      "id": 2034103,
-      "stageLevel": 35,
+      "id": 2034153,
+      "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 6,
@@ -6395,9 +6617,9 @@
           },
           "unitList": [
             {
-              "unitID": 8008,
+              "unitID": 8094,
               "unitCount": 1,
-              "unitLevel": 35
+              "unitLevel": 40
             }
           ],
           "bgmList": [
@@ -6429,8 +6651,8 @@
       "attributeType": "AMBER"
     },
     {
-      "id": 2034104,
-      "stageLevel": 35,
+      "id": 2034154,
+      "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 6,
@@ -6445,17 +6667,17 @@
             {
               "unitID": 8010,
               "unitCount": 1,
-              "unitLevel": 35
+              "unitLevel": 40
             },
             {
               "unitID": 8011,
               "unitCount": 1,
-              "unitLevel": 35
+              "unitLevel": 40
             },
             {
               "unitID": 8012,
               "unitCount": 1,
-              "unitLevel": 35
+              "unitLevel": 40
             }
           ],
           "bgmList": [
@@ -6485,180 +6707,122 @@
         801203,
         801204
       ],
-      "attackType": "HIT",
+      "attackType": "PENETRATE",
       "attributeType": "CRIMSON"
     },
     {
-      "id": 2034105,
-      "stageLevel": 35,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 6,
-        "max": 6
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_PinkShoes"
-          },
-          "unitList": [
-            {
-              "unitID": 8013,
-              "unitCount": 2,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8015,
-              "unitCount": 1,
-              "unitLevel": 35
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp2_Ally_3",
-            "Battle_Cp2_Enemy_3"
-          ]
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "PinkShoe",
-      "eventScriptName": "PinkShoe",
-      "abnormalityEventList": [
-        801501,
-        801502
-      ],
-      "attackType": "HIT",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2034106,
-      "stageLevel": 35,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 6,
-        "max": 6
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_PinkShoes"
-          },
-          "unitList": [
-            {
-              "unitID": 8014,
-              "unitCount": 2,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8015,
-              "unitCount": 1,
-              "unitLevel": 35
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp2_Ally_3",
-            "Battle_Cp2_Enemy_3"
-          ]
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "PinkShoe",
-      "eventScriptName": "PinkShoe",
-      "abnormalityEventList": [
-        801501,
-        801502
-      ],
-      "attackType": "HIT",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2034107,
-      "stageLevel": 35,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 6,
-        "max": 6
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_PinkShoes"
-          },
-          "unitList": [
-            {
-              "unitID": 8013,
-              "unitCount": 1,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8014,
-              "unitCount": 1,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8015,
-              "unitCount": 1,
-              "unitLevel": 35
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp2_Ally_3",
-            "Battle_Cp2_Enemy_3"
-          ]
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "PinkShoe",
-      "eventScriptName": "PinkShoe",
-      "abnormalityEventList": [
-        801501,
-        801502
-      ],
-      "attackType": "SLASH",
-      "attributeType": "AMBER"
-    },
-    {
-      "id": 2034301,
+      "id": 2034155,
       "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
-        "min": 7,
-        "max": 7
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_PinkShoes"
+          },
+          "unitList": [
+            {
+              "unitID": 8013,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8014,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8015,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp2_Enemy_3"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "PinkShoe",
+      "eventScriptName": "PinkShoe",
+      "abnormalityEventList": [
+        801501,
+        801502
+      ],
+      "attackType": "PENETRATE",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034156,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp3_B1_LCorpE"
+          },
+          "unitList": [
+            {
+              "unitID": 8026,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8025,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_4"
+          ],
+          "enemyPositionID": 17
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "attackType": "HIT",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034157,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
       },
       "waveList": [
         {
@@ -6701,12 +6865,12 @@
       "attributeType": "VIOLET"
     },
     {
-      "id": 2034302,
+      "id": 2034158,
       "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
-        "min": 7,
-        "max": 7
+        "min": 6,
+        "max": 6
       },
       "waveList": [
         {
@@ -6749,12 +6913,12 @@
       "attributeType": "CRIMSON"
     },
     {
-      "id": 2034303,
+      "id": 2034159,
       "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
-        "min": 7,
-        "max": 7
+        "min": 6,
+        "max": 6
       },
       "waveList": [
         {
@@ -6796,470 +6960,12 @@
       "attributeType": "AMBER"
     },
     {
-      "id": 2034304,
+      "id": 2034160,
       "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_WaterFish"
-          },
-          "unitList": [
-            {
-              "unitID": 8031,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp3_Ally_3",
-            "Battle_Cp3_Enemy_4"
-          ],
-          "enemyPositionID": 13
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "WaterFish",
-      "abnormalityEventList": [
-        803101
-      ],
-      "attackType": "PENETRATE",
-      "attributeType": "SCARLET"
-    },
-    {
-      "id": 2034305,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Ab_ElectricWolf"
-          },
-          "unitList": [
-            {
-              "unitID": 8032,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp3_Ally_3",
-            "Battle_Cp3_Enemy_4"
-          ],
-          "enemyPositionID": 13
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "LightningBeast",
-      "abnormalityEventList": [
-        803201
-      ],
-      "attackType": "HIT",
-      "attributeType": "AMBER"
-    },
-    {
-      "id": 2034401,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_BrassBull"
-          },
-          "unitList": [
-            {
-              "unitID": 8041,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp1_Ally_3",
-            "Battle_Cp1_Enemy_3"
-          ],
-          "enemyPositionID": 30
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "BrassBull_Second",
-      "attackType": "HIT",
-      "attributeType": "AMBER"
-    },
-    {
-      "id": 2034402,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_ElectricCentipede"
-          },
-          "unitList": [
-            {
-              "unitID": 8045,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_6",
-            "Battle_Cp4_Enemy_6"
-          ],
-          "enemyPositionID": 13
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityEvent",
-      "eventScriptName": "ElectricCentipede",
-      "abnormalityEventList": [
-        804501
-      ],
-      "attackType": "PENETRATE",
-      "attributeType": "AZURE"
-    },
-    {
-      "id": 2034403,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_UmbrellaFox"
-          },
-          "unitList": [
-            {
-              "unitID": 8046,
-              "unitCount": 1,
-              "unitLevel": 40
-            },
-            {
-              "unitID": 8052,
-              "unitCount": 4,
-              "unitLevel": 40
-            }
-          ],
-          "subUnitList": [
-            {
-              "unitID": 8052,
-              "unitCount": 4,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_6",
-            "Battle_Cp4_Enemy_6"
-          ],
-          "enemyPositionID": 31
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityEvent",
-      "eventScriptName": "UmbrellaFox",
-      "abnormalityEventList": [
-        804601
-      ],
-      "attackType": "PENETRATE",
-      "attributeType": "AZURE"
-    },
-    {
-      "id": 2034404,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_Nobody"
-          },
-          "unitList": [
-            {
-              "unitID": 8047,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_5",
-            "Battle_Cp4_Enemy_5"
-          ],
-          "enemyPositionID": 13
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityEvent",
-      "eventScriptName": "NobodyGonnaCry",
-      "abnormalityEventList": [
-        804701
-      ],
-      "attackType": "HIT",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2034405,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_GentleFairy"
-          },
-          "unitList": [
-            {
-              "unitID": 8048,
-              "unitCount": 1,
-              "unitLevel": 40
-            },
-            {
-              "unitID": 8051,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "subUnitList": [
-            {
-              "unitID": 8051,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_5",
-            "Battle_Cp4_Enemy_5"
-          ],
-          "enemyPositionID": 32
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityBattle_10408",
-      "eventScriptName": "GentleFairy",
-      "abnormalityEventList": [
-        804801
-      ],
-      "attackType": "PENETRATE",
-      "attributeType": "INDIGO"
-    },
-    {
-      "id": 2034406,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp4_LongFairy"
-          },
-          "unitList": [
-            {
-              "unitID": 8059,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "subUnitList": [
-            {
-              "unitID": 8062,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp4_Ally_6",
-            "Battle_Cp4_Enemy_6"
-          ],
-          "enemyPositionID": 40
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityEvent",
-      "eventScriptName": "8059",
-      "abnormalityEventList": [
-        805901
-      ],
-      "attackType": "SLASH",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2034407,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
-      },
-      "waveList": [
-        {
-          "battleMapInfo": {
-            "mapName": "Cp3_B3_BossBattle"
-          },
-          "unitList": [
-            {
-              "unitID": 8082,
-              "unitCount": 1,
-              "unitLevel": 40
-            }
-          ],
-          "bgmList": [
-            "Battle_Cp3_Cromer_p1",
-            "Battle_Cp3_Cromer_p2"
-          ],
-          "enemyPositionID": 13
-        }
-      ],
-      "staminaCost": 0,
-      "recommendedLevel": 1,
-      "turnLimit": 99,
-      "questlist": [
-        {
-          "args": [
-            "10"
-          ],
-          "localizeId": 1
-        }
-      ],
-      "rewardList": [],
-      "dangerLevel": 0,
-      "stageScriptNameAfterClear": "Cromer_Rail",
-      "eventScriptName": "Cromer",
-      "abnormalityEventList": [
-        802901,
-        803001
-      ],
-      "attackType": "SLASH",
-      "attributeType": "CRIMSON"
-    },
-    {
-      "id": 2034408,
-      "stageLevel": 40,
-      "stageType": "Abnormality",
-      "participantInfo": {
-        "min": 7,
-        "max": 7
+        "min": 6,
+        "max": 6
       },
       "waveList": [
         {
@@ -7298,11 +7004,373 @@
       "abnormalityEventList": [
         851001
       ],
-      "attackType": "SLASH",
+      "attackType": "PENETRATE",
       "attributeType": "VIOLET"
     },
     {
-      "id": 2034409,
+      "id": 2034201,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_Nobody"
+          },
+          "unitList": [
+            {
+              "unitID": 8089,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_5",
+            "Battle_Cp4_Enemy_5"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "eventScriptName": "NobodyGonnaCry",
+      "abnormalityEventList": [
+        804701
+      ],
+      "attackType": "HIT",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034202,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_GentleFairy"
+          },
+          "unitList": [
+            {
+              "unitID": 8090,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "subUnitList":[
+            {
+              "unitID": 8091,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_5",
+            "Battle_Cp4_Enemy_5"
+          ],
+          "enemyPositionID": 32
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "eventScriptName": "GentleFairy_Mirror",
+      "abnormalityEventList": [
+        804801
+      ],
+      "attackType": "PENETRATE",
+      "attributeType": "INDIGO"
+    },
+    {
+      "id": 2034203,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_LongFairy"
+          },
+          "unitList": [
+            {
+              "unitID": 8092,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8093,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
+          ],
+          "enemyPositionID": 40
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "eventScriptName": "8059_Mirror",
+      "abnormalityEventList": [
+        805901
+      ],
+      "attackType": "SLASH",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034204,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_WaterFish"
+          },
+          "unitList": [
+            {
+              "unitID": 8084,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_4"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "WaterFish_Mirror",
+      "eventScriptName": "WaterFish_Mirror",
+      "abnormalityEventList": [
+        803101
+      ],
+      "attackType": "PENETRATE",
+      "attributeType": "AMBER"
+    },
+    {
+      "id": 2034205,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Ab_ElectricWolf"
+          },
+          "unitList": [
+            {
+              "unitID": 8085,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Ally_3",
+            "Battle_Cp3_Enemy_4"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "LightningBeast_Mirror",
+      "eventScriptName": "LightningBeast_Mirror",
+      "abnormalityEventList": [
+        803201
+      ],
+      "attackType": "HIT",
+      "attributeType": "INDIGO"
+    },
+    {
+      "id": 2034206,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_ElectricCentipede"
+          },
+          "unitList": [
+            {
+              "unitID": 8086,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "eventScriptName": "ElectricCentipede_Mirror",
+      "abnormalityEventList": [
+        804501
+      ],
+      "attackType": "HIT",
+      "attributeType": "AZURE"
+    },
+    {
+      "id": 2034207,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_UmbrellaFox"
+          },
+          "unitList": [
+            {
+              "unitID": 8087,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8088,
+              "unitCount": 4,
+              "unitLevel": 40
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8088,
+              "unitCount": 4,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
+          ],
+          "enemyPositionID": 31
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "eventScriptName": "UmbrellaFox_Mirror",
+      "abnormalityEventList": [
+        804601
+      ],
+      "attackType": "PENETRATE",
+      "attributeType": "AZURE"
+    },
+    {
+      "id": 2034208,
       "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
@@ -7354,10 +7422,103 @@
         851901
       ],
       "attackType": "PENETRATE",
-      "attributeType": "SCARLET"
+      "attributeType": "AZURE"
     },
     {
-      "id": 2034410,
+      "id": 2034209,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrassBull"
+          },
+          "unitList": [
+            {
+              "unitID": 8096,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
+          ],
+          "enemyPositionID": 30
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "BrassBull_Second",
+      "attackType": "HIT",
+      "attributeType": "AZURE"
+    },
+    {
+      "id": 2034301,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 7,
+        "max": 7
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp3_B3_BossBattle"
+          },
+          "unitList": [
+            {
+              "unitID": 8082,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp3_Cromer_p1",
+            "Battle_Cp3_Cromer_p2"
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 1,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "dangerLevel": 0,
+      "stageScriptNameAfterClear": "Cromer_Mirror",
+      "eventScriptName": "Cromer",
+      "abnormalityEventList": [
+        802901,
+        803001
+      ],
+      "attackType": "SLASH",
+      "attributeType": "CRIMSON"
+    },
+    {
+      "id": 2034302,
       "stageLevel": 40,
       "stageType": "Abnormality",
       "participantInfo": {
@@ -7415,7 +7576,7 @@
       "abnormalityEventList": [
         852701
       ],
-      "attackType": "SLASH",
+      "attackType": "HIT",
       "attributeType": "CRIMSON"
     }
   ]

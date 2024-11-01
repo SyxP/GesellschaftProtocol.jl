@@ -4,9 +4,22 @@
       "id": 2,
       "typeIndex": 1,
       "isPersonalityLevelByUserData": true,
-      "startCost": 400,
+      "startCost": 200,
       "startBuffCoefficient": 1.5,
+      "startBuffAcquireChipMultiplyer" : 1.25,
+      "startMaxPersonalityNumber" : 5,
 
+      "eventPoolOfEgoGifTierInFloor" :[
+          {"list":[3, 2]},
+          {"list":[2, 3]},
+          {"list":[3, 3]},
+          {"list":[2, 2, 2]},
+          {"list":[2, 2, 3]}
+      ],
+
+
+      "randompickmaxcost": 240,
+      "randompickrewardmultiplyer": 1.2,
 
       "requireEnkephalinModule": 6,
       "globalEventPercentage": 0,
@@ -15,7 +28,7 @@
       "specialBattleAppearedFloor": 2,
 
       "openCondition": {
-        "isLocked": true,
+        "isLocked": false,
         "chapterCleared": {
           "mainChapterId": 1,
           "subChapterId": 104,
@@ -28,7 +41,7 @@
         }
       },
 
-      "startSelectCount": 7,
+      "startSelectCount": 5,
       "gradeList": [ 5 ],
       "levelList": [ 35 ],
 
@@ -36,10 +49,10 @@
       "currentRewardId": 1,
 
       "addPersonalityCount": 3,
-      "defaultPersonalityPrice": 20,
-      "personalityPriceByRank": [ 20, 60, 100 ],
+      "defaultPersonalityPrice": 0,
+      "personalityPriceByRank": [ 0, 0, 100 ],
       "defaultEgoPrice": 0,
-      "egoPriceByRank": [ 20, 40, 60, 80, 100 ],
+      "egoPriceByRank": [ 0, 0, 0, 0, 0 ],
 
 
       "restingEvent": {
@@ -555,7 +568,7 @@
         },
         {
           "count": 2,
-          "roomCount": 3,
+          "roomCount": 4,
           "sectorCount": 5,
           "hardBattlePercentage": 0.08,
           "abnormalityBattlePercentage": 0.12,
@@ -817,7 +830,7 @@
         },
         {
           "count": 3,
-          "roomCount": 3,
+          "roomCount": 4,
           "sectorCount": 5,
           "hardBattlePercentage": 0.08,
           "abnormalityBattlePercentage": 0.12,
@@ -1079,7 +1092,7 @@
         },
         {
           "count": 4,
-          "roomCount": 3,
+          "roomCount": 4,
           "sectorCount": 7,
           "hardBattlePercentage": 0.08,
           "abnormalityBattlePercentage": 0.12,

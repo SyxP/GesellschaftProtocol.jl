@@ -104,14 +104,14 @@
       ]
     },
     {
-      "id": 901008,
+      "id": 901047,
       "dungeonId": 910302,
       "encounter": "EVENT",
       "localizeId": 2010000,
       "category": "NORMAL",
       "dungeonEventList": [
-        901008,
-        90100801
+        901047,
+        90104701
       ],
       "sectionInfos": [
         {
@@ -121,13 +121,14 @@
       ]
     },
     {
-      "id": 901009,
+      "id": 901023,
       "dungeonId": 910302,
       "encounter": "EVENT",
       "localizeId": 2010000,
       "category": "NORMAL",
       "dungeonEventList": [
-        901009
+        901023,
+        90102301
       ],
       "sectionInfos": [
         {
@@ -188,15 +189,13 @@
       ]
     },
     {
-      "id": 901034,
+      "id": 901014,
       "dungeonId": 910302,
       "encounter": "EVENT",
       "localizeId": 2010000,
       "category": "NORMAL",
       "dungeonEventList": [
-        901034,
-        90103401,
-        90103402
+        901014
       ],
       "sectionInfos": [
         {

@@ -160,6 +160,27 @@
       "tag": [
       ],
       "lockType": false
+    },
+    {
+      "id": 9023,
+      "attributeType": "AZURE",
+      "lockType": false
+    },
+    {
+      "id": 9014,
+      "attributeType": "AMBER",
+      "subEgoGiftAbilityIDList": [
+        90141
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9047,
+      "attributeType": "SCARLET",
+      "subEgoGiftAbilityIDList": [
+        90471
+      ],
+      "lockType": false
     }
   ]
 }

@@ -13,7 +13,7 @@
           "defType": "ATTACK",
           "skillTargetType": "FRONT",
           "targetNum": 1,
-          "mpUsage": 0,
+          "mpUsage": 10,
           "defaultSkillLevel": 11.0,
           "skillLevelPerUnitLevel": 0.57,
           "defaultValue": 15,

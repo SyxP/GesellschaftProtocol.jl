@@ -18,7 +18,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.56,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyAllPart"
@@ -51,7 +51,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.56,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyAllPart"
@@ -84,7 +84,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.56,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyAllPart"
@@ -117,7 +117,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.56,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -152,7 +152,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyAllArm"
@@ -192,7 +192,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyLeftArm"
@@ -228,7 +228,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyRightArm"
@@ -309,7 +309,7 @@
           "targetNum": 5,
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "defaultValue": 6,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
@@ -428,7 +428,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.52,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -526,7 +526,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 8,
           "skillLevelPerUnitLevel": 0.4,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -608,7 +608,7 @@
           "defaultValue": 1,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.56,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -773,7 +773,7 @@
           "defaultValue": 10,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.5,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyAllArm"
@@ -818,7 +818,7 @@
           "defaultValue": 45,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.5,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyHead"
@@ -886,7 +886,7 @@
           "defaultValue": 45,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.5,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyHead"
@@ -1016,7 +1016,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyHead"
@@ -1256,7 +1256,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.64,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -1386,7 +1386,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyHead"
@@ -1507,7 +1507,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -1616,7 +1616,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -1821,7 +1821,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.72,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -2027,7 +2027,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -2155,7 +2155,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "targetNum": 1,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "defaultValue": 3,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
@@ -2328,7 +2328,7 @@
           "defaultValue": 13,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.72,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -2498,7 +2498,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 9,
           "skillLevelPerUnitLevel": 0.44,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -2580,7 +2580,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.6,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -3008,7 +3008,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.52,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyRightArm"
@@ -3625,7 +3625,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyRightArm"
@@ -4252,7 +4252,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -4683,7 +4683,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.72,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyLeftArm"
@@ -5128,7 +5128,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.72,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -5176,7 +5176,7 @@
           "defaultValue": 15,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.72,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -5267,7 +5267,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyRightArm"
@@ -5355,7 +5355,7 @@
           "defaultValue": 2,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyTail"
@@ -5414,7 +5414,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -5557,7 +5557,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -5601,7 +5601,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -5645,7 +5645,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
-          "skillTargetType": "BACK",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBackHead"
@@ -5883,8 +5883,8 @@
               ]
             },
             {
-              "operatorType": "ADD",
-              "scale": 2
+              "operatorType": "SUB",
+              "scale": 5
             }
           ]
         }
@@ -8339,7 +8339,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -9549,7 +9549,7 @@
           "defaultValue": 10,
           "defaultSkillLevel": 7,
           "skillLevelPerUnitLevel": 0.35,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyAllPart"
@@ -9641,7 +9641,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -9760,7 +9760,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -9980,7 +9980,7 @@
           "defaultValue": 26,
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.75,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10065,7 +10065,7 @@
           "defaultValue": 8,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.53,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10101,7 +10101,7 @@
           "defaultValue": 20,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.53,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10145,7 +10145,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10226,7 +10226,7 @@
           "defaultValue": 7,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10420,7 +10420,7 @@
           "defaultValue": 16,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.5,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10471,7 +10471,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "BACK",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10517,7 +10517,7 @@
           "defaultValue": 7,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.5,
-          "skillTargetType": "BACK",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10578,7 +10578,7 @@
           "defaultValue": 8,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.5,
-          "skillTargetType": "BACK",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -10643,7 +10643,7 @@
           "defaultValue": 20,
           "defaultSkillLevel": 17,
           "skillLevelPerUnitLevel": 0.9,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11096,7 +11096,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11151,7 +11151,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11212,7 +11212,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11595,7 +11595,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11711,7 +11711,7 @@
           "defaultValue": 20,
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.77,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11744,7 +11744,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -11825,7 +11825,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12139,7 +12139,7 @@
           "defaultValue": 12,
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.75,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12255,7 +12255,7 @@
           "defaultValue": 6,
           "defaultSkillLevel": 9,
           "skillLevelPerUnitLevel": 0.45,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12542,7 +12542,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.75,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12630,7 +12630,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.52,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12728,7 +12728,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 7,
           "skillLevelPerUnitLevel": 0.35,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12810,7 +12810,7 @@
           "defaultValue": 5,
           "defaultSkillLevel": 16,
           "skillLevelPerUnitLevel": 0.84,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -12970,7 +12970,7 @@
           "defaultValue": 3,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.66,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -13052,7 +13052,7 @@
           "defaultValue": 4,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.6,
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"

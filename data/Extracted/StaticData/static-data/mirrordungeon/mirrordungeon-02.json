@@ -6,12 +6,19 @@
       "isPersonalityLevelByUserData": false,
       "startCost": 0,
       "startBuffCoefficient": 1.25,
+      "startBuffAcquireChipMultiplyer" : 1,
+      "startMaxPersonalityNumber" : 7,
+
+           
+      "randompickmaxcost": 0,
+      "randompickrewardmultiplyer": 1.2,
 
       "requireEnkephalinModule": 5,
       "globalEventPercentage": 0,
       "acquireCharacterEventPercentage": 0.2,
       "levelUpCharacterEventPercentage": 0.2,
       "specialBattleAppearedFloor": 2,
+
 
       "openCondition": {
         "chapterCleared": {

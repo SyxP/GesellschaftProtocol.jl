@@ -74,7 +74,22 @@
             ],
             "profileId": "kcorp_meursault_profile",
             "analysisId": "kcorp_meursault_analysis"
-          }
+          },
+          {
+           "personalityId": 10506,
+           "releaseDay": 20230713,
+           "cv_Id": "",
+           "personalityStoryList": [
+             {
+               "storyId": "P10506",
+               "lockCondition": "gacksung",
+               "order": 3,
+               "reward":{"type":"ITEM","id":2,"num":40}
+             }
+           ],
+           "profileId": "rcorp_meursault_profile",
+           "analysisId": "rcorp_meursault_analysis"
+         }
         ]
     }
   ]

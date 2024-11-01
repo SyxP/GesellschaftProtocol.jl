@@ -17,6 +17,7 @@
       "dataClass": "abnormality-part",
       "fileList": [
         "abnormality-part",
+        "abnormality-mirror-part",
         "abnormality-refraction-part"
       ]
     },
@@ -24,6 +25,7 @@
       "dataClass": "abnormality-unit",
       "fileList": [
         "abnormality-unit",
+        "abnormality-mirror-unit",
         "abnormality-refraction-unit"
       ]
     },
@@ -111,7 +113,9 @@
         "gacha-118",
         "gacha-119",
         "gacha-120",
-        "gacha-121"
+        "gacha-121",
+        "gacha-122",
+        "gacha-123"
       ]
     },
     {
@@ -173,6 +177,7 @@
       "fileList": [
         "abnormality-skill",
         "abnormality-refraction-skill",
+        "abnormality-mirror-skill",
         "ego-skill-1",
         "ego-skill-2",
         "ego-skill-3",
@@ -499,7 +504,8 @@
       "dataClass": "abnormality-part-status-ui-position",
       "fileList": [
         "abnormality-part-status-ui-position",
-        "refraction-abnormality-part-status-ui-position"
+        "refraction-abnormality-part-status-ui-position",
+        "mirror-abnormality-part-status-ui-position"
       ]
     },
     {
@@ -747,6 +753,18 @@
         "mirrordungeon-acquire-cost-in-battle-1-0",
         "mirrordungeon-acquire-cost-in-battle-2-0",
         "mirrordungeon-acquire-cost-in-battle-2-1"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-ui-config",
+      "fileList": [
+        "mirrordungeon-ui-config"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-special-battle",
+      "fileList": [
+        "mirrordungeon-special-battle"
       ]
     }
   ]
