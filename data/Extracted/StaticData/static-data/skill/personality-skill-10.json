@@ -1164,14 +1164,11 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibrationExplosionOnSucceedAttack"
-                },
-                {
                   "scriptName": "VibrationExplosionOnSucceedAttackThenGiveBuffIfTargetHasStack_Vibration5",
                   "buffData": {
                     "buffKeyword": "Protection",
                     "target": "Self",
-                    "buffOwner": "",
+                    "buffOwner": "Target",
                     "stack": 2,
                     "turn": 0,
                     "activeRound": 1

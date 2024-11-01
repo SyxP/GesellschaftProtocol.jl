@@ -21,17 +21,6 @@
       "list": [
 
       ]
-    },
-    {
-      "id": "Meursault_Last_Remodeling",
-      "buffClass": "VolatileBuff",
-      "buffType": "Neutral",
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "MeursaultLastRemodeling"
-        }
-      ]
     }
   ]
 }

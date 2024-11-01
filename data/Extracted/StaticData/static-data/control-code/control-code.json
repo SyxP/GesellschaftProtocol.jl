@@ -27,5 +27,6 @@
     13
   ],
   "isShowBattleResultAfterGiveUp": true,
-  "isPassResetRailwayDungeonOnInitialize": true
+  "isPassResetRailwayDungeonOnInitialize": true,
+  "isCheckMirrorDungeonLoadByBoolean": false
 }

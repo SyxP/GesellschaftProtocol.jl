@@ -329,6 +329,11 @@
       "id": 82,
       "condition": "GetEGO",
       "conditionRefId": 21004
+    },
+    {
+      "id": 83,
+      "condition": "GetEGO",
+      "conditionRefId": 20704
     }
   ]
 }

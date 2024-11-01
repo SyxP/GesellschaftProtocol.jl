@@ -68,6 +68,23 @@
 							"price": 400
 						}
 					]
+				},
+				{
+					"groupType": "EVENT",
+					"contents": [
+						{
+							"type": "PERSONALITY",
+							"id": 11105,
+							"price": 400
+						},
+						
+						
+						{
+							"type": "PERSONALITY",
+							"id": 10105,
+							"price": 150
+						}
+					]
 				}
 			]
 		}

@@ -639,7 +639,7 @@
           "gaksungLevel": 3,
           "abilityScriptList": [
             {
-              "scriptName": "SinclairFaeLanternEgoTargetNumAdder1IfSelfHpRatioLessThan50"
+              "scriptName": "TagetNumAdderBeforeBehaviour1IfSelfHpRatioLessThan50"
             }
           ],
           "coinList": [
@@ -669,7 +669,7 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SinclairFaeLanternEgoTargetNumAdder2IfSelfHpRatioLessThan50"
+              "scriptName": "TagetNumAdderBeforeBehaviour2IfSelfHpRatioLessThan50"
             }
           ],
           "coinList": [
@@ -754,7 +754,7 @@
               "scriptName": "AttackHighestHpAbnormalityTarget"
             },
             {
-              "scriptName": "SinclairFaeLanternEgoTargetNumAdder1IfSelfHpRatioLessThan50"
+              "scriptName": "TagetNumAdderBeforeBehaviour1IfSelfHpRatioLessThan50"
             }
           ],
           "coinList": [
@@ -798,7 +798,7 @@
               "scriptName": "AttackHighestHpAbnormalityTarget"
             },
             {
-              "scriptName": "SinclairFaeLanternEgoTargetNumAdder2IfSelfHpRatioLessThan50"
+              "scriptName": "TagetNumAdderBeforeBehaviour2IfSelfHpRatioLessThan50"
             }
           ],
           "coinList": [

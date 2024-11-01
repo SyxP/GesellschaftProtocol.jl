@@ -1545,7 +1545,7 @@
           "canChangeTarget": true,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerResultAdder2IfSelfMpLessThanMinus15"
+              "scriptName": "SkillPowerResultAdderOnUse2IfSelfMpLessThanMinus15"
             }
           ],
           "skillMotion": "S2",
@@ -1603,7 +1603,7 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerResultAdder2IfSelfMpLessThanMinus15"
+              "scriptName": "SkillPowerResultAdderOnUse2IfSelfMpLessThanMinus15"
             }
           ],
           "coinList": [
@@ -1665,10 +1665,10 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerResultAdder3IfSelfMpLessThanMinus15"
+              "scriptName": "SkillPowerResultAdderOnUse3IfSelfMpLessThanMinus15"
             },
             {
-              "scriptName": "SkillPowerResultAdder2IfSelfMpLessThanMinus25"
+              "scriptName": "SkillPowerResultAdderOnUse2IfSelfMpLessThanMinus25"
             }
           ]
         }

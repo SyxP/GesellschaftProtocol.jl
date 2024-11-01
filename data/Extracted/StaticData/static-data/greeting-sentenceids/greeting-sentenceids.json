@@ -405,6 +405,12 @@
       "condition": "GetEGO",
       "conditionRefId": 21004,
       "sortingOrder": 1
+    },
+    {
+      "id": 83,
+      "condition": "GetEGO",
+      "conditionRefId": 20704,
+      "sortingOrder": 1
     }
   ]
 }

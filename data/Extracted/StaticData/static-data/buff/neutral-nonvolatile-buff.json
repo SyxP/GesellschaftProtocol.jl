@@ -22,6 +22,17 @@
           }
         }
       ]
+    },
+    {
+      "id": "Meursault_Last_Remodeling",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "MeursaultLastRemodeling"
+        }
+      ]
     }
   ]
 }

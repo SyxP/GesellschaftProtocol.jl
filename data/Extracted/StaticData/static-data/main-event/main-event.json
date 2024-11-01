@@ -1,13 +1,6 @@
 {
   "list": [
     {
-      "eventId": "DailyLoginEvent",
-      "mainUIPhaseTypeList": [
-        "Lobby"
-      ],
-      "bannerSpriteId": "banner_login_event2"
-    },
-    {
       "eventId": "RailwayDungeonBanner",
       "mainUIPhaseTypeList": [
         "Lobby"

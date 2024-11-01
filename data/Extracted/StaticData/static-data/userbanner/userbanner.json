@@ -14,15 +14,24 @@
     },
     {
       "id": 5,
-      "valueColor": "a2e7eb"
+      "value1Text": {
+        "prefix": "<color=#a2e7eb>"
+      },
+      "value1Max": 999
     },
     {
       "id": 6,
-      "valueColor": "a2e7eb"
+      "value1Text": {
+        "prefix": "<color=#a2e7eb>"
+      },
+      "value1Max": 999
     },
     {
       "id": 7,
-      "valueColor": "a2e7eb"
+      "value1Text": {
+        "prefix": "<color=#a2e7eb>"
+      },
+      "value1Max": 999
     },
     {
       "id": 8
@@ -41,27 +50,81 @@
     },
     {
       "id": 13,
-      "valueColor": "ecfff2"
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99
     },
     {
       "id": 14,
-      "valueColor": "ecfff2"
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99
     },
     {
       "id": 15,
-      "valueColor": "ecfff2"
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99
     },
     {
       "id": 16,
-      "valueColor": "ecfff2"
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99
     },
     {
       "id": 17,
-      "valueColor": "ecfff2"
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99
     },
     {
       "id": 18,
-      "valueColor": "ecfff2"
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99
+    },
+    {
+      "id": 19,
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value2Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
+      },
+      "value1Max": 9999,
+      "value2Max": 99,
+      "useEffect": true
     }
   ]
 }
