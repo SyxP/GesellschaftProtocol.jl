@@ -1709,6 +1709,24 @@
                 "rootX": 0.14169956743717194,
                 "rootY": 0.11706437170505524
             }
+        },
+        {
+            "id": 10510,
+            "root1Data": {
+                "panningDirection": "DOWN",
+                "rootX": -0.27638640999794009,
+                "rootY": 0.21565890312194825
+            },
+            "root2Data": {
+                "panningDirection": "RIGHT",
+                "rootX": -0.02542882226407528,
+                "rootY": -0.12820959091186524
+            },
+            "root3Data": {
+                "panningDirection": "UP",
+                "rootX": -0.003334927372634411,
+                "rootY": 0.08596712350845337
+            }
         }
     ],
     "standardScreen": [
@@ -3420,6 +3438,24 @@
                 "panningDirection": "UP",
                 "rootX": 0.1459999978542328,
                 "rootY": 0.11377792060375214
+            }
+        },
+        {
+            "id": 10510,
+            "root1Data": {
+                "panningDirection": "DOWN",
+                "rootX": -0.3019264042377472,
+                "rootY": 0.19275864958763123
+            },
+            "root2Data": {
+                "panningDirection": "RIGHT",
+                "rootX": -0.0262726042419672,
+                "rootY": -0.16606898605823518
+            },
+            "root3Data": {
+                "panningDirection": "UP",
+                "rootX": -0.009999999776482582,
+                "rootY": 0.093413807451725
             }
         }
     ]

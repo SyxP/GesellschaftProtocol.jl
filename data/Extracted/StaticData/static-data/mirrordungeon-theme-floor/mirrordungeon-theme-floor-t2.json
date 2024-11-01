@@ -930,9 +930,8 @@
     {
       "id": 1105,
       "unlockCondition": {
-        "unlockCode": 102
+        "unlockCode": 9109
       },
-      "relatedEventId":12,
       "desc": "시간살인시간",
       "exceptionConditions": [
         {
@@ -944,6 +943,7 @@
         {
           "dungeonIdx": 1,
           "selectableFloors": [
+            3,
             4
           ]
         }

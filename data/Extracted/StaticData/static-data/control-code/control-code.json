@@ -84,5 +84,6 @@
     }
   ],
   "isSendblog": true,
-  "battleLogCheckSize": 4194304
+  "battleLogCheckSize": 4194304,
+  "isEnableFetchSynchronousApi": true
 }

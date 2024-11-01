@@ -2651,6 +2651,30 @@
       ]
     },
     {
+      "id": 1051001,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1051021,
+      "attributeStockCondition": [
+        {
+          "type": "AZURE",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 90001
     },
     {

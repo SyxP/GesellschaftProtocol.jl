@@ -133,6 +133,7 @@
             "buff-enemy-wp3",
             "special-buff",
             "buff-tkt",
+            "buff-nextupdate",
             "buff-enemy-refraction4",
             "buff-player-refraction4"
           ]
@@ -189,7 +190,8 @@
                 "ego-11",
                 "ego-12",
                 "ego-a1c5p2",
-                "ego-a1c5p3"
+                "ego-a1c5p3",
+                "ego-nextupdate"
             ]
         },
         {
@@ -231,7 +233,8 @@
             "enemy-a1c6p2",
             "enemy-a1c6p3",
             "enemy-mirrordungeon4",
-            "enemy-tkt"
+            "enemy-tkt",
+            "enemy-nextupdate"
           ]
         },
         {
@@ -248,8 +251,10 @@
 				"gacha-175",
 				"gacha-176",
 				"gacha-177",
-                "gacha-178",
-                "gacha-179"
+				"gacha-178",
+				"gacha-179",
+				"gacha-180",
+				"gacha-181"
             ]
         },
         {
@@ -294,6 +299,7 @@
             "passive-enemy-ycgd",
             "passive-enemy-wp3",
             "passive-enemy-tkt",
+            "passive-nextupdate",
             "passive-enemy-refraction4"
           ]
         },
@@ -311,7 +317,8 @@
                 "personality-passive-09",
                 "personality-passive-10",
                 "personality-passive-11",
-                "personality-passive-12"
+                "personality-passive-12",
+                "personality-passive-nextupdate"
             ]
         },
         {
@@ -328,7 +335,8 @@
                 "personality-09",
                 "personality-10",
                 "personality-11",
-                "personality-12"
+                "personality-12",
+                "personality-nextupdate"
             ]
         },
         {
@@ -391,6 +399,10 @@
             "skill-abnormality-wp3",
             "skill-enemy-tkt",
             "skill-abnormality-tkt",
+            "skill-enemy-nextupdate",
+            "skill-abnormality-nextupdate",
+            "personality-skill-nextupdate",
+            "ego-skill-nextupdate",
             "abnormality-refraction4-skill"
           ]
         },
@@ -1140,8 +1152,7 @@
         {
             "dataClass": "unlockcode",
             "fileList": [
-                "unlockcode-subchapter",
-                "unlockcode-subchapter-tkt9109"
+                "unlockcode-subchapter"
             ]
         },
         {

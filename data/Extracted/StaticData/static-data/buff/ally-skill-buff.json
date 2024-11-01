@@ -387,6 +387,73 @@
         }
       ],
       "categoryKeywordList": [ "SHIELD_MANAGER" ]
+    },
+    {
+      "id": "GazePersonality",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 7,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.07
+        },
+        {
+          "ability": "GazePersonality"
+        }
+      ]
+    },
+    {
+      "id": "ContemptPersonality",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "AttackDmgDown",
+            "target": "Self",
+            "stack": 7,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Protection",
+            "target": "Self",
+            "stack": 7,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "ContemptPersonality"
+        }
+      ]
+    },
+    {
+      "id": "KnowledgeTraining",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 6,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "KnowledgeTraining",
+          "buffData": {
+            "buffKeyword": "ParryingResultUp",
+            "target": "Self",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
     }
   ]
 }

@@ -888,6 +888,115 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10510,
+      "appearance": "10510_Meursault_DieciAppearance",
+      "associationList": [ "DIECI" ],
+      "characterId": 5,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1051004
+      ],
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "KnowledgeExplored",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.82
+      },
+      "defCorrection": 2,
+      "minSpeedList": [
+        3,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          35
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1051001,
+          "number": 3
+        },
+        {
+          "skillId": 1051002,
+          "number": 2
+        },
+        {
+          "skillId": 1051003,
+          "number": 1
+        }
+      ]
     }
   ]
 }

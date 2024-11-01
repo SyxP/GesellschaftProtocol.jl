@@ -467,7 +467,7 @@
               "scriptName": "GiveBuffOnUseIfMTHasBuffStack_Burst5",
               "buffData": {
                 "buffKeyword": "DefenseDown",
-                "target": "",
+                "target": "Target",
                 "buffOwner": "Target",
                 "stack": 2,
                 "turn": 0,
