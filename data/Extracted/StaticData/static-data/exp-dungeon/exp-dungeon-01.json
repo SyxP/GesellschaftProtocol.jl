@@ -7,6 +7,11 @@
         "num": 2,
         "type": "ITEM"
       },
+	  "skipRequiredItem": {
+        "id": 11,
+        "num": 4,
+        "type": "ITEM"
+      },
       "stageId": 1,
       "validAttacks": [ "SLASH" ],
       "validAttributes": [],
@@ -30,13 +35,19 @@
             "type": "ITEM"
           }
         ]
-      }
+      },
+	  "skipRewardModify": 1.5
     },
     {
       "id": 2,
       "requiredItem": {
         "id": 11,
         "num": 2,
+        "type": "ITEM"
+      },
+	  "skipRequiredItem": {
+        "id": 11,
+        "num": 4,
         "type": "ITEM"
       },
       "stageId": 2,
@@ -62,13 +73,19 @@
             "type": "ITEM"
           }
         ]
-      }
+      },
+	  "skipRewardModify": 1.5
     },
     {
       "id": 3,
       "requiredItem": {
         "id": 11,
         "num": 2,
+        "type": "ITEM"
+      },
+	  "skipRequiredItem": {
+        "id": 11,
+        "num": 4,
         "type": "ITEM"
       },
       "stageId": 3,
@@ -94,7 +111,8 @@
             "type": "ITEM"
           }
         ]
-      }
+      },
+	  "skipRewardModify": 1.5
     }
   ]
 }

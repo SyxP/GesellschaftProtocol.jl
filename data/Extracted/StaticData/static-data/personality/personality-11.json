@@ -9,6 +9,7 @@
       "defenseSkillIDList": [
         1110104
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -87,6 +88,7 @@
       "defenseSkillIDList": [
         1110204
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -169,6 +171,7 @@
       "defenseSkillIDList": [
         1110304
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -236,6 +239,85 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1110321
+        ]
+      }
+    },
+    {
+      "id": 11104,
+      "appearance": "11104_Outis_SevenAssoAppearance",
+      "mainClique": "SEVEN",
+      "characterId": 11,
+      "season": 0,
+      "defenseSkillIDList": [
+        1110404
+      ],
+      "panicSkillOnErosion" : 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 86,
+        "incrementByLevel": 2.96
+      },
+      "def": {
+        "defaultStat": 16,
+        "incrementByLevel": 0.82
+      },
+      "minSpeedList": [
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        6,
+        7,
+        8
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "breakSection": {
+        "sectionList": [
+          60
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1110401,
+          "number": 3
+        },
+        {
+          "skillId": 1110402,
+          "number": 2
+        },
+        {
+          "skillId": 1110403,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1110401
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1110421
         ]
       }
     }

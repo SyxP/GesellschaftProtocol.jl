@@ -2236,6 +2236,11 @@
           "defaultValue": 2,
           "defaultSkillLevel": 9,
           "skillLevelPerUnitLevel": 0.45,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2280,6 +2285,11 @@
           "defaultValue": 5,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.76,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2308,6 +2318,11 @@
           "defaultValue": 2,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2336,6 +2351,11 @@
           "defaultValue": 2,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.68,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2415,6 +2435,9 @@
           "abilityScriptList": [
             {
               "scriptName": "Empty"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -2449,6 +2472,11 @@
           "defaultValue": 3,
           "defaultSkillLevel": 10,
           "skillLevelPerUnitLevel": 0.54,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2517,6 +2545,11 @@
           "defaultValue": 3,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2550,6 +2583,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
@@ -2589,6 +2625,11 @@
           "defaultValue": 6,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.75,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2617,6 +2658,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3840,6 +3886,11 @@
           "defaultValue": 2,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3893,6 +3944,9 @@
           "skillLevelPerUnitLevel": 0.7,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Endurance",
@@ -3938,6 +3992,9 @@
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnWinDuelTarget5"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -3991,6 +4048,9 @@
           "abilityScriptList": [
             {
               "scriptName": "SkillPowerAdderOnTargetMpIsNegative1"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -4036,6 +4096,9 @@
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -4067,6 +4130,9 @@
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.7,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
@@ -4111,6 +4177,9 @@
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "HealMpOnUseSelf5"
             }
@@ -4205,6 +4274,9 @@
           "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveMpDmgOnWinDuelTarget10"
             }
           ],
@@ -4259,6 +4331,9 @@
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
           ],
           "coinList": [
             {
@@ -4305,6 +4380,9 @@
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
           ],
           "coinList": [
             {
@@ -4351,6 +4429,9 @@
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "MariachiCriticalChanceAdderByTargetMp"
             }
@@ -4402,6 +4483,9 @@
           "skillLevelPerUnitLevel": 0.53,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
             },
             {
@@ -4437,6 +4521,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "SkillPowerAdderAttackingLessMp1"
             }
@@ -4498,6 +4585,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
           ],
           "coinList": [
             {
@@ -4533,6 +4623,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "HealMpOnUse10RandomAlly1"
             }
@@ -4575,6 +4668,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "GiveMpDmgOnWinDuelTarget15"
             }
@@ -4620,6 +4716,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
           ],
           "coinList": [
             {
@@ -4650,6 +4749,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "SkillPowerAdderAttackingLessMp1"
             }
@@ -4695,6 +4797,9 @@
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "Empty"
             }
@@ -4772,6 +4877,9 @@
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
           ],
           "coinList": [
             {
@@ -4829,6 +4937,9 @@
           "abilityScriptList": [
             {
               "scriptName": "HealHpOnUseAttackSelf10"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -4859,6 +4970,11 @@
           "defaultValue": 5,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.63,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -4901,6 +5017,9 @@
           "skillLevelPerUnitLevel": 0.5,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnWinDuel",
               "buffData": {
                 "buffKeyword": "Endurance",
@@ -4942,6 +5061,9 @@
           "abilityScriptList": [
             {
               "scriptName": "Empty"
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -4991,6 +5113,9 @@
                 "turn": 0,
                 "activeRound": 1
               }
+            },
+            {
+              "scriptName": "EmptyBody"
             }
           ],
           "coinList": [
@@ -5021,6 +5146,11 @@
           "defaultValue": 2,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.71,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5069,6 +5199,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.71,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5125,6 +5260,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.71,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5179,6 +5319,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.71,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5219,6 +5364,11 @@
           "defaultValue": 8,
           "defaultSkillLevel": 14,
           "skillLevelPerUnitLevel": 0.71,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "SUB",
@@ -5275,6 +5425,11 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.6,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5379,6 +5534,9 @@
           "skillLevelPerUnitLevel": 0.6,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnLoseDuel",
               "buffData": {
                 "buffKeyword": "Vulnerable",
@@ -5433,6 +5591,11 @@
           "defaultValue": 3,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.6,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5473,6 +5636,11 @@
           "defaultValue": 2,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.6,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5529,6 +5697,9 @@
           "skillLevelPerUnitLevel": 0.6,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnLoseDuel",
               "buffData": {
                 "buffKeyword": "Reduction",
@@ -5579,6 +5750,11 @@
           "defaultValue": 6,
           "defaultSkillLevel": 12,
           "skillLevelPerUnitLevel": 0.6,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "SUB",
@@ -5640,6 +5816,11 @@
           "defaultValue": 3,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5681,6 +5862,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "GiveBuffOnWinDuel",
               "buffData": {
@@ -5738,6 +5922,9 @@
           "skillLevelPerUnitLevel": 0.75,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Protection",
@@ -5776,6 +5963,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5828,6 +6020,9 @@
           "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "HealMpOnWinDuel15LeastMpAlly2"
             }
           ],
@@ -5876,6 +6071,9 @@
           "defaultSkillLevel": 11,
           "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
           ],
           "coinList": [
             {
@@ -5949,6 +6147,11 @@
           "defaultValue": 5,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6021,6 +6224,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6077,6 +6285,9 @@
           "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnWinDuel",
               "buffData": {
                 "buffKeyword": "Assemble",
@@ -6120,6 +6331,11 @@
           "defaultValue": 5,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6171,6 +6387,9 @@
           "skillLevelPerUnitLevel": 0.64,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Protection",
@@ -6210,6 +6429,9 @@
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "GuidoBerserk"
             }
@@ -6286,6 +6508,11 @@
           "defaultValue": 4,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6332,6 +6559,9 @@
           "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
             {
+              "scriptName": "EmptyBody"
+            },
+            {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Assemble",
@@ -6370,6 +6600,11 @@
           "defaultValue": 5,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6420,6 +6655,9 @@
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
             {
               "scriptName": "AttackDmgUpByRatioViaBuffCheck",
               "buffData": {
@@ -6486,6 +6724,11 @@
           "defaultValue": 8,
           "defaultSkillLevel": 13,
           "skillLevelPerUnitLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "SUB",

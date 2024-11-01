@@ -91,6 +91,36 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1000104,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "skillData": [
+        {
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "NON_ACTION",
+          "skillTargetType": "FRONT",
+          "targetNum": 0,
+          "mpUsage": 0,
+          "defaultSkillLevel": 0,
+          "skillLevelPerUnitLevel": 0,
+          "defaultValue": 0,
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": false,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "Panic"
+            }
+          ]
+          
+        }
+      ]
     }
   ]
 }

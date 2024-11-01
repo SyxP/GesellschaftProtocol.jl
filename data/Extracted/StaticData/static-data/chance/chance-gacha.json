@@ -16,12 +16,27 @@
       "resetTimeType":"PERMANENT"
     },
     {
+      "id":4,
+      "max":1,
+      "resetTimeType":"PERMANENT"
+    },
+    {
       "id":103,
       "max":1,
       "resetTimeType":"DAILY"
     },
     {
       "id":104,
+      "max":1,
+      "resetTimeType":"DAILY"
+    },
+    {
+      "id":105,
+      "max":1,
+      "resetTimeType":"DAILY"
+    },
+    {
+      "id":106,
       "max":1,
       "resetTimeType":"DAILY"
     }

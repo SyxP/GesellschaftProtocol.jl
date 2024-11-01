@@ -16,13 +16,15 @@
     {
       "dataClass": "abnormality-part",
       "fileList": [
-        "abnormality-part"
+        "abnormality-part",
+        "abnormality-refraction-part"
       ]
     },
     {
       "dataClass": "abnormality-unit",
       "fileList": [
-        "abnormality-unit"
+        "abnormality-unit",
+        "abnormality-refraction-unit"
       ]
     },
     {
@@ -91,9 +93,12 @@
       "fileList": [
         "gacha-1",
         "gacha-2",
-        "gacha-3",        
+        "gacha-3",
+        "gacha-4",       
         "gacha-103",
-        "gacha-104"
+        "gacha-104",
+        "gacha-105",
+        "gacha-106"
       ]
     },
     {
@@ -137,6 +142,7 @@
       "dataClass": "skill",
       "fileList": [
         "abnormality-skill",
+        "abnormality-refraction-skill",
         "ego-skill-1",
         "ego-skill-2",
         "ego-skill-3",
@@ -394,7 +400,8 @@
     {
       "dataClass": "abnormality-part-status-ui-position",
       "fileList": [
-        "abnormality-part-status-ui-position"
+        "abnormality-part-status-ui-position",
+        "refraction-abnormality-part-status-ui-position"
       ]
     },
     {
@@ -470,6 +477,18 @@
       "dataClass": "battle-exp-dungeon",
       "fileList": [
         "battle-exp-dungeon-01"
+      ]
+    },
+    {
+      "dataClass": "railway-dungeon",
+      "fileList": [
+        "railway-dungeon-01"
+      ]
+    },
+    {
+      "dataClass": "battle-railway-dungeon",
+      "fileList": [
+        "battle-railway-dungeon-01"
       ]
     },
     {

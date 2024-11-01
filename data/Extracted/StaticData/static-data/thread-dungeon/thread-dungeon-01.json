@@ -12,6 +12,11 @@
             "num": 2,
             "type": "ITEM"
           },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
           "stageId": 1,
           "openChapterData": {
             "mainChapterId": 1,
@@ -39,12 +44,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 8,
@@ -74,7 +85,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     },
@@ -88,6 +100,11 @@
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 2,
@@ -117,12 +134,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 9,
@@ -152,7 +175,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     },
@@ -166,6 +190,11 @@
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 3,
@@ -195,12 +224,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 10,
@@ -230,7 +265,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     },
@@ -244,6 +280,11 @@
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 4,
@@ -273,12 +314,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 11,
@@ -308,7 +355,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     },
@@ -322,6 +370,11 @@
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 5,
@@ -351,12 +404,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 12,
@@ -386,7 +445,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     },
@@ -400,6 +460,11 @@
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 6,
@@ -429,12 +494,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 13,
@@ -464,7 +535,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     },
@@ -478,6 +550,11 @@
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 7,
@@ -507,12 +584,18 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         },
         {
           "requiredItem": {
             "id": 11,
             "num": 2,
+            "type": "ITEM"
+          },
+		  "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
             "type": "ITEM"
           },
           "stageId": 14,
@@ -542,7 +625,8 @@
                 "type": "ITEM"
               }
             ]
-          }
+          },
+		  "skipRewardModify": 1.5
         }
       ]
     }

@@ -890,7 +890,7 @@
                   "buffData": {
                     "buffKeyword": "SlashTakeDamageUp",
                     "target": "Target",
-                    "buffOwner": "",
+                    "buffOwner": "Self",
                     "stack": 2,
                     "turn": 0,
                     "activeRound": 0
@@ -941,7 +941,7 @@
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
-                    "buffOwner": "",
+                    "buffOwner": "Self",
                     "stack": 1,
                     "turn": 0,
                     "activeRound": 0
@@ -958,7 +958,7 @@
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
-                    "buffOwner": "",
+                    "buffOwner": "Self",
                     "stack": 1,
                     "turn": 0,
                     "activeRound": 0
@@ -975,7 +975,7 @@
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
-                    "buffOwner": "",
+                    "buffOwner": "Self",
                     "stack": 1,
                     "turn": 0,
                     "activeRound": 0
@@ -993,7 +993,7 @@
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
-                    "buffOwner": "",
+                    "buffOwner": "Self",
                     "stack": 1,
                     "turn": 0,
                     "activeRound": 0

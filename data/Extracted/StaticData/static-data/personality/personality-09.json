@@ -9,6 +9,7 @@
       "defenseSkillIDList": [
         1090104
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -90,6 +91,7 @@
         1090204,
         1090205
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -169,6 +171,7 @@
       "defenseSkillIDList": [
         1090304
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -249,6 +252,7 @@
       "defenseSkillIDList": [
         1090404
       ],
+      "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],

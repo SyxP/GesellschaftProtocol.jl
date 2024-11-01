@@ -170,7 +170,7 @@
           "attributeType": "CRIMSON",
           "atkType": "SLASH",
           "defType": "ATTACK",
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "targetNum": 3,
           "mpUsage": 20,
           "defaultSkillLevel": 15.0,

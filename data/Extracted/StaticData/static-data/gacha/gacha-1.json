@@ -43,6 +43,13 @@
           "requiredItemId": 102,
           "requiredNum": 1,
           "count": 10
+        },
+        {
+          "paymentId": 5,
+          "gachaUIState": "Ten",
+          "requiredItemId": 101,
+          "requiredNum": 10,
+          "count": 10
         }
       ],
       "contents": [
@@ -103,6 +110,7 @@
             10402,
             10502,
             10602,
+            10604,
             10702,
             10704,
             10803,
@@ -149,6 +157,7 @@
             10802,
             10902,
             11002,
+            11104,
             11203
           ]
         },
@@ -168,6 +177,7 @@
           "elementIdList": [
             20103,
             20203,
+            20204,
             20503,
             20803,
             21103,

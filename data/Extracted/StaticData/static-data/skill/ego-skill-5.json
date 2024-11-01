@@ -432,7 +432,7 @@
           "attributeType": "AMBER",
           "atkType": "HIT",
           "defType": "ATTACK",
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "targetNum": 3,
           "mpUsage": 20,
           "defaultSkillLevel": 12.0,

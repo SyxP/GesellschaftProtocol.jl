@@ -144,7 +144,7 @@
         }
       ],
       "rewardList": [
-        
+
       ],
       "story": {
         "enter": [
@@ -153,7 +153,8 @@
         "exit": [
           "S304A"
         ]
-      }
+      },
+      "stageScriptNameAfterClear": "KCorpEntrance"
     },
     {
       "id": 10305,
@@ -224,8 +225,9 @@
         }
       ],
       "rewardList": [
-        
-      ]
+
+      ],
+      "stageScriptNameAfterClear": "KCorpEntrance"
     },
     {
       "id": 10306,
@@ -306,13 +308,14 @@
         }
       ],
       "rewardList": [
-        
+
       ],
       "story": {
         "exit": [
           "S306A"
         ]
-      }
+      },
+      "stageScriptNameAfterClear": "KCorpEntrance"
     },
     {
       "id": 10310,

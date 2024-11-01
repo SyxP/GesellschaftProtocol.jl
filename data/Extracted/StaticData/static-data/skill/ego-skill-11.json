@@ -381,7 +381,7 @@
           "attributeType": "SCARLET",
           "atkType": "SLASH",
           "defType": "ATTACK",
-          "skillTargetType": "FRONT",
+          "skillTargetType": "RANDOM",
           "targetNum": 1,
           "mpUsage": 15,
           "defaultSkillLevel": 12.0,
