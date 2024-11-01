@@ -59,7 +59,22 @@
               ],
               "profileId": "ncorp_faust_profile",
               "analysisId": "ncorp_faust_analysis"
-          }
+          },
+          {
+            "personalityId": 10205,
+            "releaseDay": 20230810,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10205",
+                "lockCondition": "gacksung",
+                "order": 4,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "zwei_faust_profile",
+            "analysisId": "zwei_faust_analysis"
+        }
         ]
     }
   ]

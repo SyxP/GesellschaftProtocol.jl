@@ -21,7 +21,7 @@
           "canChangeTarget": true,
           "abilityScriptList": [
             {
-              "scriptName": "HealMpOnEndSkill8LeastMpAllyExceptSelf3"
+              "scriptName": "HealMpOnEndSkill8LeastMpAlly4"
             }
           ],
           "actionScript": "2020121",
@@ -40,7 +40,7 @@
           "defaultValue": 19,
           "abilityScriptList": [
             {
-              "scriptName": "HealMpOnEndSkill10LeastMpAllyExceptSelf3"
+              "scriptName": "HealMpOnEndSkill10LeastMpAlly4"
             }
           ],
           "coinList": [
@@ -54,7 +54,7 @@
           "gaksungLevel": 4,
           "abilityScriptList": [
             {
-              "scriptName": "HealMpOnEndSkill12LeastMpAllyExceptSelf3"
+              "scriptName": "HealMpOnEndSkill12LeastMpAlly4"
             }
           ],
           "coinList": [

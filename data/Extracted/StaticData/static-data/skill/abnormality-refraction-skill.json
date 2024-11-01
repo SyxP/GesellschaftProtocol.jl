@@ -442,7 +442,7 @@
               "scriptName": "GiveBuffOnBattleStart",
               "buffData": {
                 "buffKeyword": "Protection",
-                "target": "AbnormalityAllPartsSelf",
+                "target": "IfAbnormalityAllPartsOrSelf",
                 "stack": 2,
                 "turn": 0,
                 "activeRound": 0

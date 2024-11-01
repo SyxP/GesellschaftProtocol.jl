@@ -493,6 +493,103 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 11206,
+      "appearance": "11206_Gregor_ZweiAppearance",
+      "unitKeywordList": [ "ZWEI" ],
+      "characterId": 12,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1120604
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 90,
+        "incrementByLevel": 3
+      },
+      "defCorrection": 5,
+      "minSpeedList": [
+        3,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1120601,
+          "number": 3
+        },
+        {
+          "skillId": 1120602,
+          "number": 2
+        },
+        {
+          "skillId": 1120603,
+          "number": 1
+        }
+      ]
     }
   ]
 }

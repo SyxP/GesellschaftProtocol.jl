@@ -167,15 +167,19 @@
             {
               "operatorType": "ADD",
               "scale": 4,
-              "scriptName": "GiveBuffOnSucceedAttackHead",
-              "buffData": {
-                "buffKeyword": "Vibration",
-                "target": "Target",
-                "buffOwner": "",
-                "stack": 2,
-                "turn": 0,
-                "activeRound": 0
-              }
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
             },
             {
               "operatorType": "ADD",

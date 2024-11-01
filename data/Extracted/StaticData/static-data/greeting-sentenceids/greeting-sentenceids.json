@@ -345,6 +345,18 @@
       "condition": "GetEGO",
       "conditionRefId": 20405,
       "sortingOrder": 1
+    },
+    {
+      "id": 73,
+      "condition": "GetPersonality",
+      "conditionRefId": 11206,
+      "sortingOrder": 1
+    },
+    {
+      "id": 74,
+      "condition": "GetPersonality",
+      "conditionRefId": 10205,
+      "sortingOrder": 1
     }
   ]
 }

@@ -278,12 +278,10 @@
           "isAbBattleIcon": true,
           "spriteId": 13,
           "nextNodes": [],
-          "clearRequiredNodesForEnter": [ 12 ]
+          "clearRequiredNodesForEnter": [ 12 ],
+          "isBossNode": true
         }
-      ],
-      "uiOptions":{
-          "isBackToCancel":true
-      }
+      ]
     }
   ]
 }

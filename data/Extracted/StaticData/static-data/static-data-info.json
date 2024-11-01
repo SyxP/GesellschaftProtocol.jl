@@ -44,6 +44,18 @@
       ]
     },
     {
+      "dataClass": "panic-buff",
+      "fileList": [
+        "panic-buff"
+      ]
+    },
+    {
+      "dataClass": "mirror-dungeon-floor-buff",
+      "fileList": [
+        "mirror-dungeon-floor-buff"
+      ]
+    },
+    {
       "dataClass": "rail-Line2-buff",
       "fileList": [
         "rail-line2-buff"
@@ -115,7 +127,8 @@
         "gacha-4",
         "gacha-5",
         "gacha-125",
-        "gacha-126"
+        "gacha-126",
+        "gacha-127"
       ]
     },
     {

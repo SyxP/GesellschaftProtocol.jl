@@ -1,0 +1,625 @@
+{
+  "list": [
+    {
+      "id": "Bullet_Crab",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "ReinforcedAssemble",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Assemble",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Nail",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Nail",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "BeingGolden",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "BeingGolden",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "Operation",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "Operation",
+          "value": 0.2
+        }
+      ]
+    },
+    {
+      "id": "Enrage",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Enhancement",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "Vulnerable",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "Aggressive",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Decay",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Poison",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EmergencyFeed",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "PseudoLastBoss_KingCrap",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Whistle_Fear",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Whistle_Courage",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Cromer_Target",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Cromer_Boredom",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Cromer_Ecstasy",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Cromer_Madness",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Exalted",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 5,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Tipsiness",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 5,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Predation",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "ReattachedCurseTag",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 15,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangRadiantVanity",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangEmptyMark",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 2,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangEarnestAchievement",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangEmptyHonor",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangMomentaryGlory",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangEmptiness",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 4,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DistortedDongrangFruition",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "BloodPocket",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "BloodPocket"
+        }
+      ]
+    },
+    {
+      "id": "WaterPocket",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "WaterPocket"
+        }
+      ]
+    },
+    {
+      "id": "Weak_Chicken",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Cycle",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 108,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "CyclingKarma",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Greedy",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    }
+    {
+      "id": "Desire",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DogThunder",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Strong_Chicken",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "ElectricStorage",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "SelfCharge",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 20,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Duress",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Bull_FadedHeat",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Bull_Fever",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 5,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Bull_Sadness",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Bull_ReinforcedSadness",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Bull_BuzzingEmotion",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EgoAwakenDongrangRadiantDesire",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EgoAwakenDongrangSeed",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EgoAwakenDongrangTreeDisplay",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EgoAwakenDongrangTree",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EgoAwakenDongrangOverHeal",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 50,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EgoAwakenDongrangShardOfBrokenConnection",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekGrow",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekFlorescence",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 5,
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekFullBloomDisplay",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekFullBloom",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekFascination",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 3,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekShowdown",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DongbaekScatterPetal",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "BabayagaTimeLimit",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "ErodingMind",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    }
+    {
+      "id": "Thorn",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    }
+  ]
+}

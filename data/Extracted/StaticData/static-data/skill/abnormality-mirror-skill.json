@@ -1946,6 +1946,7 @@
                 "buffKeyword": "Paralysis",
                 "buffOwner": "Target",
                 "stack": 1,
+                "turn": 0,
                 "value": 0.1
               }
             }
@@ -2013,6 +2014,7 @@
                 "buffKeyword": "Paralysis",
                 "buffOwner": "Target",
                 "stack": 1,
+                "turn": 0,
                 "value": 0.1
               }
             }
@@ -2084,6 +2086,7 @@
                 "buffKeyword": "Paralysis",
                 "buffOwner": "Target",
                 "stack": 1,
+                "turn": 0,
                 "value": 0.2
               }
             }
@@ -3471,7 +3474,7 @@
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Binding",
-                "target": "AbnormalityAllPartsSelf",
+                "target": "IfAbnormalityAllPartsOrSelf",
                 "buffOwner": "",
                 "stack": 1,
                 "turn": 0,
@@ -3750,6 +3753,7 @@
               "buffData": {
                 "buffKeyword": "Laceration",
                 "buffOwner": "Target",
+                "stack": 0,
                 "turn": 0,
                 "value": 0.05
               }

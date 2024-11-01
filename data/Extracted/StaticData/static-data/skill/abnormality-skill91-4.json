@@ -215,6 +215,7 @@
               "buffData": {
                 "buffKeyword": "Burst",
                 "buffOwner": "Target",
+                "stack": 0,
                 "turn": 5,
                 "value": 0.2
               }
@@ -273,6 +274,7 @@
               "buffData": {
                 "buffKeyword": "Burst",
                 "buffOwner": "Target",
+                "stack": 0,
                 "turn": 5,
                 "value": 0.2
               }

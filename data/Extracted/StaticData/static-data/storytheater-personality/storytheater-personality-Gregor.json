@@ -74,6 +74,21 @@
             ],
             "profileId": "kcorp_gregor_profile",
             "analysisId": "kcorp_gregor_analysis"
+          },
+          {
+            "personalityId": 11206,
+            "releaseDay": 20230810,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P11206",
+                "lockCondition": "gacksung",
+                "order": 3,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "zwei_gregor_profile",
+            "analysisId": "zwei_gregor_analysis"
           }
         ]
     }

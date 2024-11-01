@@ -17,23 +17,12 @@
       "nodeid": 910402,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 25
         }
       ]
     },
@@ -41,24 +30,13 @@
       "nodeid": 910403,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 25
-       }
+        }
       ]
     },
     {
@@ -78,23 +56,12 @@
       "nodeid": 910405,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 15
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 50
         }
       ]
     },
@@ -102,7 +69,7 @@
       "nodeid": 910406,
       "acquireExp": 0,
       "acquireTotalExpForPersonality": 0,
-      "normalClearRewards": [ ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
@@ -115,23 +82,12 @@
       "nodeid": 910407,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 50
         }
       ]
     },
@@ -139,23 +95,12 @@
       "nodeid": 910408,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 75
         }
       ]
     },
@@ -163,23 +108,12 @@
       "nodeid": 910409,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 20
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 100
         }
       ]
     },
@@ -205,11 +139,6 @@
         {
           "type": "UNLOCK_CODE",
           "id": 9104
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 30
         }
       ],
       "exClearRewards": [
@@ -217,39 +146,8 @@
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 100
-        }
-      ]
-    },
-    {
-      "nodeid": 910412,
-      "acquireExp": 20,
-      "acquireTotalExpForPersonality": 600,
-      "exclearConditionTurnCount": 15,
-      "normalClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 40
-        }
-      ],
-      "exClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 2,
-          "num": 40
-        },
-        {
-          "type": "ITEM",
-          "id": 20001,
-          "num": 100
         }
       ]
     }
-
   ]
 }

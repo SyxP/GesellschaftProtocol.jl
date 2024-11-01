@@ -379,7 +379,7 @@
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 2,
               "cutsceneStart": true,
               "abilityScriptList": [
                 {

@@ -1132,14 +1132,7 @@
               "posx": 4576,
               "posy": 1060,
               "upper": 1,
-              "stageNodeType": "STORY",
-              "unlockCondition": {
-                "possession": {
-                  "type": "ITEM",
-                  "id": 20001,
-                  "num": 150
-                }
-              }
+              "stageNodeType": "STORY"
             },
             {
               "nodeId": 910407,
@@ -1163,14 +1156,7 @@
               "posx": 6448,
               "posy": 1340,
               "upper": 1,
-              "stageNodeType": "NORMAL",
-              "unlockCondition": {
-                "possession": {
-                  "type": "ITEM",
-                  "id": 20001,
-                  "num": 300
-                }
-              }
+              "stageNodeType": "NORMAL"
             },
             {
               "nodeId": 910410,
@@ -1178,35 +1164,13 @@
               "posx": 7187,
               "posy": 975,
               "upper": 1,
-              "stageNodeType": "STORY",
-              "unlockCondition": {
-                "possession": {
-                  "type": "ITEM",
-                  "id": 20001,
-                  "num": 450
-                }
-              }
+              "stageNodeType": "STORY"
             },
             {
               "nodeId": 910411,
               "stageId": 910411,
               "posx": 8294,
               "posy": 1060,
-              "upper": 1,
-              "stageNodeType": "NORMAL",
-              "unlockCondition": {
-                "possession": {
-                  "type": "ITEM",
-                  "id": 20001,
-                  "num": 500
-                }
-              }
-            },
-            {
-              "nodeId": 910412,
-              "stageId": 910412,
-              "posx": 9125,
-              "posy": 1340,
               "upper": 1,
               "stageNodeType": "NORMAL"
             }

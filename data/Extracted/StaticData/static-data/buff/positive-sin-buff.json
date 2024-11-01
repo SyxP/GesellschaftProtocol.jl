@@ -1,0 +1,29 @@
+{
+  "list": [
+    {
+      "id": "Breath",
+      "buffClass": "SinBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Breath",
+          "value": 0.05
+        }
+      ]
+    },
+    {
+      "id": "Charge",
+      "buffClass": "SinBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

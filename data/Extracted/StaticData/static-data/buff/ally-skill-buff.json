@@ -1,0 +1,143 @@
+{
+  "list": [
+    {
+      "id": "NailPersonality",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "AssemblePersonality",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "MarkOfHeresy",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Thirst",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "ExaltedPersonality",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 5,
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "FairyLiquor",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "TipsinessPersonality",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "MpTakeDamageDown",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Florescence",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Fragrance",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 5,
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "KCorpSerum",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Talisman",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DuelDeclaration",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "Muckworm",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "PinkRibbon_Ishmael",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "list": [
+    {
+      "id": "Curse",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "DimensionRift",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "EmittedCurrent",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "CollapseAmpoule",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    }
+  ]
+}

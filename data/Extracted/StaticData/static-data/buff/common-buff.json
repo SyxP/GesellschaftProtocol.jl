@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "id": "Bullet",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "list": [
+
+      ]
+    }
+  ]
+}

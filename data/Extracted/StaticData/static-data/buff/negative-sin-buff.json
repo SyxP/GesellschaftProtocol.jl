@@ -1,0 +1,64 @@
+{
+  "list": [
+    {
+      "id": "Combustion",
+      "buffClass": "SinBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "TakeHpDamageOnRoundEndByStack"
+        },
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "Laceration",
+      "buffClass": "SinBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Laceration"
+        }
+      ]
+    },
+    {
+      "id": "Vibration",
+      "buffClass": "SinBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "Burst",
+      "buffClass": "SinBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Burst"
+        }
+      ]
+    },
+    {
+      "id": "Sinking",
+      "buffClass": "SinBuff",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Sinking"
+        }
+      ]
+    }
+  ]
+}

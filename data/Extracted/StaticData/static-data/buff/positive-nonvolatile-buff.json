@@ -1,0 +1,42 @@
+{
+  "list": [
+    {
+      "id": "ATL_Agility",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "ATL_EndureCombustion",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 10,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "ATL_EndureLaceration",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 10,
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+
+      ]
+    }
+  ]
+}

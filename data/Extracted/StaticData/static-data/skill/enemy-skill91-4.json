@@ -1032,6 +1032,7 @@
                 "buffKeyword": "Burst",
                 "buffOwner": "Target",
                 "stack": 5,
+                "turn": 0,
                 "value": 0.15
               }
             },
@@ -1395,6 +1396,7 @@
                 "buffKeyword": "Burst",
                 "buffOwner": "Target",
                 "stack": 5,
+                "turn": 0,
                 "value": 0.15
               }
             }

@@ -1,0 +1,285 @@
+{
+  "list": [
+    {
+      "panicID": 1003,
+      "lowMorale": {
+        "id": "Overwhelm_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Reduction",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          }
+        ]
+      },
+      "panic": {
+        "id": "Overwhelm_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "CanNotAction"
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 1004,
+      "lowMorale": {
+        "id": "Daunted_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Reduction",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          }
+        ]
+      },
+      "panic": {
+        "id": "Daunted_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Reduction",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 4,
+              "turn": 0,
+              "activeRound": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 1005,
+      "lowMorale": {
+        "id": "Anger_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "AttackDmgUp",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 1,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Vulnerable",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          }
+        ]
+      },
+      "panic": {
+        "id": "Anger_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "AttackDmgUp",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Vulnerable",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 5,
+              "turn": 0,
+              "activeRound": 0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 1006,
+      "lowMorale": {
+        "id": "Run_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "RunAway"
+          }
+        ]
+      },
+      "panic": {
+        "id": "Run_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "RunAway"
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 1007,
+      "lowMorale": {
+        "id": "Sad_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      },
+      "panic": {
+        "id": "Sad_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      }
+    },
+    {
+      "panicID": 1008,
+      "lowMorale": {
+        "id": "Crazy_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      },
+      "panic": {
+        "id": "Crazy_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      }
+    },
+    {
+      "panicID": 1009,
+      "lowMorale": {
+        "id": "Suicide_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      },
+      "panic": {
+        "id": "Suicide_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      }
+    },
+    {
+      "panicID": 1010,
+      "lowMorale": {
+        "id": "Prowl_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      },
+      "panic": {
+        "id": "Prowl_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      }
+    },
+    {
+      "panicID": 1011,
+      "lowMorale": {
+        "id": "Fragile_Mind_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      },
+      "panic": {
+        "id": "Fragile_Mind_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      }
+    },
+    {
+      "panicID": 1012,
+      "lowMorale": {
+        "id": "Blue_LowMorale",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      },
+      "panic": {
+        "id": "Blue_Panic",
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+
+        ]
+      }
+    }
+  ]
+}
