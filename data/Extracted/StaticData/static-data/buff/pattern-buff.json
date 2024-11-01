@@ -133,7 +133,7 @@
     {
       "id": "Poison",
       "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
+      "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
         {

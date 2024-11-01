@@ -424,6 +424,30 @@
       ]
     },
     {
+      "id": 20406,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0.02,
+          "offsetY": -0.12,
+
+          "offsetStartX": 0.2,
+
+          "closeUp": 0.6
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": 0.09,
+          "offsetY": 0.2,
+
+          "offsetStartX": -0.21,
+          "offsetStartY": -0.19,
+
+          "closeUp": 0.6
+        }
+      ]
+    },
+    {
       "id": 20501,
       "pivotList": [
         {
@@ -810,6 +834,30 @@
       ]
     },
     {
+      "id": 20805,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0.05,
+          "offsetY": -0.03,
+
+          "offsetStartX":  -0.28,
+
+          "closeUp": 0.47
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": -0.13,
+          "offsetY": 0.24,
+
+          "offsetStartX": -0.19,
+          "offsetStartY": -0.03,
+
+          "closeUp": 0.46
+        }
+      ]
+    },
+    {
       "id": 20901,
       "pivotList": [
         {
@@ -868,6 +916,31 @@
           "offsetStartY": 0.24,
 
           "closeUp": 0.6
+        }
+      ]
+    },
+    {
+      "id": 20904,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": -0.05,
+          "offsetY": -0.06,
+
+          "offsetStartX": 0.22,
+          "offsetStartY": 0.21,
+
+          "closeUp": 0.62
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": 0.26,
+          "offsetY": 0.16,
+
+          "offsetStartX": -0.05,
+          "offsetStartY": 0.06,
+
+          "closeUp": 0.62
         }
       ]
     },
@@ -957,6 +1030,31 @@
           "offsetStartY": 0.2,
 
           "closeUp": 0.67
+        }
+      ]
+    },
+    {
+      "id": 21005,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0.04,
+          "offsetY": -0.02,
+
+          "offsetStartX": 0.26,
+          "offsetStartY": 0.16,
+
+          "closeUp": 0.6
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": 0,
+          "offsetY": 0.34,
+
+          "offsetStartX": 0.12,
+          "offsetStartY": 0.04,
+
+          "closeUp": 0.27
         }
       ]
     },

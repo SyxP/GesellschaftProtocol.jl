@@ -3,10 +3,10 @@
     {
       "id": 10501,
       "dungeonType": "STORY_DUNGEON",
-      "staminaModule": 1,
-      "recommendedLevel": 7,
+      "staminaModule": 5,
+      "recommendedLevel": 40,
       "entranceStory": "S539B",
-      "illustname": "chapter1_StoryDungeon",
+      "illustname": "chapter5_StoryDungeon",
       "questlist": [
         {
           "localizeId": 2

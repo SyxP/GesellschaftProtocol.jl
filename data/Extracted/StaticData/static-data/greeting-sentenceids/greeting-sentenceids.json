@@ -471,6 +471,30 @@
       "condition": "GetEGO",
       "conditionRefId": 20605,
       "sortingOrder": 1
+    },
+    {
+      "id": 94,
+      "condition": "GetEGO",
+      "conditionRefId": 21005,
+      "sortingOrder": 1
+    },
+    {
+      "id": 95,
+      "condition": "GetEGO",
+      "conditionRefId": 20904,
+      "sortingOrder": 1
+    },
+    {
+      "id": 96,
+      "condition": "GetEGO",
+      "conditionRefId": 20805,
+      "sortingOrder": 1
+    },
+    {
+      "id": 97,
+      "condition": "GetEGO",
+      "conditionRefId": 20406,
+      "sortingOrder": 1
     }
   ]
 }

@@ -8,6 +8,12 @@
           "restrictForAll": {
             "mustParticipateIds": [ 1 ]
           }
+        },
+        {
+          "id": 10501,
+          "restrictForAll": {
+            "mustParticipateIds": [ 8 ]
+          }
         }
       ]
     }

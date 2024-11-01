@@ -24,12 +24,22 @@
     {
       "partId": 91,
       "subchapterId": 9103,
-      "bgmTypeByUIPanel": "HELL_CHICKEN"
+      "bgmTypeByUIPanel": "HELL_CHICKEN",
+      "stageGroups": [
+        {
+          "lastNodeIndex": 0
+        }
+      ]
     },
     {
       "partId": 91,
       "subchapterId": 9104,
-      "bgmTypeByUIPanel": "EVENT_UMIDA_MAIN"
+      "bgmTypeByUIPanel": "EVENT_UMIDA_MAIN",
+      "stageGroups": [
+        {
+          "lastNodeIndex": 0
+        }
+      ]
     }
   ]
 }

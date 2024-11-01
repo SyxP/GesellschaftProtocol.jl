@@ -306,12 +306,17 @@
 							"nodes": [
 								{
 									"debugNodeId": "DN-10515",
-									"debugEncounterId": "SDC10501",
+									"debugEncounterId": "DB10507",
 									"id": "10515",
-									"encounter": "event",
-									"encounterId": 10501,
+									"encounter": "battle",
+									"encounterId": 10507,
 									"isHidden": "False",
 									"position": "19.59,-25.01",
+									"story": {
+										"enter": [
+											"5D201B"
+										]
+									},
 									"adjacentNode": [
 										{
 											"nodeId": "10514"
@@ -323,10 +328,10 @@
 								},
 								{
 									"debugNodeId": "DN-10516",
-									"debugEncounterId": "DB10507",
+									"debugEncounterId": "SDC10501",
 									"id": "10516",
-									"encounter": "battle",
-									"encounterId": 10507,
+									"encounter": "event",
+									"encounterId": 10501,
 									"isHidden": "False",
 									"position": "13.43,-23.81",
 									"adjacentNode": [
@@ -340,10 +345,10 @@
 								},
 								{
 									"debugNodeId": "DN-10517",
-									"debugEncounterId": "SDC10502",
+									"debugEncounterId": "DB10508",
 									"id": "10517",
-									"encounter": "event",
-									"encounterId": 10502,
+									"encounter": "battle",
+									"encounterId": 10508,
 									"isHidden": "False",
 									"position": "7.4,-24.89",
 									"adjacentNode": [
@@ -357,10 +362,10 @@
 								},
 								{
 									"debugNodeId": "DN-10518",
-									"debugEncounterId": "DB10518",
+									"debugEncounterId": "SDC10502",
 									"id": "10518",
-									"encounter": "battle",
-									"encounterId": 10518,
+									"encounter": "event",
+									"encounterId": 10502,
 									"isHidden": "False",
 									"position": "-2.02,-24.85",
 									"adjacentNode": [
@@ -416,10 +421,10 @@
 								},
 								{
 									"debugNodeId": "DN-10521",
-									"debugEncounterId": "SDC10503",
+									"debugEncounterId": "0",
 									"id": "10521",
-									"encounter": "event",
-									"encounterId": 10503,
+									"encounter": "save",
+									"encounterId": 0,
 									"isHidden": "False",
 									"position": "-12.33,-13.94",
 									"adjacentNode": [
@@ -433,10 +438,10 @@
 								},
 								{
 									"debugNodeId": "DN-10522",
-									"debugEncounterId": "0",
+									"debugEncounterId": "SDC10503",
 									"id": "10522",
-									"encounter": "save",
-									"encounterId": 0,
+									"encounter": "event",
+									"encounterId": 10503,
 									"isHidden": "False",
 									"position": "-7.16,-12.93",
 									"adjacentNode": [
@@ -536,10 +541,10 @@
 								},
 								{
 									"debugNodeId": "DN-10527",
-									"debugEncounterId": "SDC10504",
+									"debugEncounterId": "0",
 									"id": "10527",
-									"encounter": "event",
-									"encounterId": 10504,
+									"encounter": "save",
+									"encounterId": 0,
 									"isHidden": "False",
 									"position": "-8.41,-4.38",
 									"adjacentNode": [
@@ -553,10 +558,10 @@
 								},
 								{
 									"debugNodeId": "DN-10528",
-									"debugEncounterId": "0",
+									"debugEncounterId": "SDC10504",
 									"id": "10528",
-									"encounter": "save",
-									"encounterId": 0,
+									"encounter": "event",
+									"encounterId": 10504,
 									"isHidden": "False",
 									"position": "-12.55,-4.26",
 									"adjacentNode": [
@@ -634,11 +639,6 @@
 									"encounterId": 0,
 									"isHidden": "False",
 									"position": "-24.4996,-45.1248",
-									"story": {
-										"enter": [
-											"5D301B"
-										]
-									},
 									"adjacentNode": [
 										{
 											"nodeId": "10533"
@@ -659,6 +659,9 @@
 									"isHidden": "False",
 									"position": "-17.6,-45.1738",
 									"story": {
+										"enter": [
+											"5D301B"
+										],
 										"exit": [
 											"5D301A"
 										]
@@ -770,7 +773,8 @@
 										"exit": [
 											"5D304A"
 										]
-									}
+									},
+									"forceAliveCharacterIds": [ 8 ]
 								}
 							]
 						}

@@ -32,5 +32,8 @@
   "isCheckForUpdateCatalog": true,
   "isClearDataReturnToLogin": true,
   "isBlockTextInputableForCounterUI": false,
-  "isBlockKeyboardInput": false
+  "isBlockKeyboardInput": false,
+  "isCompareCatalogHashSteam": true,
+  "isCompareCatalogHashIOS": false,
+  "isCompareCatalogHashAndroid": false
 }

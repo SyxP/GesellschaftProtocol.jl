@@ -20,7 +20,11 @@
                 "battle-coin-choice-event-a1c5p2",
                 "battle-action-choice-event-a1c5p2",
                 "sdungeon-coin-choice-event-a1c5p2",
-                "sdungeon-action-choice-event-a1c5p2"
+                "sdungeon-action-choice-event-a1c5p2",
+                "battle-coin-choice-event-a1c5p3",
+                "battle-action-choice-event-a1c5p3",
+                "sdungeon-coin-choice-event-a1c5p3",
+                "sdungeon-action-choice-event-a1c5p3"
             ]
         },
         {
@@ -32,7 +36,8 @@
                 "abnormality-refraction2-part",
                 "abnormality-part91-4",
                 "abnormality-part-a1c5p1",
-                "abnormality-part-a1c5p2"
+                "abnormality-part-a1c5p2",
+                "abnormality-part-a1c5p3"
             ]
         },
         {
@@ -44,7 +49,8 @@
                 "abnormality-refraction2-unit",
                 "abnormality-unit91-4",
                 "abnormality-unit-a1c5p1",
-                "abnormality-unit-a1c5p2"
+                "abnormality-unit-a1c5p2",
+                "abnormality-unit-a1c5p3"
             ]
         },
         {
@@ -75,7 +81,8 @@
                 "rail-line-2-content-buff",
                 "typo-only-buff",
                 "buff-enemy-a1c5p1",
-                "buff-enemy-a1c5p2"
+                "buff-enemy-a1c5p2",
+                "buff-enemy-a1c5p3"
             ]
         },
         {
@@ -100,7 +107,7 @@
         {
             "dataClass": "part",
             "fileList": [
-                "part-a1c5p2"
+                "part-a1c5p3"
             ]
         },
         {
@@ -130,7 +137,8 @@
                 "ego-10",
                 "ego-11",
                 "ego-12",
-                "ego-a1c5p2"
+                "ego-a1c5p2",
+                "ego-a1c5p3"
             ]
         },
         {
@@ -139,7 +147,8 @@
                 "ego-gift",
                 "hidden-ego-gift-storydungeon",
                 "ego-gift-a1c5p1",
-                "ego-gift-a1c5p2"
+                "ego-gift-a1c5p2",
+                "ego-gift-a1c5p3"
             ]
         },
         {
@@ -156,7 +165,8 @@
                 "enemy",
                 "enemy91-4",
                 "enemy-a1c5p1",
-                "enemy-a1c5p2"
+                "enemy-a1c5p2",
+                "enemy-a1c5p3"
             ]
         },
         {
@@ -167,6 +177,7 @@
                 "gacha-3",
                 "gacha-4",
                 "gacha-5",
+                "gacha-6",
                 "gacha-128",
                 "gacha-129",
                 "gacha-130",
@@ -182,7 +193,8 @@
                 "gacha-140",
                 "gacha-141",
                 "gacha-142",
-                "gacha-143"
+                "gacha-143",
+                "gacha-144"
             ]
         },
         {
@@ -210,7 +222,8 @@
                 "passive_check4",
                 "passive-ego",
                 "passive-enemy-a1c5p1",
-                "passive-enemy-a1c5p2"
+                "passive-enemy-a1c5p2",
+                "passive-enemy-a1c5p3"
             ]
         },
         {
@@ -286,7 +299,10 @@
                 "skill-abnormality-a1c5p1",
                 "skill-enemy-a1c5p2",
                 "skill-abnormality-a1c5p2",
-                "ego-skill-a1c5p2"
+                "skill-enemy-a1c5p3",
+                "skill-abnormality-a1c5p3",
+                "ego-skill-a1c5p2",
+                "ego-skill-a1c5p3"
             ]
         },
         {
@@ -301,7 +317,8 @@
                 "stage_Test",
                 "stage_Tutorial",
                 "storybattle-a1c5p1",
-                "storybattle-a1c5p2"
+                "storybattle-a1c5p2",
+                "storybattle-a1c5p3"
             ]
         },
         {
@@ -313,7 +330,8 @@
                 "dungeonbattle1-4",
                 "dungeonbattle91-3",
                 "dungeonbattle-a1c5p1",
-                "dungeonbattle-a1c5p2"
+                "dungeonbattle-a1c5p2",
+                "dungeonbattle-a1c5p3"
             ]
         },
         {
@@ -325,7 +343,8 @@
                 "abbattle1-4",
                 "abbattle91-3",
                 "abbattle-a1c5p1",
-                "abbattle-a1c5p2"
+                "abbattle-a1c5p2",
+                "abbattle-a1c5p3"
             ]
         },
         {
@@ -350,7 +369,8 @@
                 "stagenodereward1-4",
                 "stagenodereward91-4",
                 "stagenodereward-a1c5p1",
-                "stagenodereward-a1c5p2"
+                "stagenodereward-a1c5p2",
+                "stagenodereward-a1c5p3"
             ]
         },
         {
@@ -362,7 +382,8 @@
         {
             "dataClass": "dungeon",
             "fileList": [
-              "dungeon"
+              "dungeon",
+              "dungeon-a1c5p3"
             ]
         },
         {
@@ -414,7 +435,8 @@
         {
             "dataClass": "dungeonMap",
             "fileList": [
-                "dungeonMap"
+                "dungeonMap",
+                "dungeonMap-a1c5p3"
             ]
         },
         {
@@ -455,7 +477,7 @@
                 "storytheater-main-102",
                 "storytheater-main-103",
                 "storytheater-main-104",
-                "storytheater-main-a1c5p2"
+                "storytheater-main-a1c5p3"
             ]
         },
         {
@@ -489,7 +511,8 @@
                 "storytheater-other-9010",
                 "storytheater-other-9011",
                 "storytheater-other-a1c5p1",
-                "storytheater-other-a1c5p2"
+                "storytheater-other-a1c5p2",
+                "storytheater-other-a1c5p3"
             ]
         },
         {
@@ -509,7 +532,8 @@
             "dataClass": "announcer",
             "fileList": [
                 "announcer",
-                "announcer-a1c5p1"
+                "announcer-a1c5p1",
+                "announcer-a1c5p3"
             ]
         },
         {
@@ -580,7 +604,9 @@
                 "cutscene-a1c5p1",
                 "cutscene-ego-a1c5p1",
                 "cutscene-a1c5p2",
-                "cutscene-ego-a1c5p2"
+                "cutscene-ego-a1c5p2",
+                "cutscene-a1c5p3",
+                "cutscene-ego-a1c5p3"
             ]
         },
         {
@@ -615,7 +641,8 @@
                 "refraction2-abnormality-part-status-ui-position",
                 "mirror-abnormality-part-status-ui-position",
                 "ab-part-status-ui-position-a1c5p1",
-                "ab-part-status-ui-position-a1c5p2"
+                "ab-part-status-ui-position-a1c5p2",
+                "ab-part-status-ui-position-a1c5p3"
             ]
         },
         {
@@ -636,8 +663,7 @@
             "dataClass": "stage-progress-reward",
             "fileList": [
                 "stage-progress-reward",
-                "stage-progress-reward-a1c5p1",
-                "stage-progress-reward-a1c5p2"
+                "stage-progress-reward-a1c5p3"
             ]
         },
         {
@@ -672,7 +698,8 @@
                 "loadingCG-dungeon_102",
                 "loadingCG-dungeon_103",
                 "loadingCG-dungeon_104",
-                "loadingCG-dungeon_9103"
+                "loadingCG-dungeon_9103",
+                "loadingCG-dungeon_105"
             ]
         },
         {
@@ -681,7 +708,8 @@
                 "credits_101",
                 "credits_102",
                 "credits_103",
-                "credits_104"
+                "credits_104",
+                "credits_105"
             ]
         },
         {
@@ -805,7 +833,7 @@
             "dataClass": "subchapter-detail",
             "fileList": [
                 "subchapter-detail",
-                "subchapter-detail-a1c5p2"
+                "subchapter-detail-a1c5p3"
             ]
         },
         {
@@ -836,7 +864,8 @@
         {
             "dataClass": "story-dungeon-map-illust",
           "fileList": [
-            "story-dungeon-map-illust"
+            "story-dungeon-map-illust",
+            "story-dungeon-map-illust-a1c5p3"
           ]
         },
         {
@@ -844,7 +873,8 @@
             "fileList": [
                 "restrict-participation-1",
                 "restrict-participation-a1c5p1",
-                "restrict-participation-a1c5p2"
+                "restrict-participation-a1c5p2",
+                "restrict-participation-a1c5p3"
             ]
         },
         {
@@ -921,6 +951,18 @@
             "dataClass": "ui-excution-priority",
             "fileList": [
               "ui-excution-priority-on-enter-main"
+            ]
+        },
+        {
+            "dataClass": "story-auto-change-model",
+            "fileList": [
+              "story-auto-change-model"
+            ]
+        },
+        {
+            "dataClass": "story-dungeon-map-text",
+            "fileList": [
+              "story-dungeon-map-text"
             ]
         }
     ]

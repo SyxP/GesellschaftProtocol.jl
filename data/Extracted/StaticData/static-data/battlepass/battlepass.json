@@ -4,7 +4,7 @@
       "id": 1,
       "isCurrentForUI": false,
       "isExRewardAcquirable": true,
-      "limbusExRewardAcquireType": "COLLECT_FROM_MAX_LEVEL",
+      "limbusExRewardAcquireType": "COLLECT_BY_NOW_ISLIMBUS",
       "passSeasonInfo": {
         "startDate": "2023-02-27T01:00:00.000Z",
         "endDate": "2023-05-31T21:00:00.000Z",

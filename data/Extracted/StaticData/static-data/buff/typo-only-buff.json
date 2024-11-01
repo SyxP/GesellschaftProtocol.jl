@@ -53,6 +53,33 @@
       "list": [
 
       ]
+    },
+    {
+      "id": "AaCePcBr",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "AaCePcBs",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
+    },
+    {
+      "id": "AaCePcBt",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
     }
   ]
 }

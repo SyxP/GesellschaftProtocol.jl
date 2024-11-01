@@ -384,6 +384,26 @@
       "id": 93,
       "condition": "GetEGO",
       "conditionRefId": 20605
+    },
+    {
+      "id": 94,
+      "condition": "GetEGO",
+      "conditionRefId": 21005
+    },
+    {
+      "id": 95,
+      "condition": "GetEGO",
+      "conditionRefId": 20904
+    },
+    {
+      "id": 96,
+      "condition": "GetEGO",
+      "conditionRefId": 20805
+    },
+    {
+      "id": 97,
+      "condition": "GetEGO",
+      "conditionRefId": 20406
     }
   ]
 }
