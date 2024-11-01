@@ -834,7 +834,12 @@
           "min": 1,
           "max": 1
         },
-        "adderInfo": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificUnit_Donquixote",
+            "adder": -100
+          }
+        ],
         "judgement": {
           "upDownType": 1,
           "inclusiveValue": 10,
@@ -845,6 +850,9 @@
             }
           ]
         },
+        "silenceCharacterUniqueIdList": [
+          3
+        ],
         "eventResults": [
           {
             "eventResult": "SUCCESS",
@@ -886,7 +894,32 @@
             "eventResultDataList": [
               {
                 "resultIndex": 0,
-                "resultCondition": "Prob_1",
+                "resultCondition": "ChooseUnit_Donquixote:Not",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseHpOnly_30"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseMpOnly_30"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle",
+                      "nextBattleID": 10337
+                    }
+                  }
+                ]
+              },
+              {
+                "resultIndex": 1,
+                "resultCondition": "ChooseUnit_Donquixote",
                 "nextEventID": -1,
                 "eventResultDataList": [
                   {

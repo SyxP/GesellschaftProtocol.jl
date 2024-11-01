@@ -17,22 +17,6 @@
       "isBannerVisible": true
     },
     {
-      "eventId": "MOWE",
-      "mainUIPhaseTypeList": [
-        "Lobby",
-        "Stage"
-      ],
-      "bannerSpriteId": "banner_MOWE_event",
-      "isBannerVisible": true
-    },
-    {
-      "eventId": "MOWEReward",
-      "mainUIPhaseTypeList": [
-        "Stage"
-      ],
-      "isBannerVisible": true
-    },
-    {
       "eventId": "RailwayDungeonBanner",
       "mainUIPhaseTypeList": [
         "Lobby"

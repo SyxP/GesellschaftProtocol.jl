@@ -4,6 +4,7 @@
       "id": "Refraction4A",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -15,6 +16,7 @@
       "id": "Refraction4B",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -34,6 +36,7 @@
       "id": "Refraction4C",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -49,6 +52,7 @@
       "id": "Refraction4D",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -64,6 +68,7 @@
       "id": "Refraction4E",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -79,6 +84,7 @@
       "id": "Refraction4F",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -94,6 +100,7 @@
       "id": "Refraction4G",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -113,6 +120,7 @@
       "id": "Refraction4H",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -132,6 +140,7 @@
       "id": "Refraction4I",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -151,6 +160,7 @@
       "id": "Refraction4J",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -170,6 +180,7 @@
       "id": "Refraction4K",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -189,6 +200,7 @@
       "id": "Refraction4L",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "list": [
         {
@@ -204,6 +216,7 @@
       "id": "BigWelcome",
       "buffClass": "NonvolatileBuff",
       "buffType": "Positive",
+      "destroyableOnRetreat " : false,
       "canBeDespelled": false,
       "maxStack": 1,
       "list": [

@@ -4289,7 +4289,7 @@
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "WanderingFootsteps",
-                    "target": "Target",
+                    "target": "AbnormalityTarget",
                     "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
@@ -4392,7 +4392,7 @@
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "WanderingFootsteps",
-                    "target": "Target",
+                    "target": "AbnormalityTarget",
                     "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
@@ -4500,7 +4500,7 @@
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
                     "buffKeyword": "WanderingFootsteps",
-                    "target": "Target",
+                    "target": "AbnormalityTarget",
                     "buffOwner": "",
                     "stack": 2,
                     "turn": 0,
@@ -4613,7 +4613,7 @@
                   "buffData": {
                     "buffKeyword": "Sinking",
                     "target": "Target",
-                    "buffOwner": "Target",
+                    "buffOwner": "AbnormalityTarget",
                     "stack": 0,
                     "turn": 2,
                     "activeRound": 0
@@ -4733,7 +4733,7 @@
                   "buffData": {
                     "buffKeyword": "Sinking",
                     "target": "Target",
-                    "buffOwner": "Target",
+                    "buffOwner": "AbnormalityTarget",
                     "stack": 0,
                     "turn": 2,
                     "activeRound": 0

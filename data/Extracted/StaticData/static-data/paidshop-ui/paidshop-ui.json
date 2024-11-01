@@ -1,6 +1,19 @@
 {
   "list": [
     {
+      "category": "SPECIAL",
+      "productList": [
+        {
+          "tab": "LIMITED",
+          "productIdList": [
+            202,
+            203,
+            204
+          ]
+        }
+      ]
+    },
+    {
       "category": "PACKAGE",
       "productList": [
         {

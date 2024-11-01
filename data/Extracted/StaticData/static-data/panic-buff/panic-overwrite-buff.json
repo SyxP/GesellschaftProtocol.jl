@@ -91,10 +91,6 @@
           {
             "ability": "CoinProbAdder",
             "value": -0.1
-          },
-          {
-            "ability": "LoseStackOnRoundEnd",
-            "value": 1
           }
         ]
       }
