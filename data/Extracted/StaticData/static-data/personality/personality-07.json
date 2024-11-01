@@ -34,9 +34,9 @@
       "uniqueAttribute": "VIOLET",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          65,
+          35,
+          15
         ]
       },
       "resistInfo": {
@@ -115,8 +115,7 @@
       "breakSection": {
         "sectionList": [
           80,
-          60,
-          30
+          60
         ]
       },
       "resistInfo": {
@@ -194,9 +193,9 @@
       "uniqueAttribute": "CRIMSON",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          70,
+          40,
+          20
         ]
       },
       "resistInfo": {
@@ -237,6 +236,86 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1070321
+        ]
+      }
+    },
+    {
+      "id": 10704,
+      "appearance": "10704_Heathclif_NCorpAppearance",
+      "mainClique": "N_CORP",
+      "characterId": 7,
+      "season": 1,
+      "defenseSkillIDList": [
+        1070404
+      ],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 76,
+        "incrementByLevel": 2.6
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        2,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "breakSection": {
+        "sectionList": [
+          65,
+          35,
+          15
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1070401,
+          "number": 3
+        },
+        {
+          "skillId": 1070402,
+          "number": 2
+        },
+        {
+          "skillId": 1070403,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1070401
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1070421
         ]
       }
     }

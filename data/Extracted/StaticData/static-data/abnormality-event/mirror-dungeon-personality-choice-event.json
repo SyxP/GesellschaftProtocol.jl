@@ -1080,13 +1080,7 @@
                   },
                   {
                     "resultForm": {
-                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
-                      "itemReward": {
-                        "type": "EGO_GIFT",
-                        "rewardId": 9020,
-                        "num": 1,
-                        "prob": 1.0
-                      }
+                      "resultEffect": "LevelupPersonality"
                     }
                   }
                 ]

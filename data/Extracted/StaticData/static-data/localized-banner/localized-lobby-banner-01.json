@@ -13,6 +13,12 @@
       "resourceIdList": [
         "banner_battlepass_season1"
       ]
+    },
+    {
+      "bannerType": "attendance_rewards",
+      "resourceIdList": [
+        "banner_event"
+      ]
     }
   ]
 }

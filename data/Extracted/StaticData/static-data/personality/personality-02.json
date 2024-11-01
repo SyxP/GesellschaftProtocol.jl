@@ -7,7 +7,7 @@
       "characterId": 2,
       "season": 0,
       "defenseSkillIDList": [
-        1000102
+        1020104
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -34,9 +34,9 @@
       "uniqueAttribute": "INDIGO",
       "breakSection": {
         "sectionList": [
-          70,
-          50,
-          25
+          60,
+          30,
+          15
         ]
       },
       "resistInfo": {
@@ -87,7 +87,7 @@
       "characterId": 2,
       "season": 0,
       "defenseSkillIDList": [
-        1000101
+        1020204
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -114,9 +114,8 @@
       "uniqueAttribute": "VIOLET",
       "breakSection": {
         "sectionList": [
-          70,
-          50,
-          25
+          60,
+          30
         ]
       },
       "resistInfo": {
@@ -167,7 +166,7 @@
       "characterId": 2,
       "season": 1,
       "defenseSkillIDList": [
-        1000102
+        1020304
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -194,9 +193,9 @@
       "uniqueAttribute": "SCARLET",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          70,
+          40,
+          20
         ]
       },
       "resistInfo": {
@@ -237,6 +236,86 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1020321
+        ]
+      }
+    },
+    {
+      "id": 10204,
+      "appearance": "10204_Faust_CromerAppearance",
+      "mainClique": "N_CORP",
+      "characterId": 2,
+      "season": 1,
+      "defenseSkillIDList": [
+        1020404
+      ],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.63
+      },
+      "minSpeedList": [
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7
+      ],
+      "uniqueAttribute": "SCARLET",
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1020401,
+          "number": 3
+        },
+        {
+          "skillId": 1020402,
+          "number": 2
+        },
+        {
+          "skillId": 1020403,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1020401
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1020421
         ]
       }
     }

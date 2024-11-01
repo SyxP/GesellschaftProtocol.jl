@@ -988,6 +988,54 @@
       ]
     },
     {
+      "id": 1020401,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1070401,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1020421,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1070421,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 90001
     },
     {

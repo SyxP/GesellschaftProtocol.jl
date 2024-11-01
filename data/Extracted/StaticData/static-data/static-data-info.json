@@ -92,8 +92,8 @@
         "gacha-1",
         "gacha-2",
         "gacha-3",        
-        "gacha-102",        
-        "gacha-103"
+        "gacha-103",
+        "gacha-104"
       ]
     },
     {
@@ -482,6 +482,18 @@
       "dataClass": "dungeon-common",
       "fileList": [
         "dungeon-common-data"
+      ]
+    },
+    {
+      "dataClass": "attendance-rewards",
+      "fileList": [
+        "attendance-rewards"
+      ]
+    },
+    {
+      "dataClass": "main-event",
+      "fileList": [
+        "main-event"
       ]
     }
   ]

@@ -14,8 +14,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.57,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.57,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -85,8 +85,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.57,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.57,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -166,8 +166,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.57,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.57,
           "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
@@ -216,6 +216,38 @@
       ]
     },
     {
+      "id": 1020104,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.72,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1020201,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -229,8 +261,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.6,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -300,8 +332,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.6,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -365,8 +397,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.6,
           "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
@@ -398,6 +430,38 @@
       ]
     },
     {
+      "id": 1020204,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.76,
+          "defaultValue": 10,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1020301,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -411,8 +475,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.76,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -482,8 +546,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.76,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -623,8 +687,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.76,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -678,16 +742,438 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 0.0,
-          "attackLevelPerLevel": 0.0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
-          "actionScript": "1000103",
           "skillMotion": "Default",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020401,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "VIOLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.82,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnWinDuelTarget3"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        }
+      ]
+    },
+    {
+      "id": 1020402,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.82,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "MarkOfHeresy",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "MarkOfHeresy",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "MarkOfHeresy",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020403,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.82,
+          "defaultValue": 6,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "abilityScriptList": [
+            {
+              "scriptName": "HealMpOnKillTargetEveryAlly10"
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget",
+              "buffData": {
+                "buffKeyword": "PenetrateDamageUp",
+                "target": "EveryAlly",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget",
+              "buffData": {
+                "buffKeyword": "HitDamageUp",
+                "target": "EveryAlly",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020404,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.63,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnSucceedEvadeTarget3"
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",

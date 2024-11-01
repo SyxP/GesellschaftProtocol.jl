@@ -19,8 +19,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -49,8 +49,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 8,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -83,8 +83,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -121,8 +121,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -151,8 +151,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -185,8 +185,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -223,8 +223,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -253,8 +253,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -287,8 +287,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -324,8 +324,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -366,8 +366,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -395,8 +395,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -442,8 +442,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 1,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -504,8 +504,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -546,8 +546,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -588,8 +588,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -617,8 +617,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -646,8 +646,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 2,
           "defaultValue": 6,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "MUL",
@@ -675,8 +675,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 5,
           "defaultValue": 6,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -731,8 +731,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -768,8 +768,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -805,8 +805,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -838,8 +838,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -875,8 +875,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -908,8 +908,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -941,8 +941,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -978,8 +978,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1011,8 +1011,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1044,8 +1044,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1077,8 +1077,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1110,8 +1110,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1147,8 +1147,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1180,8 +1180,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1217,8 +1217,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1254,8 +1254,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1287,8 +1287,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1320,8 +1320,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1357,8 +1357,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1394,8 +1394,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 1,
-          "attackLevelPerLevel": 0.19,
+          "defaultSkillLevel": 1,
+          "skillLevelPerUnitLevel": 0.19,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1431,8 +1431,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.46,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.46,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1464,8 +1464,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.46,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.46,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1497,8 +1497,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.46,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.46,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1530,8 +1530,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 7,
-          "attackLevelPerLevel": 0.35,
+          "defaultSkillLevel": 7,
+          "skillLevelPerUnitLevel": 0.35,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1567,8 +1567,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 7,
-          "attackLevelPerLevel": 0.35,
+          "defaultSkillLevel": 7,
+          "skillLevelPerUnitLevel": 0.35,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1600,8 +1600,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 7,
+          "skillLevelPerUnitLevel": 0.56,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1633,8 +1633,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 7,
-          "attackLevelPerLevel": 0.35,
+          "defaultSkillLevel": 7,
+          "skillLevelPerUnitLevel": 0.35,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1661,8 +1661,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 8,
+          "skillLevelPerUnitLevel": 0.64,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -1694,8 +1694,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.53,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.53,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1722,8 +1722,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.42,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.42,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1754,8 +1754,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.42,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.42,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1782,8 +1782,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 8,
-          "attackLevelPerLevel": 0.35,
+          "defaultSkillLevel": 8,
+          "skillLevelPerUnitLevel": 0.35,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1826,8 +1826,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.68,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1854,8 +1854,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.53,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.53,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1882,8 +1882,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.53,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.53,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1918,8 +1918,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.42,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.42,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1950,8 +1950,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.42,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.42,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1990,8 +1990,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 8,
-          "attackLevelPerLevel": 0.4,
+          "defaultSkillLevel": 8,
+          "skillLevelPerUnitLevel": 0.4,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2034,8 +2034,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.72,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2062,8 +2062,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.64,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.64,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2090,8 +2090,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.64,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.64,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2162,8 +2162,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.51,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.51,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2194,8 +2194,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.51,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.51,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2234,8 +2234,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 9,
-          "attackLevelPerLevel": 0.45,
+          "defaultSkillLevel": 9,
+          "skillLevelPerUnitLevel": 0.45,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2278,8 +2278,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.76,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2306,8 +2306,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.68,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.68,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2334,8 +2334,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.68,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.68,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2410,8 +2410,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.54,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.54,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -2447,8 +2447,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.54,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.54,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2487,8 +2487,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.66,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2515,8 +2515,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2547,8 +2547,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -2587,8 +2587,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.75,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2615,8 +2615,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2655,8 +2655,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2697,8 +2697,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -2749,8 +2749,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 2,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2782,8 +2782,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.82,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2810,8 +2810,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -2855,8 +2855,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2883,8 +2883,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2939,8 +2939,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "SomangStickerSecondSlot"
@@ -2972,8 +2972,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3000,8 +3000,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3060,8 +3060,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "SomangStickerSecondSlot"
@@ -3093,8 +3093,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3125,8 +3125,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3165,8 +3165,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "SomangStickerSecondSlot"
@@ -3198,8 +3198,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.58,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3226,8 +3226,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.75,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.75,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3266,8 +3266,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.75,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.75,
           "abilityScriptList": [
             {
               "scriptName": "9100302"
@@ -3327,8 +3327,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 1,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.75,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.75,
           "abilityScriptList": [
             {
               "scriptName": "ReuseOnKillTargetOnce"
@@ -3383,8 +3383,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.75,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.75,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnBattleStart",
@@ -3423,8 +3423,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.75,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.75,
           "abilityScriptList": [
             {
               "scriptName": "SomangStickerAllSlot"
@@ -3456,8 +3456,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.75,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.75,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3484,8 +3484,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3528,8 +3528,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3568,8 +3568,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3624,8 +3624,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "abilityScriptList": [
             {
               "scriptName": "SkillPowerAdderOnWinDuel1"
@@ -3665,8 +3665,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.5,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.5,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3713,8 +3713,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.5,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.5,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3757,8 +3757,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.5,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.5,
           "abilityScriptList": [
             {
               "scriptName": "SkillPowerAdderOnWinDuel2"
@@ -3810,8 +3810,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.5,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.5,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3838,8 +3838,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.7,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3889,8 +3889,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.7,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -3933,8 +3933,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.7,
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnWinDuelTarget5"
@@ -3986,8 +3986,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.7,
           "abilityScriptList": [
             {
               "scriptName": "SkillPowerAdderOnTargetMpIsNegative1"
@@ -4031,8 +4031,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.82,
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
@@ -4064,8 +4064,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.7,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -4108,8 +4108,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.77,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
             {
               "scriptName": "HealMpOnUseSelf5"
@@ -4201,8 +4201,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.77,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnWinDuelTarget10"
@@ -4256,8 +4256,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.77,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
           ],
           "coinList": [
@@ -4302,8 +4302,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.77,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
           ],
           "coinList": [
@@ -4348,8 +4348,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 15,
-          "attackLevelPerLevel": 0.77,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.77,
           "abilityScriptList": [
             {
               "scriptName": "MariachiCriticalChanceAdderByTargetMp"
@@ -4398,8 +4398,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.53,
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
@@ -4434,8 +4434,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "SkillPowerAdderAttackingLessMp1"
@@ -4495,8 +4495,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 9,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
           ],
           "coinList": [
@@ -4530,8 +4530,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "HealMpOnUse10RandomAlly1"
@@ -4572,8 +4572,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 13,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "GiveMpDmgOnWinDuelTarget15"
@@ -4617,8 +4617,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
           ],
           "coinList": [
@@ -4647,8 +4647,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.59,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "SkillPowerAdderAttackingLessMp1"
@@ -4692,8 +4692,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.63,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.63,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -4769,8 +4769,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.63,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.63,
           "abilityScriptList": [
           ],
           "coinList": [
@@ -4824,8 +4824,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.59,
           "abilityScriptList": [
             {
               "scriptName": "HealHpOnUseAttackSelf10"
@@ -4857,8 +4857,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.63,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.63,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -4897,8 +4897,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.5,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.5,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnWinDuel",
@@ -4937,8 +4937,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.45,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.45,
           "abilityScriptList": [
             {
               "scriptName": "Empty"
@@ -4979,8 +4979,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.5,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.5,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnWinDuel",
@@ -5019,8 +5019,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5067,8 +5067,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5123,8 +5123,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5177,8 +5177,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5217,8 +5217,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 8,
-          "defaultAttackLevel": 14,
-          "attackLevelPerLevel": 0.71,
+          "defaultSkillLevel": 14,
+          "skillLevelPerUnitLevel": 0.71,
           "coinList": [
             {
               "operatorType": "SUB",
@@ -5273,8 +5273,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5375,8 +5375,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnLoseDuel",
@@ -5431,8 +5431,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5471,8 +5471,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5525,8 +5525,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnLoseDuel",
@@ -5577,8 +5577,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.6,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
           "coinList": [
             {
               "operatorType": "SUB",
@@ -5638,8 +5638,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5678,8 +5678,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnWinDuel",
@@ -5734,8 +5734,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.75,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -5774,8 +5774,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -5824,8 +5824,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
             {
               "scriptName": "HealMpOnWinDuel15LeastMpAlly2"
@@ -5873,8 +5873,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 7,
-          "defaultAttackLevel": 11,
-          "attackLevelPerLevel": 0.55,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
           "abilityScriptList": [
           ],
           "coinList": [
@@ -5947,8 +5947,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6019,8 +6019,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6073,8 +6073,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnWinDuel",
@@ -6118,8 +6118,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6167,8 +6167,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 12,
-          "defaultAttackLevel": 0,
-          "attackLevelPerLevel": 0,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.64,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -6207,8 +6207,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
             {
               "scriptName": "GuidoBerserk"
@@ -6284,8 +6284,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6328,8 +6328,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
             {
               "scriptName": "GiveBuffOnUse",
@@ -6368,8 +6368,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6417,8 +6417,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 11,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "abilityScriptList": [
             {
               "scriptName": "AttackDmgUpByRatioViaBuffCheck",
@@ -6484,8 +6484,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 8,
-          "defaultAttackLevel": 13,
-          "attackLevelPerLevel": 0.65,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
           "coinList": [
             {
               "operatorType": "SUB",
@@ -6524,8 +6524,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.54,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.54,
           "coinList": [
             {
               "operatorType": "ADD",
@@ -6552,8 +6552,8 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 2,
-          "defaultAttackLevel": 10,
-          "attackLevelPerLevel": 0.54,
+          "defaultSkillLevel": 10,
+          "skillLevelPerUnitLevel": 0.54,
           "coinList": [
             {
               "operatorType": "ADD",

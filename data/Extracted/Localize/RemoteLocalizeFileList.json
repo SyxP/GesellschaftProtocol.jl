@@ -29,7 +29,8 @@
     "IntegrateAccountUI",
     "FAQ",
     "SeasonTitle",
-    "RewardDungeonUI"
+    "RewardDungeonUI",
+    "AttendanceRewardsText"
   ],
   "bgmLyrics": [
     "BgmLyrics_Credit",
@@ -164,6 +165,7 @@
     "Voice_Faust_LCB_10201",
     "Voice_Faust_WCorp6_10202",
     "Voice_Faust_Yuri_10203",
+    "Voice_Faust_Ncorp_10204",
     "Voice_Donquixote_LCB_10301",
     "Voice_Donquixote_WCorp5_10302",
     "Voice_Donquixote_Shi_10303",
@@ -180,6 +182,7 @@
     "Voice_Heathcliff_LCB_10701",
     "Voice_Heathcliff_ShiAsso4_10702",
     "Voice_Heathcliff_RCorp4_10703",
+    "Voice_Heathcliff_Ncorp_10704",
     "Voice_Ishmael_LCB_10801",
     "Voice_Ishmael_RCorp4_10802",
     "Voice_Ishmael_ShiAsso5_10803",

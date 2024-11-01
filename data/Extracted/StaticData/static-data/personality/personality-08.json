@@ -26,7 +26,7 @@
         8
       ],
       "defenseSkillIDList": [
-        1000101
+        1080104
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -35,8 +35,7 @@
       "breakSection": {
         "sectionList": [
           60,
-          40,
-          20
+          30
         ]
       },
       "resistInfo": {
@@ -87,7 +86,7 @@
       "characterId": 8,
       "season": 0,
       "defenseSkillIDList": [
-        1000102
+        1080204
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -115,8 +114,7 @@
       "breakSection": {
         "sectionList": [
           70,
-          50,
-          25
+          30
         ]
       },
       "resistInfo": {
@@ -195,8 +193,7 @@
       "breakSection": {
         "sectionList": [
           80,
-          60,
-          30
+          60
         ]
       },
       "resistInfo": {
@@ -274,8 +271,7 @@
       "uniqueAttribute": "SHAMROCK",
       "breakSection": {
         "sectionList": [
-          60,
-          40,
+          55,
           20
         ]
       },

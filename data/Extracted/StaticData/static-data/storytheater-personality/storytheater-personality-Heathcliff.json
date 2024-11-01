@@ -44,7 +44,22 @@
                 ],
                 "profileId": "rcorp_heathcliff_profile",
                 "analysisId": "rcorp_heathcliff_analysis"
-            }
+            },
+            {
+              "personalityId": 10704,
+              "releaseDay": 20230323,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10704",
+                  "lockCondition": "gacksung",
+                  "order": 4,
+                  "reward":{"type":"ITEM","id":2,"num":40}
+                }
+              ],
+              "profileId": "ncorp_heathcliff_profile",
+              "analysisId": "ncorp_heathcliff_analysis"
+          }
         ]
     }
   ]

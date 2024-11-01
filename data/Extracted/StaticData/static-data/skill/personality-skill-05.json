@@ -14,8 +14,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 10.0,
-          "attackLevelPerLevel": 0.52,
+          "defaultSkillLevel": 10.0,
+          "skillLevelPerUnitLevel": 0.52,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -155,8 +155,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 10.0,
-          "attackLevelPerLevel": 0.52,
+          "defaultSkillLevel": 10.0,
+          "skillLevelPerUnitLevel": 0.52,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -249,8 +249,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 10.0,
-          "attackLevelPerLevel": 0.52,
+          "defaultSkillLevel": 10.0,
+          "skillLevelPerUnitLevel": 0.52,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -320,9 +320,9 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 0.0,
-          "attackLevelPerLevel": 0.0,
-          "defaultValue": 6,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.78,
+          "defaultValue": 8,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
@@ -332,7 +332,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 2
+              "scale": 3
             }
           ]
         }
@@ -352,8 +352,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 13.0,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 13.0,
+          "skillLevelPerUnitLevel": 0.7,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -457,8 +457,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 13.0,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 13.0,
+          "skillLevelPerUnitLevel": 0.7,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -575,8 +575,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 13.0,
-          "attackLevelPerLevel": 0.7,
+          "defaultSkillLevel": 13.0,
+          "skillLevelPerUnitLevel": 0.7,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -653,9 +653,9 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 0.0,
-          "attackLevelPerLevel": 0.0,
-          "defaultValue": 7,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.65,
+          "defaultValue": 8,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
@@ -665,7 +665,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 2
+              "scale": 5
             }
           ]
         }
@@ -685,8 +685,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.63,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.63,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -770,8 +770,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.63,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.63,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -922,8 +922,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 11.0,
-          "attackLevelPerLevel": 0.63,
+          "defaultSkillLevel": 11.0,
+          "skillLevelPerUnitLevel": 0.63,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -1006,6 +1006,38 @@
       ]
     },
     {
+      "id": 1050304,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 15,
+          "skillLevelPerUnitLevel": 0.79,
+          "defaultValue": 12,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1050401,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -1019,8 +1051,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.68,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.68,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -1092,8 +1124,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.68,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.68,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -1201,7 +1233,7 @@
         },
         {
           "gaksungLevel": 3,
-          "defaultAttackLevel": 12.0,
+          "defaultSkillLevel": 12.0,
           "defaultValue": 6
         }
       ]
@@ -1222,8 +1254,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.68,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.68,
           "defaultValue": 8,
           "canTeamKill": false,
           "canDuel": true,
@@ -1278,8 +1310,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12,
-          "attackLevelPerLevel": 0.68,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.68,
           "defaultValue": 15,
           "canTeamKill": false,
           "canDuel": true,

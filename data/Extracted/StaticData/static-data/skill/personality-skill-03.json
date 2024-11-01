@@ -14,8 +14,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.72,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.72,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -85,8 +85,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.72,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.72,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -177,8 +177,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.72,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.72,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -210,6 +210,38 @@
       ]
     },
     {
+      "id": 1030104,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.57,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1030201,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -223,8 +255,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.79,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.79,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -305,8 +337,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.79,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.79,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -473,8 +505,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.79,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.79,
           "defaultValue": 1,
           "canTeamKill": false,
           "canDuel": true,
@@ -529,6 +561,38 @@
       ]
     },
     {
+      "id": 1030204,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.63,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1030301,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -542,8 +606,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.76,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -613,8 +677,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.76,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -733,8 +797,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 14.0,
-          "attackLevelPerLevel": 0.76,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -753,6 +817,38 @@
               "operatorType": "ADD",
               "scale": 21,
               "cutsceneStart": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030304,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 12,
+          "skillLevelPerUnitLevel": 0.6,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
             }
           ]
         }

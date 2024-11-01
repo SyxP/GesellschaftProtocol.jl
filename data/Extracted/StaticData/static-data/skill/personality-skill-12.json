@@ -14,8 +14,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12.0,
-          "attackLevelPerLevel": 0.62,
+          "defaultSkillLevel": 12.0,
+          "skillLevelPerUnitLevel": 0.62,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -85,8 +85,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12.0,
-          "attackLevelPerLevel": 0.62,
+          "defaultSkillLevel": 12.0,
+          "skillLevelPerUnitLevel": 0.62,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -199,8 +199,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 12.0,
-          "attackLevelPerLevel": 0.62,
+          "defaultSkillLevel": 12.0,
+          "skillLevelPerUnitLevel": 0.62,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -254,6 +254,38 @@
       ]
     },
     {
+      "id": 1120104,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 13,
+          "skillLevelPerUnitLevel": 0.67,
+          "defaultValue": 8,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1120201,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -267,8 +299,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 15.0,
-          "attackLevelPerLevel": 0.82,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.82,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -372,8 +404,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 15.0,
-          "attackLevelPerLevel": 0.82,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.82,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -498,8 +530,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 15.0,
-          "attackLevelPerLevel": 0.82,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.82,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -582,6 +614,38 @@
       ]
     },
     {
+      "id": 1120204,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.55,
+          "defaultValue": 8,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1120301,
       "skillType": "SKILL",
       "skillTier": 1,
@@ -595,8 +659,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 15.0,
-          "attackLevelPerLevel": 0.86,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.86,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -668,8 +732,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 15.0,
-          "attackLevelPerLevel": 0.86,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.86,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -744,8 +808,8 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultAttackLevel": 15.0,
-          "attackLevelPerLevel": 0.86,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.86,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -759,7 +823,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveAdditionalDmgOnSuccessAttack",
+                  "scriptName": "GiveAdditionalDmgOnSuccessAttackViaBuffCheck",
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -777,7 +841,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveAdditionalDmgOnSuccessAttack",
+                  "scriptName": "GiveAdditionalDmgOnSuccessAttackViaBuffCheck",
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -795,7 +859,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveAdditionalDmgOnSuccessAttack",
+                  "scriptName": "GiveAdditionalDmgOnSuccessAttackViaBuffCheck",
                   "buffData": {
                     "buffKeyword": "Burst",
                     "target": "Target",
@@ -817,6 +881,38 @@
                   "scriptName": "HealSelfOnSuccessAttackHeadByRatio100"
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1120304,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 11,
+          "skillLevelPerUnitLevel": 0.57,
+          "defaultValue": 10,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
             }
           ]
         }

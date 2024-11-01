@@ -7256,10 +7256,10 @@
         "incrementByLevel": 0.53
       },
       "minSpeedList": [
-        2
+        1
       ],
       "maxSpeedList": [
-        5
+        3
       ],
       "canUseSkillOnDestroyed": "false",
       "isDestroyable": "true",
@@ -7353,7 +7353,7 @@
         2
       ],
       "maxSpeedList": [
-        5
+        4
       ],
       "canUseSkillOnDestroyed": "true",
       "isDestroyable": "false",
@@ -7444,7 +7444,7 @@
         2
       ],
       "maxSpeedList": [
-        5
+        4
       ],
       "canUseSkillOnDestroyed": "true",
       "isDestroyable": "false",
@@ -7535,7 +7535,7 @@
         2
       ],
       "maxSpeedList": [
-        5
+        4
       ],
       "canUseSkillOnDestroyed": "false",
       "isDestroyable": "true",
@@ -7615,8 +7615,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 168,
-        "incrementByLevel": 5.81
+        "defaultStat": 147,
+        "incrementByLevel": 5.08
       },
       "def": {
         "defaultStat": 13,
@@ -7706,8 +7706,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 38,
-        "incrementByLevel": 1.56
+        "defaultStat": 32,
+        "incrementByLevel": 1.33
       },
       "def": {
         "defaultStat": 14,
@@ -7798,8 +7798,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 151,
-        "incrementByLevel": 6.25
+        "defaultStat": 128,
+        "incrementByLevel": 5.31
       },
       "def": {
         "defaultStat": 14,

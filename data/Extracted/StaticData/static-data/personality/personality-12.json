@@ -7,7 +7,7 @@
       "characterId": 12,
       "season": 0,
       "defenseSkillIDList": [
-        1000101
+        1120104
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -35,8 +35,7 @@
       "breakSection": {
         "sectionList": [
           70,
-          50,
-          25
+          30
         ]
       },
       "resistInfo": {
@@ -87,7 +86,7 @@
       "characterId": 12,
       "season": 0,
       "defenseSkillIDList": [
-        1000101
+        1120204
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -114,9 +113,9 @@
       "uniqueAttribute": "CRIMSON",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          70,
+          40,
+          20
         ]
       },
       "resistInfo": {
@@ -167,7 +166,7 @@
       "characterId": 12,
       "season": 1,
       "defenseSkillIDList": [
-        1000101
+        1120304
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -195,8 +194,8 @@
       "breakSection": {
         "sectionList": [
           70,
-          50,
-          30
+          40,
+          20
         ]
       },
       "resistInfo": {

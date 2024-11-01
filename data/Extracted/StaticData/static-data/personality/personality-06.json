@@ -7,7 +7,7 @@
       "characterId": 6,
       "season": 0,
       "defenseSkillIDList": [
-        1000102
+        1060104
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -34,9 +34,9 @@
       "uniqueAttribute": "INDIGO",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          70,
+          40,
+          20
         ]
       },
       "resistInfo": {
@@ -87,7 +87,7 @@
       "characterId": 6,
       "season": 0,
       "defenseSkillIDList": [
-        1000101
+        1060204
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -114,9 +114,9 @@
       "uniqueAttribute": "SCARLET",
       "breakSection": {
         "sectionList": [
-          70,
-          50,
-          25
+          65,
+          35,
+          15
         ]
       },
       "resistInfo": {
@@ -167,7 +167,7 @@
       "characterId": 6,
       "season": 1,
       "defenseSkillIDList": [
-        1000102
+        1060304
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -194,9 +194,9 @@
       "uniqueAttribute": "VIOLET",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          70,
+          40,
+          20
         ]
       },
       "resistInfo": {

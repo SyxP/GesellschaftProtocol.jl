@@ -34,9 +34,9 @@
       "uniqueAttribute": "INDIGO",
       "breakSection": {
         "sectionList": [
-          80,
-          60,
-          30
+          70,
+          40,
+          20
         ]
       },
       "resistInfo": {
@@ -114,7 +114,6 @@
       "uniqueAttribute": "SHAMROCK",
       "breakSection": {
         "sectionList": [
-          80,
           60,
           30
         ]
@@ -167,7 +166,7 @@
       "characterId": 10,
       "season": 0,
       "defenseSkillIDList": [
-        1000101
+        1100304
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -194,9 +193,8 @@
       "uniqueAttribute": "AZURE",
       "breakSection": {
         "sectionList": [
-          70,
-          50,
-          25
+          55,
+          20
         ]
       },
       "resistInfo": {
@@ -247,7 +245,7 @@
       "characterId": 10,
       "season": 1,
       "defenseSkillIDList": [
-        1000102
+        1100404
       ],
       "slotWeightConditionList": [
         "Default1"
@@ -274,9 +272,7 @@
       "uniqueAttribute": "AMBER",
       "breakSection": {
         "sectionList": [
-          60,
-          40,
-          20
+          50
         ]
       },
       "resistInfo": {
