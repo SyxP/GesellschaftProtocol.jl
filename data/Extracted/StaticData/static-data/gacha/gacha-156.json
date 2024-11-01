@@ -1,99 +1,59 @@
 {
   "list": [
     {
-      "id": 3,
+      "id": 156,
+      "startDate": "2023-11-16T03:00:00.000Z",
+      "endDate": "2024-02-22T01:00:00.000Z",
       "bannerInfo": {
-        "bannerType": "PERMANENT",
-        "priority": 0,
-        "condition": {
-          "type": "CHANCE",
-          "id": 3,
-          "num": 1
-        },
-        "pickupIdList": [],
-        "illustList": [ "gacha_3_illust" ],
-        "videoList": []
+        "endDate": "2024-02-22T01:00:00.000Z",
+        "bannerType": "TEMPORARY_MAIN",
+        "priority": 100,
+        "pickupIdList": [ 10808 ],
+        "illustList": [ "gacha_156_illust" ],
+        "videoList": [ "10808_1"]
       },
-      "threeStarChanceId": 2,
       "payments": [
+        {
+          "paymentId": 0,
+          "gachaUIState": "Limit",
+          "requiredItemId": 1,
+          "requiredNum": 13,
+          "requiredChanceId": 156,
+          "count": 1
+        },
         {
           "paymentId": 1,
           "gachaUIState": "One",
           "requiredItemId": 3,
-          "requiredNum": 80,
-          "requiredChanceId": 3,
+          "requiredNum": 130,
           "count": 1
         },
         {
           "paymentId": 2,
           "gachaUIState": "Ten",
           "requiredItemId": 3,
-          "requiredNum": 160,
-          "requiredChanceId": 3,
-          "count": 2
+          "requiredNum": 1300,
+          "count": 10
         },
         {
           "paymentId": 3,
-          "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 240,
-          "requiredChanceId": 3,
-          "count": 3
+          "gachaUIState": "One",
+          "requiredItemId": 101,
+          "requiredNum": 1,
+          "count": 1
         },
         {
           "paymentId": 4,
           "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 320,
-          "requiredChanceId": 3,
-          "count": 4
+          "requiredItemId": 102,
+          "requiredNum": 1,
+          "count": 10
         },
         {
           "paymentId": 5,
           "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 400,
-          "requiredChanceId": 3,
-          "count": 5
-        },
-        {
-          "paymentId": 6,
-          "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 480,
-          "requiredChanceId": 3,
-          "count": 6
-        },
-        {
-          "paymentId": 7,
-          "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 560,
-          "requiredChanceId": 3,
-          "count": 7
-        },
-        {
-          "paymentId": 8,
-          "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 640,
-          "requiredChanceId": 3,
-          "count": 8
-        },
-        {
-          "paymentId": 9,
-          "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 720,
-          "requiredChanceId": 3,
-          "count": 9
-        },
-        {
-          "paymentId": 10,
-          "gachaUIState": "Ten",
-          "requiredItemId": 3,
-          "requiredNum": 800,
-          "requiredChanceId": 3,
+          "requiredItemId": 101,
+          "requiredNum": 10,
           "count": 10
         }
       ],
@@ -188,27 +148,19 @@
           "occupancyCaseList": [
             {
               "occupancyCase": "DEFAULT",
-              "occupancy": 290
+              "occupancy": 145
             },
             {
               "occupancyCase": "TENTH",
-              "occupancy": 290
+              "occupancy": 145
             },
             {
               "occupancyCase": "COMPLETE_EGO_DEFAULT",
-              "occupancy": 300
+              "occupancy": 150
             },
             {
               "occupancyCase": "COMPLETE_EGO_TENTH",
-              "occupancy": 300
-            },
-            {
-              "occupancyCase": "LAST_SPECIAL",
-              "occupancy": 9870
-            },
-            {
-              "occupancyCase": "COMPLETE_EGO_LAST_SPECIAL",
-              "occupancy": 10000
+              "occupancy": 150
             }
           ],
           "elementType": "PERSONALITY",
@@ -234,7 +186,6 @@
             10707,
             10802,
             10806,
-            10808,
             10902,
             10905,
             10907,
@@ -248,7 +199,33 @@
           ]
         },
         {
+          "groupType": "3_pickup",
+          "occupancyCaseList": [
+            {
+              "occupancyCase": "DEFAULT",
+              "occupancy": 145
+            },
+            {
+              "occupancyCase": "TENTH",
+              "occupancy": 145
+            },
+            {
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 150
+            },
+            {
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 150
+            }
+          ],
+          "elementType": "PERSONALITY",
+          "elementIdList": [
+            10808
+          ]
+        },
+        {
           "groupType": "EGO",
+          "samplingWithoutReplacement": true,
           "occupancyCaseList": [
             {
               "occupancyCase": "DEFAULT",
@@ -256,10 +233,6 @@
             },
             {
               "occupancyCase": "TENTH",
-              "occupancy": 130
-            },
-            {
-              "occupancyCase": "LAST_SPECIAL",
               "occupancy": 130
             }
           ],
@@ -283,7 +256,20 @@
             21203
           ]
         }
-      ]
+      ],
+      "pitySystem": {
+        "endDate": "2024-02-22T01:00:00.000Z",
+        "catalog": [
+          {
+            "element": {
+              "type": "PERSONALITY",
+              "id": 10808,
+              "num": 1
+            },
+            "requiredPityPoint": 200
+          }
+        ]
+      }
     }
   ]
 }
