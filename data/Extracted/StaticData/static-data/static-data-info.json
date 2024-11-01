@@ -7,6 +7,7 @@
       "fileList": [
         "abnormality-action-choice-event",
         "abnormality-personality-choice-event",
+        "abnormality-personality-choice-event-mr2",
         "mirror-dungeon-action-choice-event",
         "mirror-dungeon-personality-choice-event",
         "story-dungeon-action-choice-event",
@@ -19,6 +20,7 @@
         "abnormality-part",
         "abnormality-mirror-part",
         "abnormality-refraction-part",
+        "abnormality-refraction2-part",
         "abnormality-part91-4"
       ]
     },
@@ -28,6 +30,7 @@
         "abnormality-unit",
         "abnormality-mirror-unit",
         "abnormality-refraction-unit",
+        "abnormality-refraction2-unit",
         "abnormality-unit91-4"
       ]
     },
@@ -55,6 +58,7 @@
         "positive-nonvolatile-buff",
         "positive-sin-buff",
         "positive-volatile-buff",
+        "rail-line-2-buff",
         "typo-only-buff"
       ]
     },
@@ -166,6 +170,7 @@
       "dataClass": "passive",
       "fileList": [
         "passive",
+        "passive-mr2",
         "passive_check4",
         "passive-ego"
       ]
@@ -210,6 +215,7 @@
         "abnormality-skill",
         "abnormality-skill91-4",
         "abnormality-refraction-skill",
+        "abnormality-refraction2-skill",
         "abnormality-mirror-skill",
         "ego-skill-1",
         "ego-skill-2",
@@ -791,6 +797,12 @@
       "dataClass": "mirrordungeon-special-battle",
       "fileList": [
         "mirrordungeon-special-battle"
+      ]
+    },
+    {
+      "dataClass": "ui-config",
+      "fileList": [
+        "ui-config"
       ]
     }
   ]

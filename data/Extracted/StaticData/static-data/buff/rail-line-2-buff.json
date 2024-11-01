@@ -1,0 +1,92 @@
+{
+  "list": [
+    {
+      "id": "RailBuffForLine2_A_ENEMY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.5
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_B_ENEMY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.25
+        },
+        {
+          "ability": "GiveBuffOnSucceedAttack",
+          "buffData": {
+            "buffKeyword": "TakeHpHealReduce",
+            "target": "Target",
+            "stack": 5,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_C_ENEMY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.5
+        },
+        {
+          "ability": "MaxHpMultiplierByStack",
+          "value": 0.25
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_D_ENEMY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.25
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "ADD",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderByStack",
+          "coinOperator": "SUB",
+          "value": -1
+        }
+      ]
+    },
+    {
+      "id": "RailBuffForLine2_E_ENEMY",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "AtkDamageMultiplierByStack",
+          "value": 0.25
+        },
+        {
+          "ability": "MaxHpMultiplierByStack",
+          "value": 0.25
+        }
+      ]
+    }
+  ]
+}

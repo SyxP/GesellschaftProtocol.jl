@@ -17,7 +17,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -65,7 +65,7 @@
           "skillMotion": "S6",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -109,7 +109,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -180,7 +180,7 @@
           "skillMotion": "S3",
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -267,7 +267,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -327,7 +327,7 @@
           "skillMotion": "S4",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -380,7 +380,7 @@
           "skillMotion": "S5",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -432,7 +432,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 7,
-          "skillLevelCorrection" : 10,
+          "skillLevelCorrection": 10,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -475,7 +475,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -522,7 +522,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 6,
           "abilityScriptList": [
             {
@@ -571,7 +571,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 8,
           "abilityScriptList": [
             {
@@ -617,7 +617,7 @@
           "range": 999,
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 16,
           "abilityScriptList": [
             {
@@ -670,7 +670,7 @@
           "viewType": "ENCOUNTER",
           "range": 999,
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 20,
           "abilityScriptList": [
             {
@@ -715,7 +715,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -776,7 +776,7 @@
           "skillMotion": "Default",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 15,
+          "skillLevelCorrection": 15,
           "defaultValue": 10,
           "abilityScriptList": [
             {
@@ -817,7 +817,7 @@
           "skillMotion": "Default",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 15,
+          "skillLevelCorrection": 15,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -852,7 +852,7 @@
           "actionScript": "851904",
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 7,
           "abilityScriptList": [
             {
@@ -907,7 +907,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -952,7 +952,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -977,21 +977,21 @@
               ]
             },
             {
-                "operatorType": "ADD",
-                "scale": 3,
-                "abilityScriptList": [
-                  {
-                    "scriptName": "GiveBuffOnSucceedAttackHead",
-                    "buffData": {
-                      "buffKeyword": "Burst",
-                      "target": "Target",
-                      "stack": 0,
-                      "turn": 3,
-                      "activeRound": 0
-                    }
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
                   }
-                ]
-              }
+                }
+              ]
+            }
           ]
         }
       ]
@@ -1013,7 +1013,7 @@
           "skillMotion": "S3",
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -1090,7 +1090,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -3,
+          "skillLevelCorrection": -3,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -1135,7 +1135,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -3,
+          "skillLevelCorrection": -3,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -1184,7 +1184,7 @@
           "skillMotion": "S3",
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -3,
+          "skillLevelCorrection": -3,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -1236,7 +1236,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -1292,7 +1292,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -1352,7 +1352,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -1396,7 +1396,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -1444,7 +1444,7 @@
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 18,
           "abilityScriptList": [
             {
@@ -1494,7 +1494,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 10,
           "abilityScriptList": [
             {
@@ -1543,7 +1543,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 6,
           "abilityScriptList": [
             {
@@ -1599,7 +1599,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -1671,7 +1671,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "range": 999,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 6,
           "abilityScriptList": [
             {
@@ -1718,7 +1718,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -1767,7 +1767,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -1816,7 +1816,7 @@
           "skillMotion": "S4",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 5,
           "abilityScriptList": [
             {
@@ -1865,7 +1865,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 10,
+          "skillLevelCorrection": 10,
           "defaultValue": 3,
           "abilityScriptList": [
             {
@@ -1918,7 +1918,7 @@
           "skillMotion": "S4",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : 10,
+          "skillLevelCorrection": 10,
           "defaultValue": 4,
           "abilityScriptList": [
             {
@@ -1987,7 +1987,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 6,
           "abilityScriptList": [
             {
@@ -2032,7 +2032,7 @@
           "skillMotion": "S4",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "skillLevelCorrection" : -5,
+          "skillLevelCorrection": -5,
           "defaultValue": 10,
           "abilityScriptList": [
             {
@@ -2061,4 +2061,4 @@
       ]
     }
   ]
-  }
+}
