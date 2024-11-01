@@ -2,7 +2,7 @@
   "list": [
     {
       "id": 201,
-      "stageLevel": 35,
+      "stageLevel": 37,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -21,8 +21,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_2",
-            "Battle_Cp1_Enemy_2"
+            "Battle_Cp4_Ally_4",
+            "Battle_Cp4_Enemy_4"
           ],
           "enemyPositionID": 13
         }
@@ -48,7 +48,7 @@
     },
     {
       "id": 202,
-      "stageLevel": 35,
+      "stageLevel": 37,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -57,7 +57,8 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Ab_SteamRobot"
+            "mapName": "Ab_SteamRobot",
+            "mapSize": 35.0
           },
           "unitList": [
             {
@@ -67,8 +68,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp2_Ally_2",
-            "Battle_Cp2_Enemy_2"
+            "Battle_Cp4_Ally_5",
+            "Battle_Cp4_Enemy_5"
           ],
           "enemyPositionID": 13
         }
@@ -86,11 +87,15 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "Abnormality"
+      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "eventScriptName": 8555,
+      "abnormalityEventList": [
+        855501
+      ]
     },
     {
       "id": 203,
-      "stageLevel": 35,
+      "stageLevel": 37,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -116,8 +121,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_1",
-            "Battle_Cp1_Enemy_1"
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
           ],
           "enemyPositionID": 43
         }
@@ -143,7 +148,7 @@
     },
     {
       "id": 204,
-      "stageLevel": 35,
+      "stageLevel": 37,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -167,8 +172,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_3",
-            "Battle_Cp3_Enemy_4"
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
           ]
         }
       ],
@@ -189,7 +194,7 @@
     },
     {
       "id": 205,
-      "stageLevel": 35,
+      "stageLevel": 37,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -198,7 +203,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Ab_ElectricWolf"
+            "mapName": "Ab_FairyLantern"
           },
           "unitList": [
             {
@@ -208,8 +213,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_3",
-            "Battle_Cp3_Enemy_4"
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
           ],
           "enemyPositionID": 13
         }
@@ -227,7 +232,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptNameAfterClear": "8549",
       "eventScriptName": 8549,
       "abnormalityEventList": [
         854901
@@ -235,7 +240,7 @@
     },
     {
       "id": 206,
-      "stageLevel": 35,
+      "stageLevel": 38,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -254,8 +259,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_1",
-            "Battle_Cp1_Enemy_1"
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
           ],
           "enemyPositionID": 13
         }
@@ -281,7 +286,7 @@
     },
     {
       "id": 207,
-      "stageLevel": 35,
+      "stageLevel": 38,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -307,10 +312,10 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_1",
-            "Battle_Cp1_Enemy_1"
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp4_5_Boss"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 40
         }
       ],
       "staminaCost": 0,
@@ -334,7 +339,7 @@
     },
     {
       "id": 208,
-      "stageLevel": 35,
+      "stageLevel": 38,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -375,10 +380,10 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp3_Ally_3",
-            "Battle_Cp3_Enemy_4"
+            "Battle_Cp4_Ally_3",
+            "Battle_Cp4_Enemy_3"
           ],
-          "enemyPositionID": 13
+          "enemyPositionID": 45
         }
       ],
       "staminaCost": 0,
@@ -394,7 +399,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptNameAfterClear": "8550",
       "eventScriptName": 8550,
       "abnormalityEventList": [
         855001
@@ -402,7 +407,7 @@
     },
     {
       "id": 209,
-      "stageLevel": 35,
+      "stageLevel": 38,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -415,19 +420,19 @@
           },
           "unitList": [
             {
-              "unitID": 8557,
+              "unitID": 8551,
               "unitCount": 1,
               "unitLevel": 35
             },
             {
-              "unitID": 8558,
+              "unitID": 8559,
               "unitCount": 1,
               "unitLevel": 35
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_1",
-            "Battle_Cp1_Enemy_1"
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
           ]
         },
         {
@@ -436,12 +441,12 @@
           },
           "unitList": [
             {
-              "unitID": 8557,
+              "unitID": 8551,
               "unitCount": 1,
               "unitLevel": 35
             },
             {
-              "unitID": 8558,
+              "unitID": 8559,
               "unitCount": 1,
               "unitLevel": 35
             }
@@ -469,7 +474,7 @@
     },
     {
       "id": 210,
-      "stageLevel": 35,
+      "stageLevel": 38,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -505,8 +510,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_1",
-            "Battle_Cp1_Enemy_1"
+            "Battle_Cp2_Ally_3",
+            "Battle_Cp4_5_Boss"
           ],
           "enemyPositionID": 44
         }
@@ -532,7 +537,7 @@
     },
     {
       "id": 211,
-      "stageLevel": 35,
+      "stageLevel": 38,
       "stageType": "Abnormality",
       "participantInfo": {
         "min": 1,
@@ -582,15 +587,15 @@
               "unitLevel": 35
             },
             {
-              "unitID": 8569,
+              "unitID": 8570,
               "unitCount": 1,
               "unitLevel": 35
             }
           ],
           "bgmList": [
-            "Battle_Cp1_Ally_1",
-            "Battle_Cp1_Enemy_1"
-          ]
+            "Battle_Flore_sicut_rosa"
+          ],
+          "enemyPositionID": 46
         }
       ],
       "staminaCost": 0,
@@ -606,7 +611,12 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "Abnormality"
+      "stageScriptNameAfterClear": 8556,
+	  "eventScriptName": 8556,
+      "abnormalityEventList": [
+        855601,
+        85560101
+      ]
     }
   ]
 }

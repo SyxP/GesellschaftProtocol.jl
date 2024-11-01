@@ -44,6 +44,15 @@
       "list": [
 
       ]
+    },
+    {
+      "id": "Discard",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
     }
   ]
 }

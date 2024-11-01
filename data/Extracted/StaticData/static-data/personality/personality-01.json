@@ -397,11 +397,11 @@
     },
     {
       "id": 10105,
-      "appearance": "10104_YiSang_SpicebushFlowerAppearance",
-      "unitKeywordList": [],
+      "appearance": "10105_Yisang_RainAppearance",
+      "unitKeywordList": [ "MOLAR" ],
       "characterId": 1,
       "panicType": 9999,
-      "season": 2,
+      "season": 0,
       "defenseSkillIDList": [
         1010504
       ],
@@ -409,20 +409,20 @@
       "slotWeightConditionList": [
         "Default1"
       ],
-      "rank": 3,
+      "rank": 2,
       "hp": {
-        "defaultStat": 66,
-        "incrementByLevel": 2.28
+        "defaultStat": 73,
+        "incrementByLevel": 2.51
       },
-      "defCorrection": -4,
+      "defCorrection": -2,
       "minSpeedList": [
         3,
-        3,
-        3,
-        3
+        4,
+        4,
+        4
       ],
       "maxSpeedList": [
-        5,
+        6,
         6,
         7,
         7
@@ -467,15 +467,15 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 1
-          },
-          {
-            "type": "PENETRATE",
             "value": 0.5
           },
           {
-            "type": "HIT",
+            "type": "PENETRATE",
             "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
           }
         ]
       },

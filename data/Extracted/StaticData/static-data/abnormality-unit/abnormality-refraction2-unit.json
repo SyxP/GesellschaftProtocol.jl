@@ -10,8 +10,8 @@
       "classType": "HE",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 601,
-        "incrementByLevel": 24.87
+        "defaultStat": 677,
+        "incrementByLevel": 28.02
       },
       "abnormalityPartList": [
         853901,
@@ -51,6 +51,10 @@
         },
         {
           "skillId": 853908,
+          "number": 0
+        },
+        {
+          "skillId": 853909,
           "number": 0
         }
       ],
@@ -396,7 +400,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 853905,
+                      "skillID": 853909,
                       "chance": 1
                     }
                   ],
@@ -465,7 +469,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 853905,
+                      "skillID": 853909,
                       "chance": 1
                     }
                   ],
@@ -556,8 +560,8 @@
       "classType": "ZAYIN",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 52,
-        "incrementByLevel": 1.79
+        "defaultStat": 24,
+        "incrementByLevel": 0.82
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -579,14 +583,16 @@
     },
     {
       "id": 8541,
+      "viewid": 8045,
+      "sdPortrait": 8045,
       "appearance": "8045_ElectricCentipedeAppearance",
       "unitKeywordList": [],
       "level": 10,
       "classType": "HE",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 678,
-        "incrementByLevel": 30.39
+        "defaultStat": 705,
+        "incrementByLevel": 31.61
       },
       "abnormalityPartList": [
         854101,
@@ -628,7 +634,8 @@
       "passiveSet": {
         "passiveIdList": [
           804501,
-          854105
+          854105,
+          854104
         ]
       },
       "patternList": [
@@ -1170,8 +1177,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 626,
-        "incrementByLevel": 32.38
+        "defaultStat": 690,
+        "incrementByLevel": 35.7
       },
       "abnormalityPartList": [
         854201,
@@ -1397,7 +1404,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 854202,
+                      "skillID": 854201,
                       "chance": 1
                     }
                   ],
@@ -1410,7 +1417,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 854202,
+                      "skillID": 854201,
                       "chance": 1
                     }
                   ],
@@ -1503,8 +1510,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 73,
-        "incrementByLevel": 2.52
+        "defaultStat": 42,
+        "incrementByLevel": 1.47
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -1534,8 +1541,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 538,
-        "incrementByLevel": 22.26
+        "defaultStat": 729,
+        "incrementByLevel": 30.17
       },
       "patternID": "8544",
       "abnormalityPartList": [
@@ -1563,6 +1570,10 @@
         },
         {
           "skillId": 854405,
+          "number": 1
+        },
+        {
+          "skillId": 854406,
           "number": 1
         }
       ],
@@ -1820,7 +1831,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 854403,
+                      "skillID": 854406,
                       "chance": 1
                     }
                   ],
@@ -1871,8 +1882,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 551,
-        "incrementByLevel": 20.9
+        "defaultStat": 797,
+        "incrementByLevel": 30.25
       },
       "abnormalityPartList": [
         854501,
@@ -2114,8 +2125,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 146,
-        "incrementByLevel": 5.03
+        "defaultStat": 73,
+        "incrementByLevel": 2.51
       },
       "abnormalityPartList": [
         854601
@@ -2145,8 +2156,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 626,
-        "incrementByLevel": 32.38
+        "defaultStat": 708,
+        "incrementByLevel": 36.63
       },
       "abnormalityPartList": [
         854701,
@@ -2404,8 +2415,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 73,
-        "incrementByLevel": 2.52
+        "defaultStat": 42,
+        "incrementByLevel": 1.47
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -2426,610 +2437,15 @@
       }
     },
     {
-      "id": 8552,
-      "viewid": 8049,
-      "sdPortrait": 8049,
-      "appearance": "8049_DongLang_1pAppearance",
-      "unitKeywordList": [],
-      "level": 6,
-      "classType": "TETH",
-      "attributeType": "AMBER",
-      "hp": {
-        "defaultStat": 1105,
-        "incrementByLevel": 57.14
-      },
-      "breakSection": {
-        "sectionList": []
-      },
-      "startActionSlotNum": 5,
-      "maxActionSlotNum": 5,
-      "hasMp": false,
-      "patternID": "8552",
-      "phaseIDList": [
-        8552,
-        85522,
-        85523
-      ],
-      "abnormalityPartList": [
-        855201
-      ],
-      "attributeList": [
-        {
-          "skillId": 855201,
-          "number": 0
-        },
-        {
-          "skillId": 855202,
-          "number": 0
-        },
-        {
-          "skillId": 855204,
-          "number": 0
-        },
-        {
-          "skillId": 855205,
-          "number": 0
-        }
-      ],
-      "patternList": [
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855201,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855202,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855202,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855202,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855205,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855204,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855204,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855204,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855205,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855205,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855204,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855204,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          855201
-        ]
-      }
-    },
-    {
-      "id": 85522,
-      "viewid": 80492,
-      "sdPortrait": 80492,
-      "appearance": "8049_DongLang_2pAppearance",
-      "unitKeywordList": [],
-      "level": 6,
-      "classType": "TETH",
-      "attributeType": "AMBER",
-      "hp": {
-        "defaultStat": 1105,
-        "incrementByLevel": 57.14
-      },
-      "breakSection": {
-        "sectionList": []
-      },
-      "startActionSlotNum": 5,
-      "maxActionSlotNum": 5,
-      "hasMp": false,
-      "abnormalityPartList": [
-        855201
-      ],
-      "attributeList": [
-        {
-          "skillId": 855206,
-          "number": 0
-        },
-        {
-          "skillId": 855207,
-          "number": 0
-        },
-        {
-          "skillId": 855208,
-          "number": 0
-        }
-      ],
-      "patternList": [
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855206,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855207,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855206,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855207,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855208,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855208,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855208,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855208,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          855201
-        ]
-      }
-    },
-    {
-      "id": 85523,
-      "viewid": 80493,
-      "sdPortrait": 80493,
-      "appearance": "8049_DongLang_3pAppearance",
-      "unitKeywordList": [],
-      "level": 6,
-      "classType": "TETH",
-      "attributeType": "AMBER",
-      "hp": {
-        "defaultStat": 1105,
-        "incrementByLevel": 57.14
-      },
-      "breakSection": {
-        "sectionList": []
-      },
-      "startActionSlotNum": 5,
-      "maxActionSlotNum": 5,
-      "hasMp": false,
-      "abnormalityPartList": [
-        855201
-      ],
-      "attributeList": [
-        {
-          "skillId": 855207,
-          "number": 0
-        },
-        {
-          "skillId": 855208,
-          "number": 0
-        },
-        {
-          "skillId": 855209,
-          "number": 0
-        },
-        {
-          "skillId": 855210,
-          "number": 0
-        }
-      ],
-      "patternList": [
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855210,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855209,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855206,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855207,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855209,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855209,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855206,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855207,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "slotList": [
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855210,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855209,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855206,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 855207,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          804903,
-          804904
-        ]
-      }
-    },
-    {
       "id": 8550,
       "appearance": "8550_LostPassengerAppearance",
       "unitKeywordList": [],
       "level": 10,
-      "classType": "TETH",
+      "classType": "HE",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 463,
-        "incrementByLevel": 19.16
+        "defaultStat": 792,
+        "incrementByLevel": 32.75
       },
       "abnormalityPartList": [
         855001,
@@ -3568,8 +2984,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 230,
-        "incrementByLevel": 7.93
+        "defaultStat": 180,
+        "incrementByLevel": 6.2
       },
       "patternID": "PickByPattern_Abnormality",
       "abnormalityPartList": [
@@ -3774,8 +3190,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 230,
-        "incrementByLevel": 7.93
+        "defaultStat": 180,
+        "incrementByLevel": 6.2
       },
       "patternID": "PickByPattern_Abnormality",
       "abnormalityPartList": [
@@ -3980,8 +3396,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 230,
-        "incrementByLevel": 7.93
+        "defaultStat": 180,
+        "incrementByLevel": 6.2
       },
       "patternID": "PickByPattern_Abnormality",
       "abnormalityPartList": [
@@ -4186,8 +3602,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 230,
-        "incrementByLevel": 7.93
+        "defaultStat": 180,
+        "incrementByLevel": 6.2
       },
       "patternID": "PickByPattern_Abnormality",
       "abnormalityPartList": [
@@ -4389,10 +3805,10 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.03
+        "defaultStat": 23,
+        "incrementByLevel": 0.87
       },
-      "patternID": "AutoPick",
+      "patternID": "8560",
       "aggro": 4,
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
@@ -4407,6 +3823,10 @@
         {
           "skillId": 855009,
           "number": 0
+        },
+        {
+          "skillId": 856001,
+          "number": 1
         }
       ],
       "passiveSet": {
@@ -4424,10 +3844,10 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.03
+        "defaultStat": 23,
+        "incrementByLevel": 0.87
       },
-      "patternID": "AutoPick",
+      "patternID": "8560",
       "aggro": 4,
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
@@ -4442,6 +3862,10 @@
         {
           "skillId": 855009,
           "number": 0
+        },
+        {
+          "skillId": 856101,
+          "number": 1
         }
       ],
       "passiveSet": {
@@ -4459,10 +3883,10 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.03
+        "defaultStat": 23,
+        "incrementByLevel": 0.87
       },
-      "patternID": "AutoPick",
+      "patternID": "8560",
       "aggro": 4,
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
@@ -4477,6 +3901,10 @@
         {
           "skillId": 855009,
           "number": 0
+        },
+        {
+          "skillId": 856201,
+          "number": 1
         }
       ],
       "passiveSet": {
@@ -4494,10 +3922,10 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.03
+        "defaultStat": 23,
+        "incrementByLevel": 0.87
       },
-      "patternID": "AutoPick",
+      "patternID": "8560",
       "aggro": 4,
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
@@ -4512,6 +3940,10 @@
         {
           "skillId": 855009,
           "number": 0
+        },
+        {
+          "skillId": 856301,
+          "number": 1
         }
       ],
       "passiveSet": {
@@ -4526,11 +3958,11 @@
       "appearance": "8058_FairyLanternAppearance",
       "unitKeywordList": [],
       "level": 10,
-      "classType": "HE",
+      "classType": "TETH",
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 556,
-        "incrementByLevel": 23.01
+        "defaultStat": 661,
+        "incrementByLevel": 27.36
       },
       "abnormalityPartList": [
         854901,
@@ -4872,1313 +4304,1012 @@
         }
       ]
     },
-	{
-		"id": 8555,
-		"viewid": 8555,
-		"sdPortrait": 8555,
-		"appearance": "8555_SteamMachineAppearance",
-		"unitKeywordList": [],
-		"level": 10,
-		"classType": "HE",
-		"attributeType": "AZURE",
-		"hp": {
-			"defaultStat": 538,
-			"incrementByLevel": 22.26
-		},
-		"abnormalityPartList": [
-			855501,
-			855502
-		],
-		"patternID": "8555",
-		"startActionSlotNum": 5,
-		"maxActionSlotNum": 6,
-		"attributeList": [
-			{
-				"skillId": 855501,
-				"number": 0
-			},
-			{
-				"skillId": 855502,
-				"number": 0
-			},
-			{
-				"skillId": 855503,
-				"number": 0
-			},
-			{
-				"skillId": 855504,
-				"number": 0
-			},
-			{
-				"skillId": 855505,
-				"number": 0
-			},
-			{
-				"skillId": 855506,
-				"number": 0
-			}
-		],
-		"passiveSet": {
-			"passiveIdList": [
-				855501,
-				855507,
-				855508
-			]
-		},
-		"patternList": [
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855505,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855506,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855506,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855506,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855505,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855505,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855503,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855506,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855501,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855502,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855504,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855506,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
+    {
+      "id": 8555,
+      "viewid": 8555,
+      "sdPortrait": 8555,
+      "appearance": "8555_SteamMachineAppearance",
+      "unitKeywordList": [],
+      "level": 10,
+      "classType": "HE",
+      "attributeType": "AZURE",
+      "hp": {
+        "defaultStat": 778,
+        "incrementByLevel": 32.2
+      },
+      "abnormalityPartList": [
+        855501,
+        855502
+      ],
+      "patternID": "8555",
+      "startActionSlotNum": 5,
+      "maxActionSlotNum": 6,
+      "attributeList": [
+        {
+          "skillId": 855501,
+          "number": 0
+        },
+        {
+          "skillId": 855502,
+          "number": 0
+        },
+        {
+          "skillId": 855503,
+          "number": 0
+        },
+        {
+          "skillId": 855504,
+          "number": 0
+        },
+        {
+          "skillId": 855505,
+          "number": 0
+        },
+        {
+          "skillId": 855506,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          855501,
+          855507,
+          855508
+        ]
+      },
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855505,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855505,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855506,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855506,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855505,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855505,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855506,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855501,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855504,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855502,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855503,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855506,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 8556,
       "appearance": "8556_RoseSignAppearance",
+      "classType": "WAW",
       "unitKeywordList": [],
       "level": 30,
       "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 501,
-        "incrementByLevel": 20.73
+        "defaultStat": 480,
+        "incrementByLevel": 17
       },
-      "patternID": "PickByPattern_Abnormality",
+      "patternID": "8556",
       "startActionSlotNum": 5,
       "maxActionSlotNum": 5,
       "abnormalityPartList": [
         855601,
-		855602
+        855602
       ],
       "attributeList": [
         {
           "skillId": 855601,
           "number": 1
         },
-		{
+        {
           "skillId": 855602,
           "number": 1
         },
-		{
+        {
           "skillId": 855603,
           "number": 1
         },
-		{
+        {
           "skillId": 855604,
           "number": 1
         },
-		{
+        {
           "skillId": 855605,
           "number": 1
         },
-		{
+        {
           "skillId": 855606,
           "number": 1
         },
-		{
+        {
           "skillId": 855607,
           "number": 1
         }
@@ -6186,391 +5317,352 @@
       "passiveSet": {
         "passiveIdList": [
           855601,
-		  855602,
-		  855603,
-		  855604
+          855602,
+          855603,
+          855607
         ]
       },
-	  "patternList": [
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855601,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855606,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855606,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855607,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855607,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855606,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855606,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855607,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855603,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855603,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855606,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855607,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855604,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855604,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855604,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855602,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855602,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855603,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855603,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855604,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855604,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855603,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855603,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			},
-			{
-				"slotList": [
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855605,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855605,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					},
-					{
-						"skillParentList": [
-							{
-								"skillChildList": [
-									{
-										"skillID": 855605,
-										"chance": 1
-									}
-								],
-								"chance": 1
-							}
-						]
-					}
-				]
-			}
-		]
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855601,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855606,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855607,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855606,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855606,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855607,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855606,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855607,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855604,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855604,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855604,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855602,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855602,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855604,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855604,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855605,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 855605,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
-	{
+    {
       "id": 8564,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
       "attributeType": "CRIMSON",
       "hp": {
-        "defaultStat": 50,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8556SubUnit",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6578,30 +5670,34 @@
       ],
       "attributeList": [
         {
-          "skillId": 856402,
+          "skillId": 856401,
           "number": 1
         },
-		{
+        {
           "skillId": 856402,
           "number": 1
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  856402,
+		  856404
         ]
       }
     },
-	{
+    {
       "id": 8565,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
       "attributeType": "SCARLET",
       "hp": {
-        "defaultStat": 60,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8556SubUnit",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6609,30 +5705,33 @@
       ],
       "attributeList": [
         {
-          "skillId": 856502,
+          "skillId": 856501,
           "number": 1
         },
-		{
+        {
           "skillId": 856502,
           "number": 1
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  856503
         ]
       }
     },
-	{
+    {
       "id": 8566,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 60,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8566",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6640,34 +5739,56 @@
       ],
       "attributeList": [
         {
+          "skillId": 856601,
+          "number": 1
+        },
+        {
           "skillId": 856602,
           "number": 1
         },
-		{
-          "skillId": 856602,
-          "number": 1
-        },
-		{
+        {
           "skillId": 856603,
-          "number": 1
+          "number": 0
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  856603
         ]
-      }
+      },
+	  "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 856603,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+	  ]
     },
-	{
+    {
       "id": 8567,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 60,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8556SubUnit",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6675,34 +5796,37 @@
       ],
       "attributeList": [
         {
+          "skillId": 856701,
+          "number": 1
+        },
+        {
           "skillId": 856702,
           "number": 1
         },
-		{
-          "skillId": 856702,
-          "number": 1
-        },
-		{
+        {
           "skillId": 856703,
           "number": 1
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  856703
         ]
       }
     },
-	{
+    {
       "id": 8568,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 60,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8568",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6710,34 +5834,56 @@
       ],
       "attributeList": [
         {
+          "skillId": 856801,
+          "number": 1
+        },
+        {
           "skillId": 856802,
           "number": 1
         },
-		{
-          "skillId": 856802,
-          "number": 1
-        },
-		{
+        {
           "skillId": 856803,
-          "number": 1
+          "number": 0
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  856804
         ]
-      }
+      },
+	  "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 856803,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+	  ]
     },
-	{
+    {
       "id": 8569,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
       "attributeType": "INDIGO",
       "hp": {
-        "defaultStat": 60,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8556SubUnit",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6745,34 +5891,37 @@
       ],
       "attributeList": [
         {
+          "skillId": 856901,
+          "number": 2
+        },
+        {
           "skillId": 856902,
           "number": 1
         },
-		{
-          "skillId": 856902,
-          "number": 1
-        },
-		{
+        {
           "skillId": 856903,
           "number": 1
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  856904
         ]
       }
     },
-	{
+    {
       "id": 8570,
-      "appearance": "8053_Camellia_RainbowAppearance",
+      "appearance": "8564_RoseSign_RoseAppearance",
       "unitKeywordList": [],
       "level": 35,
-      "attributeType": "INDIGO",
+      "attributeType": "VIOLET",
       "hp": {
-        "defaultStat": 60,
-        "incrementByLevel": 2.07
+        "defaultStat": 35,
+        "incrementByLevel": 1.35
       },
-      "patternID": "AutoPick",
+      "patternID": "8570",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
@@ -6780,18 +5929,40 @@
       ],
       "attributeList": [
         {
-          "skillId": 857002,
+          "skillId": 857001,
           "number": 1
         },
-		{
+        {
           "skillId": 857002,
-          "number": 1
+          "number": 0
         }
       ],
       "passiveSet": {
         "passiveIdList": [
+          855605,
+          855606,
+		  857004
         ]
-      }
+      },
+	  "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 857002,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+	  ]
     }
   ]
 }

@@ -18,6 +18,15 @@
       "list": [
 
       ]
+    },
+	{
+      "id": "FullBloomRose",
+      "buffClass": "VariableBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
     }
   ]
 }

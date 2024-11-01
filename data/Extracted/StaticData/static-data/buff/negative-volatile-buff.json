@@ -263,7 +263,7 @@
         {
           "ability": "AtkDamageMultiplierByStack",
           "atk": "SLASH",
-          "value": -1
+          "value": -0.1
         }
       ]
     },
@@ -277,7 +277,7 @@
         {
           "ability": "AtkDamageMultiplierByStack",
           "atk": "PENETRATE",
-          "value": -1
+          "value": -0.1
         }
       ]
     },
@@ -291,7 +291,7 @@
         {
           "ability": "AtkDamageMultiplierByStack",
           "atk": "HIT",
-          "value": -1
+          "value": -0.1
         }
       ]
     },

@@ -1666,6 +1666,54 @@
       ]
     },
     {
+      "id": 1010501,
+      "attributeStockCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1010521,
+      "attributeStockCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1110501,
+      "attributeStockCondition": [
+        {
+          "type": "AMBER",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1110521,
+      "attributeStockCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 90001
     },
     {
@@ -2187,28 +2235,28 @@
     {
       "id": 806305
     },
-	{
+    {
       "id": 855501
     },
-	{
+    {
       "id": 855502
     },
-	{
+    {
       "id": 855503
     },
-	{
+    {
       "id": 855504
     },
-	{
+    {
       "id": 855505
     },
-	{
+    {
       "id": 855506
     },
-	{
+    {
       "id": 855507
     },
-	{
+    {
       "id": 855508
     }
   ]

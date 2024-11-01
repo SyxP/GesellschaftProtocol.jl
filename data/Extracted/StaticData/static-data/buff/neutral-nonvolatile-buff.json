@@ -8,7 +8,7 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "AtkMultiplierByStack",
+          "ability": "AtkDamageMultiplierByStack",
           "value": 0.01
         },
         {

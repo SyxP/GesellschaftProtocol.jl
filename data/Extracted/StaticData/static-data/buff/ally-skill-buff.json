@@ -30,14 +30,7 @@
       "canBeDespelled": true,
       "list": [
         {
-          "ability": "SkillPowerResultAdderAsStackIfSatisfied",
-          "value": 1,
-          "buffData": {
-            "buffKeyword": "NailPersonality",
-            "buffOwner": "Target",
-            "stack": 1,
-            "turn": 0
-          }
+          "ability": "AssemblePersonality"
         }
       ]
     },
@@ -50,12 +43,12 @@
       "list": [
         {
           "ability": "TakeAtkDamageMultiplierByStack",
-          "atk": "SLASH",
+          "atk": "PENETRATE",
           "value": 0.2
         },
         {
           "ability": "TakeAtkDamageMultiplierByStack",
-          "atk": "PENETRATE",
+          "atk": "HIT",
           "value": 0.2
         },
         {
@@ -192,7 +185,7 @@
           "value": 4
         },
         {
-          "ability": "RecoverSelfHpByMaxHpOnRoundStart",
+          "ability": "RecoverSelfHpByMaxHpOnRoundStartFloor",
           "value": 0.05
         }
       ]
@@ -214,6 +207,7 @@
       "buffType": "Negative",
       "maxStack": 1,
       "canBeDespelled": true,
+      "canBeDuplicated": true,
       "list": [
         {
           "ability": "DuelDeclaration"

@@ -4,13 +4,13 @@
       "id": 8541,
       "partPositionDatas": [
         {
-          "id": 854101,
+          "id": 804501,
           "offsetX": -400.0,
           "offsetY": 150.0,
           "lineDirection": "RIGHT"
         },
         {
-          "id": 854102,
+          "id": 804502,
           "offsetX": 200.0,
           "offsetY": 200.0,
           "lineDirection": "LEFT"
@@ -21,13 +21,13 @@
       "id": 8539,
       "partPositionDatas": [
         {
-          "id": 853901,
+          "id": 804601,
           "offsetX": 200.0,
           "offsetY": 150.0,
           "lineDirection": "RIGHT"
         },
         {
-          "id": 853902,
+          "id": 804602,
           "offsetX": 0.0,
           "offsetY": 200.0,
           "lineDirection": "LEFT"
@@ -38,14 +38,14 @@
       "id": 8544,
       "partPositionDatas": [
         {
-          "id": 854401,
-          "offsetX": 400.0,
+          "id": 804701,
+          "offsetX": 200.0,
           "offsetY": 150.0,
           "lineDirection": "LEFT"
         },
         {
-          "id": 854402,
-          "offsetX": 200.0,
+          "id": 804702,
+          "offsetX": -200.0,
           "offsetY": 200.0,
           "lineDirection": "RIGHT"
         }
@@ -55,13 +55,30 @@
       "id": 8542,
       "partPositionDatas": [
         {
-          "id": 854201,
+          "id": 804801,
           "offsetX": -400.0,
           "offsetY": 150.0,
           "lineDirection": "RIGHT"
         },
         {
-          "id": 854202,
+          "id": 804802,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8545,
+      "partPositionDatas": [
+        {
+          "id": 805901,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 805902,
           "offsetX": 200.0,
           "offsetY": 200.0,
           "lineDirection": "LEFT"
@@ -72,13 +89,13 @@
       "id": 8547,
       "partPositionDatas": [
         {
-          "id": 854701,
+          "id": 804801,
           "offsetX": -400.0,
           "offsetY": 150.0,
           "lineDirection": "RIGHT"
         },
         {
-          "id": 854702,
+          "id": 804802,
           "offsetX": 200.0,
           "offsetY": 200.0,
           "lineDirection": "LEFT"
@@ -90,7 +107,7 @@
       "partPositionDatas": [
         {
           "id": 854901,
-          "offsetX": -400.0,
+          "offsetX": -200.0,
           "offsetY": 150.0,
           "lineDirection": "RIGHT"
         },
@@ -107,15 +124,49 @@
       "partPositionDatas": [
         {
           "id": 855501,
-          "offsetX": -400.0,
+          "offsetX": 300.0,
           "offsetY": 150.0,
           "lineDirection": "RIGHT"
         },
         {
           "id": 855502,
-          "offsetX": 200.0,
+          "offsetX": 100.0,
           "offsetY": 200.0,
           "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8550,
+      "partPositionDatas": [
+        {
+          "id": 855001,
+          "offsetX": 100,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 855002,
+          "offsetX": -100.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8556,
+      "partPositionDatas": [
+        {
+          "id": 855601,
+          "offsetX": 300.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 855602,
+          "offsetX": -200.0,
+          "offsetY": 0.0,
+          "lineDirection": "RIGHT"
         }
       ]
     }

@@ -102,7 +102,7 @@
     {
       "id": "InterlockingTime",
       "buffClass": "NonvolatileBuff",
-      "buffType": "Neutral",
+      "buffType": "Negative",
       "canBeDespelled": true,
       "list": [
         {
@@ -113,7 +113,7 @@
     {
       "id": "TimeRental",
       "buffClass": "NonvolatileBuff",
-      "buffType": "Neutral",
+      "buffType": "Positive",
       "canBeDespelled": true,
       "list": [
         {

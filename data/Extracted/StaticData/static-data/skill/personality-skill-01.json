@@ -14,7 +14,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 2,
           "canTeamKill": false,
           "canDuel": true,
@@ -107,7 +107,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -213,7 +213,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
@@ -323,7 +323,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : -2,
+          "skillLevelCorrection": -2,
           "defaultValue": 7,
           "canTeamKill": false,
           "canDuel": true,
@@ -359,7 +359,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -454,7 +454,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 5,
           "canTeamKill": false,
           "canDuel": true,
@@ -570,7 +570,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 0,
+          "skillLevelCorrection": 0,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -723,7 +723,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 2,
+          "skillLevelCorrection": 2,
           "defaultValue": 9,
           "canTeamKill": false,
           "canDuel": true,
@@ -759,7 +759,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -865,7 +865,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
@@ -958,7 +958,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 8,
           "canTeamKill": false,
           "canDuel": true,
@@ -1065,7 +1065,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 8,
           "canTeamKill": false,
           "canDuel": true,
@@ -1112,7 +1112,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 4,
+          "skillLevelCorrection": 4,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -1358,7 +1358,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 3,
+          "skillLevelCorrection": 3,
           "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
@@ -1378,7 +1378,7 @@
             }
           ],
           "skillMotion": "S2",
-          "arearange":  3,
+          "arearange": 3,
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "coinList": [
@@ -1556,7 +1556,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : 5,
+          "skillLevelCorrection": 5,
           "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
@@ -1732,7 +1732,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "skillLevelCorrection" : -2,
+          "skillLevelCorrection": -2,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -1756,7 +1756,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 10 
+              "scale": 10
             }
           ]
         },
@@ -1764,6 +1764,555 @@
           "gaksungLevel": 4,
           "attributeType": "AMBER",
           "iconID": "1010404_4"
+        }
+      ]
+    },
+    {
+      "id": 1010501,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": -2,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnDiscarded",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnDiscarded",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 3
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnDiscarded",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010502,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnDiscarded",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 12,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackViaBuffCheckThenLoseTargetVibrationTurn2",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnDiscarded",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 12,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackViaBuffCheckThenLoseTargetVibrationTurn2",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnDiscarded",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 12,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackViaBuffCheckThenLoseTargetVibrationTurn2",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010503,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            },
+            {
+              "scriptName": "1010503",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 10,
+                "activeRound": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "1010503_coin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "DefenseDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "1010503_coin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            },
+            {
+              "scriptName": "1010503",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 10,
+                "activeRound": 0,
+                "value": 2
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "1010503_coin"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "DefenseDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "1010503_coin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1010504,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 0,
+          "defaultValue": 10,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "attributeType": "AMBER",
+          "iconID": "1010504_4",
+          "abilityScriptList": [
+            {
+              "scriptName": "DiscardLowestSkillOnUse"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
         }
       ]
     }

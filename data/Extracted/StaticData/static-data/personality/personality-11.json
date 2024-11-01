@@ -395,8 +395,8 @@
     },
     {
       "id": 11105,
-      "appearance": "11104_Outis_SevenAssoAppearance",
-      "unitKeywordList": [],
+      "appearance": "11105_Outis_OlgaAppearance",
+      "unitKeywordList": [ "MOLAR" ],
       "characterId": 11,
       "panicType": 9999,
       "season": 0,
@@ -409,23 +409,23 @@
       ],
       "rank": 3,
       "hp": {
-        "defaultStat": 86,
-        "incrementByLevel": 2.96
+        "defaultStat": 68,
+        "incrementByLevel": 2.39
       },
-      "defCorrection": 3,
+      "defCorrection": -3,
       "minSpeedList": [
-        5,
-        5,
-        5,
-        5
+        3,
+        3,
+        3,
+        3
       ],
       "maxSpeedList": [
+        5,
         6,
         7,
-        8,
-        8
+        7
       ],
-      "uniqueAttribute": "SHAMROCK",
+      "uniqueAttribute": "AMBER",
       "mentalConditionInfo": {
         "add": [
           {
@@ -456,22 +456,24 @@
       },
       "breakSection": {
         "sectionList": [
-          60
+          65,
+          35,
+          15
         ]
       },
       "resistInfo": {
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 2
+            "value": 0.5
           },
           {
             "type": "PENETRATE",
-            "value": 1
+            "value": 2
           },
           {
             "type": "HIT",
-            "value": 0.5
+            "value": 1
           }
         ]
       },

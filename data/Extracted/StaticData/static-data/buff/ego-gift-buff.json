@@ -20,7 +20,7 @@
           "buffData": {
             "buffKeyword": "Agility",
             "target": "Self",
-            "stack": 1,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }
@@ -41,7 +41,7 @@
           "buffData": {
             "buffKeyword": "Agility",
             "target": "Self",
-            "stack": 2,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }
@@ -121,7 +121,7 @@
           "buffData": {
             "buffKeyword": "Binding",
             "target": "Self",
-            "stack": 2,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }
@@ -142,7 +142,7 @@
           "buffData": {
             "buffKeyword": "Enhancement",
             "target": "Self",
-            "stack": 3,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }
@@ -160,7 +160,7 @@
           "buffData": {
             "buffKeyword": "Reduction",
             "target": "Self",
-            "stack": 3,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }
@@ -178,7 +178,7 @@
           "buffData": {
             "buffKeyword": "AttackDmgDown",
             "target": "Self",
-            "stack": 3,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }
@@ -196,7 +196,7 @@
           "buffData": {
             "buffKeyword": "Burst",
             "target": "Self",
-            "stack": 10,
+            "stack": -1,
             "turn": 0,
             "activeRound": 0
           }

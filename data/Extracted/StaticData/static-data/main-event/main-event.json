@@ -6,6 +6,13 @@
         "Lobby"
       ],
       "bannerSpriteId": "banner_login_event2"
+    },
+    {
+      "eventId": "RailwayDungeonBanner",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_RailwayLine2"
     }
   ]
 }

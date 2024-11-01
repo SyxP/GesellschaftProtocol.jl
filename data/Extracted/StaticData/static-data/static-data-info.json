@@ -11,7 +11,8 @@
         "mirror-dungeon-action-choice-event",
         "mirror-dungeon-personality-choice-event",
         "story-dungeon-action-choice-event",
-        "story-dungeon-personality-choice-event"
+        "story-dungeon-personality-choice-event",
+		"abnormality-action-choice-event_Refraction2"
       ]
     },
     {
@@ -59,6 +60,7 @@
         "positive-sin-buff",
         "positive-volatile-buff",
         "rail-line-2-buff",
+        "rail-line-2-content-buff",
         "typo-only-buff"
       ]
     },
@@ -77,7 +79,8 @@
     {
       "dataClass": "rail-Line2-buff",
       "fileList": [
-        "rail-line2-buff"
+        "rail-line2-buff",
+        "rail-line2-content-buff"
       ]
     },
     {
@@ -649,7 +652,8 @@
     {
       "dataClass": "railway-dungeon",
       "fileList": [
-        "railway-dungeon-01"
+        "railway-dungeon-01",
+        "railway-dungeon-02"
       ]
     },
     {

@@ -59,7 +59,22 @@
               ],
               "profileId": "SevenAsso6_outis_profile",
               "analysisId": "SevenAsso6_outis_analysis"
-          }
+          },
+          {
+            "personalityId": 11105,
+            "releaseDay": 20230928,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P11105",
+                "lockCondition": "gacksung",
+                "order": 2,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "molar_outis_profile",
+            "analysisId": "molar_outis_analysis"
+        }
         ]
     }
   ]

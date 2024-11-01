@@ -14,7 +14,6 @@
       "id": "ReinforcedAssemble",
       "buffClass": "VolatileBuff",
       "buffType": "Neutral",
-      "maxStack": 1,
       "canBeDespelled": true,
       "list": [
         {
@@ -299,10 +298,6 @@
             "turn": 0,
             "activeRound": 0
           }
-        },
-        {
-          "ability": "LoseStackOnRoundEndByRatio",
-          "value": 1
         }
       ]
     },
@@ -326,7 +321,7 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "DistortedDongrangRadiantVanity",
+          "ability": "DistortedDongrangEmptyMark",
           "value": 0.5
         }
       ]
@@ -474,7 +469,9 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "DogThunder"
+        }
       ]
     },
     {
@@ -535,7 +532,7 @@
       "canBeDespelled": false,
       "list": [
         {
-          "ability": "MaxHpMultiplierByStack",
+          "ability": "BullFadedHeat",
           "value": -0.5
         }
       ]
@@ -547,7 +544,9 @@
       "maxStack": 5,
       "canBeDespelled": false,
       "list": [
-
+        {
+          "ability": "BullFever"
+        }
       ]
     },
     {
@@ -733,7 +732,7 @@
     {
       "id": "BabayagaTimeLimit",
       "buffClass": "NonvolatileBuff",
-      "buffType": "Negative",
+      "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
         {
@@ -787,6 +786,7 @@
       "id": "Thorn",
       "buffClass": "VolatileBuff",
       "buffType": "Neutral",
+      "maxStack": 1,
       "canBeDespelled": false,
       "list": [
         {
