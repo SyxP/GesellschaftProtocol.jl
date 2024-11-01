@@ -7829,10 +7829,11 @@
               "scriptName": "EmptyLeftArm"
             },
             {
-              "scriptName": "GiveBuffOnStartDuel",
+              "scriptName": "GiveBuffOnStartDuelIfNotHas_Tipsiness",
               "buffData": {
                 "buffKeyword": "Exalted",
                 "target": "Target",
+                "buffOwner": "Target",
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0
@@ -7883,10 +7884,11 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "GiveBuffOnStartDuel",
+              "scriptName": "GiveBuffOnStartDuelIfNotHas_Tipsiness",
               "buffData": {
                 "buffKeyword": "Exalted",
                 "target": "Target",
+                "buffOwner": "Target",
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0
@@ -7943,10 +7945,11 @@
               "scriptName": "EmptyLeftArm"
             },
             {
-              "scriptName": "GiveBuffOnStartDuel",
+              "scriptName": "GiveBuffOnStartDuelIfNotHas_Tipsiness",
               "buffData": {
                 "buffKeyword": "Exalted",
                 "target": "Target",
+                "buffOwner": "Target",
                 "stack": 1,
                 "turn": 0,
                 "activeRound": 0
@@ -8144,16 +8147,7 @@
               "scale": 7,
               "abilityScriptList": [
                 {
-                  "scriptName": "8048_special_1",
-                  "buffData": {
-                    "buffKeyword": "Exalted",
-                    "target": "",
-                    "buffOwner": "Target",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0,
-                    "value": 0.1
-                  }
+                  "scriptName": "8048_special_1"
                 }
               ]
             }

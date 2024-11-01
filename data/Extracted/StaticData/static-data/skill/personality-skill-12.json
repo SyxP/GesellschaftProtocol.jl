@@ -2623,7 +2623,7 @@
               }
             },
             {
-              "scriptName": "AddTauntOnUse3"
+              "scriptName": "AddTauntOnUse2"
             }
           ],
           "coinList": [
@@ -2699,7 +2699,7 @@
               }
             },
             {
-              "scriptName": "AddTauntOnUse2"
+              "scriptName": "AddTauntOnUse3"
             },
             {
               "scriptName": "ParryingPowerResultAdderSelfViaBuffCheck",

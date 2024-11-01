@@ -1705,7 +1705,7 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart",
+              "scriptName": "GiveBuffOnUse(limit:3)",
               "buffData": {
                 "buffKeyword": "DefenseUp",
                 "target": "LowestHpRatioAlly",
@@ -1774,7 +1774,7 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnBattleStart",
+              "scriptName": "GiveBuffOnUse(limit:3)",
               "buffData": {
                 "buffKeyword": "DefenseUp",
                 "target": "LowestHpRatioAlly",
@@ -1912,7 +1912,15 @@
           "defaultValue": 4,
           "abilityScriptList": [
             {
-              "scriptName": "1020502_4"
+              "scriptName": "GiveBuffOnUse(limit:3)",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "LowestHpRatioAlly",
+                "buffOwner": "",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0
+              }
             },
             {
               "scriptName": "ParryingPowerResultAdderSelfViaBuffCheck",
