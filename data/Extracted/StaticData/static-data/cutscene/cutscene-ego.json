@@ -969,21 +969,23 @@
       "pivotList": [
         {
           "cutsceneType": "EGO_AWAKEN",
-          "offsetX": -0.02,
-          "offsetY": 0.07,
+          "offsetX": 0,
+          "offsetY": -0.09,
 
-          "offsetStartY": -0.16,
+          "offsetStartX": 0.37,
+          "offsetStartY": -0.15,
 
-          "closeUp": 0.58
+          "closeUp": 0.6
         },
         {
           "cutsceneType": "EGO_EROSION",
-          "offsetX": 0.04,
-          "offsetY": 0.12,
+          "offsetX": 0.07,
+          "offsetY": 0.1,
 
-          "offsetStartX": -0.3,
+          "offsetStartX": 0.01,
+          "offsetStartY": -0.14,
 
-          "closeUp": 0.58
+          "closeUp": 0.72
         }
       ]
     },

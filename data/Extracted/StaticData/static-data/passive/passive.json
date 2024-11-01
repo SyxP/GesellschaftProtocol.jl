@@ -2675,6 +2675,30 @@
       ]
     },
     {
+      "id": 1111001,
+      "attributeStockCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1111021,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 90001
     },
     {

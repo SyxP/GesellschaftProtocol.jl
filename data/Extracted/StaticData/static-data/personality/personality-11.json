@@ -908,6 +908,105 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 11110,
+      "appearance": "11110_Outis_WCorpAppearance",
+      "associationList": [ "W_CORP" ],
+      "characterId": 11,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1111004
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 2.32
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        2,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "INDIGO",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1111001,
+          "number": 3
+        },
+        {
+          "skillId": 1111002,
+          "number": 2
+        },
+        {
+          "skillId": 1111003,
+          "number": 1
+        }
+      ]
     }
   ]
 }

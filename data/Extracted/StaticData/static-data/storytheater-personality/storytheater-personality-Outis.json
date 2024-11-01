@@ -134,6 +134,19 @@
             ],
             "profileId": "rings_outis_profile",
             "analysisId": "rings_outis_analysis"
+          },
+          {
+            "personalityId": 11110,
+            "releaseDay": 20240725,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P11110",
+                "lockCondition": "gacksung",
+                "order": 7,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
           }
         ]
     }

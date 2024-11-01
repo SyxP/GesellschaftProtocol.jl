@@ -1897,7 +1897,7 @@
               }
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByTurnWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByTurnWithLimit3",
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "",
@@ -2330,7 +2330,7 @@
               }
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByTurnWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByTurnWithLimit3",
               "buffData": {
                 "buffKeyword": "Vibration",
                 "target": "",

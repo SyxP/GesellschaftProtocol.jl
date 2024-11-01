@@ -401,7 +401,7 @@
           "skillLevelCorrection": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaOnUseBuffCheck",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheck",
               "buffData": {
                 "buffKeyword": "Burst",
                 "target": "",
@@ -667,7 +667,7 @@
           "skillLevelCorrection": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaOnUseBuffCheck",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheck",
               "buffData": {
                 "buffKeyword": "Burst",
                 "target": "",
@@ -760,7 +760,7 @@
           "skillLevelCorrection": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByTurnWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByTurnWithLimit3",
               "buffData": {
                 "buffKeyword": "Burst",
                 "target": "",

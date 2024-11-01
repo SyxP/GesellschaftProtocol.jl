@@ -466,6 +466,61 @@
           }
         }
       ]
+    },
+    {
+      "id": "ChargeStorage",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 5,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "ChargeStorageFirstAbility",
+          "value": 0.1,
+          "buffData": {
+            "buffKeyword": "Charge",
+            "turn": 1
+          }
+        },
+        {
+          "ability": "ChargeStorageSecondAbility",
+          "value": 5,
+          "buffData": {
+            "buffKeyword": "Charge"
+          }
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "ChargeLoad",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 6,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "ChargeLoad",
+          "value": 0.025,
+          "buffData": {
+            "buffKeyword": "Charge",
+            "turn": 1,
+            "value": 2,
+            "limit": 6
+          }
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "BoseProjektil",
+      "buffClass": "VolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "maxStack": 7,
+      "list": [
+        {}
+      ]
     }
   ]
 }
