@@ -3833,6 +3833,7 @@
           "defType": "ATTACK",
           "skillTargetType": "FRONT",
           "targetNum": 1,
+          "range": 8,
           "mpUsage": 0,
           "skillLevelCorrection": 5,
           "defaultValue": 4,

@@ -1700,6 +1700,35 @@
       ]
     },
     {
+      "id": 1100902,
+      "requireIDList": [
+      ]
+    },
+    {
+      "id": 1100901,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1100921,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 1120601,
       "attributeStockCondition": [
         {
@@ -3066,6 +3095,12 @@
     },
     {
       "id": 814003
+    },
+    {
+      "id": 814401
+    },
+    {
+      "id": 814402
     }
   ]
 }
