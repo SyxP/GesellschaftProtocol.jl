@@ -1,0 +1,3 @@
+module GesellschaftProtocol
+
+end
