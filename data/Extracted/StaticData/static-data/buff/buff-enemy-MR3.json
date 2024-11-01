@@ -18,6 +18,7 @@
       "maxStack": 5,
       "canBeDespelled": false,
       "list": [
+
       ]
     },
     {
@@ -88,8 +89,7 @@
       "maxStack": 3,
       "list": [
         {
-          "ability": "MRcAmBb",
-          "value": 1
+          "ability": "MRcAmBb"
         }
       ]
     },
