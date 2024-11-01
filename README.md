@@ -35,4 +35,9 @@ Chinese translations are from https://github.com/LocalizeLimbusCompany/LocalizeL
 
 Russian translations are from https://github.com/Crescent-Corporation/LimbusCompanyBusRUS
 
+## TODO
+
+    1. Fold UnityPy entirely into GesellschaftProtocol to have one-click installation.
+
+
 ## Features
