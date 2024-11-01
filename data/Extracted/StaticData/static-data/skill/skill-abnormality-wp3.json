@@ -7,7 +7,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "SHAMROCK",
           "atkType": "NONE",
@@ -378,7 +378,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AMBER",
           "atkType": "NONE",

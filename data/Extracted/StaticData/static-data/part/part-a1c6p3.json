@@ -1831,21 +1831,16 @@
           "relatedEventId": "MOWE"
         },
         {
+          "subchapterId": 9018,
+          "type": "STORY_THEATER",
           "isUnlockByUnlockCode": true,
-          "unlockCode": 100,
-          "type": "EVENT",
+          "unlockCode": 9110,
           "relatedEventId": "Walpu4",
-          "relatedData": {
-            "chapterId": 91,
-            "subchapterId": 9111,
-            "nodeId": 911101
-          },
           "uiConfig": {
             "illustId": "story-id_E064X",
-            "customChapterText": 3,
+            "customChapterText": "3",
             "region": "p",
-            "mapAreaId": 9111,
-            "chapterTagIconType": "BATTLE"
+            "mapAreaId": 9111
           }
         }
       ]

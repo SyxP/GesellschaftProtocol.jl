@@ -788,6 +788,58 @@
           "ability": "Emptiness"
         }
       ]
+    },
+    {
+      "id": "UninvitedGuestPersonality",
+      "buffClass": "RenewalTypeBuff",
+      "buffType": "Negative",
+      "maxStack": 2,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "UninvitedGuestPersonalityMpHeal",
+          "value": 3
+        },
+        {
+          "ability": "UninvitedGuestPersonalityDmgUp",
+          "value": 0.005,
+          "buffData": {
+            "buffKeyword": "Sinking",
+            "buffOwner": "Self",
+            "stack": 1,
+            "turn": 0,
+            "limit": 10
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "DevyatDimensionalSack",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "destroyableOnZero": false,
+      "destroyableOnRetreat": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "value": 1,
+          "buffData": {
+            "buffKeyword": "DevyatDimensionalSack",
+            "target": "Self",
+            "stack": 3,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "DevyatDimensionalSack"
+        }
+      ]
     }
   ]
 }

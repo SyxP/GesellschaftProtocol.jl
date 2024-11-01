@@ -112,6 +112,11 @@
 						},
 						{
 							"type": "PERSONALITY",
+							"id": 10910,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
 							"id": 11002,
 							"price": 400
 						},
@@ -323,6 +328,11 @@
 						{
 							"type": "EGO",
 							"id": 20803,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20807,
 							"price": 400
 						},
 						{

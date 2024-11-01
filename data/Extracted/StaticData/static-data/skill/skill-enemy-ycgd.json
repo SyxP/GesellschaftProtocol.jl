@@ -1188,7 +1188,7 @@
         {
           "skillTargetType": "FRONT",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -1474,7 +1474,7 @@
         {
           "skillTargetType": "FRONT",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",

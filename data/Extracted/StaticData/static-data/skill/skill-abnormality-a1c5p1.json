@@ -232,7 +232,7 @@
         {
           "iconID": 804704,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -624,7 +624,7 @@
         {
           "iconID": 804606,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -1124,7 +1124,7 @@
         {
           "iconID": 805101,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -2213,7 +2213,7 @@
         {
           "iconID": 851907,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -2256,7 +2256,7 @@
         {
           "iconID": 851908,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -2777,7 +2777,7 @@
         {
           "iconID": 851008,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",

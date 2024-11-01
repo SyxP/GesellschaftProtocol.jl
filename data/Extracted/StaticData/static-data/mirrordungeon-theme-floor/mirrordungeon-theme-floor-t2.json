@@ -1398,10 +1398,9 @@
     {
       "id": 1107,
       "unlockCondition": {
-        "unlockCode": 102
+        "unlockCode": 9110
       },
       "desc": "제4회 발푸르기스의 밤",
-      "relatedEventId": 14,
       "exceptionConditions": [
         {
           "dungeonIdx": 0,

@@ -2105,7 +2105,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "INDIGO",
           "atkType": "NONE",
@@ -2724,7 +2724,7 @@
           "iconID": 9009805,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AMBER",
           "atkType": "NONE",
@@ -3765,7 +3765,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "SHAMROCK",
           "atkType": "NONE",

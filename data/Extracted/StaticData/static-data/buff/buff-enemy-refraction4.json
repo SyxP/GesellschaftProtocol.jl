@@ -131,6 +131,7 @@
       "buffClass": "NonvolatileBuff",
       "buffType": "Positive",
       "canBeDespelled": false,
+      "destroyableOnRetreat": false,
       "maxStack": 1,
       "list": [
         {

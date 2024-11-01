@@ -142,6 +142,13 @@
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": []
+    },
+    {
+      "id": "Retreat",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
     }
   ]
 }

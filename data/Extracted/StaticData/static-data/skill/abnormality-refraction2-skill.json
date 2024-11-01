@@ -328,7 +328,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -1038,7 +1038,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -2017,7 +2017,7 @@
         {
           "iconID": "804508",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -2494,7 +2494,7 @@
         {
           "iconID": "804606",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -2994,7 +2994,7 @@
         {
           "iconID": "804704",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -3490,7 +3490,7 @@
           "iconID": "9007004",
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "NEUTRAL",
           "atkType": "NONE",
@@ -4594,7 +4594,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AZURE",
           "atkType": "NONE",
@@ -4632,7 +4632,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AMBER",
           "atkType": "NONE",
@@ -5064,7 +5064,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AMBER",
           "atkType": "NONE",
@@ -5363,7 +5363,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AZURE",
           "atkType": "NONE",
@@ -5694,7 +5694,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "CRIMSON",
           "atkType": "NONE",
@@ -5726,7 +5726,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "SHAMROCK",
           "atkType": "NONE",
@@ -5758,7 +5758,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AMBER",
           "atkType": "NONE",
@@ -5790,7 +5790,7 @@
       "skillData": [
         {
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AZURE",
           "atkType": "NONE",

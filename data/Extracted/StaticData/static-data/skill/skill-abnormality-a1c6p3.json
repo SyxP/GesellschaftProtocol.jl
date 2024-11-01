@@ -2847,7 +2847,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "SCARLET",
           "atkType": "NONE",
@@ -3061,7 +3061,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "SCARLET",
           "atkType": "NONE",
@@ -4097,7 +4097,7 @@
           "iconID": 816507,
           "skillTargetType": "FRONT",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "INDIGO",
           "atkType": "NONE",
