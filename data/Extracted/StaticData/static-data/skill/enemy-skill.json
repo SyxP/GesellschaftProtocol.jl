@@ -3843,7 +3843,7 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 2,
+              "scale": 1,
               "abilityScriptList": [
                 {
                   "scriptName": "HealMpOnSucceedAttackSelf2"
@@ -3852,7 +3852,7 @@
             },
             {
               "operatorType": "ADD",
-              "scale": 2,
+              "scale": 1,
               "abilityScriptList": [
                 {
                   "scriptName": "HealMpOnSucceedAttackSelf2"
@@ -3861,7 +3861,7 @@
             },
             {
               "operatorType": "ADD",
-              "scale": 2,
+              "scale": 1,
               "abilityScriptList": [
                 {
                   "scriptName": "HealMpOnSucceedAttackSelf2"
@@ -3906,11 +3906,11 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 4
+              "scale": 2
             },
             {
               "operatorType": "ADD",
-              "scale": 4
+              "scale": 2
             }
           ]
         }
@@ -3985,7 +3985,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "targetNum": 1,
-          "defaultValue": 3,
+          "defaultValue": 2,
           "defaultAttackLevel": 14,
           "attackLevelPerLevel": 0.7,
           "abilityScriptList": [
@@ -4081,11 +4081,11 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 4
+              "scale": 2
             },
             {
               "operatorType": "ADD",
-              "scale": 4
+              "scale": 2
             }
           ]
         }
@@ -4107,7 +4107,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "targetNum": 1,
-          "defaultValue": 3,
+          "defaultValue": 2,
           "defaultAttackLevel": 15,
           "attackLevelPerLevel": 0.77,
           "abilityScriptList": [
@@ -4255,7 +4255,7 @@
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
           "targetNum": 1,
-          "defaultValue": 4,
+          "defaultValue": 3,
           "defaultAttackLevel": 15,
           "attackLevelPerLevel": 0.77,
           "abilityScriptList": [
@@ -4301,7 +4301,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "targetNum": 1,
-          "defaultValue": 5,
+          "defaultValue": 4,
           "defaultAttackLevel": 15,
           "attackLevelPerLevel": 0.77,
           "abilityScriptList": [
