@@ -35,6 +35,13 @@
       ],
       "startDate": "2023-03-31T15:00:00.000Z",
       "endDate": "2023-04-02T14:59:59.000Z"
+    },
+    {
+      "eventId": "DailyLoginEvent",
+      "bannerSpriteId": "banner_daily_login_event",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ]
     }
   ]
 }

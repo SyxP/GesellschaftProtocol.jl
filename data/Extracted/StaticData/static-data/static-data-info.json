@@ -334,7 +334,20 @@
     {
       "dataClass": "storytheater-other",
       "fileList": [
-        "storytheater-other-9103"
+        "storytheater-other-9103",
+        "storytheater-other-9010"
+      ]
+    },
+    {
+      "dataClass": "storytheater-dantenote",
+      "fileList": [
+        "storytheater-dantenote-1"
+      ]
+    },
+    {
+      "dataClass": "storytheater-dantenote-detail",
+      "fileList": [
+        "storytheater-dantenote-detail-1"
       ]
     },
     {
@@ -582,16 +595,28 @@
         "subchapter-detail"
       ]
     },
-	{
+    {
       "dataClass": "gacha-banner-sorting",
       "fileList": [
         "gacha-banner-sorting"
       ]
     },
-	{
+    {
       "dataClass": "vending-machine-banner-sorting",
       "fileList": [
         "vending-machine-banner-sorting"
+      ]
+    },
+    {
+      "dataClass": "daily-login-event",
+      "fileList": [
+        "daily-login-event"
+      ]
+    },
+    {
+      "dataClass": "open-story-by-date",
+      "fileList": [
+        "open-story-by-date-dante-mini-story"
       ]
     }
   ]

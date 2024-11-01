@@ -1,0 +1,176 @@
+{
+  "list": [
+    {
+      "mainCategory": {
+        "id": 1,
+        "name": "City"
+      },
+      "middleCategoryList": [
+        {
+          "middleCategory": {
+            "id": 101,
+            "name": "Limbuscompany",
+            "danteNoteDetailId": [
+              1,2
+            ]
+          },
+          "smallCategoryList": [
+            {
+              "smallCategory": {
+                "id": 10101,
+                "name": "LCB",
+                "danteNoteDetailId": [
+                  3,4
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10102,
+                "name": "LCC",
+                "danteNoteDetailId": [
+                 5
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10103,
+                "name": "Sinner",
+                "danteNoteDetailId": [
+                  6, 7, 8
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10104,
+                "name": "Goldenbranch",
+                "danteNoteDetailId": [
+                  20
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "middleCategory": {
+            "id": 102,
+            "name": "Nest",
+            "danteNoteDetailId": [
+              9
+            ]
+          },
+          "smallCategoryList": [
+            {
+              "smallCategory": {
+                "id": 10201,
+                "name": "Wings",
+                "danteNoteDetailId": [
+                  10
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10202,
+                "name": "NestL",
+                "danteNoteDetailId": [
+                  13
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10203,
+                "name": "NestK",
+                "danteNoteDetailId": [
+                  11,12
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10204,
+                "name": "NestN",
+                "danteNoteDetailId": [
+                  14,15
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "middleCategory": {
+            "id": 103,
+            "name": "Organization",
+            "danteNoteDetailId": [
+              23
+            ]
+          },
+          
+          "smallCategoryList": [
+            {
+              "smallCategory": {
+                "id": 10301,
+                "name": "Backstreet",
+                "danteNoteDetailId": [
+                  16
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10302,
+                "name": "Swordgroup",
+                "danteNoteDetailId": [
+                  17
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10303,
+                "name": "Kurokumo",
+                "danteNoteDetailId": [
+                  19
+                ]
+              }
+            }
+
+          ]
+        },
+        {
+          "middleCategory": {
+            "id": 104,
+            "name": "Tech",
+            "danteNoteDetailId": [
+              24
+            ]
+          },
+          "smallCategoryList": [
+            {
+              "smallCategory": {
+                "id": 10401,
+                "name": "Personality",
+                "danteNoteDetailId": [
+                  21,22
+                ]
+              }
+            }
+          ]
+          
+        },
+        {
+          "middleCategory": {
+            "id": 105,
+            "name": "Fixer",
+            "danteNoteDetailId": [
+              18
+            ]
+          } 
+        }
+      ]
+    }
+  ]
+}

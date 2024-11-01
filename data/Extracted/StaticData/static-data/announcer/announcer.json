@@ -65,39 +65,51 @@
           "index": 1
         },
         {
+          "voicetype": "AllyBigDamage_Round",
+          "path": "announcer_round_takebigdmg",
+          "priority": 11,
+          "index": 1
+        },
+        {
           "voicetype": "AllyAdv",
           "path": "announcer_ally_adv",
-          "priority": 11,
+          "priority": 12,
           "index": 1
         },
         {
           "voicetype": "AllyBreak",
           "path": "announcer_ally_break",
-          "priority": 12,
+          "priority": 13,
           "index": 1
         },
         {
           "voicetype": "KillEnemy",
           "path": "announcer_killenemy",
-          "priority": 13,
+          "priority": 14,
           "index": 1
         },
         {
           "voicetype": "EnemyDestroy_RoundStart",
           "path": "announcer_enemy_destroy",
-          "priority": 14,
+          "priority": 15,
+          "index": 1
+        },
+        {
+          "voicetype": "EnemyBigDamage_Round",
+          "path": "announcer_round_givebigdmg",
+          "priority": 16,
           "index": 1
         },
         {
           "voicetype": "EnemyBreak",
           "path": "announcer_enemy_break",
-          "priority": 15,
+          "priority": 17,
           "index": 1
         },
         {
           "voicetype": "Cheer",
           "path": "announcer_cheer",
-          "priority": 16,
+          "priority": 18,
           "index": 2
         },
 
@@ -105,13 +117,13 @@
           "voicetype": "AllyBigDamage",
           "path": "announcer_round_takebigdmg",
           "priority": 1,
-          "index": 2
+          "index": 1
         },
         {
           "voicetype": "EnemyBigDamage",
           "path": "announcer_round_givebigdmg",
           "priority": 2,
-          "index": 2
+          "index": 1
         },
         {
           "voicetype": "EnemyDestroy_Battle",
@@ -225,39 +237,51 @@
           "index": 1
         },
         {
+          "voicetype": "AllyBigDamage_Round",
+          "path": "announcer_round_takebigdmg",
+          "priority": 11,
+          "index": 1
+        },
+        {
           "voicetype": "AllyAdv",
           "path": "announcer_ally_adv",
-          "priority": 11,
+          "priority": 12,
           "index": 1
         },
         {
           "voicetype": "AllyBreak",
           "path": "announcer_ally_break",
-          "priority": 12,
+          "priority": 13,
           "index": 1
         },
         {
           "voicetype": "KillEnemy",
           "path": "announcer_killenemy",
-          "priority": 13,
+          "priority": 14,
           "index": 1
         },
         {
           "voicetype": "EnemyDestroy_RoundStart",
           "path": "announcer_enemy_destroy",
-          "priority": 14,
+          "priority": 15,
+          "index": 1
+        },
+        {
+          "voicetype": "EnemyBigDamage_Round",
+          "path": "announcer_round_givebigdmg",
+          "priority": 16,
           "index": 1
         },
         {
           "voicetype": "EnemyBreak",
           "path": "announcer_enemy_break",
-          "priority": 15,
+          "priority": 17,
           "index": 1
         },
         {
           "voicetype": "Cheer",
           "path": "announcer_cheer",
-          "priority": 16,
+          "priority": 18,
           "index": 2
         },
 
@@ -265,13 +289,13 @@
           "voicetype": "AllyBigDamage",
           "path": "announcer_round_takebigdmg",
           "priority": 1,
-          "index": 2
+          "index": 1
         },
         {
           "voicetype": "EnemyBigDamage",
           "path": "announcer_round_givebigdmg",
           "priority": 2,
-          "index": 2
+          "index": 1
         },
         {
           "voicetype": "EnemyDestroy_Battle",
@@ -384,39 +408,51 @@
           "index": 1
         },
         {
+          "voicetype": "AllyBigDamage_Round",
+          "path": "announcer_round_takebigdmg",
+          "priority": 11,
+          "index": 1
+        },
+        {
           "voicetype": "AllyAdv",
           "path": "announcer_ally_adv",
-          "priority": 11,
+          "priority": 12,
           "index": 1
         },
         {
           "voicetype": "AllyBreak",
           "path": "announcer_ally_break",
-          "priority": 12,
+          "priority": 13,
           "index": 1
         },
         {
           "voicetype": "KillEnemy",
           "path": "announcer_killenemy",
-          "priority": 13,
+          "priority": 14,
           "index": 1
         },
         {
           "voicetype": "EnemyDestroy_RoundStart",
           "path": "announcer_enemy_destroy",
-          "priority": 14,
+          "priority": 15,
+          "index": 1
+        },
+        {
+          "voicetype": "EnemyBigDamage_Round",
+          "path": "announcer_round_givebigdmg",
+          "priority": 16,
           "index": 1
         },
         {
           "voicetype": "EnemyBreak",
           "path": "announcer_enemy_break",
-          "priority": 15,
+          "priority": 17,
           "index": 1
         },
         {
           "voicetype": "Cheer",
           "path": "announcer_cheer",
-          "priority": 16,
+          "priority": 18,
           "index": 2
         },
 
@@ -424,13 +460,13 @@
           "voicetype": "AllyBigDamage",
           "path": "announcer_round_takebigdmg",
           "priority": 1,
-          "index": 2
+          "index": 1
         },
         {
           "voicetype": "EnemyBigDamage",
           "path": "announcer_round_givebigdmg",
           "priority": 2,
-          "index": 2
+          "index": 1
         },
         {
           "voicetype": "EnemyDestroy_Battle",
