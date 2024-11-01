@@ -5043,18 +5043,6 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfHasStack_Charge2",
-                  "buffData": {
-                    "buffKeyword": "VioletTakeDamageUp",
-                    "target": "Target",
-                    "buffOwner": "Self",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 1,
-                    "value": 2
-                  }
-                },
-                {
                   "scriptName": "1021003",
                   "buffData": {
                     "buffKeyword": "Charge",
@@ -5065,6 +5053,18 @@
                     "activeRound": 0,
                     "value": 0.08,
                     "limit": 40
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackSetStackAsValueIfHasStack_Charge2",
+                  "buffData": {
+                    "buffKeyword": "VioletTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1,
+                    "value": 2
                   }
                 }
               ]
