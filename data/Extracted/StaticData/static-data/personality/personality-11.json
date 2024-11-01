@@ -3,12 +3,13 @@
     {
       "id": 11101,
       "appearance": "11101_Outis_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 11,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 1,
@@ -21,10 +22,14 @@
         "incrementByLevel": 0.52
       },
       "minSpeedList": [
-        3,3,3
+        3,
+        3,
+        3
       ],
       "maxSpeedList": [
-        5,6,7
+        5,
+        6,
+        7
       ],
       "uniqueAttribute": "AMBER",
       "breakSection": {
@@ -78,10 +83,11 @@
     {
       "id": 11102,
       "appearance": "11102_Outis_SwordGroupAppearance",
+      "mainClique": "BLADE_LINEAGE",
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "characterId": 11,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.65
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        4,5,5
+        4,
+        5,
+        5
       ],
       "uniqueAttribute": "CRIMSON",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 11103,
       "appearance": "11103_Outis_GCorpAppearance",
+      "mainClique": "G_CORP",
       "characterId": 11,
       "season": 1,
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.76
       },
       "minSpeedList": [
-        4,4,4
+        4,
+        4,
+        4
       ],
       "maxSpeedList": [
-        6,7,8
+        6,
+        7,
+        8
       ],
       "uniqueAttribute": "AMBER",
       "breakSection": {

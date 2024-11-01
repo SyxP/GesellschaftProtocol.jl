@@ -258,7 +258,7 @@
     },
     {
       "id": "mainui_stats_defense",
-      "content": "防御力"
+      "content": "防御レベル"
     },
     {
       "id": "mainui_upgrade",
@@ -398,7 +398,7 @@
     },
     {
       "id": "mainui_manaUsage",
-      "content": "精神消耗力"
+      "content": "精神消耗量"
     },
     {
       "id": "mainui_abnormality_analysis_level",
@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "{0}回以内に星3人格確定排出"
+      "content": "{0}回以内に星3人格、またはE.G.Oが確定排出"
     },
     {
       "id": "mainui_settings",
@@ -870,7 +870,7 @@
     },
     {
       "id": "probability",
-      "content": "確立"
+      "content": "確率"
     },
     {
       "id": "gacha_rate_label",

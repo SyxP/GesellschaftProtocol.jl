@@ -3,12 +3,13 @@
     {
       "id": 10701,
       "appearance": "10701_Heathclif_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 7,
       "season": 1,
       "defenseSkillIDList": [
         1070104
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 1,
@@ -21,10 +22,14 @@
         "incrementByLevel": 0.62
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        4,5,5
+        4,
+        5,
+        5
       ],
       "uniqueAttribute": "VIOLET",
       "breakSection": {
@@ -78,12 +83,13 @@
     {
       "id": 10702,
       "appearance": "10702_Heathclif_4Appearance",
+      "mainClique": "SHI",
       "characterId": 7,
       "season": 1,
       "defenseSkillIDList": [
         1070204
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.65
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        4,5,5
+        4,
+        5,
+        5
       ],
       "uniqueAttribute": "SCARLET",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 10703,
       "appearance": "10703_Heathclif_RCorpAppearance",
+      "mainClique": "R_CORP",
       "characterId": 7,
       "season": 1,
       "defenseSkillIDList": [
         1070304
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 3,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.57
       },
       "minSpeedList": [
-        3,3,3
+        3,
+        3,
+        3
       ],
       "maxSpeedList": [
-        5,6,7
+        5,
+        6,
+        7
       ],
       "uniqueAttribute": "CRIMSON",
       "breakSection": {

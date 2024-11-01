@@ -773,6 +773,19 @@
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Protection",
+                "target": "LowestHpAlly1",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
           "skillMotion": "S3",
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
@@ -783,7 +796,7 @@
               "scale": 13,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",

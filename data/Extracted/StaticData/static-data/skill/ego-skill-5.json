@@ -382,7 +382,7 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttackHead"
+                  "scriptName": "VibrationExplosionOnSucceedAttackHead"
                 }
               ]
             }
@@ -413,7 +413,7 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 }
               ]
             }
@@ -438,7 +438,7 @@
           "defaultAttackLevel": 12.0,
           "attackLevelPerLevel": 0.63,
           "defaultValue": 28,
-          "canTeamKill": false,
+          "canTeamKill": true,
           "canDuel": true,
           "canChangeTarget": true,
           "abilityScriptList": [
@@ -474,7 +474,7 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttackHead"
+                  "scriptName": "VibrationExplosionOnSucceedAttackHead"
                 }
               ]
             }
@@ -513,7 +513,7 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 }
               ]
             }

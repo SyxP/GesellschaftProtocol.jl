@@ -4799,7 +4799,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 }
               ]
             }
@@ -4950,7 +4950,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttackHead"
+                  "scriptName": "VibrationExplosionOnSucceedAttackHead"
                 }
               ]
             },

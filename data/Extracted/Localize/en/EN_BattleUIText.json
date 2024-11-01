@@ -466,7 +466,7 @@
     },
     {
       "id": "continuous_turn",
-      "content": "Count"
+      "content": "Turns"
     },
     {
       "id": "status_buff_list",
@@ -474,7 +474,7 @@
     },
     {
       "id": "stack",
-      "content": "Potency"
+      "content": "Count"
     },
     {
       "id": "slash_resistance",
@@ -515,6 +515,10 @@
     {
       "id": "auto_coinToss",
       "content": "Auto Cointoss"
+    },
+    {
+      "id": "babayaga_alert",
+      "content": "You have {0} chances left."
     }
   ]
 }

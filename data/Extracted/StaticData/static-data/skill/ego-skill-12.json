@@ -116,7 +116,7 @@
               "scale": 5,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -163,7 +163,7 @@
           "defaultAttackLevel": 12.0,
           "attackLevelPerLevel": 0.62,
           "defaultValue": 25,
-          "canTeamKill": false,
+          "canTeamKill": true,
           "canDuel": true,
           "canChangeTarget": true,
           "skillMotion": "Default",

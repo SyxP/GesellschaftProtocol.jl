@@ -3,12 +3,13 @@
     {
       "id": 10201,
       "appearance": "10201_Faust_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 2,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 1,
@@ -21,10 +22,14 @@
         "incrementByLevel": 0.72
       },
       "minSpeedList": [
-        1,2,2
+        1,
+        2,
+        2
       ],
       "maxSpeedList": [
-        3,3,4
+        3,
+        3,
+        4
       ],
       "uniqueAttribute": "INDIGO",
       "breakSection": {
@@ -78,12 +83,13 @@
     {
       "id": 10202,
       "appearance": "10202_Faust_WAppearance",
+      "mainClique": "W_CORP",
       "characterId": 2,
       "season": 1,
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.76
       },
       "minSpeedList": [
-        1,2,2
+        1,
+        2,
+        2
       ],
       "maxSpeedList": [
-        3,3,4
+        3,
+        3,
+        4
       ],
       "uniqueAttribute": "VIOLET",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 10203,
       "appearance": "10203_Faust_YuriAppearance",
+      "mainClique": "L_CORP",
       "characterId": 2,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.6
       },
       "minSpeedList": [
-        2,2,3
+        2,
+        2,
+        3
       ],
       "maxSpeedList": [
-        5,6,6
+        5,
+        6,
+        6
       ],
       "uniqueAttribute": "SCARLET",
       "breakSection": {

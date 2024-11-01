@@ -3,6 +3,7 @@
     {
       "id": 8901,
       "appearance": "8005_Septempeccata_GrassAppearance",
+      "mainClique": "NONE",
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -30,6 +31,7 @@
     {
       "id": 8001,
       "appearance": "8001_SnowWhite_Subspecies_Appearance",
+      "mainClique": "NONE",
       "classType": "WAW",
       "attributeType": "VIOLET",
       "phaseIDList": [
@@ -80,6 +82,7 @@
     {
       "id": 8005,
       "appearance": "8005_Septempeccata_GrassAppearance",
+      "mainClique": "NONE",
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -107,6 +110,7 @@
     {
       "id": 8006,
       "appearance": "8006_Septempeccata_GroundAppearance",
+      "mainClique": "NONE",
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "AMBER",
@@ -134,6 +138,7 @@
     {
       "id": 8007,
       "appearance": "8007_Septempeccata_FireAppearance",
+      "mainClique": "NONE",
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -141,7 +146,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.79
       },
-      
+
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
@@ -162,6 +167,7 @@
     {
       "id": 8002,
       "appearance": "8002_Aztec_CircleAppearance",
+      "mainClique": "NONE",
       "level": 8,
       "classType": "HE",
       "attributeType": "CRIMSON",
@@ -184,13 +190,14 @@
     {
       "id": 80022,
       "level": 8,
+      "mainClique": "NONE",
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
         "defaultStat": 288,
         "incrementByLevel": 7.9375
       },
-      
+
       "abnormalityPartList": [
         800201,
         800202
@@ -436,13 +443,14 @@
     {
       "id": 80023,
       "level": 8,
+      "mainClique": "NONE",
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
         "defaultStat": 288,
         "incrementByLevel": 7.9375
       },
-      
+
       "abnormalityPartList": [
         800203
       ],
@@ -478,13 +486,14 @@
     {
       "id": 80024,
       "level": 8,
+      "mainClique": "NONE",
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
         "defaultStat": 288,
         "incrementByLevel": 7.9375
       },
-      
+
       "abnormalityPartList": [
         800203
       ],
@@ -499,7 +508,7 @@
         }
       ],
       "passiveSet": {
-        "passiveIdList": [ ]
+        "passiveIdList": []
       },
       "patternList": [
         {
@@ -541,6 +550,7 @@
     {
       "id": 8003,
       "appearance": "8003_Aztec_Tow_p1Appearance",
+      "mainClique": "NONE",
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -571,6 +581,7 @@
     {
       "id": 8004,
       "appearance": "8004_Aztec_Tow_p2Appearance",
+      "mainClique": "NONE",
       "level": 6,
       "classType": "TETH",
       "attributeType": "CRIMSON",
@@ -605,6 +616,7 @@
     {
       "id": 8008,
       "appearance": "8008_Maggotapple_p1Appearance",
+      "mainClique": "NONE",
       "level": 9,
       "classType": "HE",
       "attributeType": "AMBER",
@@ -754,6 +766,7 @@
     {
       "id": 8009,
       "appearance": "8009_Maggotapple_p2Appearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "HE",
       "attributeType": "SHAMROCK",
@@ -761,7 +774,7 @@
         "defaultStat": 288,
         "incrementByLevel": 11.9
       },
-      
+
       "abnormalityPartList": [
         800901,
         800902
@@ -924,6 +937,7 @@
     {
       "id": 8010,
       "appearance": "8010_EnhancedMan_AAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -932,7 +946,7 @@
         "incrementByLevel": 0.9375
       },
       "patternID": "8010",
-      
+
       "abnormalityPartList": [
         801001
       ],
@@ -965,6 +979,7 @@
     {
       "id": 8011,
       "appearance": "8011_EnhancedMan_BAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -972,7 +987,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.9375
       },
-      
+
       "patternID": "8011",
       "abnormalityPartList": [
         801101
@@ -1006,6 +1021,7 @@
     {
       "id": 8012,
       "appearance": "8012_EnhancedMan_CAppearance",
+      "mainClique": "NONE",
       "patternID": "8012",
       "level": 10,
       "classType": "TETH",
@@ -1014,7 +1030,7 @@
         "defaultStat": 104,
         "incrementByLevel": 3.575
       },
-      
+
       "abnormalityPartList": [
         801201
       ],
@@ -1281,6 +1297,7 @@
     {
       "id": 8013,
       "appearance": "8013_PinkShose_AAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -1376,6 +1393,7 @@
     {
       "id": 8014,
       "appearance": "8014_PinkShose_BAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -1471,6 +1489,7 @@
     {
       "id": 8015,
       "appearance": "8015_PinkShose_CAppearance",
+      "mainClique": "NONE",
       "patternID": "8015",
       "level": 10,
       "classType": "TETH",
@@ -1661,6 +1680,7 @@
     {
       "id": 8016,
       "appearance": "8016_Septempeccata_WaterAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "AZURE",
@@ -1688,6 +1708,7 @@
     {
       "id": 8017,
       "appearance": "8017_Septempeccata_BloodAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -1715,6 +1736,7 @@
     {
       "id": 8018,
       "appearance": "8018_Septempeccata_IronAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "INDIGO",
@@ -1742,6 +1764,7 @@
     {
       "id": 8019,
       "appearance": "8019_Villager_Rodion_AAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1778,6 +1801,7 @@
     {
       "id": 8020,
       "appearance": "8020_Villager_Rodion_BAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1814,6 +1838,7 @@
     {
       "id": 8021,
       "appearance": "8021_BabayagaSlave_AAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1850,6 +1875,7 @@
     {
       "id": 8022,
       "appearance": "8022_BabayagaSlave_BAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1886,6 +1912,7 @@
     {
       "id": 8024,
       "appearance": "8024_Nothing_ThereAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "patternID": "8024",
       "classType": "TETH",
@@ -2020,6 +2047,7 @@
     {
       "id": 8025,
       "appearance": "8025_Wolf_EnhancedAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "patternID": "8025",
       "classType": "TETH",
@@ -2030,7 +2058,7 @@
         "defaultStat": 203,
         "incrementByLevel": 6.3
       },
-     
+
       "abnormalityPartList": [
         802501
       ],
@@ -2211,6 +2239,7 @@
     {
       "id": 8026,
       "appearance": "8026_Nothing_There_BossAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -2344,6 +2373,7 @@
     {
       "id": 8027,
       "appearance": "8027_Wolf_ErosionAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -2354,7 +2384,7 @@
       "patternID": "8027",
       "startActionSlotNum": 3,
       "maxActionSlotNum": 3,
-      
+
       "abnormalityPartList": [
         802701
       ],
@@ -2448,6 +2478,7 @@
     {
       "id": 8028,
       "appearance": "8028_SnakeAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -2455,7 +2486,7 @@
         "defaultStat": 357,
         "incrementByLevel": 12.3
       },
-      
+
       "patternID": "8028",
       "abnormalityPartList": [
         802802,
@@ -2853,6 +2884,7 @@
     {
       "id": 8029,
       "appearance": "8029_CromerAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -3259,6 +3291,7 @@
     {
       "id": 8030,
       "appearance": "8030_Cromer_2pAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "classType": "HE",
       "attributeType": "SCARLET",
@@ -3268,7 +3301,7 @@
       },
       "startActionSlotNum": 5,
       "maxActionSlotNum": 5,
-      
+
       "abnormalityPartList": [
         803001,
         803002,
@@ -3724,6 +3757,7 @@
     {
       "id": 8031,
       "appearance": "8031_WaterFishAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "HE",
       "attributeType": "AZURE",
@@ -5137,6 +5171,7 @@
     {
       "id": 8032,
       "appearance": "8032_LightningBeastAppearance",
+      "mainClique": "NONE",
       "level": 10,
       "classType": "HE",
       "attributeType": "VIOLET",
@@ -5750,6 +5785,7 @@
     {
       "id": 8033,
       "appearance": "8033_Snake_weakAppearance",
+      "mainClique": "G_CORP",
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -5757,7 +5793,7 @@
         "defaultStat": 218,
         "incrementByLevel": 6.77
       },
-      
+
       "abnormalityPartList": [
         803302
       ],

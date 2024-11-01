@@ -305,7 +305,7 @@
           "defaultAttackLevel": 13.0,
           "attackLevelPerLevel": 0.65,
           "defaultValue": 18,
-          "canTeamKill": false,
+          "canTeamKill": true,
           "canDuel": true,
           "canChangeTarget": true,
           "skillMotion": "Default",

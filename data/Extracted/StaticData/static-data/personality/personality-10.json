@@ -3,12 +3,13 @@
     {
       "id": 11001,
       "appearance": "11001_Sinclair_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 10,
       "season": 1,
       "defenseSkillIDList": [
         1100104
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 1,
@@ -21,10 +22,14 @@
         "incrementByLevel": 0.52
       },
       "minSpeedList": [
-        3,3,3
+        3,
+        3,
+        3
       ],
       "maxSpeedList": [
-        5,6,7
+        5,
+        6,
+        7
       ],
       "uniqueAttribute": "INDIGO",
       "breakSection": {
@@ -78,12 +83,13 @@
     {
       "id": 11002,
       "appearance": "11002_Sinclair_SwordGroupAppearance",
+      "mainClique": "BLADE_LINEAGE",
       "characterId": 10,
       "season": 1,
       "defenseSkillIDList": [
         1100204
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 3,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.68
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        4,5,5
+        4,
+        5,
+        5
       ],
       "uniqueAttribute": "SHAMROCK",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 11003,
       "appearance": "11003_Sinclair_ZweiAppearance",
+      "mainClique": "ZWEI",
       "characterId": 10,
       "season": 1,
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.76
       },
       "minSpeedList": [
-        1,2,2
+        1,
+        2,
+        2
       ],
       "maxSpeedList": [
-        3,3,4
+        3,
+        3,
+        4
       ],
       "uniqueAttribute": "AZURE",
       "breakSection": {
@@ -228,12 +243,13 @@
     {
       "id": 11004,
       "appearance": "11004_Sinclair_MexicanAppearance",
+      "mainClique": "MARIACHI",
       "characterId": 10,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -246,10 +262,14 @@
         "incrementByLevel": 0.82
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        2,2,3
+        2,
+        2,
+        3
       ],
       "uniqueAttribute": "AMBER",
       "breakSection": {

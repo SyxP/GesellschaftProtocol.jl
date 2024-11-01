@@ -3,6 +3,7 @@
     {
       "id": 99001,
       "appearance": "99001_LionAppearance",
+      "mainClique": "NONE",
       "level": 40,
       "slotWeightConditionList": [
         "Default1"
@@ -71,6 +72,7 @@
     {
       "id": 99002,
       "appearance": "99002_WolfAppearance",
+      "mainClique": "NONE",
       "level": 42,
       "slotWeightConditionList": [
         "Default1"
@@ -139,6 +141,7 @@
     {
       "id": 99003,
       "appearance": "99003_PantherAppearance",
+      "mainClique": "NONE",
       "level": 45,
       "slotWeightConditionList": [
         "Default1"
@@ -208,8 +211,9 @@
       "id": 99004,
       "sdPortrait": "90006",
       "appearance": "90006_backstreet_hitmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -264,8 +268,9 @@
       "id": 99005,
       "sdPortrait": "90004",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -320,8 +325,9 @@
       "id": 99006,
       "sdPortrait": "90005",
       "appearance": "90005_backstreet_piercemobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -376,8 +382,9 @@
       "id": 99007,
       "sdPortrait": "90004",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -432,8 +439,9 @@
       "id": 99008,
       "sdPortrait": "90005",
       "appearance": "90005_backstreet_piercemobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -487,8 +495,9 @@
       "id": 99009,
       "sdPortrait": "90006",
       "appearance": "90006_backstreet_hitmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -582,8 +591,9 @@
       "id": 99010,
       "sdPortrait": "90004",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -677,8 +687,9 @@
       "id": 99011,
       "sdPortrait": "90005",
       "appearance": "90005_backstreet_piercemobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -772,8 +783,9 @@
       "id": 99012,
       "sdPortrait": "90004",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -867,8 +879,9 @@
       "id": 99013,
       "sdPortrait": "90005",
       "appearance": "90005_backstreet_piercemobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -962,8 +975,9 @@
       "id": 99014,
       "sdPortrait": "90004",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1057,8 +1071,9 @@
       "id": 99015,
       "sdPortrait": "90006",
       "appearance": "90006_backstreet_hitmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1151,8 +1166,9 @@
       "id": 99016,
       "sdPortrait": "90006",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1245,8 +1261,9 @@
       "id": 99017,
       "sdPortrait": "90006",
       "appearance": "90006_backstreet_hitmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1339,8 +1356,9 @@
       "id": 99018,
       "sdPortrait": "90007",
       "appearance": "90007_backstreet_bossAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1438,8 +1456,9 @@
       "id": 99019,
       "sdPortrait": "90004",
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1533,8 +1552,9 @@
       "id": 99020,
       "sdPortrait": "90006",
       "appearance": "90006_backstreet_hitmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1629,8 +1649,9 @@
       "id": 99021,
       "sdPortrait": "90005",
       "appearance": "90005_backstreet_piercemobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1724,8 +1745,9 @@
     {
       "id": 90004,
       "appearance": "90004_backstreet_slashmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1744,7 +1766,7 @@
       ],
       "breakSection": {
         "sectionList": [
-           60
+          60
         ]
       },
       "mp": 0,
@@ -1826,8 +1848,9 @@
     {
       "id": 90005,
       "appearance": "90005_backstreet_piercemobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -1928,8 +1951,9 @@
     {
       "id": 90006,
       "appearance": "90006_backstreet_hitmobAppearance",
+      "mainClique": "NONE",
       "level": 1,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2029,8 +2053,9 @@
     {
       "id": 90007,
       "appearance": "90007_backstreet_bossAppearance",
+      "mainClique": "NONE",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2138,8 +2163,9 @@
     {
       "id": 90008,
       "appearance": "90008_GCorp_Homeless_BaldAppearance",
+      "mainClique": "G_CORP",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2239,8 +2265,9 @@
     {
       "id": 90009,
       "appearance": "90009_GCorp_Homeless_BobAppearance",
+      "mainClique": "G_CORP",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2340,8 +2367,9 @@
     {
       "id": 90010,
       "appearance": "90010_GCorp_Homeless_ShortcutAppearance",
+      "mainClique": "G_CORP",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2445,8 +2473,9 @@
     {
       "id": 90011,
       "appearance": "90011_GCorp_Normal_BaldAppearance",
+      "mainClique": "G_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2551,8 +2580,9 @@
     {
       "id": 90012,
       "appearance": "90012_GCorp_Normal_BobAppearance",
+      "mainClique": "G_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2661,8 +2691,9 @@
     {
       "id": 90013,
       "appearance": "90013_GCorp_Normal_ShortcutAppearance",
+      "mainClique": "G_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2771,8 +2802,9 @@
     {
       "id": 90001,
       "appearance": "90001_GCorp_Enhanced_BaldAppearance",
+      "mainClique": "G_CORP",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2881,8 +2913,9 @@
     {
       "id": 90002,
       "appearance": "90002_GCorp_Enhanced_ShortcutAppearance",
+      "mainClique": "G_CORP",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -2991,8 +3024,9 @@
     {
       "id": 90003,
       "appearance": "90003_GCorp_Enhanced_BobAppearance",
+      "mainClique": "G_CORP",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3101,8 +3135,9 @@
     {
       "id": 90014,
       "appearance": "90014_GCorp_Infested_BaldAppearance",
+      "mainClique": "G_CORP",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3211,8 +3246,9 @@
     {
       "id": 90015,
       "appearance": "90015_GCorp_Infested_BobAppearance",
+      "mainClique": "G_CORP",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3321,8 +3357,9 @@
     {
       "id": 90016,
       "appearance": "90016_GCorp_Infested_ShortcutAppearance",
+      "mainClique": "G_CORP",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3431,8 +3468,9 @@
     {
       "id": 91001,
       "appearance": "91001_GCorp_Enhanced_BossAppearance",
+      "mainClique": "G_CORP",
       "level": 6,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3546,8 +3584,9 @@
     {
       "id": 91002,
       "appearance": "91002_GCorp_Infested_BossAppearance",
+      "mainClique": "G_CORP",
       "level": 7,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3665,9 +3704,10 @@
     {
       "id": 90017,
       "appearance": "90017_ConconAppearance",
+      "mainClique": "KONG_KONG",
       "patternID": "90017",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3775,9 +3815,10 @@
     {
       "id": 90018,
       "appearance": "90018_ConconAppearance",
+      "mainClique": "KONG_KONG",
       "patternID": "90018",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3885,9 +3926,10 @@
     {
       "id": 90019,
       "appearance": "90019_ConconAppearance",
+      "mainClique": "KONG_KONG",
       "patternID": "90019",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -3995,9 +4037,10 @@
     {
       "id": 91003,
       "appearance": "91003_ConconAppearance",
+      "mainClique": "KONG_KONG",
       "patternID": "91003",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4120,8 +4163,9 @@
     {
       "id": 90020,
       "appearance": "90020_VipAppearance",
+      "mainClique": "CASINO_SECURITY",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4230,8 +4274,9 @@
     {
       "id": 90021,
       "appearance": "90021_VipAppearance",
+      "mainClique": "CASINO_SECURITY",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4340,8 +4385,9 @@
     {
       "id": 90022,
       "appearance": "90022_VipAppearance",
+      "mainClique": "CASINO_SECURITY",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4442,13 +4488,14 @@
           "number": 1
         }
       ]
-      
+
     },
     {
       "id": 90023,
       "appearance": "90023_VipAppearance",
+      "mainClique": "CASINO_SECURITY",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4557,9 +4604,10 @@
     {
       "id": 90024,
       "appearance": "90024_MexicanAppearance",
+      "mainClique": "MARIACHI",
       "patternID": "90024",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4668,9 +4716,10 @@
     {
       "id": 90025,
       "appearance": "90025_MexicanAppearance",
+      "mainClique": "MARIACHI",
       "patternID": "90025",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4771,7 +4820,7 @@
           "number": 2
         },
         {
-          "skillId":9002404,
+          "skillId": 9002404,
           "number": 1
         }
       ]
@@ -4779,9 +4828,10 @@
     {
       "id": 91004,
       "appearance": "91004_EyedAppearance",
+      "mainClique": "MARIACHI",
       "patternID": "91004",
       "level": 6,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -4901,8 +4951,9 @@
     {
       "id": 90026,
       "appearance": "90026_CnBigGuyAppearance",
+      "mainClique": "TIEQIU",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5010,8 +5061,9 @@
     {
       "id": 90027,
       "appearance": "90027_CnBigGuyAppearance",
+      "mainClique": "TIEQIU",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5120,8 +5172,9 @@
     {
       "id": 90028,
       "appearance": "90028_KCorpAppearance",
+      "mainClique": "K_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5162,7 +5215,7 @@
             "type": "HIT",
             "value": 2
           }
-        ] ,
+        ],
         "attributeResistList": [
           {
             "type": "CRIMSON",
@@ -5233,8 +5286,9 @@
     {
       "id": 90029,
       "appearance": "90028_KCorpAppearance",
+      "mainClique": "K_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5346,8 +5400,9 @@
     {
       "id": 90030,
       "appearance": "90029_KCorpAppearance",
+      "mainClique": "K_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5455,8 +5510,9 @@
     {
       "id": 90031,
       "appearance": "90029_KCorpAppearance",
+      "mainClique": "K_CORP",
       "level": 3,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5564,6 +5620,7 @@
     {
       "id": 90032,
       "appearance": "90032_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 4,
       "slotWeightConditionList": [
         "Default1"
@@ -5676,8 +5733,9 @@
     {
       "id": 90033,
       "appearance": "90032_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5788,8 +5846,9 @@
     {
       "id": 90034,
       "appearance": "90032_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 4,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5808,8 +5867,8 @@
       ],
       "breakSection": {
         "sectionList": [
-         50,
-         25
+          50,
+          25
         ]
       },
       "mp": 0,
@@ -5900,8 +5959,9 @@
     {
       "id": 90035,
       "appearance": "90035_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -5920,7 +5980,7 @@
       ],
       "breakSection": {
         "sectionList": [
-          60, 
+          60,
           30
         ]
       },
@@ -6016,8 +6076,9 @@
     {
       "id": 90036,
       "appearance": "90035_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -6104,11 +6165,11 @@
         2
       ],
       "passiveSet": {
-          "passiveIdList": [
-            9003201,
-            9003801
-          ]
-        },
+        "passiveIdList": [
+          9003201,
+          9003801
+        ]
+      },
       "maxActionSlotNum": 2,
       "patternID": "NCorpHeavyArmor",
       "attributeList": [
@@ -6133,8 +6194,9 @@
     {
       "id": 90037,
       "appearance": "90035_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 5,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -6250,8 +6312,9 @@
     {
       "id": 90038,
       "appearance": "90038_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 6,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -6270,7 +6333,7 @@
       ],
       "breakSection": {
         "sectionList": [
-          60, 
+          60,
           30
         ]
       },
@@ -6367,8 +6430,9 @@
     {
       "id": 90039,
       "appearance": "90038_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 6,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -6387,7 +6451,7 @@
       ],
       "breakSection": {
         "sectionList": [
-          60, 
+          60,
           30
         ]
       },
@@ -6484,8 +6548,9 @@
     {
       "id": 90040,
       "appearance": "90038_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 6,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {
@@ -6504,7 +6569,7 @@
       ],
       "breakSection": {
         "sectionList": [
-          60, 
+          60,
           30
         ]
       },
@@ -6601,9 +6666,10 @@
     {
       "id": 91005,
       "appearance": "91005_NCorpAppearance",
+      "mainClique": "N_CORP",
       "level": 5,
       "patternID": "91005",
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default2"
       ],
       "hp": {
@@ -6622,7 +6688,7 @@
       ],
       "breakSection": {
         "sectionList": [
-          60, 
+          60,
           30
         ]
       },
@@ -6724,9 +6790,10 @@
     {
       "id": 91006,
       "appearance": "91006_NCorpAppearance",
+      "mainClique": "N_CORP",
       "patternID": "91006",
       "level": 7,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default2"
       ],
       "hp": {
@@ -6745,7 +6812,7 @@
       ],
       "breakSection": {
         "sectionList": [
-          60, 
+          60,
           30
         ]
       },
@@ -7330,8 +7397,9 @@
     {
       "id": 90041,
       "appearance": "90041_SlaveAppearance",
+      "mainClique": "NONE",
       "level": 2,
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "hp": {

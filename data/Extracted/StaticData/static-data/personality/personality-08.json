@@ -3,6 +3,7 @@
     {
       "id": 10801,
       "appearance": "10801_Ishmael_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 8,
       "season": 1,
       "rank": 1,
@@ -15,15 +16,19 @@
         "incrementByLevel": 0.67
       },
       "minSpeedList": [
-        5,5,5
+        5,
+        5,
+        5
       ],
       "maxSpeedList": [
-        6,7,8
+        6,
+        7,
+        8
       ],
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "uniqueAttribute": "CRIMSON",
@@ -78,12 +83,13 @@
     {
       "id": 10802,
       "appearance": "10802_Ishmael_RCorpAppearance",
+      "mainClique": "R_CORP",
       "characterId": 8,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 3,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.74
       },
       "minSpeedList": [
-        2,3,3
+        2,
+        3,
+        3
       ],
       "maxSpeedList": [
-        6,6,7
+        6,
+        6,
+        7
       ],
       "uniqueAttribute": "AZURE",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 10803,
       "appearance": "10803_Ishmael_ShiAssoAppearance",
+      "mainClique": "SHI",
       "characterId": 8,
       "season": 1,
       "defenseSkillIDList": [
         1080304
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.65
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        4,5,5
+        4,
+        5,
+        5
       ],
       "uniqueAttribute": "VIOLET",
       "breakSection": {
@@ -228,12 +243,13 @@
     {
       "id": 10804,
       "appearance": "10804_Ishmael_LCCSodeAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 8,
       "season": 1,
       "defenseSkillIDList": [
         1080404
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -246,10 +262,14 @@
         "incrementByLevel": 0.76
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        5,5,6
+        5,
+        5,
+        6
       ],
       "uniqueAttribute": "SHAMROCK",
       "breakSection": {

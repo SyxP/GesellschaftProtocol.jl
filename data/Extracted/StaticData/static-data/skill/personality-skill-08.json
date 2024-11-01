@@ -193,7 +193,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -1130,7 +1130,7 @@
               "actionIndex": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
                 }
               ]
             },

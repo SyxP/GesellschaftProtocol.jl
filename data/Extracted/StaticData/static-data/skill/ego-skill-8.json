@@ -413,7 +413,7 @@
           "defaultAttackLevel": 15.0,
           "attackLevelPerLevel": 0.79,
           "defaultValue": 36,
-          "canTeamKill": false,
+          "canTeamKill": true,
           "canDuel": true,
           "canChangeTarget": true,
           "abilityScriptList": [

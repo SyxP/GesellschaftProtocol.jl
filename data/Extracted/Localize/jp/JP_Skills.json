@@ -42,7 +42,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜1を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 1を付与"
                 }
               ]
             }
@@ -57,7 +57,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜2を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 2を付与"
                 }
               ]
             }
@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜回数が1増加"
+                  "desc": "[OnSucceedAttackHead] 沈潜 回数が1増加"
                 }
               ]
             }
@@ -94,7 +94,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与。沈潜回数が1増加"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与。沈潜 回数が1増加"
                 }
               ]
             }
@@ -116,7 +116,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の精神力が0未満なら次のターンに脆弱1を付与"
+                  "desc": "[OnSucceedAttack] 対象の精神力が0未満なら次のターンに脆弱 1を付与"
                 }
               ]
             }
@@ -136,7 +136,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             }
@@ -151,7 +151,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂2を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 2を付与"
                 }
               ]
             }
@@ -187,7 +187,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに貫通脆弱1を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに貫通脆弱 1を付与"
                 }
               ]
             }
@@ -201,7 +201,7 @@
         {
           "level": 1,
           "name": "リポスト",
-          "desc": "[WinDuel] 次のターンに麻痺3を付与",
+          "desc": "[WinDuel] 次のターンに麻痺 3を付与",
           "keywords": [
             "Paralysis"
           ],
@@ -225,7 +225,7 @@
         {
           "level": 2,
           "name": "リポスト",
-          "desc": "[WinDuel] 次のターンに麻痺3を付与",
+          "desc": "[WinDuel] 次のターンに麻痺 3を付与",
           "keywords": [
             "Paralysis"
           ],
@@ -240,7 +240,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに脆弱1を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに脆弱 1を付与"
                 }
               ]
             }
@@ -260,7 +260,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 1を得る"
                 }
               ]
             }
@@ -275,7 +275,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに呼吸3を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに呼吸 3を得る"
                 }
               ]
             }
@@ -289,7 +289,7 @@
         {
           "level": 1,
           "name": "ひんねじる",
-          "desc": "[WinDuel] 次のターンに自分の呼吸回数が1増加",
+          "desc": "[WinDuel] 次のターンに自分の呼吸 回数が1増加",
           "keywords": [],
           "coinlist": [
             {},
@@ -299,7 +299,7 @@
         {
           "level": 2,
           "name": "ひんねじる",
-          "desc": "[WinDuel] 次のターンに自分の呼吸回数が2増加",
+          "desc": "[WinDuel] 次のターンに自分の呼吸 回数が2増加",
           "keywords": [],
           "coinlist": [
             {},
@@ -320,7 +320,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 2を得る"
                 }
               ]
             },
@@ -362,7 +362,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 麻痺1を付与"
+                  "desc": "[OnSucceedAttackHead] 麻痺 1を付与"
                 }
               ]
             }
@@ -377,7 +377,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺1を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 1を付与"
                 }
               ]
             }
@@ -398,7 +398,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに攻撃レベル減少1を付与"
+                  "desc": "[OnSucceedAttackHead] 次のターンに攻撃レベル減少 1を付与"
                 }
               ]
             }
@@ -414,7 +414,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに攻撃レベル減少2を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに攻撃レベル減少 2を付与"
                 }
               ]
             }
@@ -434,14 +434,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに攻撃威力減少1を付与"
+                  "desc": "[OnSucceedAttackHead] 次のターンに攻撃威力減少 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに攻撃威力減少1を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに攻撃威力減少 1を付与"
                 }
               ]
             }
@@ -460,7 +460,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が1増加 "
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が1増加 "
                 }
               ]
             }
@@ -474,7 +474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が2増加 "
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が2増加 "
                 }
               ]
             }
@@ -494,7 +494,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電を3消耗し、次のターンに束縛4を付与"
+                  "desc": "[OnSucceedAttack] 充電 を3消耗し、次のターンに束縛 4を付与"
                 }
               ]
             }
@@ -509,7 +509,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電を3消耗し、次のターンに束縛4を付与"
+                  "desc": "[OnSucceedAttack] 充電 を3消耗し、次のターンに束縛 4を付与"
                 }
               ]
             }
@@ -530,7 +530,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電を5消耗し、次のターンに攻撃威力増加2、麻痺3を付与"
+                  "desc": "[OnSucceedAttack] 充電 を5消耗し、次のターンに攻撃威力減少 2、麻痺 3を付与"
                 }
               ]
             }
@@ -549,7 +549,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             }
@@ -563,7 +563,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             }
@@ -582,21 +582,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンにクイック2を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンにクイック 2を得る"
                 }
               ]
             }
@@ -610,21 +610,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンにクイック4を得る"
+                  "desc": "[OnSucceedAttack] 次のターンにクイック 4を得る"
                 }
               ]
             }
@@ -644,7 +644,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂5を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 5を付与"
                 }
               ]
             }
@@ -671,7 +671,7 @@
         {
           "level": 1,
           "name": "刺す",
-          "desc": "[WinDuel] 次のターンにクイック1を得る",
+          "desc": "[WinDuel] 次のターンにクイック 1を得る",
           "coinlist": [
             {}
           ]
@@ -679,7 +679,7 @@
         {
           "level": 2,
           "name": "刺す",
-          "desc": "[WinDuel] 次のターンにクイック2を得る",
+          "desc": "[WinDuel] 次のターンにクイック 2を得る",
           "coinlist": [
             {}
           ]
@@ -692,7 +692,7 @@
         {
           "level": 1,
           "name": "束ね刺し",
-          "desc": "[WinDuel] 次のターンに攻撃威力増加1を得る",
+          "desc": "[WinDuel] 次のターンに攻撃威力増加 1を得る",
           "coinlist": [
             {}
           ]
@@ -700,7 +700,7 @@
         {
           "level": 2,
           "name": "束ね刺し",
-          "desc": "[WinDuel] 次のターンに攻撃威力増加2を得る",
+          "desc": "[WinDuel] 次のターンに攻撃威力増加 2を得る",
           "coinlist": [
             {}
           ]
@@ -733,7 +733,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             }
@@ -747,10 +747,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂1を付与"
+                  "desc": "[OnSucceedAttack] 破裂 1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の充電回数が2増加"
+                  "desc": "[OnSucceedAttackHead] 自分の充電 回数が2増加"
                 }
               ]
             }
@@ -771,7 +771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 脆弱1を付与"
+                  "desc": "[OnSucceedAttackHead] 脆弱 1を付与"
                 }
               ]
             }
@@ -785,21 +785,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が4増加"
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が4増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が4増加"
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が4増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 脆弱2を付与"
+                  "desc": "[OnSucceedAttackHead] 脆弱 2を付与"
                 }
               ]
             }
@@ -813,7 +813,7 @@
         {
           "level": 3,
           "name": "空間切断",
-          "desc": "[WhenUse] 充電回数10を消耗し、スキル威力+4\n充電回数維持数が10未満の場合、体力が20%減少",
+          "desc": "[WhenUse] 充電 回数10を消耗し、スキル威力+4\n充電 回数が10未満の場合、体力が20%減少",
           "coinlist": [
             {
               "coindescs": [
@@ -840,7 +840,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂5を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 5を付与"
                 }
               ]
             }
@@ -859,7 +859,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 2を得る"
                 }
               ]
             }
@@ -873,7 +873,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに呼吸 2を得る"
                 }
               ]
             }
@@ -892,14 +892,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンにクイック2を得る"
+                  "desc": "[OnSucceedAttack] 次のターンにクイック 2を得る"
                 }
               ]
             }
@@ -908,19 +908,19 @@
         {
           "level": 2,
           "name": "双撃",
-          "desc": "[WhenUse] 自分の体力が50%未満のとき、次のターンにクイック2を得る",
+          "desc": "[WhenUse] 自分の体力が50%未満のとき、次のターンにクイック 2を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンにクイック2を得る"
+                  "desc": "[OnSucceedAttack] 次のターンにクイック 2を得る"
                 }
               ]
             }
@@ -952,7 +952,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに呼吸 1を得る"
                 }
               ]
             }
@@ -966,7 +966,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに呼吸 2を得る"
                 }
               ]
             }
@@ -1027,7 +1027,7 @@
         {
           "level": 3,
           "name": "描き出す",
-          "desc": "[StartBattle] 斬撃ダメージ量増加2を得る",
+          "desc": "[StartBattle] 斬撃ダメージ量増加 2を得る",
           "coinlist": [
             {},
             {},
@@ -1047,7 +1047,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂2を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 2を付与"
                 }
               ]
             }
@@ -1061,7 +1061,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             }
@@ -1075,12 +1075,12 @@
         {
           "level": 1,
           "name": "アッパースラッシュ",
-          "desc": "[WinDuel] 次のターンに攻撃威力増加1を得る",
+          "desc": "[WinDuel] 次のターンに攻撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 防御力量減少1を付与"
+                  "desc": "[OnSucceedAttackHead] 防御レベル減少 1を付与"
                 }
               ]
             }
@@ -1089,12 +1089,12 @@
         {
           "level": 2,
           "name": "アッパースラッシュ",
-          "desc": "対象に斬撃脆弱がある場合、スキル威力+ 2\n[WinDuel] 次のターンに攻撃威力増加1を得る",
+          "desc": "対象に斬撃脆弱 がある場合、スキル威力+ 2\n[WinDuel] 次のターンに攻撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 防御力量減少1を付与"
+                  "desc": "[OnSucceedAttack] 防御レベル減少 1を付与"
                 }
               ]
             }
@@ -1108,12 +1108,12 @@
         {
           "level": 3,
           "name": "スワッシュ",
-          "desc": "[WinDuel] このスキルで付与する斬撃脆弱2を追加で付与",
+          "desc": "[WinDuel] このスキルで付与する斬撃脆弱 2を追加付与",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに斬撃脆弱3を付与"
+                  "desc": "[OnSucceedAttack] 次のターンに斬撃脆弱 3を付与"
                 }
               ]
             },
@@ -1145,7 +1145,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 麻痺1を付与"
+                  "desc": "[OnSucceedAttackHead] 麻痺 1を付与"
                 }
               ]
             }
@@ -1159,7 +1159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺3を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 3を付与"
                 }
               ]
             }
@@ -1178,14 +1178,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血回数が1増加 "
+                  "desc": "[OnSucceedAttackHead] 出血 回数が1増加 "
                 }
               ]
             }
@@ -1199,17 +1199,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血回数が1増加 "
+                  "desc": "[OnSucceedAttackHead] 出血 回数が1増加 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] ダメージ量減少2を付与"
+                  "desc": "[OnSucceedAttackHead] ダメージ量減少 2を付与"
                 }
               ]
             }
@@ -1228,17 +1228,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血回数が3増加"
+                  "desc": "[OnSucceedAttack] 出血 回数が3増加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 攻撃レベル減少3を付与"
+                  "desc": "[OnSucceedAttack] 攻撃レベル減少 3を付与"
                 }
               ]
             }
@@ -1257,14 +1257,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動1を付与"
+                  "desc": "[OnSucceedAttackHead] 振動 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動1を付与"
+                  "desc": "[OnSucceedAttackHead] 振動 1を付与"
                 }
               ]
             }
@@ -1278,14 +1278,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動1を付与"
+                  "desc": "[OnSucceedAttack] 振動 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動1を付与"
+                  "desc": "[OnSucceedAttack] 振動 1を付与"
                 }
               ]
             }
@@ -1304,7 +1304,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発"
+                  "desc": "[OnSucceedAttack] 振動 爆発"
                 }
               ]
             }
@@ -1313,12 +1313,12 @@
         {
           "level": 2,
           "name": "突き立てる拳",
-          "desc": "[WhenUse] 次のターンに守備威力増加3を得る",
+          "desc": "[WhenUse] 次のターンに守備威力増加 3を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発"
+                  "desc": "[OnSucceedAttack] 振動 爆発"
                 }
               ]
             }
@@ -1332,7 +1332,7 @@
         {
           "level": 3,
           "name": "連撃",
-          "desc": "[WhenUse] 次のターンに保護3を得る",
+          "desc": "[WhenUse] 次のターンに保護 3を得る",
           "coinlist": [
             {},
             {},
@@ -1340,7 +1340,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動回数が2増加"
+                  "desc": "[OnSucceedAttackHead] 振動 回数が2増加"
                 }
               ]
             }
@@ -1372,14 +1372,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             }
@@ -1393,14 +1393,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷1を付与"
+                  "desc": "[OnSucceedAttack] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷1を付与"
+                  "desc": "[OnSucceedAttack] 火傷 1を付与"
                 }
               ]
             }
@@ -1419,14 +1419,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷2を付与"
+                  "desc": "[OnSucceedAttack] 火傷 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             }
@@ -1440,17 +1440,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷2を付与"
+                  "desc": "[OnSucceedAttack] 火傷 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷が6以上のとき、ランダムな敵2名に火傷2を付与"
+                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上のとき、ランダムな敵2名に火傷 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷1を付与"
+                  "desc": "[OnSucceedAttack] 火傷 1を付与"
                 }
               ]
             }
@@ -1469,7 +1469,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷3を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 3を付与"
                 }
               ]
             },
@@ -1483,10 +1483,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷回数が3増加"
+                  "desc": "[OnSucceedAttack] 火傷 回数が3増加"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の火傷が6以上のとき、ランダムな敵2名に火傷3を付与"
+                  "desc": "[OnSucceedAttack] 対象の火傷 が6以上のとき、ランダムな敵2名に火傷 3を付与"
                 }
               ]
             }
@@ -1513,7 +1513,7 @@
         {
           "level": 1,
           "name": "切断",
-          "desc": "[WhenUse] 斬撃保護1を得る",
+          "desc": "[WhenUse] 斬撃保護 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -1527,12 +1527,12 @@
         {
           "level": 2,
           "name": "切断",
-          "desc": "[WhenUse] 斬撃保護2を得る",
+          "desc": "[WhenUse] 斬撃保護 2を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が3増加 "
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が3増加 "
                 }
               ]
             }
@@ -1551,21 +1551,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             }
@@ -1579,24 +1579,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂1を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂3を付与"
+                  "desc": "[OnSucceedAttack] 破裂 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 充電回数を3消耗し、斬撃脆弱2を付与"
+                  "desc": "[OnSucceedAttack] 充電 回数を3消耗し、斬撃脆弱 2を付与"
                 }
               ]
             }
@@ -1615,28 +1615,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電回数を2消耗し、防御力減少1を付与"
+                  "desc": "[OnSucceedAttack] 充電 回数を2消耗し、防御レベル減少 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電回数を2消耗し、防御力減少1を付与"
+                  "desc": "[OnSucceedAttack] 充電 回数を2消耗し、防御レベル減少 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電回数を3消耗し、斬撃脆弱1を付与"
+                  "desc": "[OnSucceedAttack] 充電 回数を2消耗し、防御レベル減少 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 充電回数を2消耗し、防御力減少1を付与"
+                  "desc": "[OnSucceedAttack] 充電 回数を2消耗し、防御レベル減少 1を付与"
                 }
               ]
             }
@@ -1655,7 +1655,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜2を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 2を付与"
                 }
               ]
             }
@@ -1669,7 +1669,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜2を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 2を付与"
                 }
               ]
             }
@@ -1688,14 +1688,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜1を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂2を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 2を付与"
                 }
               ]
             }
@@ -1709,14 +1709,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             }
@@ -1736,7 +1736,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 攻撃威力減少2を付与"
+                  "desc": "[OnSucceedAttackHead] 攻撃威力減少 2を付与"
                 }
               ]
             }
@@ -1756,7 +1756,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             }
@@ -1771,7 +1771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             }
@@ -1791,14 +1791,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血1を付与"
+                  "desc": "[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             }
@@ -1807,20 +1807,20 @@
         {
           "level": 2,
           "name": "雲の切開",
-          "desc": "[BeforeAttack] 対象の出血回数が4未満なら、スキルの1, 2コインが追加される",
+          "desc": "[BeforeAttack] 対象の出血 回数が4未満なら、スキルの1, 2コインが追加される",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血1を付与"
+                  "desc": "[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             }
@@ -1834,26 +1834,26 @@
         {
           "level": 3,
           "name": "雲の破裂",
-          "desc": "[StartBattle] このスキルで付与する出血、麻痺1を追加で付与",
+          "desc": "[StartBattle] このスキルで付与する出血 、麻痺 1を追加付与",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺5を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 5を付与"
                 }
               ]
             }
@@ -1872,7 +1872,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             }
@@ -1886,7 +1886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血4を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 4を付与"
                 }
               ]
             }
@@ -1985,7 +1985,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動3を付与"
+                  "desc": "[OnSucceedAttackHead] 振動 3を付与"
                 }
               ]
             }
@@ -1999,7 +1999,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動3を付与"
+                  "desc": "[OnSucceedAttack] 振動 3を付与"
                 }
               ]
             }
@@ -2013,7 +2013,7 @@
         {
           "level": 1,
           "name": "打ち落とす",
-          "desc": "[WhenUse] 次のターンに攻撃威力増加1を得る",
+          "desc": "[WhenUse] 次のターンに攻撃威力増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -2027,7 +2027,7 @@
         {
           "level": 2,
           "name": "打ち落とす",
-          "desc": "[WhenUse] 次のターンに攻撃威力増加、ダメージ量増加1を得る",
+          "desc": "[WhenUse] 次のターンに攻撃威力増加、ダメージ量増加 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -2058,7 +2058,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発"
+                  "desc": "[OnSucceedAttack] 振動 爆発"
                 }
               ]
             }
@@ -2172,21 +2172,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗"
+                  "desc": "弾丸 1を消耗"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗"
+                  "desc": "弾丸 1を消耗"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が1増加"
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が1増加"
                 }
               ]
             }
@@ -2200,7 +2200,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗"
+                  "desc": "弾丸 1を消耗"
                 },
                 {
                   "desc": ""
@@ -2210,14 +2210,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗"
+                  "desc": "弾丸 1を消耗"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の充電回数が3増加"
+                  "desc": "[OnSucceedAttack] 自分の充電 回数が3増加"
                 }
               ]
             }
@@ -2236,21 +2236,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 出血1を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 出血1を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 出血1を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
@@ -2265,21 +2265,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 出血1を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 出血1を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 出血1を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
@@ -2299,35 +2299,35 @@
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 脆弱2を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 脆弱 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 脆弱2を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 脆弱 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂1を付与"
+                  "desc": "[OnSucceedAttack] 破裂 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂3を付与"
+                  "desc": "[OnSucceedAttack] 破裂 3を付与"
                 }
               ]
             }
@@ -2365,7 +2365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動回数が1増加"
+                  "desc": "[OnSucceedAttackHead] 振動 回数が1増加"
                 }
               ]
             }
@@ -2379,7 +2379,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動回数が1増加"
+                  "desc": "[OnSucceedAttack] 振動 回数が1増加"
                 }
               ]
             }
@@ -2393,7 +2393,7 @@
         {
           "level": 1,
           "name": "スライディング",
-          "desc": "[WinDuel] 守備威力減少1を付与",
+          "desc": "[WinDuel] 守備威力減少 1を付与",
           "coinlist": [
             {}
           ]
@@ -2401,7 +2401,7 @@
         {
           "level": 2,
           "name": "スライディング",
-          "desc": "[WinDuel] 守備威力減少3を付与",
+          "desc": "[WinDuel] 守備威力減少 3を付与",
           "coinlist": [
             {}
           ]
@@ -2419,7 +2419,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発。打撃脆弱1を付与"
+                  "desc": "[OnSucceedAttack] 振動 爆発。打撃脆弱 1を付与"
                 }
               ]
             }
@@ -2438,14 +2438,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜1を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜1を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 1を付与"
                 }
               ]
             }
@@ -2459,20 +2459,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の充電回数が2増加"
+                  "desc": "[OnSucceedAttackHead] 自分の充電 回数が2増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の充電回数が2増加"
+                  "desc": "[OnSucceedAttackHead] 自分の充電 回数が2増加"
                 }
               ]
             }
@@ -2491,7 +2491,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜回数が3増加"
+                  "desc": "[OnSucceedAttackHead] 沈潜 回数が3増加"
                 }
               ]
             }
@@ -2500,12 +2500,12 @@
         {
           "level": 2,
           "name": "灼きつける",
-          "desc": "[WhenUse] 自分の充電回数が5増加",
+          "desc": "[WhenUse] 自分の充電 回数が5増加",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜回数が3増加"
+                  "desc": "[OnSucceedAttackHead] 沈潜 回数が3増加"
                 }
               ]
             }
@@ -2519,33 +2519,33 @@
         {
           "level": 3,
           "name": "精神の鞭",
-          "desc": "充電回数を全て消耗。\n充電回数維持数が10未満なら、ランダムな相手を一方攻撃",
+          "desc": "充電 回数を全て消耗。\n充電 回数維持数が10未満なら、ランダムな相手を一方攻撃",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             }
@@ -2572,7 +2572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 2を得る"
                 }
               ]
             }
@@ -2581,7 +2581,7 @@
         {
           "level": 2,
           "name": "飛剣",
-          "desc": "自分の体力が50%未満のとき、このスキルで得る呼吸+1",
+          "desc": "自分の体力が50%未満のとき、このスキルで得る呼吸 +1",
           "keywords": [],
           "coinlist": [
             {
@@ -2594,7 +2594,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 2を得る"
                 }
               ]
             }
@@ -2614,14 +2614,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の呼吸回数が1増加 "
+                  "desc": "[OnSucceedAttackHead] 自分の呼吸 回数が1増加 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の呼吸回数が1増加 "
+                  "desc": "[OnSucceedAttackHead] 自分の呼吸 回数が1増加 "
                 }
               ]
             }
@@ -2636,14 +2636,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の呼吸回数が1増加 "
+                  "desc": "[OnSucceedAttack] 自分の呼吸 回数が1増加 "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の呼吸回数が1増加 "
+                  "desc": "[OnSucceedAttack] 自分の呼吸 回数が1増加 "
                 }
               ]
             }
@@ -2663,7 +2663,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 2を得る"
                 }
               ]
             },
@@ -2704,7 +2704,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 麻痺1を付与"
+                  "desc": "[OnSucceedAttackHead] 麻痺 1を付与"
                 }
               ]
             }
@@ -2718,7 +2718,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺3を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 3を付与"
                 }
               ]
             }
@@ -2737,21 +2737,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 攻撃威力減少1を付与"
+                  "desc": "[OnSucceedAttackHead] 攻撃威力減少 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 振動4を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 振動 4を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 振動4を付与"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 振動 4を付与"
                 }
               ]
             }
@@ -2765,21 +2765,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 攻撃威力減少1を付与"
+                  "desc": "[OnSucceedAttack] 攻撃威力減少 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 振動8を付与。振動回数が2増加"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 振動 8を付与。振動 回数が2増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 振動8を付与。振動回数が2増加"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 振動 8を付与。振動 回数が2増加"
                 }
               ]
             }
@@ -2798,28 +2798,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発"
+                  "desc": "[OnSucceedAttack] 振動 爆発"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 破裂4を付与。破裂回数が2増加"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 破裂 4を付与。破裂 回数が2増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 破裂4を付与。破裂回数が2増加"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 破裂 4を付与。破裂 回数が2増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "弾丸1を消耗。[OnSucceedAttack] 脆弱5を付与。"
+                  "desc": "弾丸 1を消耗。[OnSucceedAttack] 脆弱 5を付与。"
                 }
               ]
             }
@@ -2851,7 +2851,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             }
@@ -2865,7 +2865,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             }
@@ -2884,14 +2884,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 出血2を付与"
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
                 }
               ]
             }
@@ -2905,14 +2905,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             }
@@ -2934,7 +2934,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象の出血が6以上のとき、与ダメージ量+20%"
+                  "desc": "[OnSucceedAttack] 対象の出血 が6以上のとき、与ダメージ量+20%"
                 }
               ]
             }
@@ -2953,7 +2953,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 2を得る"
                 }
               ]
             }
@@ -2967,7 +2967,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸4を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 4を得る"
                 }
               ]
             }
@@ -2986,20 +2986,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 1を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 出血1を付与"
+                  "desc": "[OnSucceedAttack] 出血 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 2を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             }
@@ -3008,25 +3008,25 @@
         {
           "level": 2,
           "name": "飛び散る剣撃",
-          "desc": "[WhenUse] 自分の呼吸回数が1増加",
+          "desc": "[WhenUse] 自分の呼吸 回数が1増加",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 2を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 出血2を付与"
+                  "desc": "[OnSucceedAttack] 出血 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸3を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 3を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 出血3を付与"
+                  "desc": "[OnSucceedAttack] 出血 3を付与"
                 }
               ]
             }
@@ -3040,12 +3040,12 @@
         {
           "level": 3,
           "name": "快刀乱麻",
-          "desc": "対象に出血が6以上あると、クリティカル発動確率が2倍",
+          "desc": "対象に出血 が6以上あると、クリティカル発動確率が2倍",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 出血10を付与"
+                  "desc": "[CriticalOnSucceedAttack] 出血 10を付与"
                 }
               ]
             }
@@ -3059,7 +3059,7 @@
         {
           "level": 1,
           "name": "反撃",
-          "desc": "[WhenUse] 保護1を得る",
+          "desc": "[WhenUse] 保護 1を得る",
           "coinlist": [
             {}
           ]
@@ -3072,12 +3072,12 @@
         {
           "level": 3,
           "name": "快刀乱麻",
-          "desc": "対象に出血が6以上あると、クリティカル発動確率が2倍",
+          "desc": "対象に出血 が6以上あると、クリティカル発動確率が2倍",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] 出血10を付与"
+                  "desc": "[CriticalOnSucceedAttack] 出血 10を付与"
                 }
               ]
             }
@@ -3096,7 +3096,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 麻痺1を付与"
+                  "desc": "[OnSucceedAttackHead] 麻痺 1を付与"
                 }
               ]
             }
@@ -3110,7 +3110,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 麻痺3を付与"
+                  "desc": "[OnSucceedAttackHead] 麻痺 3を付与"
                 }
               ]
             }
@@ -3130,7 +3130,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 守備威力減少2を付与"
+                  "desc": "[OnSucceedAttack] 守備威力減少 2を付与"
                 }
               ]
             }
@@ -3145,7 +3145,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 守備威力減少4を付与"
+                  "desc": "[OnSucceedAttack] 守備威力減少 4を付与"
                 }
               ]
             }
@@ -3164,17 +3164,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 守備威力減少4を付与"
+                  "desc": "[OnSucceedAttackHead] 守備威力減少 4を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 防御力量減少2を付与"
+                  "desc": "[OnSucceedAttack] 防御レベル減少 2を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 麻痺3を付与"
+                  "desc": "[OnSucceedAttackHead] 麻痺 3を付与"
                 }
               ]
             }
@@ -3193,7 +3193,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂2を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 2を付与"
                 }
               ]
             }
@@ -3207,7 +3207,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             }
@@ -3246,7 +3246,7 @@
         {
           "level": 3,
           "name": "掻き斬る",
-          "desc": "[WinDuel] 攻撃威力増加1を得る",
+          "desc": "[WinDuel] 攻撃威力増加 1を得る",
           "coinlist": [
             {},
             {},
@@ -3280,7 +3280,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の呼吸回数が1増加"
+                  "desc": "[OnSucceedAttackHead] 自分の呼吸 回数が1増加"
                 }
               ]
             }
@@ -3295,7 +3295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 自分の呼吸回数が2増加 "
+                  "desc": "[OnSucceedAttack] 自分の呼吸 回数が2増加 "
                 }
               ]
             }
@@ -3314,21 +3314,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 2を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸1を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 1を得る"
                 }
               ]
             }
@@ -3337,26 +3337,26 @@
         {
           "level": 2,
           "name": "連斬",
-          "desc": "[DefeatDuel] 次のターンに攻撃威力増加2を得る",
+          "desc": "[DefeatDuel] 次のターンに攻撃威力増加 2を得る",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 2を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸1を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 1を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸1を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 1を得る"
                 }
               ]
             }
@@ -3375,10 +3375,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 麻痺5を付与"
+                  "desc": "[OnSucceedAttack] 麻痺 5を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 出血3を付与"
+                  "desc": "[OnSucceedAttack] 出血 3を付与"
                 }
               ]
             }
@@ -3392,7 +3392,7 @@
         {
           "level": 1,
           "name": "反撃 - 初生",
-          "desc": "[WhenUse] 次のターンにダメージ量増加1を得る",
+          "desc": "[WhenUse] 次のターンにダメージ量増加 1を得る",
           "coinlist": [
             {}
           ]
@@ -3410,7 +3410,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動2を付与"
+                  "desc": "[OnSucceedAttackHead] 振動 2を付与"
                 }
               ]
             }
@@ -3424,7 +3424,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動2を付与"
+                  "desc": "[OnSucceedAttack] 振動 2を付与"
                 }
               ]
             }
@@ -3444,10 +3444,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 振動3を付与"
+                  "desc": "[OnSucceedAttackHead] 振動 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 次のターンにダメージ量減少1を付与"
+                  "desc": "[OnSucceedAttack] 次のターンにダメージ量減少 1を付与"
                 }
               ]
             }
@@ -3462,10 +3462,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動6を付与"
+                  "desc": "[OnSucceedAttack] 振動 6を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 次のターンにダメージ量減少2を付与"
+                  "desc": "[OnSucceedAttack] 次のターンにダメージ量減少 2を付与"
                 }
               ]
             }
@@ -3479,15 +3479,15 @@
         {
           "level": 3,
           "name": "強打",
-          "desc": "[WhenUse] 現時点での体力が最も低い味方に保護1を付与",
+          "desc": "[WhenUse] 現時点での体力が最も低い味方に保護 1を付与",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 振動爆発"
+                  "desc": "[OnSucceedAttack] 振動 爆発"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 打撃脆弱2を付与"
+                  "desc": "[OnSucceedAttack] 打撃脆弱 2を付与"
                 }
               ]
             }
@@ -3506,7 +3506,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜2を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 2を付与"
                 }
               ]
             },
@@ -3521,7 +3521,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜4を付与"
+                  "desc": "[OnSucceedAttackHead] 沈潜 4を付与"
                 }
               ]
             },
@@ -3541,21 +3541,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 2を得る"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜1を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 1を付与"
                 }
               ]
             }
@@ -3569,27 +3569,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 呼吸2を得る"
+                  "desc": "[OnSucceedAttack] 呼吸 2を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 自分の呼吸回数が1増加"
+                  "desc": "[OnSucceedAttackHead] 自分の呼吸 回数が1増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜2を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 2を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 沈潜回数が1増加"
+                  "desc": "[OnSucceedAttackHead] 沈潜 回数が1増加"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜2を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 2を付与"
                 }
               ]
             }
@@ -3603,7 +3603,7 @@
         {
           "level": 3,
           "name": "パニャータパーティー",
-          "desc": "対象の精神力が0未満なら、対象の精神力に比例してクリティカル発動確立増加",
+          "desc": "対象の精神力が0未満なら、対象の精神力に比例してクリティカル発動確率増加",
           "coinlist": [
             {
               "coindescs": [
@@ -3641,7 +3641,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂2を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 2を付与"
                 }
               ]
             },
@@ -3657,7 +3657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂2を付与"
+                  "desc": "[OnSucceedAttack] 破裂 2を付与"
                 }
               ]
             },
@@ -3737,7 +3737,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸2を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 2を得る"
                 }
               ]
             }
@@ -3751,7 +3751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 呼吸4を得る"
+                  "desc": "[OnSucceedAttackHead] 呼吸 4を得る"
                 }
               ]
             }
@@ -3771,7 +3771,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに斬撃ダメージ量増加1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに斬撃ダメージ量増加 1を得る"
                 }
               ]
             }
@@ -3780,13 +3780,13 @@
         {
           "level": 2,
           "name": "刺法",
-          "desc": "[WinDuel] 自分の呼吸回数が1増加",
+          "desc": "[WinDuel] 自分の呼吸 回数が1増加",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに斬撃ダメージ量増加2を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに斬撃ダメージ量増加 2を得る"
                 }
               ]
             }
@@ -3838,7 +3838,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 速度が最も低い味方に、保護1を付与"
+                  "desc": "[OnSucceedAttack] 速度が最も低い味方に、保護 1を付与"
                 }
               ]
             }
@@ -3852,7 +3852,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 速度が最も低い味方に、保護2を付与"
+                  "desc": "[OnSucceedAttack] 速度が最も低い味方に、保護 2を付与"
                 }
               ]
             }
@@ -3871,7 +3871,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 速度が最も低い味方に、ダメージ量増加1を付与"
+                  "desc": "[OnSucceedAttackHead] 速度が最も低い味方に、ダメージ量増加 1を付与"
                 }
               ]
             }
@@ -3880,12 +3880,12 @@
         {
           "level": 2,
           "name": "攻撃命令",
-          "desc": "[WhenUse] 速度が最も低い味方に、攻撃威力増加1を付与",
+          "desc": "[WhenUse] 速度が最も低い味方に、攻撃威力増加 1を付与",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 速度が最も低い味方に、ダメージ量増加2を付与"
+                  "desc": "[OnSucceedAttackHead] 速度が最も低い味方に、ダメージ量増加 2を付与"
                 }
               ]
             }
@@ -3904,10 +3904,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 沈潜5を付与"
+                  "desc": "[OnSucceedAttack] 沈潜 5を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 攻撃威力減少2を付与"
+                  "desc": "[OnSucceedAttack] 攻撃威力減少 2を付与"
                 }
               ]
             }
@@ -3926,7 +3926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂2を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 2を付与"
                 }
               ]
             }
@@ -3940,7 +3940,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂4を付与"
+                  "desc": "[OnSucceedAttackHead] 破裂 4を付与"
                 }
               ]
             }
@@ -3959,7 +3959,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 破裂回数が1増加"
+                  "desc": "[OnSucceedAttackHead] 破裂 回数が1増加"
                 }
               ]
             }
@@ -3973,10 +3973,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂回数が1増加 "
+                  "desc": "[OnSucceedAttack] 破裂 回数が1増加 "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 貫通脆弱1を付与"
+                  "desc": "[OnSucceedAttackHead] 貫通脆弱 1を付与"
                 }
               ]
             }
@@ -3995,14 +3995,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂がある場合、ダメージ量+10%"
+                  "desc": "[OnSucceedAttack] 対象に破裂 がある場合、ダメージ量+10%"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂がある場合、ダメージ量+10%"
+                  "desc": "[OnSucceedAttack] 対象に破裂 がある場合、ダメージ量+10%"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] ダメージ量の30%分体力を回復。"
@@ -4024,14 +4024,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             }
@@ -4045,14 +4045,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷1を付与"
+                  "desc": "[OnSucceedAttack] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷1を付与"
+                  "desc": "[OnSucceedAttack] 火傷 1を付与"
                 }
               ]
             }
@@ -4073,7 +4073,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷3を付与"
+                  "desc": "[OnSucceedAttack] 火傷 3を付与"
                 }
               ]
             }
@@ -4087,24 +4087,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷3を付与"
+                  "desc": "[OnSucceedAttack] 火傷 3を付与"
                 },
                 {
-                  "desc": "[OnSucceedAttack] 対象の出血が6以上のとき、次のターンに攻撃威力増加1を得る"
+                  "desc": "[OnSucceedAttack] 対象の出血 が6以上のとき、次のターンに攻撃威力増加 1を得る"
                 }
               ]
             }
@@ -4123,28 +4123,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] 火傷1を付与"
+                  "desc": "[OnSucceedAttackHead] 火傷 1を付与"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 火傷3を付与"
+                  "desc": "[OnSucceedAttack] 火傷 3を付与"
                 }
               ]
             }
@@ -4198,7 +4198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂5を付与"
+                  "desc": "[OnSucceedAttack] 破裂 5を付与"
                 }
               ]
             }
@@ -4212,7 +4212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 破裂5を付与"
+                  "desc": "[OnSucceedAttack] 破裂 5を付与"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] ダメージ量の50%分体力を回復。"
@@ -4234,21 +4234,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂があるとき、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に破裂 があるとき、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂があるとき、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に破裂 があるとき、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 対象に破裂があるとき、与ダメージ量30%分の追加ダメージを与える"
+                  "desc": "[OnSucceedAttack] 対象に破裂 があるとき、与ダメージ量30%分の追加ダメージを与える"
                 }
               ]
             },
@@ -4290,6 +4290,281 @@
           "level": 1,
           "name": "反撃",
           "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 1050401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "貫く",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ダメージ量の30%精神力を回復"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ダメージ量の30%精神力を回復"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "貫く",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ダメージ量の60%精神力を回復"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ダメージ量の60%精神力を回復"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "罪を洗い流さん",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 釘*3を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
+                  "summary": "[OnSucceedAttack] 釘*3を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "罪を洗い流さん",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 釘*3を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
+                  "summary": "[OnSucceedAttack] 釘*3を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに束縛 3を付与"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 対象の釘*が5本以上なら、次のターンに束縛 2、攻撃威力減少 1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "異端抹殺",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに釘*2を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] ダメージ量の50%分体力を回復。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1050404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "愚かなり…！",
+          "desc": "[StartBattle] 保護 1を得る\n体力が50%未満なら最終威力+2",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "忠実な釘打ち",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 出血 1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 出血 1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "忠実な釘打ち",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 出血 1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 出血 1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "狂的な浄化",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに釘*1を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
+                  "summary": "[OnSucceedAttack] 次のターンに釘*1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに麻痺 1を付与"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "狂的な浄化",
+          "desc": "[WinDuel] 次のターンに狂信 1を得る",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに釘*1を付与\n*釘: ターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)",
+                  "summary": "[OnSucceedAttack] 다次のターンに釘*1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] 次のターンに麻痺 1を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "鉄の断罪",
+          "desc": "自分に狂信 がある場合、ダメージ量+15%",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 出血 1を付与"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] 出血 2を付与"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "反撃",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
         }
       ]
     }

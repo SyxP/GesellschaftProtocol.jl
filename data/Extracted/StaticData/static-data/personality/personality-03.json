@@ -3,12 +3,13 @@
     {
       "id": 10301,
       "appearance": "10301_Donquixote_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 3,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 1,
@@ -21,10 +22,14 @@
         "incrementByLevel": 0.57
       },
       "minSpeedList": [
-        2,2,3
+        2,
+        2,
+        3
       ],
       "maxSpeedList": [
-        5,6,6
+        5,
+        6,
+        6
       ],
       "uniqueAttribute": "SCARLET",
       "breakSection": {
@@ -78,12 +83,13 @@
     {
       "id": 10302,
       "appearance": "10302_Donquixote_WAppearance",
+      "mainClique": "W_CORP",
       "characterId": 3,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 3,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.53
       },
       "minSpeedList": [
-        2,2,3
+        2,
+        2,
+        3
       ],
       "maxSpeedList": [
-        5,6,6
+        5,
+        6,
+        6
       ],
       "uniqueAttribute": "AMBER",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 10303,
       "appearance": "10303_Donquixote_ShiAssoAppearance",
+      "mainClique": "SHI",
       "characterId": 3,
       "season": 1,
       "defenseSkillIDList": [
         1000102
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.6
       },
       "minSpeedList": [
-        2,2,3
+        2,
+        2,
+        3
       ],
       "maxSpeedList": [
-        5,6,6
+        5,
+        6,
+        6
       ],
       "uniqueAttribute": "CRIMSON",
       "breakSection": {

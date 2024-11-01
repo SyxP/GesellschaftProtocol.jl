@@ -258,7 +258,7 @@
     },
     {
       "id": "mainui_stats_defense",
-      "content": "방어력"
+      "content": "방어 레벨"
     },
     {
       "id": "mainui_upgrade",
@@ -398,7 +398,7 @@
     },
     {
       "id": "mainui_manaUsage",
-      "content": "정신 소모력"
+      "content": "정신 소모량"
     },
     {
       "id": "mainui_abnormality_analysis_level",
@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "{0}회 이내 3성 인격 확정 등장"
+      "content": "{0}회 이내 3성 인격 또는 E.G.O 확정 등장"
     },
     {
       "id": "mainui_settings",

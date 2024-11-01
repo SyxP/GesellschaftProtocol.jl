@@ -515,6 +515,10 @@
     {
       "id": "auto_coinToss",
       "content": "オートコイントス"
+    },
+    {
+      "id": "babayaga_alert",
+      "content": "{0}回のチャンスが残っている。"
     }
   ]
 }

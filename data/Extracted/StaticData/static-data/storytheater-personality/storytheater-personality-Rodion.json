@@ -44,7 +44,22 @@
                 ],
                 "profileId": "lcb_rodion_profile",
                 "analysisId": "lcb_rodion_analysis"
-            }
+            },
+            {
+              "personalityId": 10904,
+              "releaseDay": 20230309,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10904",
+                  "lockCondition": "gacksung",
+                  "order": 2,
+                  "reward":{"type":"ITEM","id":2,"num":40}
+                }
+              ],
+              "profileId": "ncorp_rodion_profile",
+              "analysisId": "ncorp_rodion_analysis"
+          }
           
         ]
     }

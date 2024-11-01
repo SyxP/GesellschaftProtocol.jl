@@ -3,12 +3,13 @@
     {
       "id": 10501,
       "appearance": "10501_Meursault_BaseAppearance",
+      "mainClique": "LIMBUS_COMPANY",
       "characterId": 5,
       "season": 1,
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 1,
@@ -21,10 +22,14 @@
         "incrementByLevel": 0.78
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        2,2,3
+        2,
+        2,
+        3
       ],
       "uniqueAttribute": "AMBER",
       "breakSection": {
@@ -78,12 +83,13 @@
     {
       "id": 10502,
       "appearance": "10502_Meursault_LiuAppearance",
+      "mainClique": "LIU",
       "characterId": 5,
       "season": 1,
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 2,
@@ -96,10 +102,14 @@
         "incrementByLevel": 0.65
       },
       "minSpeedList": [
-        1,1,2
+        1,
+        1,
+        2
       ],
       "maxSpeedList": [
-        4,5,5
+        4,
+        5,
+        5
       ],
       "uniqueAttribute": "SCARLET",
       "breakSection": {
@@ -153,12 +163,13 @@
     {
       "id": 10503,
       "appearance": "10503_Meursault_WCorpAppearance",
+      "mainClique": "W_CORP",
       "characterId": 5,
       "season": 1,
       "defenseSkillIDList": [
         1000101
       ],
-      "slotWeightConditionList":[
+      "slotWeightConditionList": [
         "Default1"
       ],
       "rank": 3,
@@ -171,10 +182,14 @@
         "incrementByLevel": 0.79
       },
       "minSpeedList": [
-        4,4,4
+        4,
+        4,
+        4
       ],
       "maxSpeedList": [
-        6,7,8
+        6,
+        7,
+        8
       ],
       "uniqueAttribute": "VIOLET",
       "breakSection": {
@@ -222,6 +237,85 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1050321
+        ]
+      }
+    },
+	 {
+      "id": 10504,
+      "appearance": "10504_Meursault_NCorpGuidoAppearance",
+      "mainClique": "N_CORP",
+      "characterId": 5,
+      "season": 1,
+      "defenseSkillIDList": [
+        1050404
+      ],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 99,
+        "incrementByLevel": 3.41
+      },
+      "def": {
+        "defaultStat": 17,
+        "incrementByLevel": 0.86
+      },
+      "minSpeedList": [
+        2,
+        2,
+        3
+      ],
+      "maxSpeedList": [
+        4,
+        4,
+        5
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "breakSection": {
+        "sectionList": [
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1050401,
+          "number": 3
+        },
+        {
+          "skillId": 1050402,
+          "number": 2
+        },
+        {
+          "skillId": 1050403,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1050401
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1050421
         ]
       }
     }
