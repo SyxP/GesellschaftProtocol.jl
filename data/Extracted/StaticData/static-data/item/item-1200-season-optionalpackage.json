@@ -79,7 +79,14 @@
           "minNum": 1,
           "maxNum": 3
         }
-      ]
+      ],
+	  "optionalSample":
+	  {
+		  "type": "ITEM",
+          "id": 10001,
+          "minNum": 1,
+          "maxNum": 3
+	  }
     }
   ]
 }

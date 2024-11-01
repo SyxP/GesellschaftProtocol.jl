@@ -2,13 +2,14 @@
   "list": [
     {
       "id": 1,
-      "sprName": "Part1", 
+      "sprName": "Part1",
       "subchapterList": [
         {
           "id": 100,
           "illustSprName": "100",
           "region": "d",
           "sprName": "chapter0",
+          "subChapterNumber": "0",
           "mapSizeRow": 1,
           "mapSizeColoumn": 2,
           "stageNodeList": [
@@ -53,6 +54,7 @@
           "illustSprName": "101",
           "region": "d",
           "sprName": "chapter1",
+          "subChapterNumber": "1",
           "mapSizeRow": 1,
           "mapSizeColoumn": 5,
           "stageNodeList": [
@@ -153,6 +155,7 @@
           "illustSprName": "102",
           "region": "j",
           "sprName": "chapter2",
+          "subChapterNumber": "2",
           "mapSizeRow": 2,
           "mapSizeColoumn": 4,
           "stageNodeList": [
@@ -315,6 +318,7 @@
           "illustSprName": "103",
           "region": "k",
           "sprName": "chapter3",
+          "subChapterNumber": "3",
           "mapSizeRow": 2,
           "mapSizeColoumn": 9,
           "stageNodeList": [
@@ -492,6 +496,103 @@
               "posx": 17051,
               "posy": 742,
               "upper": 0,
+              "stageNodeType": "DUNGEON"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "sprName": "Part9",
+      "subchapterList": [
+        {
+          "id": 9103,
+          "illustSprName": "9103",
+          "region": "k",
+          "sprName": "hells-chicken",
+          "subChapterNumber": "3.5",
+          "mapSizeRow": 1,
+          "mapSizeColoumn": 5,
+          "stageNodeList": [
+            {
+              "nodeId": 910301,
+              "stageId": 910301,
+              "posx": 1000,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910302,
+              "stageId": 910302,
+              "posx": 2700,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910303,
+              "stageId": 910303,
+              "posx": 4200,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910304,
+              "stageId": 910304,
+              "posx": 4800,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910305,
+              "stageId": 910305,
+              "posx": 5500,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910306,
+              "stageId": 910306,
+              "posx": 6500,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910307,
+              "stageId": 910307,
+              "posx": 7300,
+              "posy": 1007,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910308,
+              "stageId": 910308,
+              "posx": 8000,
+              "posy": 700,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910309,
+              "stageId": 910301,
+              "posx": 8800,
+              "posy": 1000,
+              "upper": 1,
+              "stageNodeType": "DUNGEON"
+            },
+            {
+              "nodeId": 910310,
+              "stageId": 910302,
+              "posx": 8800,
+              "posy": 500,
+              "upper": 1,
               "stageNodeType": "DUNGEON"
             }
           ]

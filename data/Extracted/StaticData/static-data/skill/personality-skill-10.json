@@ -332,6 +332,8 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -794,6 +796,7 @@
             {
               "operatorType": "ADD",
               "scale": 13,
+              "cutsceneStart": true,
               "abilityScriptList": [
                 {
                   "scriptName": "VibrationExplosionOnSucceedAttack"

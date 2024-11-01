@@ -11,7 +11,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "WhiteSnow",
+            "mapName": "Ab_EbonyQueen",
             "mapSize": 40.0
           },
           "unitList": [
@@ -78,7 +78,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B3_Alter"
+            "mapName": "Ab_WaterFish"
           },
           "unitList": [
             {
@@ -142,7 +142,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "LCorpCenter"
+            "mapName": "Ab_MaggotApple"
           },
           "unitList": [
             {
@@ -206,7 +206,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B3_Alter"
+            "mapName": "Ab_ElectricWolf"
           },
           "unitList": [
             {
@@ -270,7 +270,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "B2Mine_v2"
+            "mapName": "Ab_SuperHuman"
           },
           "unitList": [
             {
@@ -348,7 +348,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "B2Mine_v1"
+            "mapName": "Ab_PinkShoes"
           },
           "unitList": [
             {
@@ -424,7 +424,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "LCorpCenter"
+            "mapName": "Ab_AztecCalendar"
           },
           "unitList": [
             {
@@ -499,7 +499,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "WhiteSnow",
+            "mapName": "Ab_EbonyQueen",
             "mapSize": 40.0
           },
           "unitList": [
@@ -566,7 +566,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B3_Alter"
+            "mapName": "Ab_WaterFish"
           },
           "unitList": [
             {
@@ -630,7 +630,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "LCorpCenter"
+            "mapName": "Ab_MaggotApple"
           },
           "unitList": [
             {
@@ -694,7 +694,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B3_Alter"
+            "mapName": "Ab_ElectricWolf"
           },
           "unitList": [
             {
@@ -758,7 +758,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "B2Mine_v2"
+            "mapName": "Ab_SuperHuman"
           },
           "unitList": [
             {
@@ -836,7 +836,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "B2Mine_v1"
+            "mapName": "Ab_PinkShoes"
           },
           "unitList": [
             {
@@ -895,7 +895,7 @@
       ],
       "dangerLevel": 0,
       "stageScriptNameAfterClear": "PinkShoe",
-      "eventScriptName": "PinkShoe_Hard",
+      "eventScriptName": "PinkShoe",
       "abnormalityEventList": [
         801501,
         801502
@@ -912,7 +912,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "LCorpCenter"
+            "mapName": "Ab_AztecCalendar"
           },
           "unitList": [
             {

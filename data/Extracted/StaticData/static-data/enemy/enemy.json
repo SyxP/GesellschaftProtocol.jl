@@ -11394,6 +11394,454 @@
           ]
         }
       ]
+    },
+    {
+      "id": 90042,
+      "appearance": "90042_KCorp_Chick_StickAppearance",
+      "mainClique": "NONE",
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 48,
+        "incrementByLevel": 1.66
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.47
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "breakSection": {
+        "sectionList": [
+          45
+        ]
+      },
+      "mp": 0,
+      "lowMorale": -10,
+      "panic": -45,
+      "panicType": 1003,
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9004201,
+          "number": 4
+        },
+        {
+          "skillId": 9004202,
+          "number": 2
+        },
+        {
+          "skillId": 9004203,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 90043,
+      "appearance": "90043_KCorp_Chick_StickLAppearance",
+      "mainClique": "NONE",
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 45,
+        "incrementByLevel": 1.55
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.47
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "breakSection": {
+        "sectionList": [
+          45
+        ]
+      },
+      "mp": 0,
+      "lowMorale": -10,
+      "panic": -45,
+      "panicType": 1003,
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9004301,
+          "number": 4
+        },
+        {
+          "skillId": 9004302,
+          "number": 2
+        },
+        {
+          "skillId": 9004303,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 90044,
+      "appearance": "90044_KCorp_Chick_AxeAppearance",
+      "mainClique": "NONE",
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 42,
+        "incrementByLevel": 1.45
+      },
+      "def": {
+        "defaultStat": 10,
+        "incrementByLevel": 0.41
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "mp": 0,
+      "lowMorale": -10,
+      "panic": -45,
+      "panicType": 1003,
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9004401,
+          "number": 4
+        },
+        {
+          "skillId": 9004402,
+          "number": 2
+        },
+        {
+          "skillId": 9004403,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 90045,
+      "appearance": "90045_KCorp_Chick_ShieldAppearance",
+      "mainClique": "NONE",
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 2.41
+      },
+      "def": {
+        "defaultStat": 9,
+        "incrementByLevel": 0.72
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "breakSection": {
+        "sectionList": [
+          60
+        ]
+      },
+      "mp": 0,
+      "lowMorale": -10,
+      "panic": -45,
+      "panicType": 1003,
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9004501,
+          "number": 4
+        },
+        {
+          "skillId": 9004502,
+          "number": 2
+        },
+        {
+          "skillId": 9004503,
+          "number": 2
+        },
+        {
+          "skillId": 9004504,
+          "number": 1
+        }
+      ]
     }
   ]
 }

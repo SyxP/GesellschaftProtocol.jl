@@ -94,6 +94,8 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -364,6 +366,8 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -852,6 +856,8 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -881,6 +887,29 @@
           "abilityScriptList": [
             {
               "scriptName": "HealMpOnUseSelf3"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
             }
           ]
         },

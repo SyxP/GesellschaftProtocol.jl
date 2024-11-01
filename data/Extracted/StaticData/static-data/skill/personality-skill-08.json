@@ -394,6 +394,8 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -627,6 +629,8 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -711,6 +715,8 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",

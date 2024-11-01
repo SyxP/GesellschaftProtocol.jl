@@ -965,9 +965,9 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "MarkOfHeresy",
+                    "buffKeyword": "Paralysis",
                     "target": "Target",
                     "buffOwner": "",
                     "stack": 1,
@@ -976,9 +976,9 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Paralysis",
+                    "buffKeyword": "MarkOfHeresy",
                     "target": "Target",
                     "buffOwner": "",
                     "stack": 1,
@@ -1019,6 +1019,17 @@
               "scale": 4,
               "actionIndex": 3,
               "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {

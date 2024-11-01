@@ -94,11 +94,13 @@
         "gacha-1",
         "gacha-2",
         "gacha-3",
-        "gacha-4",       
+        "gacha-4",
         "gacha-103",
         "gacha-104",
         "gacha-105",
-        "gacha-106"
+        "gacha-106",
+        "gacha-107",
+        "gacha-108"
       ]
     },
     {
@@ -177,6 +179,7 @@
         "storybattle1-1",
         "storybattle1-2",
         "storybattle1-3",
+        "storybattle91-3",
         "stage_Test",
         "stage_Tutorial"
       ]
@@ -186,7 +189,8 @@
       "fileList": [
         "dungeonbattle1-1",
         "dungeonbattle1-2",
-        "dungeonbattle1-3"
+        "dungeonbattle1-3",
+        "dungeonbattle91-3"
       ]
     },
     {
@@ -194,7 +198,8 @@
       "fileList": [
         "abbattle1-1",
         "abbattle1-2",
-        "abbattle1-3"
+        "abbattle1-3",
+        "abbattle91-3"
       ]
     },
     {
@@ -210,7 +215,8 @@
         "stagenodereward1-0",
         "stagenodereward1-1",
         "stagenodereward1-2",
-        "stagenodereward1-3"
+        "stagenodereward1-3",
+        "stagenodereward91-3"
       ]
     },
     {
@@ -321,6 +327,12 @@
       "dataClass": "storytheater-mirrorworld",
       "fileList": [
         "storytheater-mirrorworld"
+      ]
+    },
+    {
+      "dataClass": "storytheater-other",
+      "fileList": [
+        "storytheater-other-9103"
       ]
     },
     {
@@ -440,7 +452,8 @@
         "loadingCG-stage_100",
         "loadingCG-stage_101",
         "loadingCG-stage_102",
-        "loadingCG-stage_103"
+        "loadingCG-stage_103",
+        "loadingCG-stage_9103"
       ]
     },
     {
@@ -513,6 +526,52 @@
       "dataClass": "main-event",
       "fileList": [
         "main-event"
+      ]
+    },
+    {
+      "dataClass": "hells-chicken-dungeon",
+      "fileList": [
+        "hells-chicken-dungeon"
+      ]
+    },
+    {
+      "dataClass": "hells-chicken-event",
+      "fileList": [
+        "hells-chicken-event"
+      ]
+    },
+    {
+      "dataClass": "hells-chicken-dungeon-egogift-droppool",
+      "fileList": [
+        "hells-chicken-dungeon-egogift-droppool"
+      ]
+    },
+    {
+      "dataClass": "hells-chicken-dungeon-event-acquirable-egogifts",
+      "fileList": [
+        "hells-chicken-dungeon-event-acquirable-egogifts"
+      ]
+    },
+    {
+      "dataClass": "ego-gift-hellschickendungeon",
+      "fileList": [
+        "ego-gift-hellschickendungeon",
+        "hidden-ego-gift-hellschickendungeon"
+      ]
+    },
+    {
+      "dataClass": "hells-chicken-dungeon-generatenodepool",
+      "fileList": [
+        "hells-chicken-dungeon-generatenodepool-1-1",
+        "hells-chicken-dungeon-generatenodepool-1-2",
+        "hells-chicken-dungeon-generatenodepool-event-1-1",
+        "hells-chicken-dungeon-generatenodepool-event-1-2"
+      ]
+    },
+    {
+      "dataClass": "hells-chicken-dungeon-encounterinfo",
+      "fileList": [
+        "hells-chicken-dungeon-encounterinfos-01"
       ]
     }
   ]

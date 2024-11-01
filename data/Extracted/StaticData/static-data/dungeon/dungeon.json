@@ -2,6 +2,7 @@
   "list": [
     {
       "id": 10101,
+      "dungeonType": "STORY_DUNGEON",
       "staminaModule": 1,
       "recommendedLevel": 7,
       "entranceStory": "S111B",
@@ -14,6 +15,7 @@
     },
     {
       "id": 10201,
+      "dungeonType": "STORY_DUNGEON",
       "staminaModule": 2,
       "recommendedLevel": 15,
       "entranceStory": "S219B",
@@ -26,10 +28,37 @@
     },
     {
       "id": 10301,
+      "dungeonType": "STORY_DUNGEON",
       "staminaModule": 3,
       "recommendedLevel": 30,
       "entranceStory": "S322B",
       "illustname": "chapter3_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    },
+    {
+      "id": 910301,
+      "dungeonType": "HELLS_CHICKEN_DUNGEON",
+      "staminaModule": 1,
+      "recommendedLevel": 30,
+      "entranceStory": "E305A",
+      "clearStory": "E306A",
+      "illustname": "chapter3.5_HellsChickenDungeon_Normal",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    },
+    {
+      "id": 910302,
+      "dungeonType": "HELLS_CHICKEN_DUNGEON",
+      "staminaModule": 2,
+      "recommendedLevel": 30,
+      "illustname": "chapter3.5_HellsChickenDungeon_Hard",
       "questlist": [
         {
           "localizeId": 2

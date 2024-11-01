@@ -558,6 +558,40 @@
           "lineDirection": "LEFT"
         }
       ]
+    },
+    {
+      "id": 8039,
+      "partPositionDatas": [
+        {
+          "id": 803801,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803802,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8040,
+      "partPositionDatas": [
+        {
+          "id": 803801,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 803802,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
     }
   ]
 }

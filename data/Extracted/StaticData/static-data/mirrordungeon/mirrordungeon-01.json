@@ -6,6 +6,7 @@
       "globalEventPercentage": 0.6,
       "acquireCharacterEventPercentage": 0.2,
       "levelUpCharacterEventPercentage": 0.2,
+      "specialBattleAppearedFloor": 2,
       "levelList": [
         10,
         15,

@@ -399,7 +399,7 @@
               "scriptName": "GiveBuffOnEndSkill",
               "buffData": {
                 "buffKeyword": "Protection",
-                "target": "LowestHpAlly2",
+                "target": "LowestHpAllyExceptSelf2",
                 "buffOwner": "",
                 "stack": 2,
                 "turn": 0,
@@ -446,7 +446,7 @@
               "scriptName": "GiveBuffOnEndSkill",
               "buffData": {
                 "buffKeyword": "Vulnerable",
-                "target": "LowestHpAlly2",
+                "target": "LowestHpAllyExceptSelf2",
                 "buffOwner": "",
                 "stack": 1,
                 "turn": 0,
@@ -457,7 +457,7 @@
               "scriptName": "GiveBuffOnEndSkill",
               "buffData": {
                 "buffKeyword": "AttackDmgUp",
-                "target": "LowestHpAlly2",
+                "target": "LowestHpAllyExceptSelf2",
                 "buffOwner": "",
                 "stack": 2,
                 "turn": 0,
@@ -488,7 +488,7 @@
               "scriptName": "GiveBuffOnEndSkill",
               "buffData": {
                 "buffKeyword": "Vulnerable",
-                "target": "LowestHpAlly2",
+                "target": "LowestHpAllyExceptSelf2",
                 "buffOwner": "",
                 "stack": 2,
                 "turn": 0,
@@ -499,7 +499,7 @@
               "scriptName": "GiveBuffOnEndSkill",
               "buffData": {
                 "buffKeyword": "AttackDmgUp",
-                "target": "LowestHpAlly2",
+                "target": "LowestHpAllyExceptSelf2",
                 "buffOwner": "",
                 "stack": 3,
                 "turn": 0,

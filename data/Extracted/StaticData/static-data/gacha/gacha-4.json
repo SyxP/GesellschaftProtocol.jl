@@ -4,7 +4,7 @@
       "id": 4,
       "bannerInfo": {
         "pickupIdList": [],
-        "illustList": [ "gacha_8_illust" ],
+        "illustList": [ "gacha_4_illust" ],
         "videoList": []
       },
       "payments": [
@@ -75,6 +75,7 @@
           "elementType": "PERSONALITY",
           "elementIdList": [
             10204,
+            10404,
             10504,
             10603,
             11203

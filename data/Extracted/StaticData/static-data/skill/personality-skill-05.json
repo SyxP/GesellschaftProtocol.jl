@@ -164,6 +164,8 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -1247,7 +1249,7 @@
       ],
       "skillData": [
         {
-          "gaksungLevel": 1,
+          "gaksungLevel": 3,
           "attributeType": "INDIGO",
           "atkType": "PENETRATE",
           "defType": "ATTACK",

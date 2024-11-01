@@ -139,6 +139,53 @@
           "num": 40
         }
       ]
+    },
+    {
+      "id": 131,
+      "category": "PACKAGE",
+      "productId": "extraction_package_weekly_1",
+      "priceTier": 7,
+      "chanceId": 1131,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 273
+        },
+        {
+          "type": "ITEM",
+          "id": 101,
+          "num": 5
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "category": "PACKAGE",
+      "productId": "thread_package_weekly_1",
+      "priceTier": 7,
+      "chanceId": 1133,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 75
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "category": "PACKAGE",
+      "productId": "enkephalin_package_weekly_1",
+      "priceTier": 7,
+      "chanceId": 1134,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 301,
+          "num": 20
+        }
+      ]
     }
   ]
 }

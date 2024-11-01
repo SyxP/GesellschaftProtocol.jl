@@ -9,7 +9,7 @@
       "defenseSkillIDList": [
         1040104
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -90,7 +90,7 @@
       "defenseSkillIDList": [
         1040204
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -171,7 +171,7 @@
       "defenseSkillIDList": [
         1040304
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -242,8 +242,88 @@
           1040321
         ]
       }
+    },
+    {
+      "id": 10404,
+      "appearance": "10404_Ryoshu_PierreAppearance",
+      "mainClique": "BACKSTREET_COOK",
+      "characterId": 4,
+      "season": 1,
+      "additionalAttachment": "EVENT",
+      "defenseSkillIDList": [
+        1040404
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 2.4
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.63
+      },
+      "minSpeedList": [
+        2,
+        2,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "breakSection": {
+        "sectionList": [
+          65,
+          35,
+          15
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1040401,
+          "number": 3
+        },
+        {
+          "skillId": 1040402,
+          "number": 2
+        },
+        {
+          "skillId": 1040403,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1040401
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1040421
+        ]
+      }
     }
-    
-    
   ]
 }

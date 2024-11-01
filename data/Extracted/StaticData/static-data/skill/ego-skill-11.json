@@ -393,6 +393,8 @@
           "skillMotion": "Default",
           "viewType": "SKILL",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+          ],
           "coinList": [
             {
               "operatorType": "SUB",
