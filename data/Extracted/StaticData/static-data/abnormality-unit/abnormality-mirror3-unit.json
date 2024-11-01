@@ -3,9 +3,9 @@
     {
       "id": 8117,
       "storyID": 8549,
-      "viewid": 8058,
+      "viewid": 8549,
       "nameID": 8058,
-      "sdPortrait": 8058,
+      "sdPortrait": 8549,
       "appearance": "8058_FairyLanternAppearance",
       "unitKeywordList": [],
       "level": 10,
@@ -366,8 +366,8 @@
       "classType": "HE",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 778,
-        "incrementByLevel": 32.2
+        "defaultStat": 463,
+        "incrementByLevel": 19.16
       },
       "abnormalityPartList": [
         811801,
