@@ -5,6 +5,7 @@
       "appearance": "10101_YiSang_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 1,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1010104
@@ -33,6 +34,34 @@
         8
       ],
       "uniqueAttribute": "AZURE",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
       "breakSection": {
         "sectionList": [
           65,
@@ -86,6 +115,7 @@
       "appearance": "10102_YiSang_7Appearance",
       "unitKeywordList": [ "SEVEN" ],
       "characterId": 1,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1010204
@@ -114,7 +144,35 @@
         8
       ],
       "uniqueAttribute": "AZURE",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           60,
           30
@@ -166,6 +224,7 @@
       "appearance": "10103_Yisang_SwordGroupAppearance",
       "unitKeywordList": [ "BLADE_LINEAGE" ],
       "characterId": 1,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1010304
@@ -194,7 +253,35 @@
         7
       ],
       "uniqueAttribute": "INDIGO",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,

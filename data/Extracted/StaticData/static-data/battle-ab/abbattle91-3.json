@@ -509,6 +509,28 @@
               "unitLevel": 25
             }
           ],
+          "subUnitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
             "Battle_Cp3_5_Enemy_2"
@@ -570,6 +592,28 @@
             },
             {
               "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8034,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8035,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8036,
+              "unitCount": 1,
+              "unitLevel": 25
+            },
+            {
+              "unitID": 8037,
               "unitCount": 1,
               "unitLevel": 25
             }

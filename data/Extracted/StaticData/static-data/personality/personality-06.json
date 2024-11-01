@@ -5,6 +5,7 @@
       "appearance": "10601_Honglu_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 6,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1060104
@@ -33,7 +34,35 @@
         6
       ],
       "uniqueAttribute": "INDIGO",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -86,6 +115,7 @@
       "appearance": "10602_Honglu_BlackCloudAppearance",
       "unitKeywordList": [ "BLACK_CLOUD" ],
       "characterId": 6,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1060204
@@ -114,7 +144,35 @@
         7
       ],
       "uniqueAttribute": "SCARLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           65,
           35,
@@ -167,6 +225,7 @@
       "appearance": "10603_Honglu_ConconAppearance",
       "unitKeywordList": [ "KONG_KONG" ],
       "characterId": 6,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1060304
@@ -195,7 +254,35 @@
         6
       ],
       "uniqueAttribute": "VIOLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -248,6 +335,7 @@
       "appearance": "10604_Honglu_LiuAssoAppearance",
       "unitKeywordList": [ "LIU" ],
       "characterId": 6,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1060404
@@ -276,7 +364,35 @@
         6
       ],
       "uniqueAttribute": "AZURE",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           30

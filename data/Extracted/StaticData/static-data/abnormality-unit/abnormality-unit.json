@@ -3,7 +3,7 @@
     {
       "id": 8901,
       "appearance": "8005_Septempeccata_GrassAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -31,7 +31,7 @@
     {
       "id": 8001,
       "appearance": "8001_SnowWhite_Subspecies_Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "WAW",
       "attributeType": "VIOLET",
       "phaseIDList": [
@@ -82,7 +82,7 @@
     {
       "id": 8005,
       "appearance": "8005_Septempeccata_GrassAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
@@ -110,7 +110,7 @@
     {
       "id": 8006,
       "appearance": "8006_Septempeccata_GroundAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "AMBER",
@@ -138,7 +138,7 @@
     {
       "id": 8007,
       "appearance": "8007_Septempeccata_FireAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 5,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -167,7 +167,7 @@
     {
       "id": 8002,
       "appearance": "8002_Aztec_CircleAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 8,
       "classType": "HE",
       "attributeType": "CRIMSON",
@@ -190,7 +190,7 @@
     {
       "id": 80022,
       "level": 8,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -443,7 +443,7 @@
     {
       "id": 80023,
       "level": 8,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -486,7 +486,7 @@
     {
       "id": 80024,
       "level": 8,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -550,7 +550,7 @@
     {
       "id": 8003,
       "appearance": "8003_Aztec_Tow_p1Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -581,7 +581,7 @@
     {
       "id": 8004,
       "appearance": "8004_Aztec_Tow_p2Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 6,
       "classType": "TETH",
       "attributeType": "CRIMSON",
@@ -616,7 +616,7 @@
     {
       "id": 8008,
       "appearance": "8008_Maggotapple_p1Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 9,
       "classType": "HE",
       "attributeType": "AMBER",
@@ -766,7 +766,7 @@
     {
       "id": 8009,
       "appearance": "8009_Maggotapple_p2Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "HE",
       "attributeType": "SHAMROCK",
@@ -937,7 +937,7 @@
     {
       "id": 8010,
       "appearance": "8010_EnhancedMan_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -979,7 +979,7 @@
     {
       "id": 8011,
       "appearance": "8011_EnhancedMan_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -1021,7 +1021,7 @@
     {
       "id": 8012,
       "appearance": "8012_EnhancedMan_CAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "patternID": "8012",
       "level": 10,
       "classType": "TETH",
@@ -1297,7 +1297,7 @@
     {
       "id": 8013,
       "appearance": "8013_PinkShose_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -1393,7 +1393,7 @@
     {
       "id": 8014,
       "appearance": "8014_PinkShose_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -1489,7 +1489,7 @@
     {
       "id": 8015,
       "appearance": "8015_PinkShose_CAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "patternID": "8015",
       "level": 10,
       "classType": "TETH",
@@ -1680,7 +1680,7 @@
     {
       "id": 8016,
       "appearance": "8016_Septempeccata_WaterAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "AZURE",
@@ -1708,7 +1708,7 @@
     {
       "id": 8017,
       "appearance": "8017_Septempeccata_BloodAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -1736,7 +1736,7 @@
     {
       "id": 8018,
       "appearance": "8018_Septempeccata_IronAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "INDIGO",
@@ -1764,7 +1764,7 @@
     {
       "id": 8019,
       "appearance": "8019_Villager_Rodion_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1801,7 +1801,7 @@
     {
       "id": 8020,
       "appearance": "8020_Villager_Rodion_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1838,7 +1838,7 @@
     {
       "id": 8021,
       "appearance": "8021_BabayagaSlave_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -1875,7 +1875,7 @@
     {
       "id": 8022,
       "appearance": "8022_BabayagaSlave_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "TETH",
       "attributeType": "AZURE",
@@ -2884,7 +2884,7 @@
     {
       "id": 8029,
       "appearance": "8029_CromerAppearance",
-      "unitKeywordList": [ "G_CORP" ],
+      "unitKeywordList": [ "N_CORP" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -3757,7 +3757,7 @@
     {
       "id": 8031,
       "appearance": "8031_WaterFishAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "HE",
       "attributeType": "AZURE",
@@ -5171,7 +5171,7 @@
     {
       "id": 8032,
       "appearance": "8032_LightningBeastAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "HE",
       "attributeType": "VIOLET",
@@ -5833,7 +5833,7 @@
       "id": 8701,
       "viewid": 8001,
       "appearance": "8001_SnowWhite_Subspecies_Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "WAW",
       "attributeType": "VIOLET",
       "phaseIDList": [
@@ -5881,7 +5881,7 @@
       "id": 8702,
       "viewid": 8031,
       "appearance": "8031_WaterFishAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "AZURE",
@@ -6742,7 +6742,7 @@
       "id": 8703,
       "viewid": 8008,
       "appearance": "8008_Maggotapple_p1Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "AMBER",
@@ -6868,7 +6868,7 @@
       "id": 8704,
       "viewid": 8009,
       "appearance": "8009_Maggotapple_p2Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "SHAMROCK",
@@ -6984,7 +6984,7 @@
       "id": 8705,
       "viewid": 8032,
       "appearance": "8032_LightningBeastAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "VIOLET",
@@ -7383,7 +7383,7 @@
       "id": 8706,
       "viewid": 8010,
       "appearance": "8010_EnhancedMan_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -7426,7 +7426,7 @@
       "id": 8707,
       "viewid": 8011,
       "appearance": "8011_EnhancedMan_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -7469,7 +7469,7 @@
       "id": 8708,
       "viewid": 8012,
       "appearance": "8012_EnhancedMan_CAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "patternID": "8012",
       "level": 1,
       "classType": "TETH",
@@ -7690,7 +7690,7 @@
       "id": 8709,
       "viewid": 8013,
       "appearance": "8013_PinkShose_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -7787,7 +7787,7 @@
       "id": 8710,
       "viewid": 8014,
       "appearance": "8014_PinkShose_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -7884,7 +7884,7 @@
       "id": 8711,
       "viewid": 8015,
       "appearance": "8015_PinkShose_CAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "patternID": "8015",
       "level": 1,
       "classType": "TETH",
@@ -8015,7 +8015,7 @@
       "id": 8712,
       "viewid": 8002,
       "appearance": "8002_Aztec_CircleAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "CRIMSON",
@@ -8040,7 +8040,7 @@
       "id": 87122,
       "viewid": 80022,
       "level": 1,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -8294,7 +8294,7 @@
       "id": 87123,
       "viewid": 80023,
       "level": 1,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -8338,7 +8338,7 @@
       "id": 87124,
       "viewid": 80024,
       "level": 1,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -8403,7 +8403,7 @@
       "id": 8713,
       "viewid": 8003,
       "appearance": "8003_Aztec_Tow_p1Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -8435,7 +8435,7 @@
       "id": 8714,
       "viewid": 8004,
       "appearance": "8004_Aztec_Tow_p2Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "CRIMSON",
@@ -8471,7 +8471,7 @@
       "id": 8721,
       "viewid": 8001,
       "appearance": "8001_SnowWhite_Subspecies_Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "WAW",
       "attributeType": "VIOLET",
       "phaseIDList": [
@@ -8523,7 +8523,7 @@
       "id": 8722,
       "viewid": 8031,
       "appearance": "8031_WaterFishAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "AZURE",
@@ -9392,7 +9392,7 @@
       "id": 8723,
       "viewid": 8008,
       "appearance": "8008_Maggotapple_p1Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "AMBER",
@@ -9544,7 +9544,7 @@
       "id": 8724,
       "viewid": 8009,
       "appearance": "8009_Maggotapple_p2Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "SHAMROCK",
@@ -9716,7 +9716,7 @@
       "id": 8725,
       "viewid": 8032,
       "appearance": "8032_LightningBeastAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "VIOLET",
@@ -10331,7 +10331,7 @@
       "id": 8726,
       "viewid": 8010,
       "appearance": "8010_EnhancedMan_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -10374,7 +10374,7 @@
       "id": 8727,
       "viewid": 8011,
       "appearance": "8011_EnhancedMan_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "INDIGO",
@@ -10417,7 +10417,7 @@
       "id": 8728,
       "viewid": 8012,
       "appearance": "8012_EnhancedMan_CAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "patternID": "8012",
       "level": 1,
       "classType": "TETH",
@@ -10694,7 +10694,7 @@
       "id": 8729,
       "viewid": 8013,
       "appearance": "8013_PinkShose_AAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -10791,7 +10791,7 @@
       "id": 8730,
       "viewid": 8014,
       "appearance": "8014_PinkShose_BAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -10888,7 +10888,7 @@
       "id": 8731,
       "viewid": 8015,
       "appearance": "8015_PinkShose_CAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "patternID": "8015",
       "level": 1,
       "classType": "TETH",
@@ -11080,7 +11080,7 @@
       "id": 8732,
       "viewid": 8002,
       "appearance": "8002_Aztec_CircleAppearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "HE",
       "attributeType": "CRIMSON",
@@ -11105,7 +11105,7 @@
       "id": 87322,
       "viewid": 80022,
       "level": 1,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -11359,7 +11359,7 @@
       "id": 87323,
       "viewid": 80023,
       "level": 1,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -11403,7 +11403,7 @@
       "id": 87324,
       "viewid": 8024,
       "level": 1,
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
@@ -11468,7 +11468,7 @@
       "id": 8733,
       "viewid": 8003,
       "appearance": "8003_Aztec_Tow_p1Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -11500,7 +11500,7 @@
       "id": 8734,
       "viewid": 8004,
       "appearance": "8004_Aztec_Tow_p2Appearance",
-      "unitKeywordList": [ ],
+      "unitKeywordList": [],
       "level": 1,
       "classType": "TETH",
       "attributeType": "CRIMSON",
@@ -11535,7 +11535,7 @@
     {
       "id": 8034,
       "appearance": "8034_Chicken_NormalAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -11573,7 +11573,7 @@
     {
       "id": 8035,
       "appearance": "8035_Chicken_SeasoningAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -11610,7 +11610,7 @@
     {
       "id": 8036,
       "appearance": "8036_Chicken_SoyAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -11687,7 +11687,7 @@
     {
       "id": 8037,
       "appearance": "8037_Chicken_EliteAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -11725,7 +11725,7 @@
     {
       "id": 8038,
       "appearance": "8038_Chicken_ChefAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -11753,7 +11753,7 @@
           "number": 2
         }
       ],
-      "passiveSet":{
+      "passiveSet": {
         "passiveIdList": [
           803901
         ]
@@ -12018,7 +12018,7 @@
       "viewid": 8038,
       "sdPortrait": 8038,
       "appearance": "8038_Chicken_ChefAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -12932,7 +12932,7 @@
       "viewid": 8038,
       "sdPortrait": 8038,
       "appearance": "8038_Chicken_ChefAppearance",
-      "unitKeywordList": [  ],
+      "unitKeywordList": [],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -13618,6 +13618,325 @@
           ]
         }
       ]
+    },
+    {
+      "id": 8041,
+      "appearance": "8041_BrassBullAppearance",
+      "unitKeywordList": [],
+      "level": 30,
+      "classType": "TETH",
+      "attributeType": "AZURE",
+      "hp": {
+        "defaultStat": 257,
+        "incrementByLevel": 8.85
+      },
+      "patternID": "8041",
+      "abnormalityPartList": [
+        804101
+      ],
+      "startActionSlotNum": 4,
+      "maxActionSlotNum": 4,
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 804101,
+          "number": 1
+        },
+        {
+          "skillId": 804102,
+          "number": 1
+        },
+        {
+          "skillId": 804103,
+          "number": 1
+        },
+        {
+          "skillId": 804104,
+          "number": 1
+        },
+        {
+          "skillId": 804105,
+          "number": 1
+        },
+        {
+          "skillId": 804106,
+          "number": 1
+        }
+      ],
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804101,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804101,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804102,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804101,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804102,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804104,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804104,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804102,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804105,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804106,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804106,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 804103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8042,
+      "appearance": "90046_KCorpAppearance",
+      "unitKeywordList": [ "MACHINE" ],
+      "level": 30,
+      "classType": "ZAYIN",
+      "attributeType": "SHAMROCK",
+      "hp": {
+        "defaultStat": 62,
+        "incrementByLevel": 2.14
+      },
+      "patternID": "AutoPick",
+      "abnormalityPartList": [
+        804201
+      ],
+      "startActionSlotNum": 1,
+      "attributeList": [
+        {
+          "skillId": 9004603,
+          "number": 3
+        },
+        {
+          "skillId": 9004604,
+          "number": 2
+        },
+        {
+          "skillId": 9004605,
+          "number": 1
+        },
+        {
+          "skillId": 9004606,
+          "number": 1
+        },
+        {
+          "skillId": 9004607,
+          "number": 1
+        }
+      ],
+      "maxActionSlotNum": 3,
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
     }
   ]
 }

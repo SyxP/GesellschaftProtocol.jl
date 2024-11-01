@@ -1,0 +1,31 @@
+{
+	"list": [
+		{
+			"id": 2,
+			"bannerInfo": {
+				"bannerSpr": "banner_vendingMachine2"
+			},
+			"groups": [
+				{
+					"groupType": "GACHA",
+					"contents": [
+						{
+							"type": "PERSONALITY",
+							"id": 10905,
+							"price": 400
+						},
+						
+						
+						
+						
+						{
+							"type": "PERSONALITY",
+							"id": 10505,
+							"price": 150
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -438,6 +438,23 @@
               "unitLevel": 20
             }
           ],
+          "subUnitList": [
+            {
+              "unitID": 8713,
+              "unitCount": 3,
+              "unitLevel": 20
+            },
+            {
+              "unitID": 8714,
+              "unitCount": 4,
+              "unitLevel": 20
+            },
+            {
+              "unitID": 8714,
+              "unitCount": 4,
+              "unitLevel": 20
+            }
+          ],
           "bgmList": [
             "Battle_Cp1_Ally_2",
             "Battle_Cp1_Enemy_2"
@@ -923,6 +940,23 @@
             {
               "unitID": 8733,
               "unitCount": 2,
+              "unitLevel": 30
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8733,
+              "unitCount": 3,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 8734,
+              "unitCount": 4,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 8734,
+              "unitCount": 4,
               "unitLevel": 30
             }
           ],

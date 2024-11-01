@@ -780,7 +780,7 @@
               "scriptName": "GiveBuffOnUse",
               "buffData": {
                 "buffKeyword": "Protection",
-                "target": "LowestHpAlly1",
+                "target": "LowestHpValueAlly1",
                 "buffOwner": "",
                 "stack": 1,
                 "turn": 0,

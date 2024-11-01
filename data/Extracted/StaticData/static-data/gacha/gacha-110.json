@@ -58,14 +58,14 @@
       "contents": [
         {
           "groupType": "1",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":8300
+              "occupancyCase": "DEFAULT",
+              "occupancy": 8300
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":8400
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 8400
             }
           ],
           "elementType": "PERSONALITY",
@@ -86,22 +86,22 @@
         },
         {
           "groupType": "2",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":640
+              "occupancyCase": "DEFAULT",
+              "occupancy": 640
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":4790
+              "occupancyCase": "TENTH",
+              "occupancy": 4790
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":650
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 650
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":4850
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 4850
             }
           ],
           "elementType": "PERSONALITY",
@@ -129,22 +129,22 @@
         },
         {
           "groupType": "2_pickup",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":640
+              "occupancyCase": "DEFAULT",
+              "occupancy": 640
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":4790
+              "occupancyCase": "TENTH",
+              "occupancy": 4790
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":650
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 650
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":4850
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 4850
             }
           ],
           "elementType": "PERSONALITY",
@@ -154,22 +154,22 @@
         },
         {
           "groupType": "3",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":145
+              "occupancyCase": "DEFAULT",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":145
+              "occupancyCase": "TENTH",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 150
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 150
             }
           ],
           "elementType": "PERSONALITY",
@@ -192,22 +192,22 @@
         },
         {
           "groupType": "3_pickup",
-          "occupancyCaseList":[
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":145
+              "occupancyCase": "DEFAULT",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":145
+              "occupancyCase": "TENTH",
+              "occupancy": 145
             },
             {
-              "occupancyCase":"COMPLETE_EGO_DEFAULT",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_DEFAULT",
+              "occupancy": 150
             },
             {
-              "occupancyCase":"COMPLETE_EGO_TENTH",
-              "occupancy":150
+              "occupancyCase": "COMPLETE_EGO_TENTH",
+              "occupancy": 150
             }
           ],
           "elementType": "PERSONALITY",
@@ -217,15 +217,15 @@
         },
         {
           "groupType": "EGO",
-          "samplingWithoutReplacement":true,
-          "occupancyCaseList":[
+          "samplingWithoutReplacement": true,
+          "occupancyCaseList": [
             {
-              "occupancyCase":"DEFAULT",
-              "occupancy":130
+              "occupancyCase": "DEFAULT",
+              "occupancy": 130
             },
             {
-              "occupancyCase":"TENTH",
-              "occupancy":130
+              "occupancyCase": "TENTH",
+              "occupancy": 130
             }
           ],
           "elementType": "EGO",
@@ -241,7 +241,27 @@
             21203
           ]
         }
-      ]
+      ],
+      "pitySystem": {
+        "catalog": [
+          {
+            "element": {
+              "type": "PERSONALITY",
+              "id": 11005,
+              "num": 1
+            },
+            "requiredPityPoint": 200
+          },
+          {
+            "element": {
+              "type": "EGO",
+              "id": 21003,
+              "num": 1
+            },
+            "requiredPityPoint": 200
+          }
+        ]
+      }
     }
   ]
 }

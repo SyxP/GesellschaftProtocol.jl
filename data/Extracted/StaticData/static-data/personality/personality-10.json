@@ -5,6 +5,7 @@
       "appearance": "11001_Sinclair_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 10,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1100104
@@ -33,7 +34,35 @@
         7
       ],
       "uniqueAttribute": "INDIGO",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -86,6 +115,7 @@
       "appearance": "11002_Sinclair_SwordGroupAppearance",
       "unitKeywordList": [ "BLADE_LINEAGE" ],
       "characterId": 10,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1100204
@@ -114,7 +144,35 @@
         5
       ],
       "uniqueAttribute": "SHAMROCK",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           60,
           30
@@ -166,6 +224,7 @@
       "appearance": "11003_Sinclair_ZweiAppearance",
       "unitKeywordList": [ "ZWEI" ],
       "characterId": 10,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1100304
@@ -194,7 +253,35 @@
         4
       ],
       "uniqueAttribute": "AZURE",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           55,
           20
@@ -246,6 +333,7 @@
       "appearance": "11004_Sinclair_MexicanAppearance",
       "unitKeywordList": [ "MARIACHI" ],
       "characterId": 10,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1100404
@@ -274,7 +362,35 @@
         3
       ],
       "uniqueAttribute": "AMBER",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           50
         ]
@@ -325,6 +441,7 @@
       "appearance": "11005_Sinclair_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "characterId": 10,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1100504
@@ -353,7 +470,35 @@
         8
       ],
       "uniqueAttribute": "CRIMSON",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           30

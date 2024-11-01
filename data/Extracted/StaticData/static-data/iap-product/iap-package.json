@@ -1,84 +1,84 @@
 {
   "list": [
     {
-      "id":101,
-      "category":"PACKAGE",
-      "productId":"extraction_package_monthly_1",
-      "priceTier":10,
-      "chanceId":1101,
-      "defaultElements":[
+      "id": 101,
+      "category": "PACKAGE",
+      "productId": "extraction_package_monthly_1",
+      "priceTier": 10,
+      "chanceId": 1101,
+      "defaultElements": [
         {
-          "type":"ITEM",
-          "id":1,
-          "num":650
+          "type": "ITEM",
+          "id": 1,
+          "num": 650
         },
         {
-          "type":"ITEM",
-          "id":102,
-          "num":1
+          "type": "ITEM",
+          "id": 102,
+          "num": 1
         }
       ]
     },
     {
-      "id":102,
-      "category":"PACKAGE",
-      "productId":"growth_package_monthly_1",
-      "priceTier":31,
-      "chanceId":1102,
-      "defaultElements":[
+      "id": 102,
+      "category": "PACKAGE",
+      "productId": "growth_package_monthly_1",
+      "priceTier": 31,
+      "chanceId": 1102,
+      "defaultElements": [
         {
-          "type":"ITEM",
-          "id":1,
-          "num":1690
+          "type": "ITEM",
+          "id": 1,
+          "num": 1690
         },
         {
-          "type":"ITEM",
-          "id":102,
-          "num":2
+          "type": "ITEM",
+          "id": 102,
+          "num": 2
         },
         {
-          "type":"ITEM",
-          "id":222,
-          "num":1
+          "type": "ITEM",
+          "id": 222,
+          "num": 1
         },
         {
-          "type":"ITEM",
-          "id":221,
-          "num":2
+          "type": "ITEM",
+          "id": 221,
+          "num": 2
         },
         {
-          "type":"ITEM",
-          "id":213,
-          "num":10
+          "type": "ITEM",
+          "id": 213,
+          "num": 10
         },
         {
-          "type":"ITEM",
-          "id":212,
-          "num":30
+          "type": "ITEM",
+          "id": 212,
+          "num": 30
         }
       ]
     },
     {
-      "id":103,
-      "category":"PACKAGE",
-      "productId":"growth_package_monthly_2",
-      "priceTier":31,
-      "chanceId":1103,
-      "defaultElements":[
+      "id": 103,
+      "category": "PACKAGE",
+      "productId": "growth_package_monthly_2",
+      "priceTier": 31,
+      "chanceId": 1103,
+      "defaultElements": [
         {
-          "type":"ITEM",
-          "id":1,
-          "num":1690
+          "type": "ITEM",
+          "id": 1,
+          "num": 1690
         },
         {
-          "type":"ITEM",
-          "id":102,
-          "num":2
+          "type": "ITEM",
+          "id": 102,
+          "num": 2
         },
         {
-          "type":"ITEM",
-          "id":201,
-          "num":120
+          "type": "ITEM",
+          "id": 201,
+          "num": 120
         }
       ]
     },
@@ -105,6 +105,7 @@
       "id": 121,
       "category": "PACKAGE",
       "productId": "settlement_package_season_1st",
+      "isDisabled": true,
       "priceTier": 52,
       "chanceId": 1121,
       "defaultElements": [
@@ -136,6 +137,45 @@
         {
           "type": "ITEM",
           "id": 1201,
+          "num": 40
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "category": "PACKAGE",
+      "productId": "settlement_package_season_2nd",
+      "priceTier": 54,
+      "chanceId": 1122,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 5040
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 30
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 80
+        },
+        {
+          "type": "ITEM",
+          "id": 1202,
           "num": 40
         }
       ]

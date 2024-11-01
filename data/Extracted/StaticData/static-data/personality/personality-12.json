@@ -5,6 +5,7 @@
       "appearance": "11201_Gregor_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 12,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1120104
@@ -33,6 +34,34 @@
         7
       ],
       "uniqueAttribute": "AZURE",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
       "breakSection": {
         "sectionList": [
           70,
@@ -85,6 +114,7 @@
       "appearance": "11202_Gregor_LiuAssoAppearance",
       "unitKeywordList": [ "LIU" ],
       "characterId": 12,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1120204
@@ -113,6 +143,34 @@
         7
       ],
       "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
       "breakSection": {
         "sectionList": [
           70,
@@ -166,6 +224,7 @@
       "appearance": "11203_Gregor_TommyAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "characterId": 12,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1120304
@@ -194,6 +253,34 @@
         7
       ],
       "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
       "breakSection": {
         "sectionList": [
           70,
@@ -247,6 +334,7 @@
       "appearance": "11204_Gregor_JackAppearance",
       "unitKeywordList": [ "BACKSTREET_COOK" ],
       "characterId": 12,
+      "panicType": 9999,
       "season": 1,
       "additionalAttachment": "EVENT",
       "defenseSkillIDList": [
@@ -276,6 +364,34 @@
         7
       ],
       "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
       "breakSection": {
         "sectionList": [
           70,

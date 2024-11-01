@@ -1,159 +1,218 @@
 {
   "list": [
     {
-      "id": 1
+      "id": 1,
+      "sortingOrder":  1
     },
     {
-      "id": 2
+      "id": 2,
+      "sortingOrder": 1
     },
     {
-      "id": 3
+      "id": 3,
+      "sortingOrder": 1
     },
     {
-      "id": 4
+      "id": 4,
+      "sortingOrder": 1
     },
     {
-      "id": 5
+      "id": 5,
+      "sortingOrder": 1
     },
     {
-      "id": 6
+      "id": 6,
+      "sortingOrder": 1
     },
     {
-      "id": 7
+      "id": 7,
+      "sortingOrder": 1
     },
     {
-      "id": 8
+      "id": 8,
+      "sortingOrder": 1
     },
     {
-      "id": 9
+      "id": 9,
+      "sortingOrder": 1
     },
     {
-      "id": 10
+      "id": 10,
+      "sortingOrder": 1
     },
     {
-      "id": 11
+      "id": 11,
+      "sortingOrder": 1
     },
     {
-      "id": 12
+      "id": 12,
+      "sortingOrder": 1
     },
     {
-      "id": 13
+      "id": 13,
+      "sortingOrder": 1
     },
     {
-      "id": 14
+      "id": 14,
+      "sortingOrder": 1
     },
     {
-      "id": 15
+      "id": 15,
+      "sortingOrder": 1
     },
     {
-      "id": 16
+      "id": 16,
+      "sortingOrder": 1
     },
     {
-      "id": 17
+      "id": 17,
+      "sortingOrder": 1
     },
     {
-      "id": 18
+      "id": 18,
+      "sortingOrder": 1
     },
     {
-      "id": 19
+      "id": 19,
+      "sortingOrder": 1
     },
     {
-      "id": 20
+      "id": 20,
+      "sortingOrder": 1
     },
     {
-      "id": 21
+      "id": 21,
+      "sortingOrder": 1
     },
     {
-      "id": 22
+      "id": 22,
+      "sortingOrder": 1
     },
     {
-      "id": 23
+      "id": 23,
+      "sortingOrder": 1
     },
     {
-      "id": 24
+      "id": 24,
+      "sortingOrder": 1
     },
     {
-      "id": 25
+      "id": 25,
+      "sortingOrder": 1
     },
     {
-      "id": 26
+      "id": 26,
+      "sortingOrder": 1
     },
     {
-      "id": 27
+      "id": 27,
+      "sortingOrder": 1
     },
     {
-      "id": 28
+      "id": 28,
+      "sortingOrder": 1
     },
     {
-      "id": 29
+      "id": 29,
+      "sortingOrder": 1
     },
     {
-      "id": 30
+      "id": 30,
+      "sortingOrder": 1
     },
     {
-      "id": 31
+      "id": 31,
+      "sortingOrder": 1
     },
     {
-      "id": 32
+      "id": 32,
+      "sortingOrder": 1
     },
     {
-      "id": 33
+      "id": 33,
+      "sortingOrder": 1
     },
     {
-      "id": 34
+      "id": 34,
+      "sortingOrder": 1
     },
     {
-      "id": 35
+      "id": 35,
+      "sortingOrder": 1
     },
     {
-      "id": 36
+      "id": 36,
+      "sortingOrder": 1
     },
     {
-      "id": 37
+      "id": 37,
+      "sortingOrder": 1
     },
     {
-      "id": 38
+      "id": 38,
+      "sortingOrder": 1
     },
     {
-      "id": 39
+      "id": 39,
+      "sortingOrder": 1
     },
     {
-      "id": 40
+      "id": 40,
+      "sortingOrder": 1
     },
     {
       "id": 41,
       "condition": "GetEGO",
-      "conditionRefId": 21003
+      "conditionRefId": 21003,
+      "sortingOrder": 1
     },
     {
       "id": 42,
       "condition": "GetEGO",
-      "conditionRefId": 20304
+      "conditionRefId": 20304,
+      "sortingOrder": 1
     },
     {
       "id": 43,
       "condition": "GetPersonality",
-      "conditionRefId": 10404
+      "conditionRefId": 10404,
+      "sortingOrder": 1
     },
     {
       "id": 45,
       "condition": "GetPersonality",
-      "conditionRefId": 10304
+      "conditionRefId": 10304,
+      "sortingOrder": 1
     },
     {
       "id": 46,
       "condition": "GetPersonality",
-      "conditionRefId": 11005
+      "conditionRefId": 11005,
+      "sortingOrder": 1
     },
     {
       "id": 47,
       "condition": "GetEGO",
-      "conditionRefId": 20104
+      "conditionRefId": 20104,
+      "sortingOrder": 1
     },
     {
       "id": 48,
       "condition": "GetEGO",
-      "conditionRefId": 20603
+      "conditionRefId": 20603,
+      "sortingOrder": 1
+    },
+    {
+      "id": 49,
+      "condition": "GetPersonality",
+      "conditionRefId": 10505,
+      "sortingOrder": 1
+    },
+    {
+      "id": 50,
+      "condition": "GetPersonality",
+      "conditionRefId": 10905,
+      "sortingOrder": 1
     }
   ]
 }

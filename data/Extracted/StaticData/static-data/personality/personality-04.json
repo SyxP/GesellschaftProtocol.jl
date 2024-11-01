@@ -5,6 +5,7 @@
       "appearance": "10401_Ryoshu_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 4,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1040104
@@ -33,7 +34,35 @@
         6
       ],
       "uniqueAttribute": "SHAMROCK",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -86,6 +115,7 @@
       "appearance": "10402_Ryoshu_SevenAssoAppearance",
       "unitKeywordList": [ "SEVEN" ],
       "characterId": 4,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1040204
@@ -114,7 +144,35 @@
         7
       ],
       "uniqueAttribute": "AMBER",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -167,6 +225,7 @@
       "appearance": "10403_Ryoshu_BlackCloudAppearance",
       "unitKeywordList": [ "BLACK_CLOUD" ],
       "characterId": 4,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1040304
@@ -195,7 +254,35 @@
         6
       ],
       "uniqueAttribute": "SHAMROCK",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -248,6 +335,7 @@
       "appearance": "10404_Ryoshu_PierreAppearance",
       "unitKeywordList": [ "BACKSTREET_COOK" ],
       "characterId": 4,
+      "panicType": 9999,
       "season": 1,
       "additionalAttachment": "EVENT",
       "defenseSkillIDList": [
@@ -277,7 +365,35 @@
         6
       ],
       "uniqueAttribute": "SCARLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           65,
           35,

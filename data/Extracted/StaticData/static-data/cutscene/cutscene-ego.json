@@ -357,6 +357,30 @@
       ]
     },
     {
+      "id": 20504,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0.12,
+          "offsetY": -0.04,
+
+          "offsetStartX": -0.15,
+
+          "closeUp": 0.67
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": -0.15,
+          "offsetY": 0.02,
+
+          "offsetStartX": 0.12,
+          "offsetStartY": -0.07,
+
+          "closeUp": 0.67
+        }
+      ]
+    },
+    {
       "id": 20601,
       "pivotList": [
         {
@@ -511,6 +535,31 @@
           "offsetStartX": -0.29,
 
           "closeUp": 0.6
+        }
+      ]
+    },
+    {
+      "id": 20804,
+      "pivotList": [
+        {
+          "cutsceneType": "EGO_AWAKEN",
+          "offsetX": 0,
+          "offsetY": -0.09,
+
+          "offsetStartX":  0.19,
+          "offsetStartY":  0.15,
+
+          "closeUp": 0.67
+        },
+        {
+          "cutsceneType": "EGO_EROSION",
+          "offsetX": 0.22,
+          "offsetY": 0.05,
+
+          "offsetStartX": -0.06,
+          "offsetStartY": -0.07,
+
+          "closeUp": 0.67
         }
       ]
     },

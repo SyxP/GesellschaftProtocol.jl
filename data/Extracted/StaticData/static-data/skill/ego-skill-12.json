@@ -340,7 +340,7 @@
                   "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
                     "buffKeyword": "Burst",
-                    "target": "",
+                    "target": "Target",
                     "buffOwner": "",
                     "stack": 3,
                     "turn": 0,
@@ -371,7 +371,7 @@
                   "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
                     "buffKeyword": "Burst",
-                    "target": "",
+                    "target": "Target",
                     "buffOwner": "",
                     "stack": 5,
                     "turn": 0,

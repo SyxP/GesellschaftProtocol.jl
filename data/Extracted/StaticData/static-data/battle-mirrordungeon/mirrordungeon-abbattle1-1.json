@@ -13418,6 +13418,23 @@
               "unitLevel": 1
             }
           ],
+          "subUnitList": [
+            {
+              "unitID": 8003,
+              "unitCount": 3,
+              "unitLevel": 1
+            },
+            {
+              "unitID": 8004,
+              "unitCount": 4,
+              "unitLevel": 1
+            },
+            {
+              "unitID": 8004,
+              "unitCount": 4,
+              "unitLevel": 1
+            }
+          ],
           "bgmList": [
             "Battle_Cp1_Ally_2",
             "Battle_Cp1_Enemy_2"

@@ -95,6 +95,7 @@
         "gacha-2",
         "gacha-3",
         "gacha-4",
+        "gacha-5",
         "gacha-103",
         "gacha-104",
         "gacha-105",
@@ -104,7 +105,9 @@
         "gacha-109",
         "gacha-110",
         "gacha-111",
-        "gacha-112"
+        "gacha-112",
+        "gacha-113",
+        "gacha-114"
       ]
     },
     {
@@ -184,6 +187,7 @@
         "storybattle1-2",
         "storybattle1-3",
         "storybattle91-3",
+        "storybattle1-4",
         "stage_Test",
         "stage_Tutorial"
       ]
@@ -220,7 +224,8 @@
         "stagenodereward1-1",
         "stagenodereward1-2",
         "stagenodereward1-3",
-        "stagenodereward91-3"
+        "stagenodereward91-3",
+        "stagenodereward1-4"
       ]
     },
     {
@@ -244,7 +249,9 @@
     {
       "dataClass": "vending-machine",
       "fileList": [
-        "vending-machine"
+        "vending-machine-0",
+        "vending-machine-1",
+        "vending-machine-2"
       ]
     },
     {
@@ -298,7 +305,8 @@
     {
       "dataClass": "battlepass",
       "fileList": [
-        "battlepass"
+        "battlepass",
+        "battlepass-2"
       ]
     },
     {
@@ -307,7 +315,8 @@
         "storytheater-main-100",
         "storytheater-main-101",
         "storytheater-main-102",
-        "storytheater-main-103"
+        "storytheater-main-103",
+        "storytheater-main-104"
       ]
     },
     {
@@ -390,6 +399,24 @@
       ]
     },
     {
+      "dataClass": "userticket-l",
+      "fileList": [
+        "userticket-l"
+      ]
+    },
+    {
+      "dataClass": "userticket-r",
+      "fileList": [
+        "userticket-r"
+      ]
+    },
+    {
+      "dataClass": "userticket-egobg",
+      "fileList": [
+        "userticket-ego-bg"
+      ]
+    },
+    {
       "dataClass": "require-condition",
       "fileList": [
         "require-condition"
@@ -436,7 +463,8 @@
     {
       "dataClass": "season-info",
       "fileList": [
-        "season-1"
+        "season-1",
+        "season-2"
       ]
     },
     {
@@ -470,13 +498,17 @@
         "loadingCG-stage_101",
         "loadingCG-stage_102",
         "loadingCG-stage_103",
-        "loadingCG-stage_9103"
+        "loadingCG-stage_9103",
+        "loadingCG-stage_104"
       ]
     },
     {
       "dataClass": "credits-ui",
       "fileList": [
-        "credits_101"
+        "credits_101",
+        "credits_102",
+        "credits_103",
+        "credits_104"
       ]
     },
     {
@@ -625,6 +657,18 @@
       "dataClass": "control-code",
       "fileList": [
         "control-code"
+      ]
+    },
+    {
+      "dataClass": "main-stage-map-setting",
+      "fileList": [
+        "main-stage-map-setting"
+      ]
+    },
+    {
+      "dataClass": "story-dungeon-map-illust",
+      "fileList": [
+        "story-dungeon-map-illust"
       ]
     }
   ]

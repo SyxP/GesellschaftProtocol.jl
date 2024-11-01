@@ -24,6 +24,11 @@
       "id": 0,
       "category": "NORMAL",
       "spriteStr":"eventitem"
+    },
+	{
+      "id": 4,
+      "category": "NORMAL",
+      "spriteStr":"reason"
     }
   ]
 }

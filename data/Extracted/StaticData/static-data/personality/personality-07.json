@@ -5,6 +5,7 @@
       "appearance": "10701_Heathclif_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 7,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1070104
@@ -33,7 +34,35 @@
         5
       ],
       "uniqueAttribute": "VIOLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           65,
           35,
@@ -86,6 +115,7 @@
       "appearance": "10702_Heathclif_4Appearance",
       "unitKeywordList": [ "SHI" ],
       "characterId": 7,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1070204
@@ -114,7 +144,35 @@
         5
       ],
       "uniqueAttribute": "SCARLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           80,
           60
@@ -166,6 +224,7 @@
       "appearance": "10703_Heathclif_RCorpAppearance",
       "unitKeywordList": [ "R_CORP" ],
       "characterId": 7,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1070304
@@ -194,7 +253,35 @@
         7
       ],
       "uniqueAttribute": "CRIMSON",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -247,11 +334,12 @@
       "appearance": "10704_Heathclif_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "characterId": 7,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1070404
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -275,6 +363,34 @@
         7
       ],
       "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
       "breakSection": {
         "sectionList": [
           65,

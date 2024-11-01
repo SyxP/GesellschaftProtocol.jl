@@ -5,11 +5,12 @@
       "appearance": "10501_Meursault_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 5,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1050104
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -33,7 +34,35 @@
         3
       ],
       "uniqueAttribute": "AMBER",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           50,
           20
@@ -85,11 +114,12 @@
       "appearance": "10502_Meursault_LiuAppearance",
       "unitKeywordList": [ "LIU" ],
       "characterId": 5,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1050204
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -113,7 +143,35 @@
         5
       ],
       "uniqueAttribute": "SCARLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           65,
           35,
@@ -166,11 +224,12 @@
       "appearance": "10503_Meursault_WCorpAppearance",
       "unitKeywordList": [ "W_CORP" ],
       "characterId": 5,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1050304
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -194,7 +253,35 @@
         8
       ],
       "uniqueAttribute": "VIOLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           60,
           30
@@ -241,16 +328,17 @@
         ]
       }
     },
-	 {
+    {
       "id": 10504,
       "appearance": "10504_Meursault_NCorpGuidoAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "characterId": 5,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1050404
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -274,7 +362,35 @@
         5
       ],
       "uniqueAttribute": "CRIMSON",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           50
         ]
@@ -317,6 +433,115 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1050421
+        ]
+      }
+    },
+    {
+      "id": 10505,
+      "appearance": "10505_Meursault_HammerFixerAppearance",
+      "unitKeywordList": [],
+      "characterId": 5,
+      "panicType": 9999,
+      "season": 2,
+      "defenseSkillIDList": [
+        1050504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 76,
+        "incrementByLevel": 2.7
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.76
+      },
+      "minSpeedList": [
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        7,
+        8
+      ],
+      "uniqueAttribute": "AZURE",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
+        "sectionList": [
+          65,
+          35
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1050501,
+          "number": 3
+        },
+        {
+          "skillId": 1050502,
+          "number": 2
+        },
+        {
+          "skillId": 1050503,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1050501
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1050521
         ]
       }
     }

@@ -5,6 +5,7 @@
       "appearance": "10201_Faust_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 2,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1020104
@@ -33,7 +34,35 @@
         4
       ],
       "uniqueAttribute": "INDIGO",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           60,
           30,
@@ -86,6 +115,7 @@
       "appearance": "10202_Faust_WAppearance",
       "unitKeywordList": [ "W_CORP" ],
       "characterId": 2,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1020204
@@ -114,7 +144,35 @@
         4
       ],
       "uniqueAttribute": "VIOLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           60,
           30
@@ -166,6 +224,7 @@
       "appearance": "10203_Faust_YuriAppearance",
       "unitKeywordList": [ "L_CORP" ],
       "characterId": 2,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1020304
@@ -194,7 +253,35 @@
         6
       ],
       "uniqueAttribute": "SCARLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,
@@ -247,6 +334,7 @@
       "appearance": "10204_Faust_CromerAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "characterId": 2,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1020404
@@ -275,7 +363,35 @@
         7
       ],
       "uniqueAttribute": "SCARLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           40,

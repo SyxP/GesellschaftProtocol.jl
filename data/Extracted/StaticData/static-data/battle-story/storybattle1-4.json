@@ -1,0 +1,1343 @@
+{
+  "list": [
+    {
+      "id": 10402,
+      "stageLevel": 27,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90046,
+              "unitCount": 4,
+              "unitLevel": 27
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90071,
+              "unitCount": 1,
+              "unitLevel": 27
+            },
+            {
+              "unitID": 90072,
+              "unitCount": 4,
+              "unitLevel": 27
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 27,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S402B"
+        ]
+      },
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10403,
+      "stageLevel": 29,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet_v1",
+            "mapSize": 40.0
+          },
+          "unitList": [
+            {
+              "unitID": 8042,
+              "unitCount": 4,
+              "unitLevel": 29
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8041,
+              "unitCount": 1,
+              "unitLevel": 29
+            }
+          ],
+          "enemyPositionID": 30,
+          "allyPositionID": 34
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 29,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "exit": [
+          "S403A"
+        ]
+      },
+      "stageScriptNameAfterClear": "BrassBull_First"
+    },
+    {
+      "id": 10404,
+      "stageLevel": 27,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90071,
+              "unitCount": 2,
+              "unitLevel": 27
+            },
+            {
+              "unitID": 90072,
+              "unitCount": 2,
+              "unitLevel": 27
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90071,
+              "unitCount": 3,
+              "unitLevel": 27
+            },
+            {
+              "unitID": 90072,
+              "unitCount": 2,
+              "unitLevel": 27
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 27,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10405,
+      "stageLevel": 28,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90071,
+              "unitCount": 2,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 90072,
+              "unitCount": 2,
+              "unitLevel": 28
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90071,
+              "unitCount": 4,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 90072,
+              "unitCount": 1,
+              "unitLevel": 28
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 28,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10406,
+      "stageLevel": 30,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_BrokenKCorpStreet_v1",
+            "mapSize": 40.0
+          },
+          "unitList": [
+            {
+              "unitID": 8041,
+              "unitCount": 1,
+              "unitLevel": 30
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
+          ],
+          "allyPositionID": 34,
+          "enemyPositionID": 30
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 30,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "exit": [
+          "S406A"
+        ]
+      },
+      "stageScriptNameAfterClear": "BrassBull_Second"
+    },
+    {
+      "id": 10410,
+      "stageLevel": 28,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 28
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 28
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 3,
+              "unitLevel": 28
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 28,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S410B"
+        ]
+      },
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10411,
+      "stageLevel": 29,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 29
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 29
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 29
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 3,
+              "unitLevel": 29
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 29,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10412,
+      "stageLevel": 29,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F_v1",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 29
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 29
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 29
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 1,
+              "unitLevel": 29
+            },
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 29
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 29,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S412B"
+        ]
+      },
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10413,
+      "stageLevel": 30,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F_Corridor",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 30
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 2,
+              "unitLevel": 30
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 30,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10414,
+      "stageLevel": 32,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_KCropLab_2F_Corridor_v2",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 91007,
+              "unitCount": 1,
+              "unitLevel": 32
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 32,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10416,
+      "stageLevel": 30,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 4,
+              "unitLevel": 30
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 4,
+              "unitLevel": 30
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 30,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S416B"
+        ],
+        "exit": [
+          "S416A"
+        ]
+      },
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10417,
+      "stageLevel": 31,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 31
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 3,
+              "unitLevel": 31
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 31,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "exit": [
+          "S417A"
+        ]
+      },
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10418,
+      "stageLevel": 31,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 31
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_2",
+            "Battle_Cp4_Enemy_2"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 3,
+              "unitLevel": 31
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 31,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S418B"
+        ]
+      },
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10419,
+      "stageLevel": 32,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy_v1",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 91007,
+              "unitCount": 1,
+              "unitLevel": 32
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 32,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10420,
+      "stageLevel": 32,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy_v1",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90047,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90048,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90049,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 91007,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 32,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10421,
+      "stageLevel": 33,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy2",
+            "mapSize": 23.0
+          },
+          "unitList": [
+            {
+              "unitID": 90052,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 2,
+              "unitLevel": 33
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_3",
+            "Battle_Cp4_Enemy_3"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 91008,
+              "unitCount": 1,
+              "unitLevel": 33
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 33,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S421B"
+        ]
+      },
+      "stageScriptNameAfterClear": "Troubleshooter"
+    },
+    {
+      "id": 10422,
+      "stageLevel": 31,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy2",
+            "mapSize": 23.0
+          },
+          "unitList": [
+            {
+              "unitID": 90052,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 2,
+              "unitLevel": 31
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
+              "unitLevel": 31
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 31,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S422B"
+        ]
+      },
+      "stageScriptNameAfterClear": "Troubleshooter"
+    },
+    {
+      "id": 10423,
+      "stageLevel": 31,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdaptedLobotomy2_v1",
+            "mapSize": 23.0
+          },
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 2,
+              "unitLevel": 31
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 1,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 2,
+              "unitLevel": 31
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 2,
+              "unitLevel": 31
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 31,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Troubleshooter"
+    },
+    {
+      "id": 10424,
+      "stageLevel": 32,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdminOffice",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90049,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90050,
+              "unitCount": 1,
+              "unitLevel": 32
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 91007,
+              "unitCount": 1,
+              "unitLevel": 32
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 32,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "Robot"
+    },
+    {
+      "id": 10425,
+      "stageLevel": 33,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_AdminOffice",
+            "mapSize": 33.28
+          },
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 1,
+              "unitLevel": 33
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_3",
+            "Battle_Cp4_Enemy_3"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90051,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90052,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90053,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 91008,
+              "unitCount": 1,
+              "unitLevel": 33
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 33,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    }
+  ]
+}

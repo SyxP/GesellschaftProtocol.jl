@@ -1,0 +1,82 @@
+{
+	"list": [
+		{
+			"id": 1,
+			"bannerInfo": {
+				"bannerSpr": "banner_vendingMachine1"
+			},
+			"groups": [
+				{
+					"groupType": "PASS",
+					"contents": [
+						{
+							"type": "EGO",
+							"id": 21102,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20202,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20302,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20402,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20702,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20902,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20502,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20602,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20903,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 21002,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20802,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 20102,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 21202,
+							"price": 400
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,14 +1,17 @@
 {
   "subchapterDetailList": [
     {
+      "partId": 1,
       "subchapterId": 104,
       "stageGroups": [
         {
-          "lastNodeIndex": 10
+          "lastNodeIndex": 26
         },
         {
-          "lastNodeIndex": 20,
-          "openDate": "2023-03-23T03:00:00.000Z"
+          "lastNodeIndex": 99,
+          "openDate": "2023-06-08T03:00:00.000Z",
+          "lockedNodePosX": 21647,
+          "lockedNodePosY": 401
         }
       ]
     }

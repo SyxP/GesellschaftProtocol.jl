@@ -5,6 +5,7 @@
       "appearance": "10801_Ishmael_BaseAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 8,
+      "panicType": 9999,
       "season": 0,
       "rank": 1,
       "hp": {
@@ -33,7 +34,35 @@
         "Default1"
       ],
       "uniqueAttribute": "CRIMSON",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           60,
           30
@@ -85,6 +114,7 @@
       "appearance": "10802_Ishmael_RCorpAppearance",
       "unitKeywordList": [ "R_CORP" ],
       "characterId": 8,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1080204
@@ -113,7 +143,35 @@
         7
       ],
       "uniqueAttribute": "AZURE",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           70,
           30
@@ -165,6 +223,7 @@
       "appearance": "10803_Ishmael_ShiAssoAppearance",
       "unitKeywordList": [ "SHI" ],
       "characterId": 8,
+      "panicType": 9999,
       "season": 0,
       "defenseSkillIDList": [
         1080304
@@ -193,7 +252,35 @@
         5
       ],
       "uniqueAttribute": "VIOLET",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           80,
           60
@@ -245,6 +332,7 @@
       "appearance": "10804_Ishmael_LCCSodeAppearance",
       "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 8,
+      "panicType": 9999,
       "season": 1,
       "defenseSkillIDList": [
         1080404
@@ -273,7 +361,35 @@
         6
       ],
       "uniqueAttribute": "SHAMROCK",
-      "breakSection": {
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection":  {
         "sectionList": [
           55,
           20
