@@ -337,7 +337,7 @@
                     "buffKeyword": "Combustion",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 0.5
@@ -375,7 +375,7 @@
                     "buffKeyword": "Combustion",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 1
@@ -437,7 +437,7 @@
                     "buffKeyword": "Combustion",
                     "target": "EveryUnit",
                     "buffOwner": "",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 1
@@ -466,7 +466,7 @@
                     "buffKeyword": "Combustion",
                     "target": "EveryUnit",
                     "buffOwner": "",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0,
                     "value": 2

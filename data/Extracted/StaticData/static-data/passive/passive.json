@@ -1324,6 +1324,60 @@
       ]
     },
     {
+      "id": 1060501,
+      "attributeStockCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1060502,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1100601,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1060521,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1100621,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 90001
     },
     {
@@ -1793,6 +1847,18 @@
     },
     {
       "id": 806001
+    },
+    {
+      "id": 805901
+    },
+    {
+      "id": 805902
+    },
+    {
+      "id": 805903
+    },
+    {
+      "id": 806201
     }
   ]
 }

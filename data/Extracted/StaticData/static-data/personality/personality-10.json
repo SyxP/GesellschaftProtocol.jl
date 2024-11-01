@@ -62,7 +62,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -172,7 +172,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           60,
           30
@@ -281,7 +281,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           55,
           20
@@ -390,7 +390,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           50
         ]
@@ -498,7 +498,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           30
@@ -542,6 +542,115 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1100521
+        ]
+      }
+    },
+    {
+      "id": 11006,
+      "appearance": "11006_Sinclair_TalismanAppearance",
+      "unitKeywordList": [],
+      "characterId": 10,
+      "panicType": 9999,
+      "season": 2,
+      "defenseSkillIDList": [
+        1100604
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 76,
+        "incrementByLevel": 2.7
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.65
+      },
+      "minSpeedList": [
+        2,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1100601,
+          "number": 3
+        },
+        {
+          "skillId": 1100602,
+          "number": 2
+        },
+        {
+          "skillId": 1100603,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1100601
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1100621
         ]
       }
     }

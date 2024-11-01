@@ -78,7 +78,23 @@
               ],
               "profileId": "ncorp_sinclair_profile",
               "analysisId": "ncorp_sinclair_analysis"
-          }
+          },
+          {
+            "personalityId": 11006,
+            "releaseDay": 20230629,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P11006",
+                "lockCondition": "gacksung",
+                "order": 8,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            
+            ],
+            "profileId": "lego_sinclair_profile",
+            "analysisId": "lego_sinclair_analysis"
+        }
         ]
     }
   ]

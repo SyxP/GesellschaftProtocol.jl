@@ -1,0 +1,1417 @@
+{
+  "list": [
+    {
+      "id": 2,
+      "typeIndex": 1,
+      "isPersonalityLevelByUserData": true,
+      "startCost": 200,
+      "startBuffCoefficient": 1.5,
+
+
+      "requireEnkephalinModule": 6,
+      "globalEventPercentage": 0,
+      "acquireCharacterEventPercentage": 0.2,
+      "levelUpCharacterEventPercentage": 0.2,
+      "specialBattleAppearedFloor": 2,
+
+      "openCondition": {
+        "isLocked": true,
+        "chapterCleared": {
+          "mainChapterId": 1,
+          "subChapterId": 104,
+          "nodeId": 10454
+        },
+        "dungeonCleared": {
+          "isConditionExist": true,
+          "dungeonId": 2,
+          "typeIndex": 0
+        }
+      },
+
+      "startSelectCount": 7,
+      "gradeList": [ 5 ],
+      "levelList": [ 35 ],
+
+      "addLevel": 5,
+      "currentRewardId": 2,
+
+      "addPersonalityCount": 3,
+      "defaultPersonalityPrice": 0,
+      "personalityPriceByRank": [ 20, 60, 100 ],
+      "defaultEgoPrice": 0,
+      "egoPriceByRank": [ 20, 40, 60, 80, 100 ],
+
+
+      "restingEvent": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 0,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.3,
+            "isHealMpPercentage": false,
+            "healMpAmount": 0
+          },
+          {
+            "index": 1,
+            "price": 0,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.15,
+            "isHealMpPercentage": false,
+            "healMpAmount": 0
+          }
+        ]
+      },
+
+      "shop": {
+        "heal": [
+          {
+            "index": 0,
+            "price": 400,
+            "isForAll": false,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.5,
+            "isHealMpPercentage": false,
+            "healMpAmount": 45
+          },
+          {
+            "index": 1,
+            "price": 400,
+            "isForAll": true,
+            "isHealHpPercentage": true,
+            "healHpAmount": 0.2,
+            "isHealMpPercentage": false,
+            "healMpAmount": 15
+          }
+        ],
+        "egoGift": [
+          {
+            "id": 9001,
+            "price": 100
+          }
+        ],
+        "upgradePersonality": [
+          {
+            "index": 0,
+            "fromSkill": 0,
+            "toSkill": 1,
+            "price": 30
+          },
+          {
+            "index": 1,
+            "fromSkill": 1,
+            "toSkill": 2,
+            "price": 50
+          },
+          {
+            "index": 2,
+            "fromSkill": 0,
+            "toSkill": 2,
+            "price": 100
+          }
+        ],
+        "addUnitCountPrice": [ 150, 150 ]
+      },
+
+      "acquireEgoGiftByFloorForUI": [ 0, 0, 0, 9084, 9085 ],
+
+      "floors": [
+        {
+          "count": 0,
+          "roomCount": 3,
+          "sectorCount": 4,
+          "hardBattlePercentage": 0.0,
+          "abnormalityBattlePercentage": 0.0,
+          "eventNodePercentage": 0.24,
+          "mirrorSector": [
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 0,
+                    "rewardList": [],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 0,
+                    "rewardList": [],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 25,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 2,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 1,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 25,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 3,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 2,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 50,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 5,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 3,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 50,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 6,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 25,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 4,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 75,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 8,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 5,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 1,
+          "roomCount": 3,
+          "sectorCount": 4,
+          "hardBattlePercentage": 0.08,
+          "abnormalityBattlePercentage": 0.12,
+          "eventNodePercentage": 0.33,
+          "mirrorSector": [
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 75,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 8,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 5,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 75,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 11,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 7,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 100,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 14,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 9,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 100,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 17,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 11,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 100,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 20,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 50,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 13,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 150,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 23,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 15,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 2,
+          "roomCount": 3,
+          "sectorCount": 5,
+          "hardBattlePercentage": 0.08,
+          "abnormalityBattlePercentage": 0.12,
+          "eventNodePercentage": 0.33,
+          "mirrorSector": [
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 150,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 23,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 15,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 150,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 23,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 15,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 150,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 27,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 18,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 200,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 27,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 18,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 200,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 33,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 22,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 200,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 33,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 75,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 22,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 38,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 25,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 3,
+          "roomCount": 4,
+          "sectorCount": 5,
+          "hardBattlePercentage": 0.08,
+          "abnormalityBattlePercentage": 0.12,
+          "eventNodePercentage": 0.33,
+          "mirrorSector": [
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 38,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 25,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 38,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 25,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 42,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 28,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 42,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 28,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 47,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 31,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 47,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 100,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 31,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 53,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 35,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "count": 4,
+          "roomCount": 4,
+          "sectorCount": 7,
+          "hardBattlePercentage": 0.08,
+          "abnormalityBattlePercentage": 0.12,
+          "eventNodePercentage": 0.33,
+          "mirrorSector": [
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 53,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 35,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 53,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 35,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 57,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 38,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 57,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 38,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 63,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 42,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 63,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 42,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 69,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 46,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 69,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 46,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            },
+            {
+              "rewardList": [
+                {
+                  "rewardId": 1,
+                  "chanceReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 2,
+                        "num": 250,
+                        "type": "ITEM"
+                      },
+                      {
+                        "id": 1,
+                        "num": 75,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  },
+                  "normalReward": {
+                    "acquireUserExp": 120,
+                    "rewardList": [
+                      {
+                        "id": 1,
+                        "num": 50,
+                        "type": "BATTLEPASS_POINT"
+                      }
+                    ],
+                    "randomPackagePiece": 0,
+                    "optionalPackagePiece": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

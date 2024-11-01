@@ -18548,6 +18548,580 @@
           806001
         ]
       }
+    },
+    {
+      "id": 8059,
+      "appearance": "8059_FairyLongLegsAppearance",
+      "unitKeywordList": [],
+      "level": 10,
+      "classType": "TETH",
+      "attributeType": "SHAMROCK",
+      "hp": {
+        "defaultStat": 493,
+        "incrementByLevel": 18.7
+      },
+      "abnormalityPartList": [
+        805901,
+        805902,
+        805903
+      ],
+      "patternID": "8059",
+      "startActionSlotNum": 4,
+      "maxActionSlotNum": 4,
+      "attributeList": [
+        {
+          "skillId": 805901,
+          "number": 0
+        },
+        {
+          "skillId": 805902,
+          "number": 0
+        },
+        {
+          "skillId": 805903,
+          "number": 0
+        },
+        {
+          "skillId": 805904,
+          "number": 0
+        },
+        {
+          "skillId": 805905,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          805902,
+          805903
+        ]
+      },
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805901,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805901,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805901,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805901,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805905,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805903,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805903,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805901,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805903,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805901,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805903,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805902,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 805905,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8062,
+      "appearance": "8062_FairyLongLegs_CloverAppearance",
+      "unitKeywordList": [],
+      "level": 10,
+      "classType": "TETH",
+      "attributeType": "SHAMROCK",
+      "hp": {
+        "defaultStat": 123,
+        "incrementByLevel": 4.23
+      },
+      "abnormalityPartList": [
+        806201
+      ],
+      "patternID": "AutoPick",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "attributeList": [
+        {
+          "skillId": -1,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          806201
+        ]
+      }
+    },
+    {
+      "id": 8064,
+      "appearance": "8005_Septempeccata_GrassAppearance",
+      "viewid": 8005,
+      "sdPortrait": 8005,
+      "unitKeywordList": [],
+      "level": 5,
+      "classType": "ZAYIN",
+      "attributeType": "SHAMROCK",
+      "hp": {
+        "defaultStat": 65,
+        "incrementByLevel": 2.46
+      },
+      "patternID": "AutoPick",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        806401
+      ],
+      "attributeList": [
+        {
+          "skillId": 806401,
+          "number": 3
+        },
+        {
+          "skillId": 806402,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8065,
+      "appearance": "8006_Septempeccata_GroundAppearance",
+      "viewid": 8006,
+      "sdPortrait": 8006,
+      "unitKeywordList": [],
+      "level": 5,
+      "classType": "ZAYIN",
+      "attributeType": "AMBER",
+      "hp": {
+        "defaultStat": 65,
+        "incrementByLevel": 2.7
+      },
+      "patternID": "AutoPick",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 2,
+      "abnormalityPartList": [
+        806501
+      ],
+      "attributeList": [
+        {
+          "skillId": 806501,
+          "number": 3
+        },
+        {
+          "skillId": 806502,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8066,
+      "appearance": "8007_Septempeccata_FireAppearance",
+      "viewid": 8007,
+      "sdPortrait": 8007,
+      "unitKeywordList": [],
+      "level": 5,
+      "classType": "ZAYIN",
+      "attributeType": "CRIMSON",
+      "hp": {
+        "defaultStat": 65,
+        "incrementByLevel": 2.02
+      },
+
+      "patternID": "AutoPick",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 2,
+      "abnormalityPartList": [
+        806601
+      ],
+      "attributeList": [
+        {
+          "skillId": 806601,
+          "number": 3
+        },
+        {
+          "skillId": 806602,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8067,
+      "appearance": "8016_Septempeccata_WaterAppearance",
+      "viewid": 8016,
+      "sdPortrait": 8016,
+      "unitKeywordList": [],
+      "level": 10,
+      "classType": "ZAYIN",
+      "attributeType": "AZURE",
+      "hp": {
+        "defaultStat": 65,
+        "incrementByLevel": 2.25
+      },
+      "patternID": "AutoPick",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 2,
+      "abnormalityPartList": [
+        806701
+      ],
+      "attributeList": [
+        {
+          "skillId": 806701,
+          "number": 1
+        },
+        {
+          "skillId": 806702,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8068,
+      "appearance": "8017_Septempeccata_BloodAppearance",
+      "viewid": 8017,
+      "sdPortrait": 8017,
+      "unitKeywordList": [],
+      "level": 10,
+      "classType": "ZAYIN",
+      "attributeType": "SCARLET",
+      "hp": {
+        "defaultStat": 65,
+        "incrementByLevel": 2.7
+      },
+      "patternID": "AutoPick",
+      "abnormalityPartList": [
+        806801
+      ],
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 806801,
+          "number": 1
+        },
+        {
+          "skillId": 806802,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8069,
+      "appearance": "8018_Septempeccata_IronAppearance",
+      "viewid": 8018,
+      "sdPortrait": 8018,
+      "unitKeywordList": [],
+      "level": 10,
+      "classType": "ZAYIN",
+      "attributeType": "INDIGO",
+      "hp": {
+        "defaultStat": 65,
+        "incrementByLevel": 2.25
+      },
+      "patternID": "AutoPick",
+      "abnormalityPartList": [
+        806901
+      ],
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 806901,
+          "number": 1
+        },
+        {
+          "skillId": 806902,
+          "number": 1
+        }
+      ]
     }
   ]
 }

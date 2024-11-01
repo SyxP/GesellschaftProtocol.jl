@@ -151,7 +151,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 0,
+                "turn": -1,
                 "activeRound": 0
               }
             },
@@ -241,7 +241,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 0,
+                "turn": -1,
                 "activeRound": 0
               }
             },
@@ -299,7 +299,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 0,
+                "turn": -1,
                 "activeRound": 0,
                 "value": 0.1
               }
@@ -350,7 +350,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 0,
+                "turn": -1,
                 "activeRound": 0,
                 "value": 0.1
               }
@@ -428,7 +428,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 0,
+                "turn": -1,
                 "activeRound": 0,
                 "value": 0.1
               }
@@ -483,7 +483,7 @@
                 "target": "Self",
                 "buffOwner": "",
                 "stack": 0,
-                "turn": 0,
+                "turn": -1,
                 "activeRound": 0,
                 "value": 0.1
               }

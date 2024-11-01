@@ -297,7 +297,7 @@
                     "target": "EveryAlly",
                     "buffOwner": "",
                     "stack": 0,
-                    "turn": 0,
+                    "turn": -1,
                     "activeRound": 0,
                     "value": 1
                   }

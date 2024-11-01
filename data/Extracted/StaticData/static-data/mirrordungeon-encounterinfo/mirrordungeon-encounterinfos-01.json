@@ -2,6 +2,7 @@
   "list": [
     {
       "dungeonId": 1,
+      "typeIndex": 0,
       "encounters": [
         {
           "encounterType": "BATTLE",
@@ -10,21 +11,10 @@
               "floor": 1,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.95,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
                   "probability": 0.05,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_1"
-                    }
-                  ]
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             },
@@ -32,21 +22,10 @@
               "floor": 2,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.9,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
-                  "probability": 0.1,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_1"
-                    }
-                  ]
+                  "probability": 0.075,
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             },
@@ -54,24 +33,10 @@
               "floor": 3,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.85,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
-                  "probability": 0.15,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_1"
-                    },
-                    {
-                      "tag": "TIER_2"
-                    }
-                  ]
+                  "probability": 0.1,
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             }
@@ -84,24 +49,10 @@
               "floor": 2,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.8,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
-                  "probability": 0.2,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_1"
-                    },
-                    {
-                      "tag": "TIER_2"
-                    }
-                  ]
+                  "probability": 0.15,
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             },
@@ -109,21 +60,10 @@
               "floor": 3,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.75,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
-                  "probability": 0.25,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_2"
-                    }
-                  ]
+                  "probability": 0.2,
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             }
@@ -136,24 +76,10 @@
               "floor": 2,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.5,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
                   "probability": 0.5,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_1"
-                    },
-                    {
-                      "tag": "TIER_2"
-                    }
-                  ]
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             },
@@ -161,24 +87,10 @@
               "floor": 3,
               "rewardList": [
                 {
-                  "type": "LevelupPersonality",
-                  "probability": 0.25,
-                  "showNumber": 0,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
-                  "probability": 0.75,
-                  "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "TIER_2"
-                    },
-                    {
-                      "tag": "TIER_3"
-                    }
-                  ]
+                  "probability": 0.5,
+                  "showNumber": 1,
+                  "selectNumber": 1
                 }
               ]
             }
@@ -191,21 +103,10 @@
               "floor": 1,
               "rewardList": [
                 {
-                  "type": "GetCharacter",
-                  "probability": 1,
-                  "showNumber": 3,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
                   "probability": 1,
                   "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "FLOORBOSS"
-                    }
-                  ]
+                  "selectNumber": 1
                 }
               ]
             },
@@ -213,21 +114,10 @@
               "floor": 2,
               "rewardList": [
                 {
-                  "type": "GetCharacter",
-                  "probability": 1,
-                  "showNumber": 3,
-                  "selectNumber": 1
-                },
-                {
                   "type": "GetEgogift",
                   "probability": 1,
                   "showNumber": 3,
-                  "selectNumber": 1,
-                  "egoGiftTags": [
-                    {
-                      "tag": "FLOORBOSS"
-                    }
-                  ]
+                  "selectNumber": 1
                 }
               ]
             }

@@ -350,6 +350,376 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2040311,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "defaultSkillLevel": 13.0,
+          "skillLevelPerUnitLevel": 0.68,
+          "defaultValue": 16,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Binding3",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 18,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Binding3",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfFasterThanTarget",
+                  "buffData": {
+                    "buffKeyword": "SlashTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040321,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "defaultSkillLevel": 13.0,
+          "skillLevelPerUnitLevel": 0.68,
+          "defaultValue": 24,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Binding3",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "buffOwner": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 26,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Binding3",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "buffOwner": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "2040321_1",
+                  "buffData": {
+                    "buffKeyword": "SlashTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040411,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 2,
+          "mpUsage": 25,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.77,
+          "defaultValue": 18,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "2040411"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.2
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 22,
+          "targetNum": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "2040411_gaksung"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.2
+                  }
+                },
+                {
+                  "scriptName": "2040411_1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040421,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 2,
+          "mpUsage": 25,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.77,
+          "defaultValue": 30,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "2040421"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 14,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 33,
+          "targetNum": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "2040421_gaksung"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 14,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.3
+                  }
+                },
+                {
+                  "scriptName": "2040421_1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

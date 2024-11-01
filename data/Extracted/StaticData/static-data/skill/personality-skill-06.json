@@ -1118,6 +1118,359 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1060501,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 12.0,
+          "skillLevelPerUnitLevel": 0.68,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 5,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Burst",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 5,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 2
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 5
+        }
+      ]
+    },
+    {
+      "id": 1060502,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 12.0,
+          "skillLevelPerUnitLevel": 0.68,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "HealSelfOnSuccessAttackByDmgRatioViaBuffCheck",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.2
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "HealSelfOnSuccessAttackByDmgRatioViaBuffCheck",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.2
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "HealSelfOnSuccessAttackByDmgRatioViaBuffCheck",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.5
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "HealSelfOnSuccessAttackByDmgRatioViaBuffCheck",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 5
+        }
+      ]
+    },
+    {
+      "id": 1060503,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "AMBER",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 12.0,
+          "skillLevelPerUnitLevel": 0.68,
+          "defaultValue": 8,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdder1IfSelfHpRatioNotLessThan80"
+            }
+          ],
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackByDuplicateTurnByStack_KCorpSerum",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuffStack",
+                  "buffData": {
+                    "buffKeyword": "KCorpSerum",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.05
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1060504,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultSkillLevel": 17,
+          "skillLevelPerUnitLevel": 0.86,
+          "defaultValue": 12,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "KCorpSerum",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
     }
   ]
 }

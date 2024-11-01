@@ -1,6 +1,12 @@
 {
   "isCheckingEventStoryCode": true,
   "isCheckingLoadUserData": true,
-  "isCheckingLogFontColor":true,
-  "isLackOfParticipantsPopupAppears":true
+  "isCheckingLogFontColor": true,
+  "isLackOfParticipantsPopupAppears": true,
+  "isAlarmAtExitShop": true,
+  "isAlarmAtExitChangeFormation": true,
+  "isAlarmAtExitChangeFormationLess": true,
+  "moveStartBufMapZoomPC": 1.0,
+  "moveStartBufMapZoomMobile": 0.0017,
+  "isInitBuffMap": true
 }

@@ -601,7 +601,7 @@
                     "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "Target",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -681,7 +681,7 @@
                     "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "Target",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -794,7 +794,7 @@
                     "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "Target",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -874,7 +874,7 @@
                     "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "Target",
-                    "stack": 0,
+                    "stack": -1,
                     "turn": 0,
                     "activeRound": 0
                   }

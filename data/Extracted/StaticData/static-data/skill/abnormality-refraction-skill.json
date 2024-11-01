@@ -304,8 +304,8 @@
                     "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "Target",
-                    "stack": 0,
-                    "turn": 0,
+                    "stack": -1,
+                    "turn": -1,
                     "activeRound": 0
                   }
                 }

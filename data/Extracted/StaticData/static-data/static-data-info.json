@@ -34,6 +34,12 @@
       ]
     },
     {
+      "dataClass": "buff",
+      "fileList": [
+        "mirror-dungeon-floor-buff"
+      ]
+    },
+    {
       "dataClass": "part",
       "fileList": [
         "part"
@@ -79,6 +85,7 @@
       "dataClass": "ego-gift-mirrordungeon",
       "fileList": [
         "ego-gift-mirrordungeon",
+        "ego-gift-mirrordungeon2",
         "hidden-ego-gift-mirrordungeon"
       ]
     },
@@ -100,7 +107,10 @@
         "gacha-114",
         "gacha-115",
         "gacha-116",
-        "gacha-117"
+        "gacha-117",
+        "gacha-118",
+        "gacha-119",
+        "gacha-120"
       ]
     },
     {
@@ -209,7 +219,9 @@
       "dataClass": "battle-mirrordungeon",
       "fileList": [
         "mirrordungeon-battle1-1",
-        "mirrordungeon-abbattle1-1"
+        "mirrordungeon-abbattle1-1",
+        "mirrordungeon-battle2-0",
+        "mirrordungeon-abbattle2-0"
       ]
     },
     {
@@ -294,13 +306,17 @@
     {
       "dataClass": "mirrordungeon",
       "fileList": [
-        "mirrordungeon-01"
+        "mirrordungeon-01",
+        "mirrordungeon-02",
+        "mirrordungeon-02-hard"
       ]
     },
     {
       "dataClass": "mirrordungeon-encounterinfo",
       "fileList": [
-        "mirrordungeon-encounterinfos-01"
+        "mirrordungeon-encounterinfos-01",
+        "mirrordungeon-encounterinfos-02-normal",
+        "mirrordungeon-encounterinfos-02-hard"
       ]
     },
     {
@@ -371,14 +387,19 @@
     {
       "dataClass": "mirrordungeon-egogift-droppool",
       "fileList": [
-        "mirrordungeon-egogift-droppool"
+        "mirrordungeon-egogift-droppool",
+        "mirrordungeon-egogift-droppool-2"
       ]
     },
     {
       "dataClass": "mirrordungeon-generatenodepool",
       "fileList": [
         "mirrordungeon-generatenodepool-1-1",
-        "mirrordungeon-generatenodepool-event-1-1"
+        "mirrordungeon-generatenodepool-event-1-1",
+        "mirrordungeon-generatenodepool-2-0",
+        "mirrordungeon-generatenodepool-event-2-0",
+        "mirrordungeon-generatenodepool-2-1",
+        "mirrordungeon-generatenodepool-event-2-1"
       ]
     },
     {
@@ -692,6 +713,20 @@
       "dataClass": "restrict-participation-dungeon",
       "fileList": [
         "restrict-participation-dungeon-1"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-start-buffs",
+      "fileList": [
+        "mirrordungeon-start-buffs-02"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-acquire-cost-in-battle",
+      "fileList": [
+        "mirrordungeon-acquire-cost-in-battle-1-0",
+        "mirrordungeon-acquire-cost-in-battle-2-0",
+        "mirrordungeon-acquire-cost-in-battle-2-1"
       ]
     }
   ]
