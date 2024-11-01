@@ -1,6 +1,22 @@
 {
   "list": [
     {
+      "eventId": "Walpu4",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_NoonOfViolet",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "Walpu4Reward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ],
+      "isBannerVisible": true
+    },
+    {
       "eventId": "MOWE",
       "mainUIPhaseTypeList": [
         "Lobby",
@@ -13,7 +29,8 @@
       "eventId": "MOWEReward",
       "mainUIPhaseTypeList": [
         "Stage"
-      ]
+      ],
+      "isBannerVisible": true
     },
     {
       "eventId": "RailwayDungeonBanner",

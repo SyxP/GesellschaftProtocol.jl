@@ -494,7 +494,7 @@
           "skillLevelCorrection": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
               "buffData": {
                 "buffKeyword": "Burst",
                 "target": "",
@@ -3350,7 +3350,7 @@
           "skillLevelCorrection": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit2",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit2",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",
@@ -3676,7 +3676,7 @@
           "skillLevelCorrection": 4,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit2",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit2",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",
@@ -4036,7 +4036,7 @@
           "skillLevelCorrection": 5,
           "abilityScriptList": [
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",

@@ -3127,6 +3127,30 @@
       "bottomYPos": -15,
       "portraitSpritePath": "StoryLog_DonQuixote",
       "nameTagColor": "#ffef23"
+    },
+    {
+      "name": "말쿠트",
+      "krname": "말쿠트",
+      "jpname": "マルクト",
+      "enname": "Malkuth",
+      "fileName": "Nodong",
+      "nameTagColor": "#d8d556"
+    },
+    {
+      "name": "네짜흐",
+      "krname": "네짜흐",
+      "jpname": "ネツァク",
+      "enname": "Netzach",
+      "fileName": "Nodong",
+      "nameTagColor": "#69a448"
+    },
+    {
+      "name": "호드",
+      "krname": "호드",
+      "jpname": "ホド",
+      "enname": "Hod",
+      "fileName": "Nodong",
+      "nameTagColor": "#da7f2f"
     }
   ]
 }

@@ -6660,6 +6660,396 @@
           }
         ]
       }
+    },
+    {
+      "id": 97103201,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificKeyword_LOBOTOMY_HEAD",
+            "adder": 5
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 15,
+          "exclusiveValue": 30,
+          "judgementDataList": [
+            {
+              "attributeType": "VIOLET"
+            },
+            {
+              "attributeType": "SCARLET"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9744,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9745,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "LoseHpMpDifferentAmount_20_12"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9744,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9745,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97103301,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificKeyword_LOBOTOMY_HEAD",
+            "adder": 5
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 16,
+          "exclusiveValue": 32,
+          "judgementDataList": [
+            {
+              "attributeType": "SCARLET"
+            },
+            {
+              "attributeType": "AMBER"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9747,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9746,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "StartBattle_Abnormality",
+                      "nextBattleID": 2060040
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9746,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogiftOnWinBattle",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9747,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97103401,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificKeyword_LOBOTOMY_HEAD",
+            "adder": 5
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 14,
+          "exclusiveValue": 28,
+          "judgementDataList": [
+            {
+              "attributeType": "AMBER"
+            },
+            {
+              "attributeType": "AZURE"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9748,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseHpMpDifferentAmount_20_10"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9748,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97103402,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificKeyword_LOBOTOMY_HEAD",
+            "adder": 5
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 14,
+          "exclusiveValue": 28,
+          "judgementDataList": [
+            {
+              "attributeType": "AMBER"
+            },
+            {
+              "attributeType": "AZURE"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "RecoverMpOnly_30"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9749,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseHpOnly_30"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9749,
+                        "num": 1,
+                        "prob": 1
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

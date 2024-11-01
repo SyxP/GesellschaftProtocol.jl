@@ -1803,7 +1803,7 @@
               "scale": 7,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",

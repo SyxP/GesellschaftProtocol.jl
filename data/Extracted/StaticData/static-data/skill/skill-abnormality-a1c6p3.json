@@ -324,7 +324,7 @@
               "scriptName": "EmptyLeftArm"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
               "buffData": {
                 "buffKeyword": "Laceration",
                 "buffOwner": "Target",
@@ -486,7 +486,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit4",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit4",
               "buffData": {
                 "buffKeyword": "Laceration",
                 "buffOwner": "Target",

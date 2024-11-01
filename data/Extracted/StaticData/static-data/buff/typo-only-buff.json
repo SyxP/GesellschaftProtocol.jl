@@ -135,6 +135,13 @@
       "list": [
 
       ]
+    },
+    {
+      "id": "ReloadLament",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": []
     }
   ]
 }

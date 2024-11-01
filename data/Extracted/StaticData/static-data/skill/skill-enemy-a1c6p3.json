@@ -216,7 +216,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",
@@ -344,7 +344,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit3",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit3",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",

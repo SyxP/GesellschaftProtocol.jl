@@ -194,6 +194,36 @@
 					"to": "히스클리프2"
 				}
 			]
+		},
+		{
+			"includeConditions": {
+				"prefix": "E064X"
+			},
+			"changeModel": [
+				{
+					"from": "단테",
+					"to": "단테2"
+				},
+				{
+					"from": "히스클리프",
+					"to": "히스클리프2"
+				}
+			]
+		},
+		{
+			"includeConditions": {
+				"prefix": "E065X"
+			},
+			"changeModel": [
+				{
+					"from": "단테",
+					"to": "단테2"
+				},
+				{
+					"from": "히스클리프",
+					"to": "히스클리프2"
+				}
+			]
 		}
 	]
 }

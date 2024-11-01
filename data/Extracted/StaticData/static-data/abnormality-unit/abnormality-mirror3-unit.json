@@ -1110,10 +1110,6 @@
           "number": 2
         },
         {
-          "skillId": 803904,
-          "number": 2
-        },
-        {
           "skillId": 803905,
           "number": 2
         }
@@ -1617,7 +1613,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 803904,
+                      "skillID": 803901,
                       "chance": 1
                     }
                   ],

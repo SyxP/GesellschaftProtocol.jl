@@ -38091,6 +38091,338 @@
       "stageScriptList": ["Refill_Abnormality"],
       "attackType": "",
       "attributeType": ""
+    },
+
+
+    {
+      "id": 2060040,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0.2,
+        "defaultPosY": 0,
+        "defaultPosZ": 40
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Dog_ControlTeamHallway_Normal_v1",
+            "mapSize": 28
+          },
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 2,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95,
+          "bgmList": [
+            "Battle_LOB_Dawn_Normal"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8369,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95
+        }
+      ],
+      "stageScriptList": [],
+      "lobotomyStageType": 2,
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066501,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0.2,
+        "defaultPosY": 0,
+        "defaultPosZ": 40
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Dog_ControlTeamHallway_Normal_v1",
+            "mapSize": 28
+          },
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 2,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95,
+          "bgmList": [
+            "Battle_LOB_Dawn_Normal"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8369,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95
+        }
+      ],
+      "stageScriptList": [],
+      "lobotomyStageType": 2,
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066502,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0.2,
+        "defaultPosY": 0,
+        "defaultPosZ": 40
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Dog_ControlTeamHallway_Normal_v1",
+            "mapSize": 28
+          },
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 2,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95,
+          "bgmList": [
+            "Battle_LOB_Dawn_Normal"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8369,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95
+        }
+      ],
+      "stageScriptList": [],
+      "lobotomyStageType": 2,
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066511,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 30
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Dog_ControlTeamHallway_Hard_v1",
+            "mapSize": 28
+          },
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 2,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95,
+          "bgmList": [
+            "Battle_LOB_Dawn_Hard"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8367,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8369,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8368,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8369,
+              "unitCount": 2,
+              "unitLevel": 45
+            }
+          ],
+          "enemyPositionID": 95
+        },
+        {
+          "battleMapInfo": {
+            "mapName": "Walpu4_TrainingTeamLobby",
+            "mapSize": 33.32
+          },
+          "enemyPositionID": 96,
+          "unitList": [
+            {
+              "unitID": 8370,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptList": ["8366MD"],
+      "eventScriptName": "8366",
+      "abnormalityEventList": [
+        836601,
+        836602
+      ],
+      "attackType": "",
+      "attributeType": ""
     }
   ]
 }

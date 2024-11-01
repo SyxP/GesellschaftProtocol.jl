@@ -791,6 +791,34 @@
       "requireIDList": [
         "CheckAwakenLevel4"
       ]
+    },
+    {
+      "id": 1011011,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1041011,
+      "attributeStockCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        },
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
     }
   ]
 }

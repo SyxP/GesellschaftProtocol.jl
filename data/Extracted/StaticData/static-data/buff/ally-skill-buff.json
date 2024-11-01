@@ -537,7 +537,7 @@
             "turn": -1,
             "activeRound": 0,
             "value": 3,
-            "limit" : 5
+            "limit": 5
           }
         }
       ]
@@ -629,6 +629,163 @@
             "buffKeyword": "Coffin",
             "limit": 10
           }
+        }
+      ]
+    },
+    {
+      "id": "SinkingWhite",
+      "buffClass": "SinkingWhite",
+      "buffType": "Negative",
+      "maxStack": 15,
+      "maxTurn": 15,
+      "destroyableOnZero": false,
+      "destroyableOnZeroTurn": false,
+      "canBeDespelled": true,
+      "canIgnoreGiveAdder": true,
+      "list": [
+        {
+          "ability": "SinkingWhiteBase"
+        },
+        {
+          "ability": "SinkingWhiteAllInOne",
+          "value": 4,
+          "attribute": "AZURE",
+          "buffData": {
+            "buffKeyword": "Sinking",
+            "stack": 5,
+            "limit": 30
+          }
+        }
+      ],
+      "categoryKeywordList": [ "SINKING" ]
+    },
+    {
+      "id": "RedEyeFirst",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "RedEyeBase"
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 1
+          }
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "RedEyeSecond",
+      "subIdList": [ "RedEyeFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "RedEyeBase"
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 2
+          }
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "RedEyeThird",
+      "subIdList": [ "RedEyeFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "RedEyeBase"
+        },
+        {
+          "ability": "GiveBuffStackAdderIfDefaultSkill",
+          "buffData": {
+            "buffKeyword": "Laceration",
+            "stack": 3
+          }
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "PenanceFirst",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "PenanceBase",
+          "value": 0.01
+        },
+        {
+          "ability": "PenanceMpHeal",
+          "value": 2
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "PenanceSecond",
+      "subIdList": [ "PenanceFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "PenanceBase",
+          "value": 0.01
+        },
+        {
+          "ability": "PenanceMpHeal",
+          "value": 4
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "PenanceThird",
+      "subIdList": [ "PenanceFirst" ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "PenanceBase",
+          "value": 0.01
+        },
+        {
+          "ability": "PenanceMpHeal",
+          "value": 6
+        }
+      ],
+      "categoryKeywordList": [ "CHARGE" ]
+    },
+    {
+      "id": "Emptiness",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Emptiness"
         }
       ]
     }

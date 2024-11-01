@@ -1829,6 +1829,24 @@
           "subchapterId": 9110,
           "type": "SUB",
           "relatedEventId": "MOWE"
+        },
+        {
+          "isUnlockByUnlockCode": true,
+          "unlockCode": 100,
+          "type": "EVENT",
+          "relatedEventId": "Walpu4",
+          "relatedData": {
+            "chapterId": 91,
+            "subchapterId": 9111,
+            "nodeId": 911101
+          },
+          "uiConfig": {
+            "illustId": "story-id_E064X",
+            "customChapterText": 3,
+            "region": "p",
+            "mapAreaId": 9111,
+            "chapterTagIconType": "BATTLE"
+          }
         }
       ]
     },
@@ -2594,6 +2612,31 @@
           "nextSubchapterid": -1,
           "lastnodeid": 911015,
           "relatedMainEventId": "MOWE"
+        },
+        {
+          "id": 9111,
+          "region": "p",
+          "unlockCondition": {
+            "unlockCode": 106
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 911101,
+              "stageId": 10558,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911102,
+              "stageId": 10559,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911103,
+              "stageId": 10558,
+              "stageNodeType": "NORMAL"
+            }
+          ],
+          "relatedMainEventId": "Walpu4"
         }
       ]
     }

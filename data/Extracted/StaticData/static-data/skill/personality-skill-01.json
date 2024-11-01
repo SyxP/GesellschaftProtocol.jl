@@ -4764,6 +4764,512 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011001,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "range": 8.0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderSelfViaTargetSinkingAndWhite_div6_limit1"
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "ParryingPowerResultAdderSelfForBulletLament",
+              "buffData": {
+                "buffKeyword": "BulletLament",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderSelfViaTargetSinkingAndWhite_div6_limit1"
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011002,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "range": 8.0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament5]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderSelfViaTargetSinkingAndWhite_div6_limit1"
+            },
+            {
+              "scriptName": "AddBulletLamentByResonance_basiclimit6_perfectmul2_perfectlimit12"
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament5]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "ParryingPowerResultAdderSelfForBulletLament",
+              "buffData": {
+                "buffKeyword": "BulletLament",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderSelfViaTargetSinkingAndWhite_div6_limit2"
+            },
+            {
+              "scriptName": "AddBulletLamentByResonancePlus_basiclimit6_perfectmul2_perfectlimit12_reloadcondition4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011003,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "range": 8.0,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderSelfForBulletLament",
+              "buffData": {
+                "buffKeyword": "BulletLament",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 2
+              }
+            },            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ReserveReloadBulletLament"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament6]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "ConsumeAllBulletLamentWithoutNecessary[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "DamageMultiplierPerConsumeBulletLament_mul2"
+                },
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 4,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "ESolemnLamentAdditionalAzureDmg100"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderSelfForBulletLament",
+              "buffData": {
+                "buffKeyword": "BulletLament",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 5,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 4
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderSelfViaTargetSinkingAndWhite_div6_limit2"
+            },
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ReserveReloadBulletLament"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget[necessary:BulletLament:::BulletLament6]"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "ConsumeAllBulletLamentWithoutNecessary[necessary:BulletLament:::BulletLament1]"
+                },
+                {
+                  "scriptName": "DamageMultiplierPerConsumeBulletLament_mul4"
+                },
+                {
+                  "scriptName": "GiveSinkingWhitePerConsumedBulletLamentToHitedTarget"
+                },
+                {
+                  "scriptName": "ESolemnLamentBlankSinking"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 4,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "ESolemnLamentAdditionalAzureDmg100"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011004,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 1,
+          "defaultValue": 10,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "TacticalReloadBulletLamentOnBattleStart(limit:1)"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "attributeType": "AZURE",
+          "iconID": "1011004_4",
+          "abilityScriptList": [
+            {
+              "scriptName": "TacticalReloadBulletLamentOnBattleStart(limit:1)"
+            },
+            {
+              "scriptName": "AddShieldOnBattleStartSelfViaTotalButterfly(limit:1)"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

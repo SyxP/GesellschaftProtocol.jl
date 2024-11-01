@@ -31,7 +31,9 @@
             "battle-coin-choice-event-a1c6p2",
             "battle-coin-choice-event-a1c6p3",
             "abnormality-action-choice-event_Refraction4",
-            "abnormality-personality-choice-event-Refraction4"
+            "abnormality-personality-choice-event-Refraction4",
+            "walpu-action-choice-event",
+            "walpu-personality-choice-event"
           ]
         },
         {
@@ -64,7 +66,8 @@
             "abnormality-part-wp3",
             "abnormality-part-tkt",
             "abnormality-shadowenemy-part",
-            "abnormality-refraction4-part"
+            "abnormality-refraction4-part",
+            "abnormality-part-wp4"
           ]
         },
         {
@@ -91,7 +94,8 @@
             "abnormality-unit-wp3",
             "abnormality-unit-tkt",
             "abnormality-shadowenemy-unit",
-            "abnormality-refraction4-unit"
+            "abnormality-refraction4-unit",
+            "abnormality-unit-wp4"
           ]
         },
         {
@@ -137,7 +141,8 @@
             "buff-tkt",
             "buff-mowe",
             "buff-enemy-refraction4",
-            "buff-player-refraction4"
+            "buff-player-refraction4",
+            "buff-enemy-wp4"
           ]
         },
         {
@@ -214,6 +219,7 @@
             "ego-gift-mirrordungeon3",
             "ego-gift-mirrordungeon4",
             "ego-gift-hellschickendungeon",
+            "ego-gift-walpu4",
             "hidden-ego-gift-mirrordungeon",
             "ego-gift-story-ycgd",
             "ego-gift-story-tkt"
@@ -262,7 +268,9 @@
 				"gacha-184",
 				"gacha-185",
 				"gacha-186",
-				"gacha-187"
+				"gacha-187",
+				"gacha-188",
+				"gacha-189"
             ]
         },
         {
@@ -307,7 +315,8 @@
             "passive-enemy-wp3",
             "passive-enemy-tkt",
             "passive-enemy-mowe",
-            "passive-enemy-refraction4"
+            "passive-enemy-refraction4",
+            "passive-enemy-wp4"
           ]
         },
         {
@@ -406,7 +415,8 @@
             "skill-abnormality-tkt",
             "skill-abnormality-mowe",
             "abnormality-refraction4-skill",
-            "skill-enemy-mowe"
+            "skill-enemy-mowe",
+            "skill-abnormality-wp4"
           ]
         },
         {
@@ -430,7 +440,8 @@
             "storybattle-a1c6p3",
             "storybattle-wp3",
             "storybattle-tkt",
-            "storybattle-mowe"
+            "storybattle-mowe",
+            "storybattle-wp4"
           ]
         },
         {
@@ -501,7 +512,8 @@
                 "stagenodereward-a1c6p2",
                 "stagenodereward-a1c6p3",
                 "stagenodereward91-9",
-                "stagenodereward91-10"
+                "stagenodereward91-10",
+                "stagenodereward91-11"
             ]
         },
         {
@@ -680,7 +692,8 @@
               "storytheater-other-9016",
               "storytheater-other-9109",
               "storytheater-other-9017",
-              "storytheater-other-9110"
+              "storytheater-other-9110",
+              "storytheater-other-9018"
             ]
         },
         {
@@ -706,7 +719,8 @@
                 "announcer-event1",
                 "announcer-ycgd",
                 "announcer-a1c6p1",
-                "announcer-wp3"
+                "announcer-wp3",
+                "announcer-wp4"
             ]
         },
         {
@@ -847,7 +861,8 @@
                 "ab-part-status-ui-position-a1c5p1",
                 "ab-part-status-ui-position-a1c5p2",
                 "ab-part-status-ui-position-a1c5p3",
-                "ab-part-status-ui-position-tkt"
+                "ab-part-status-ui-position-tkt",
+                "ab-part-status-ui-position-walpu4"
             ]
         },
         {
@@ -1076,7 +1091,8 @@
             "restrict-participation-a1c5p2",
             "restrict-participation-a1c5p3",
             "restrict-participation-a1c6p2",
-            "restrict-participation-walpu3"
+            "restrict-participation-walpu3",
+            "restrict-participation-walpu4"
           ]
         },
         {
@@ -1104,7 +1120,8 @@
             "dataClass": "event",
             "fileList": [
                 "limbus-1st-gift-240227",
-                "mowe-event"
+                "mowe-event",
+                "walpu4-event-data"
             ]
         },
         {
@@ -1165,22 +1182,19 @@
         {
             "dataClass": "event-mission",
             "fileList": [
-                "event-newyear-2024",
-                "event-walpu3"
+                "event-walpu4"
             ]
         },
         {
             "dataClass": "mission",
             "fileList": [
-                "event-newyear-2024-mission",
-                "event-walpu3-mission"
+                "event-walpu4-mission"
             ]
         },
         {
             "dataClass": "mission-condition",
             "fileList": [
-                "event-newyear-2024-mission-condition",
-                "event-walpu3-mission-condition"
+                "event-walpu4-mission-condition"
             ]
         },
         {
@@ -1231,6 +1245,19 @@
           "fileList": [
             "personality-voice"
           ]
-        }
+        },
+        {
+          "dataClass": "battleqliphoth-ui",
+          "fileList": [
+            "battleqliphoth-walpu4"
+          ]
+        },
+      {
+        "dataClass": "battleordealacttypo-ui",
+        "fileList": [
+          "battleordealacttypo-walpu2",
+          "battleordealacttypo-walpu4"
+        ]
+      }
     ]
 }

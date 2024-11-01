@@ -592,7 +592,7 @@
               "actionIndex": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet1]"
+                  "scriptName": "Empty[necessary:Bullet:1]"
                 }
               ]
             },
@@ -602,7 +602,7 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet1]"
+                  "scriptName": "Empty[necessary:Bullet:1]"
                 }
               ]
             },
@@ -635,7 +635,7 @@
               "actionIndex": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet1]"
+                  "scriptName": "Empty[necessary:Bullet:1]"
                 }
               ]
             },
@@ -645,7 +645,7 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "Empty[necessary:Bullet1]"
+                  "scriptName": "Empty[necessary:Bullet:1]"
                 }
               ]
             },
@@ -706,7 +706,7 @@
               "actionIndex": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -724,7 +724,7 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -742,7 +742,7 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -775,7 +775,7 @@
               "actionIndex": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -793,7 +793,7 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -811,7 +811,7 @@
               "actionIndex": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -875,7 +875,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Vulnerable",
                     "target": "Target",
@@ -893,7 +893,7 @@
               "actionIndex": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet1]",
+                  "scriptName": "GiveBuffOnSucceedAttack[necessary:Bullet:1]",
                   "buffData": {
                     "buffKeyword": "Vulnerable",
                     "target": "Target",
@@ -5008,7 +5008,7 @@
               "scriptName": "GiveMpDmgOnUseSelf15"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit2",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit2",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",
@@ -5145,7 +5145,7 @@
               "scriptName": "GiveMpDmgOnUseSelf15"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit4",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit4",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",
@@ -5311,7 +5311,7 @@
               "scriptName": "GiveMpDmgOnUseSelf15"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit2",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit2",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",
@@ -5451,7 +5451,7 @@
               "scriptName": "GiveMpDmgOnUseSelf15"
             },
             {
-              "scriptName": "SkillPowerAdderViaBuffOnUseCheckDevideByStackWithLimit4",
+              "scriptName": "SkillPowerAdderOnUseViaBuffCheckDevideByStackWithLimit4",
               "buffData": {
                 "buffKeyword": "Sinking",
                 "target": "",

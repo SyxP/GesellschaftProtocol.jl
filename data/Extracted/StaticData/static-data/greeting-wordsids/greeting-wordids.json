@@ -669,6 +669,21 @@
       "id": 150,
       "condition": "GetPersonality",
       "conditionRefId": 10710
+    },
+    {
+      "id": 151,
+      "condition": "GetPersonality",
+      "conditionRefId": 10410
+    },
+    {
+      "id": 152,
+      "condition": "GetPersonality",
+      "conditionRefId": 10110
+    },
+    {
+      "id": 153,
+      "condition": "GetEGO",
+      "conditionRefId": 21207
     }
   ]
 }
