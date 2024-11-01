@@ -4112,7 +4112,7 @@
       "id": 8390,
       "appearance": "8390_RealDon_1pAppearance",
       "associationList": [],
-      "unitKeywordList": [ "REGULAR" ],
+      "unitKeywordList": [ "REGULAR", "BLOODFIEND", "FIRST_DEPENDENT" ],
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "startActionSlotNum": 7,
@@ -4651,6 +4651,7 @@
       ],
       "passiveSet": {
         "passiveIdList": [
+          9017506,
           9017501,
           9017502,
           9017503,
@@ -4665,7 +4666,7 @@
       "id": 8410,
       "appearance": "8410_RealDon_2pAppearance",
       "associationList": [],
-      "unitKeywordList": [ "REGULAR" ],
+      "unitKeywordList": [ "REGULAR" , "BLOODFIEND","FIRST_DEPENDENT"],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
       "startActionSlotNum": 6,
