@@ -204,6 +204,7 @@
     {
       "id": 10303,
       "appearance": "10303_Donquixote_ShiAssoAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "SHI" ],
       "characterId": 3,
       "panicType": 9999,
@@ -302,7 +303,7 @@
     {
       "id": 10304,
       "appearance": "10304_Donquixote_NCorpAppearance",
-      "associationList": [ "N_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 3,
       "panicType": 9999,
       "season": 1,
@@ -410,6 +411,7 @@
     {
       "id": 10305,
       "appearance": "10305_Donquixote_CinqAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "CINQ" ],
       "characterId": 3,
       "panicType": 9999,
@@ -519,6 +521,7 @@
     {
       "id": 10306,
       "appearance": "10306_Donquixote_MiddleFingerAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "MIDDLE_FINGER" ],
       "characterId": 3,
       "panicType": 9999,
@@ -618,6 +621,7 @@
     {
       "id": 10307,
       "appearance": "10307_Donquixote_MeatLanternAppearance",
+      "unitKeywordList": [ "LOBOTOMY_HEAD" ],
       "associationList": [ "L_CORP" ],
       "characterId": 3,
       "panicType": 9999,
@@ -717,6 +721,7 @@
     {
       "id": 10308,
       "appearance": "10308_Donquixote_SwordGroupAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 3,
       "panicType": 9999,

@@ -105,6 +105,7 @@
     {
       "id": 10102,
       "appearance": "10102_YiSang_7Appearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "SEVEN" ],
       "characterId": 1,
       "panicType": 9999,
@@ -203,6 +204,7 @@
     {
       "id": 10103,
       "appearance": "10103_Yisang_SwordGroupAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 1,
       "panicType": 9999,
@@ -401,6 +403,7 @@
     {
       "id": 10105,
       "appearance": "10105_Yisang_RainAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "MOLAR" ],
       "characterId": 1,
       "panicType": 9999,
@@ -698,6 +701,7 @@
     {
       "id": 10108,
       "appearance": "10108_YiSang_DieciAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "DIECI" ],
       "characterId": 1,
       "panicType": 9999,
@@ -807,6 +811,7 @@
     {
       "id": 10109,
       "appearance": "10109_Yisang_RingFingerAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "RING_FINGER" ],
       "characterId": 1,
       "panicType": 9999,

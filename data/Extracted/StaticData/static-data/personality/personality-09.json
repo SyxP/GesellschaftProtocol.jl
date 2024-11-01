@@ -105,6 +105,7 @@
     {
       "id": 10902,
       "appearance": "10902_Rodion_BlackCloudAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLACK_CLOUD" ],
       "characterId": 9,
       "panicType": 9999,
@@ -303,7 +304,7 @@
     {
       "id": 10904,
       "appearance": "10904_Rodion_NCorpAppearance",
-      "associationList": [ "N_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 9,
       "panicType": 9999,
       "season": 1,
@@ -402,7 +403,8 @@
     {
       "id": 10905,
       "appearance": "10905_Rodion_EliteFixerAppearance",
-      "associationList": [ "ROSE" ],
+      "unitKeywordList": [ "FIXER" ],
+      "associationList": [ "TROUBLE_SHOOTER" ],
       "characterId": 9,
       "panicType": 9999,
       "season": 2,
@@ -501,6 +503,7 @@
     {
       "id": 10906,
       "appearance": "10906_Rodion_ZweiAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "ZWEI" ],
       "characterId": 9,
       "panicType": 9999,
@@ -599,6 +602,7 @@
     {
       "id": 10907,
       "appearance": "10907_Rodion_DieciAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "DIECI" ],
       "characterId": 9,
       "panicType": 9999,
@@ -707,6 +711,7 @@
     {
       "id": 10908,
       "appearance": "10908_Rodion_LiuAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "LIU" ],
       "characterId": 9,
       "panicType": 9999,

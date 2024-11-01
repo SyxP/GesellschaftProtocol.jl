@@ -64,7 +64,7 @@
           "E511A"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910703,
@@ -127,7 +127,7 @@
           "E512B"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910704,
@@ -190,7 +190,7 @@
           "E512A"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910705,
@@ -258,7 +258,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910706,
@@ -340,7 +340,7 @@
           "E513A"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910707,
@@ -424,7 +424,7 @@
           "E514B"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910708,
@@ -498,7 +498,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910709,
@@ -572,7 +572,7 @@
           "E515A"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910710,
@@ -664,7 +664,7 @@
           "E516A"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     },
     {
       "id": 910711,
@@ -710,7 +710,7 @@
           "E517B"
         ]
       },
-      "stageScriptNameAfterClear": "FilterBase"
+      "stageScriptList": ["FilterBase"]
     }
   ]
 }

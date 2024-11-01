@@ -61,15 +61,25 @@
 					"groupType": "EVENT",
 					"contents": [
 						{
-							"type": "EGO",
-							"id": 20206,
+							"type": "PERSONALITY",
+							"id": 10609,
+							"price": 400
+						},
+						{
+							"type": "PERSONALITY",
+							"id": 10210,
 							"price": 400
 						},
 
 
 						{
-							"type": "PERSONALITY",
-							"id": 10609,
+							"type": "EGO",
+							"id": 20206,
+							"price": 400
+						},
+						{
+							"type": "EGO",
+							"id": 21107,
 							"price": 400
 						}
 					]

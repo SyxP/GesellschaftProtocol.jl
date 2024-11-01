@@ -72,7 +72,7 @@
           "S504B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10505,
@@ -146,7 +146,7 @@
           "S505A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10506,
@@ -225,7 +225,7 @@
           "S506B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10507,
@@ -304,7 +304,7 @@
           "S507B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10508,
@@ -388,7 +388,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10509,
@@ -477,7 +477,7 @@
           "S509A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10510,
@@ -585,7 +585,7 @@
           "S510A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10511,
@@ -664,7 +664,7 @@
           "S511B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10512,
@@ -738,7 +738,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10516,
@@ -817,7 +817,7 @@
           "S516B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10517,
@@ -906,7 +906,7 @@
           "S517A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c5p1_4"
+      "stageScriptList": ["a1c5p1_4"]
     },
     {
       "id": 10518,
@@ -976,7 +976,7 @@
           "S518A"
         ]
       },
-      "stageScriptNameAfterClear": "LimbusBoat_518"
+      "stageScriptList": ["LimbusBoat_518"]
     },
     {
       "id": 10519,
@@ -1072,7 +1072,7 @@
           "S519A"
         ]
       },
-      "stageScriptNameAfterClear": "LimbusBoat_519"
+      "stageScriptList": ["LimbusBoat_519"]
     }
   ]
 }

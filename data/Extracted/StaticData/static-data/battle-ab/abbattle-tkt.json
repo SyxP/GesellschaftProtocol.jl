@@ -43,7 +43,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910920,
@@ -88,7 +88,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910921,
@@ -133,7 +133,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910922,
@@ -178,7 +178,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910923,
@@ -223,7 +223,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910924,
@@ -268,7 +268,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910925,
@@ -313,7 +313,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910926,
@@ -353,7 +353,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910927,
@@ -393,7 +393,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910928,
@@ -438,7 +438,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910929,
@@ -483,7 +483,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910930,
@@ -523,7 +523,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910931,
@@ -563,7 +563,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910932,
@@ -608,7 +608,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910933,
@@ -648,7 +648,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910934,
@@ -688,7 +688,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "EnemyRun_Abnormality_AddForceFilter_NonMapFilter"
+      "stageScriptList": ["EnemyRun_Abnormality_AddForceFilter_NonMapFilter"]
     },
     {
       "id": 910935,
@@ -765,7 +765,7 @@
         ]
       },
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "8278"
+      "stageScriptList": ["8278"]
     }
   ]
 }

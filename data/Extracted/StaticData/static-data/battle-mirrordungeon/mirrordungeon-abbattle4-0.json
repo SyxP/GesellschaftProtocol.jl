@@ -46,7 +46,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -100,7 +100,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -154,7 +154,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8137",
+      "stageScriptList": ["8137"],
       "eventScriptName": "8101",
       "abnormalityEventList": [
         810101
@@ -208,7 +208,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8137",
+      "stageScriptList": ["8137"],
       "eventScriptName": "8101",
       "abnormalityEventList": [
         810101
@@ -267,7 +267,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8199",
+      "stageScriptList": ["8199"],
       "eventScriptName": "8585",
       "abnormalityEventList": [
         858501,
@@ -337,7 +337,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8199",
+      "stageScriptList": ["8199"],
       "eventScriptName": "8585",
       "abnormalityEventList": [
         858501,
@@ -417,7 +417,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -486,7 +486,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -547,7 +547,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "Statue",
       "abnormalityEventList": [
         852701
@@ -608,7 +608,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "Statue",
       "abnormalityEventList": [
         852701
@@ -655,7 +655,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8249",
+      "stageScriptList": ["8249"],
       "attackType": "",
       "attributeType": ""
     },
@@ -698,7 +698,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8249",
+      "stageScriptList": ["8249"],
       "attackType": "",
       "attributeType": ""
     },
@@ -741,7 +741,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -788,7 +788,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -847,7 +847,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "UmbrellaFox_Mirror",
+      "stageScriptList": ["UmbrellaFox_Mirror"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -906,7 +906,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "UmbrellaFox_Mirror",
+      "stageScriptList": ["UmbrellaFox_Mirror"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -959,7 +959,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8578",
       "abnormalityEventList": [
         857801
@@ -1012,7 +1012,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8578",
       "abnormalityEventList": [
         857801
@@ -1065,7 +1065,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -1118,7 +1118,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -1172,7 +1172,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -1226,7 +1226,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -1273,7 +1273,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -1320,7 +1320,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -1403,7 +1403,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8556",
+      "stageScriptList": ["8556"],
       "eventScriptName": "8556",
       "abnormalityEventList": [
         855601,
@@ -1487,7 +1487,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8556",
+      "stageScriptList": ["8556"],
       "eventScriptName": "8556",
       "abnormalityEventList": [
         855601,
@@ -1535,7 +1535,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -1582,7 +1582,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -1630,7 +1630,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8555",
       "abnormalityEventList": [
         855501
@@ -1678,7 +1678,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8555",
       "abnormalityEventList": [
         855501
@@ -1732,7 +1732,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8197",
+      "stageScriptList": ["8197"],
       "eventScriptName": "8577",
       "abnormalityEventList": [
         857701
@@ -1786,7 +1786,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8197",
+      "stageScriptList": ["8197"],
       "eventScriptName": "8577",
       "abnormalityEventList": [
         857701
@@ -1833,7 +1833,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -1880,7 +1880,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -1934,7 +1934,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059",
       "abnormalityEventList": [
         805901
@@ -1988,7 +1988,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059",
       "abnormalityEventList": [
         805901
@@ -2049,7 +2049,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -2110,7 +2110,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -3047,7 +3047,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "SnowWhite",
+      "stageScriptList": ["SnowWhite"],
       "eventScriptName": "SnowWhite",
       "abnormalityEventList": [
         800101,
@@ -3117,7 +3117,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AztecDisk",
+      "stageScriptList": ["AztecDisk"],
       "eventScriptName": "AztecDisk",
       "abnormalityEventList": [
         800201,
@@ -3169,7 +3169,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "MuckwormedApple",
+      "stageScriptList": ["MuckwormedApple"],
       "abnormalityEventList": [
         800801
       ],
@@ -4124,7 +4124,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "ReinforcedHuman_Mirror",
+      "stageScriptList": ["ReinforcedHuman_Mirror"],
       "eventScriptName": "ReinforcedHuman_Mirror",
       "abnormalityEventList": [
         801201,
@@ -4183,7 +4183,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "PinkShoe",
+      "stageScriptList": ["PinkShoe"],
       "eventScriptName": "PinkShoe_Mirror",
       "abnormalityEventList": [
         801501,
@@ -4593,7 +4593,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BabaYaga_Mirror",
+      "stageScriptList": ["BabaYaga_Mirror"],
       "attackType": "",
       "attributeType": ""
     },
@@ -6018,7 +6018,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Cromer_Mirror",
+      "stageScriptList": ["Cromer_Mirror"],
       "eventScriptName": "Cromer",
       "abnormalityEventList": [
         802901,
@@ -6946,7 +6946,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -7005,7 +7005,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -7066,7 +7066,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8142",
+      "stageScriptList": ["8142"],
       "attackType": "",
       "attributeType": ""
     },
@@ -7556,7 +7556,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -7603,7 +7603,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -7650,7 +7650,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -8150,7 +8150,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8144",
+      "stageScriptList": ["8144"],
       "attackType": "",
       "attributeType": ""
     },
@@ -8210,7 +8210,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8182",
+      "stageScriptList": ["8182"],
       "attackType": "",
       "attributeType": ""
     },
@@ -9120,7 +9120,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8137",
+      "stageScriptList": ["8137"],
       "eventScriptName": "8101",
       "abnormalityEventList": [
         810101
@@ -9173,7 +9173,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -9234,7 +9234,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -9721,7 +9721,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8190",
+      "stageScriptList": ["8190"],
       "attackType": "",
       "attributeType": ""
     },
@@ -9764,7 +9764,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8191",
+      "stageScriptList": ["8191"],
       "attackType": "",
       "attributeType": ""
     },
@@ -9813,7 +9813,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2061632,
@@ -9865,7 +9865,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2061633,
@@ -9912,7 +9912,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2061634,
@@ -9954,7 +9954,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2061635,
@@ -9996,7 +9996,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2061644,
@@ -10011,7 +10011,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -10102,7 +10102,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality"
+      "stageScriptList": ["FilterAddForce3_Abnormality"]
     },
     {
       "id": 2061717,
@@ -10117,7 +10117,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -10209,7 +10209,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality"
+      "stageScriptList": ["FilterAddForce3_Abnormality"]
     },
     {
       "id": 2061719,
@@ -10224,7 +10224,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -10301,7 +10301,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality"
+      "stageScriptList": ["FilterAddForce3_Abnormality"]
     },
     {
       "id": 2061721,
@@ -10316,7 +10316,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -10408,7 +10408,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality"
+      "stageScriptList": ["FilterAddForce3_Abnormality"]
     },
     {
       "id": 2061723,
@@ -10423,7 +10423,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -10505,7 +10505,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality"
+      "stageScriptList": ["FilterAddForce3_Abnormality"]
     },
     {
       "id": 2061725,
@@ -10520,7 +10520,7 @@
         "defaultPosY": 0,
         "defaultPosZ": 20
       },
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "waveList": [
         {
           "battleMapInfo": {
@@ -10602,7 +10602,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterAddForce3_Abnormality",
+      "stageScriptList": ["FilterAddForce3_Abnormality"],
       "eventScriptName": "8171",
       "abnormalityEventList": [
         817101
@@ -11136,7 +11136,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -11671,7 +11671,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "attackType": "",
       "attributeType": ""
     },
@@ -12725,7 +12725,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "attackType": "",
       "attributeType": ""
     },
@@ -13248,7 +13248,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -13294,7 +13294,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "attackType": "",
       "attributeType": ""
     },
@@ -13824,7 +13824,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8197",
+      "stageScriptList": ["8197"],
       "eventScriptName": "8577",
       "abnormalityEventList": [
         857701
@@ -13878,7 +13878,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059_Mirror",
       "abnormalityEventList": [
         805901
@@ -13925,7 +13925,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -14454,7 +14454,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "attackType": "",
       "attributeType": ""
     },
@@ -14503,7 +14503,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8578",
       "abnormalityEventList": [
         857801
@@ -14550,7 +14550,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "LightningBeast_Mirror",
+      "stageScriptList": ["LightningBeast_Mirror"],
       "eventScriptName": "LightningBeast_Mirror",
       "abnormalityEventList": [
         803201
@@ -15119,7 +15119,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "attackType": "",
       "attributeType": ""
     },
@@ -15174,7 +15174,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -15228,7 +15228,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -15762,7 +15762,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -15805,7 +15805,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -15848,7 +15848,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -16338,7 +16338,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -16386,7 +16386,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8555",
       "abnormalityEventList": [
         855501
@@ -16966,7 +16966,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -17015,7 +17015,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -17062,7 +17062,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -17638,7 +17638,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -17687,7 +17687,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -17734,7 +17734,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -18253,7 +18253,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -18307,7 +18307,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8137",
+      "stageScriptList": ["8137"],
       "eventScriptName": "8101",
       "abnormalityEventList": [
         810101
@@ -18396,7 +18396,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8113",
+      "stageScriptList": ["8113"],
       "attackType": "",
       "attributeType": ""
     },
@@ -18903,7 +18903,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "PinkShoe",
+      "stageScriptList": ["PinkShoe"],
       "eventScriptName": "PinkShoe_Mirror",
       "abnormalityEventList": [
         801501,
@@ -18951,7 +18951,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -19005,7 +19005,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059_Mirror",
       "abnormalityEventList": [
         805901
@@ -19516,7 +19516,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "PinkShoe",
+      "stageScriptList": ["PinkShoe"],
       "eventScriptName": "PinkShoe_Mirror",
       "abnormalityEventList": [
         801501,
@@ -19564,7 +19564,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -19618,7 +19618,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059_Mirror",
       "abnormalityEventList": [
         805901
@@ -20157,7 +20157,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -20678,7 +20678,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -20737,7 +20737,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -21264,7 +21264,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8142",
+      "stageScriptList": ["8142"],
       "attackType": "",
       "attributeType": ""
     },
@@ -21321,7 +21321,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -21380,7 +21380,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -21857,7 +21857,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "WaterFish_Mirror",
+      "stageScriptList": ["WaterFish_Mirror"],
       "eventScriptName": "WaterFish_Mirror",
       "abnormalityEventList": [
         803101
@@ -21905,7 +21905,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8555",
       "abnormalityEventList": [
         855501
@@ -21952,7 +21952,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "MuckwormedApple",
+      "stageScriptList": ["MuckwormedApple"],
       "abnormalityEventList": [
         800801
       ],
@@ -22460,7 +22460,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8137",
+      "stageScriptList": ["8137"],
       "eventScriptName": "8101",
       "abnormalityEventList": [
         810101
@@ -22507,7 +22507,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -22561,7 +22561,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -23060,7 +23060,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8137",
+      "stageScriptList": ["8137"],
       "eventScriptName": "8101",
       "abnormalityEventList": [
         810101
@@ -23107,7 +23107,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -23159,7 +23159,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8578",
       "abnormalityEventList": [
         857801
@@ -23683,7 +23683,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059_Mirror",
       "abnormalityEventList": [
         805901
@@ -23752,7 +23752,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -24234,7 +24234,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -24281,7 +24281,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "WaterFish_Mirror",
+      "stageScriptList": ["WaterFish_Mirror"],
       "eventScriptName": "WaterFish_Mirror",
       "abnormalityEventList": [
         803101
@@ -24763,7 +24763,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -24810,7 +24810,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "WaterFish_Mirror",
+      "stageScriptList": ["WaterFish_Mirror"],
       "eventScriptName": "WaterFish_Mirror",
       "abnormalityEventList": [
         803101
@@ -25354,7 +25354,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8197",
+      "stageScriptList": ["8197"],
       "eventScriptName": "8577",
       "abnormalityEventList": [
         857701
@@ -25408,7 +25408,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -25468,7 +25468,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -25979,7 +25979,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "ReinforcedHuman_Mirror",
+      "stageScriptList": ["ReinforcedHuman_Mirror"],
       "eventScriptName": "ReinforcedHuman_Mirror",
       "abnormalityEventList": [
         801201,
@@ -26493,7 +26493,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "ReinforcedHuman_Mirror",
+      "stageScriptList": ["ReinforcedHuman_Mirror"],
       "eventScriptName": "ReinforcedHuman_Mirror",
       "abnormalityEventList": [
         801201,
@@ -26543,7 +26543,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8191",
+      "stageScriptList": ["8191"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27038,7 +27038,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -27091,7 +27091,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8578",
       "abnormalityEventList": [
         857801
@@ -27138,7 +27138,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -27184,7 +27184,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27226,7 +27226,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27273,7 +27273,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27320,7 +27320,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27367,7 +27367,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27393,7 +27393,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_6"
+            "Battle_Cp5_Enemy_2"
           ]
         }
       ],
@@ -27409,7 +27409,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27451,7 +27451,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27498,7 +27498,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27545,7 +27545,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27592,7 +27592,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27657,7 +27657,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -27711,7 +27711,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -27758,7 +27758,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -27804,7 +27804,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27846,7 +27846,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27893,7 +27893,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27940,7 +27940,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -27987,7 +27987,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -28013,7 +28013,7 @@
           ],
           "bgmList": [
             "Battle_Cp5_Ally_3",
-            "Battle_Cp5_Enemy_6"
+            "Battle_Cp5_Enemy_2"
           ]
         }
       ],
@@ -28029,7 +28029,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -28071,7 +28071,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -28118,7 +28118,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -28165,7 +28165,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -28212,7 +28212,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "mirror9009601_Abnormality",
+      "stageScriptList": ["mirror9009601_Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -28277,7 +28277,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -28331,7 +28331,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -28378,7 +28378,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -28905,7 +28905,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -29439,7 +29439,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -29488,7 +29488,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -29542,7 +29542,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8197",
+      "stageScriptList": ["8197"],
       "eventScriptName": "8577",
       "abnormalityEventList": [
         857701
@@ -30029,7 +30029,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -30078,7 +30078,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8100Base",
+      "stageScriptList": ["8100Base"],
       "eventScriptName": "8141",
       "abnormalityEventList": [
         810001
@@ -30132,7 +30132,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8197",
+      "stageScriptList": ["8197"],
       "eventScriptName": "8577",
       "abnormalityEventList": [
         857701
@@ -30180,7 +30180,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065122,
@@ -30479,7 +30479,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065129,
@@ -30607,7 +30607,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "WaterFish_Mirror",
+      "stageScriptList": ["WaterFish_Mirror"],
       "eventScriptName": "WaterFish_Mirror",
       "abnormalityEventList": [
         803101
@@ -30661,7 +30661,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8059_Mirror",
       "abnormalityEventList": [
         805901
@@ -30714,7 +30714,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8578",
       "abnormalityEventList": [
         857801
@@ -31187,7 +31187,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Cromer_Mirror",
+      "stageScriptList": ["Cromer_Mirror"],
       "eventScriptName": "Cromer",
       "abnormalityEventList": [
         802901,
@@ -31252,7 +31252,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8182",
+      "stageScriptList": ["8182"],
       "attackType": "",
       "attributeType": ""
     },
@@ -31307,7 +31307,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8199",
+      "stageScriptList": ["8199"],
       "eventScriptName": "8585",
       "abnormalityEventList": [
         858501,
@@ -31832,7 +31832,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -31916,7 +31916,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -32426,7 +32426,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "GentleFairy_Mirror",
       "abnormalityEventList": [
         804801
@@ -32510,7 +32510,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Eunbong_Strong",
+      "stageScriptList": ["Eunbong_Strong"],
       "attackType": "",
       "attributeType": ""
     },
@@ -32993,7 +32993,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "NobodyGonnaCry",
       "abnormalityEventList": [
         804701
@@ -33040,7 +33040,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "LightningBeast_Mirror",
+      "stageScriptList": ["LightningBeast_Mirror"],
       "eventScriptName": "LightningBeast_Mirror",
       "abnormalityEventList": [
         803201
@@ -33087,7 +33087,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8549",
+      "stageScriptList": ["8549"],
       "eventScriptName": "8549",
       "abnormalityEventList": [
         854901
@@ -33589,7 +33589,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8142",
+      "stageScriptList": ["8142"],
       "attackType": "",
       "attributeType": ""
     },
@@ -33654,7 +33654,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -33743,7 +33743,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Abnormality",
+      "stageScriptList": ["Abnormality"],
       "attackType": "",
       "attributeType": ""
     },
@@ -33792,7 +33792,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065722,
@@ -33834,7 +33834,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065723,
@@ -33881,7 +33881,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065724,
@@ -33923,7 +33923,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": [""]
     },
     {
       "id": 2065725,
@@ -33965,7 +33965,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": [""]
     },
     {
       "id": 2065726,
@@ -34012,7 +34012,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065727,
@@ -34054,7 +34054,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065728,
@@ -34101,7 +34101,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": ["FilterAddForce2_Abnormality"]
     },
     {
       "id": 2065729,
@@ -34143,7 +34143,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": [""]
     },
     {
       "id": 2065730,
@@ -34185,7 +34185,7 @@
       "rewardList": [],
       "attackType": "",
       "attributeType": "",
-      "stageScriptNameAfterClear": "FilterAddForce2_Abnormality"
+      "stageScriptList": [""]
     },
     {
       "id": 2065742,
@@ -34238,7 +34238,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -34285,7 +34285,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "CryingToad",
       "abnormalityEventList": [
         851001
@@ -34776,7 +34776,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -34835,7 +34835,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "UmbrellaFox_Mirror",
       "abnormalityEventList": [
         804601
@@ -34882,7 +34882,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "BrassBull_Second",
+      "stageScriptList": ["BrassBull_Second"],
       "attackType": "",
       "attributeType": ""
     },
@@ -35351,7 +35351,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "8555",
       "abnormalityEventList": [
         855501
@@ -35440,7 +35440,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8113",
+      "stageScriptList": ["8113"],
       "attackType": "",
       "attributeType": ""
     },
@@ -35922,7 +35922,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8139",
+      "stageScriptList": ["8139"],
       "eventScriptName": "8102",
       "abnormalityEventList": [
         810201
@@ -35968,7 +35968,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "attackType": "",
       "attributeType": ""
     },
@@ -36021,7 +36021,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8190",
+      "stageScriptList": ["8190"],
       "attackType": "",
       "attributeType": ""
     },
@@ -36551,7 +36551,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -36598,7 +36598,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -37132,7 +37132,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "KQE",
       "abnormalityEventList": [
         851901
@@ -37179,7 +37179,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "AbnormalityEvent",
+      "stageScriptList": ["AbnormalityEvent"],
       "eventScriptName": "ElectricCentipede",
       "abnormalityEventList": [
         804501
@@ -37248,7 +37248,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8119",
+      "stageScriptList": ["8119"],
       "eventScriptName": "8550",
       "abnormalityEventList": [
         855001
@@ -37293,7 +37293,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "stageScriptList": ["FilterAddForce_Abnormality_NonMapFilter"],
       "attackType": "",
       "attributeType": ""
     },
@@ -37334,7 +37334,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "stageScriptList": ["FilterAddForce_Abnormality_NonMapFilter"],
       "attackType": "",
       "attributeType": ""
     },
@@ -37375,7 +37375,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "stageScriptList": ["FilterAddForce_Abnormality_NonMapFilter"],
       "attackType": "",
       "attributeType": ""
     },
@@ -37421,7 +37421,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "stageScriptList": ["FilterAddForce_Abnormality_NonMapFilter"],
       "attackType": "",
       "attributeType": ""
     },
@@ -37467,7 +37467,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "stageScriptList": ["FilterAddForce_Abnormality_NonMapFilter"],
       "attackType": "",
       "attributeType": ""
     },
@@ -37523,7 +37523,572 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "8278MD",
+      "stageScriptList": ["8278MD"],
+      "attackType": "",
+      "attributeType": ""
+    },
+
+
+    {
+      "id": 2066421,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_v2"
+          },
+          "unitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": "",
+      "stageScriptList": ["Refill_Abnormality"]
+    },
+    {
+      "id": 2066422,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_v2"
+          },
+          "unitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": "",
+      "stageScriptList": ["Refill_Abnormality"]
+    },
+    {
+      "id": 2066423,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_v2"
+          },
+          "unitList": [
+            {
+              "unitID": 8353,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": "",
+      "stageScriptList": ["Refill_Abnormality"]
+    },
+    {
+      "id": 2066424,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_v2"
+          },
+          "unitList": [
+            {
+              "unitID": 8353,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": "",
+      "stageScriptList": ["Refill_Abnormality"]
+    },
+    {
+      "id": 2066425,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_v2"
+          },
+          "unitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp1_Ally_2",
+            "Battle_Cp1_Enemy_2"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8353,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8354,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8351,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": "",
+      "stageScriptList": ["Refill_Abnormality"]
+    },
+    {
+      "id": 2066431,
+      "isBatonPassOn": true,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_Boss"
+          },
+          "unitList": [
+            {
+              "unitID": 8359,
+              "unitCount": 5,
+              "unitLevel": 40
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8358,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8356,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8356,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8359,
+              "unitCount": 1,
+              "unitLevel": 45
+            },
+            {
+              "unitID": 8357,
+              "unitCount": 1,
+              "unitLevel": 45
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_MOWE_Boss"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 8355,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "enemyPositionID": 13
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "attackType": "",
+      "attributeType": "",
+      "stageScriptList": ["8350"]
+    },
+    {
+      "id": 2060039,
+      "stageLevel": 40,
+      "isBatonPassOn": true,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-2_WarpTrain_v2"
+          },
+          "unitList": [
+            {
+              "unitID": 8360,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8361,
+              "unitCount": 3,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8362,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_MOWE_Enemy"
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8360,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8361,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8362,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8362,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8361,
+              "unitCount": 1,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8361,
+              "unitCount": 1,
+              "unitLevel": 40
+            }
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptList": ["Refill_Abnormality"],
       "attackType": "",
       "attributeType": ""
     }

@@ -73,7 +73,7 @@
           "S622B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Abnormality_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
     },
     {
       "id": 10623,
@@ -148,7 +148,7 @@
           "S623A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Abnormality_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
     },
     {
       "id": 10624,
@@ -228,7 +228,7 @@
           "S624B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Abnormality_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
     },
     {
       "id": 10625,
@@ -295,7 +295,7 @@
           "S625B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
     },
     {
       "id": 10626,
@@ -358,7 +358,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Abnormality_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
     },
     {
       "id": 10627,
@@ -427,7 +427,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
     },
     {
       "id": 10628,
@@ -501,7 +501,7 @@
           "S628B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
     },
     {
       "id": 10629,
@@ -564,7 +564,7 @@
           "S629A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Abnormality_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
     },
     {
       "id": 10630,
@@ -638,7 +638,7 @@
           "S630B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
     },
     {
       "id": 10631,
@@ -717,7 +717,7 @@
           "S631A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Normal_Filter"]
     },
     {
       "id": 10632,
@@ -779,7 +779,7 @@
           }
         ]
       },
-      "stageScriptNameAfterClear": "8165"
+      "stageScriptList": ["8165"]
     },
     {
       "id": 10633,
@@ -841,7 +841,7 @@
           "S633B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p2_Buff_Abnormality_Filter"
+      "stageScriptList": ["a1c6p2_Buff_Abnormality_Filter"]
     },
     {
       "id": 10634,
@@ -902,7 +902,7 @@
           "S634A"
         ]
       },
-      "stageScriptNameAfterClear": "8164",
+      "stageScriptList": ["8164"],
       "eventScriptName": "8164",
       "abnormalityEventList": [
         816401

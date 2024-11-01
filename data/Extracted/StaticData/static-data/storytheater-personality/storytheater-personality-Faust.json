@@ -134,6 +134,19 @@
             ],
               "profileId": "wuthering_faust_profile",
               "analysisId": "wuthering_faust_analysis"
+            },
+            {
+              "personalityId": 10210,
+              "releaseDay": 20240808,
+              "cv_Id": "",
+              "personalityStoryList": [
+              {
+                "storyId": "P10210",
+                "lockCondition": "gacksung",
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
             }
         ]
     }

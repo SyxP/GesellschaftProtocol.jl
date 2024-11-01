@@ -383,7 +383,7 @@
           "skillLevelCorrection": 0,
           "defaultValue": 7,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "skillMotion": "Default",
           "viewType": "BATTLE",
@@ -818,7 +818,7 @@
           "skillLevelCorrection": 2,
           "defaultValue": 9,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "abilityScriptList": [
             {
@@ -891,7 +891,7 @@
           "skillLevelCorrection": 2,
           "defaultValue": 7,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "abilityScriptList": [
             {
@@ -1685,7 +1685,7 @@
           "skillLevelCorrection": 3,
           "defaultValue": 7,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "skillMotion": "S1",
           "viewType": "BATTLE",
@@ -3725,7 +3725,7 @@
           "skillLevelCorrection": 2,
           "defaultValue": 9,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "skillMotion": "S4",
           "viewType": "BATTLE",

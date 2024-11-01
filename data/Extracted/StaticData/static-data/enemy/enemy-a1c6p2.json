@@ -403,6 +403,7 @@
       "id": 90131,
       "sdPortrait": 90128,
       "appearance": "90131_Oufi_1_v1Appearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "RING_FINGER" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -548,6 +549,7 @@
       "id": 90132,
       "sdPortrait": 90129,
       "appearance": "90132_Oufi_2_v1Appearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "RING_FINGER" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -693,6 +695,7 @@
       "id": 90133,
       "sdPortrait": 90130,
       "appearance": "90133_Oufi_Elite_v1Appearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "RING_FINGER" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -1093,7 +1096,7 @@
       "id": 90134,
       "appearance": "90116_DeadRabbits_1Appearance",
       "associationList": [ "DEAD_RABBITS" ],
-      "unitKeywordList": [ "GLASS_ENEMY" ],
+      "unitKeywordList": [ "CLAN", "GLASS_ENEMY" ],
       "nameID": 90116,
       "sdPortrait": 90116,
       "level": 2,
@@ -1239,7 +1242,7 @@
       "id": 90135,
       "appearance": "90117_DeadRabbits_2Appearance",
       "associationList": [ "DEAD_RABBITS" ],
-      "unitKeywordList": [ "GLASS_ENEMY" ],
+      "unitKeywordList": [ "CLAN", "GLASS_ENEMY" ],
       "nameID": 90117,
       "sdPortrait": 90117,
       "level": 2,
@@ -1384,6 +1387,7 @@
     {
       "id": 91015,
       "appearance": "91015_HindleyAppearance",
+      "associationList": [ "WUTHERING_HEIGHTS" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"

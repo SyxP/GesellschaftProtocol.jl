@@ -104,6 +104,7 @@
     {
       "id": 10502,
       "appearance": "10502_Meursault_LiuAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "LIU" ],
       "characterId": 5,
       "panicType": 9999,
@@ -301,7 +302,7 @@
     {
       "id": 10504,
       "appearance": "10504_Meursault_NCorpGuidoAppearance",
-      "associationList": [ "N_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "characterId": 5,
       "panicType": 9999,
       "season": 1,
@@ -398,7 +399,8 @@
     {
       "id": 10505,
       "appearance": "10505_Meursault_HammerFixerAppearance",
-      "associationList": [ "ROSE" ],
+      "unitKeywordList": [ "FIXER" ],
+      "associationList": [ "TROUBLE_SHOOTER" ],
       "characterId": 5,
       "panicType": 9999,
       "season": 2,
@@ -593,6 +595,7 @@
     {
       "id": 10507,
       "appearance": "10507_Meursault_MiddleFingerAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "MIDDLE_FINGER" ],
       "characterId": 5,
       "panicType": 9999,
@@ -691,6 +694,7 @@
     {
       "id": 10508,
       "appearance": "10508_Meursault_KimSatGatAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "characterId": 5,
       "panicType": 9999,
@@ -794,6 +798,7 @@
     {
       "id": 10509,
       "appearance": "10509_Meursault_DeadrabbitsAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DEAD_RABBITS" ],
       "characterId": 5,
       "panicType": 9999,
@@ -892,6 +897,7 @@
     {
       "id": 10510,
       "appearance": "10510_Meursault_DieciAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "DIECI" ],
       "characterId": 5,
       "panicType": 9999,

@@ -1395,6 +1395,7 @@
       "appearance": "90140_Euro_Mob_1Appearance",
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [
         "YURODIVY"
       ],
@@ -1477,6 +1478,7 @@
       "appearance": "90141_Euro_Mob_2Appearance",
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [
         "YURODIVY"
       ],
@@ -1559,6 +1561,7 @@
       "appearance": "91017_Yuro_EliteAppearance",
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [
         "YURODIVY"
       ],

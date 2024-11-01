@@ -62,7 +62,7 @@
           "S602B"
         ]
       },
-      "stageScriptNameAfterClear": "FilterAddForce"
+      "stageScriptList": ["FilterAddForce"]
     },
     {
       "id": 10603,
@@ -129,7 +129,7 @@
           "S603A"
         ]
       },
-      "stageScriptNameAfterClear": "FilterAddForce"
+      "stageScriptList": ["FilterAddForce"]
     },
     {
       "id": 10609,
@@ -197,7 +197,7 @@
           "S609A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_EnemyRun_Normal_Filter"
+      "stageScriptList": ["a1c6p1_EnemyRun_Normal_Filter"]
     },
     {
       "id": 10614,
@@ -262,7 +262,7 @@
           "S614B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_EnemyRun_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
     },
     {
       "id": 10615,
@@ -341,7 +341,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c6p1_Buff_EnemyRun_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
     },
     {
       "id": 10616,
@@ -406,7 +406,7 @@
           "S616B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
     },
     {
       "id": 10617,
@@ -471,7 +471,7 @@
           "S617B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
     },
     {
       "id": 10618,
@@ -536,7 +536,7 @@
           "S618B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
     },
     {
       "id": 10619,
@@ -613,7 +613,7 @@
           "S619A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_EnemyRun_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
     },
     {
       "id": 10620,
@@ -678,7 +678,7 @@
           "S620B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_Normal_Filter"]
     },
     {
       "id": 10621,
@@ -790,7 +790,7 @@
           "S621A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p1_Buff_EnemyRun_Normal_Filter"
+      "stageScriptList": ["a1c6p1_Buff_EnemyRun_Normal_Filter"]
     }
   ]
 }

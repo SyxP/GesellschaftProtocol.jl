@@ -62,7 +62,7 @@
                     "S522B"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10523,
@@ -126,7 +126,7 @@
                     "S523A"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10525,
@@ -205,7 +205,7 @@
                     "S525B"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10526,
@@ -284,7 +284,7 @@
                     "S526A"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10527,
@@ -358,7 +358,7 @@
                     "S527B"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10529,
@@ -484,7 +484,7 @@
                     "S529A"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10530,
@@ -604,7 +604,7 @@
                     "S530B"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p2_4"
+            "stageScriptList": ["a1c5p2_4"]
         },
         {
             "id": 10532,
@@ -713,7 +713,7 @@
                     "S532A"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p2_4_2",
+            "stageScriptList": ["a1c5p2_4_2"],
             "includeBoss": 1
         },
         {
@@ -783,7 +783,7 @@
                     "S535B"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         },
         {
             "id": 10537,
@@ -857,7 +857,7 @@
                     "S537A"
                 ]
             },
-            "stageScriptNameAfterClear": "a1c5p1_4"
+            "stageScriptList": ["a1c5p1_4"]
         }
     ]
 }

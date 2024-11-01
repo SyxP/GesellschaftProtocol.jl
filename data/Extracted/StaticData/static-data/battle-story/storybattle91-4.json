@@ -524,7 +524,7 @@
           "E407A"
         ]
       },
-      "stageScriptNameAfterClear": "Dongbaek_UmbrellaFox"
+      "stageScriptList": ["Dongbaek_UmbrellaFox"]
     },
     {
       "id": 910412,
@@ -657,7 +657,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Dongbaek_UmbrellaFox"
+      "stageScriptList": ["Dongbaek_UmbrellaFox"]
     }
   ]
 }

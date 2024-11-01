@@ -5,7 +5,7 @@
             "nameID": 90004,
             "sdPortrait": 90004,
             "appearance": "90004_backstreet_slashmobAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -135,7 +135,7 @@
             "nameID": 90005,
             "sdPortrait": 90005,
             "appearance": "90005_backstreet_piercemobAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -265,7 +265,7 @@
             "nameID": 90006,
             "sdPortrait": 90006,
             "appearance": "90006_backstreet_hitmobAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 1,
             "slotWeightConditionList": [
                 "Default1"
@@ -394,7 +394,7 @@
             "nameID": 90007,
             "sdPortrait": 90007,
             "appearance": "90007_backstreet_bossAppearance",
-            "unitKeywordList": [],
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -531,6 +531,7 @@
             "nameID": 90008,
             "sdPortrait": 90008,
             "appearance": "90008_GCorp_Homeless_BaldAppearance",
+            "unitKeywordList": [ "BACK_STREET" ],
             "associationList": [
                 "G_CORP"
             ],
@@ -662,9 +663,7 @@
             "nameID": 90009,
             "sdPortrait": 90009,
             "appearance": "90009_GCorp_Homeless_BobAppearance",
-            "associationList": [
-                "G_CORP"
-            ],
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -793,9 +792,7 @@
             "nameID": 90010,
             "sdPortrait": 90010,
             "appearance": "90010_GCorp_Homeless_ShortcutAppearance",
-            "associationList": [
-                "G_CORP"
-            ],
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -1492,6 +1489,7 @@
             "nameID": 90114,
             "sdPortrait": 90114,
             "appearance": "90114_TCrop_Gang_1Appearance",
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -1634,6 +1632,7 @@
             "nameID": 90115,
             "sdPortrait": 90115,
             "appearance": "90115_TCrop_Gang_2Appearance",
+            "unitKeywordList": [ "BACK_STREET" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -1780,7 +1779,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -1930,7 +1929,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2080,7 +2079,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2232,7 +2231,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY"
             ],
             "level": 2,
             "slotWeightConditionList": [
@@ -2384,6 +2383,7 @@
                 "LINTON"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -2535,6 +2535,7 @@
                 "LINTON"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -2686,6 +2687,7 @@
                 "LINTON"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -2842,6 +2844,7 @@
                 "LINTON"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -2992,6 +2995,7 @@
                 "LINTON"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -3142,6 +3146,7 @@
                 "LINTON"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -3297,6 +3302,7 @@
                 "WUTHERING_HEIGHTS"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -3449,6 +3455,7 @@
                 "WUTHERING_HEIGHTS"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -3601,6 +3608,7 @@
                 "WUTHERING_HEIGHTS"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER"
             ],
             "level": 2,
@@ -4411,6 +4419,9 @@
             "nameID": 90131,
             "sdPortrait": 90128,
             "appearance": "90131_Oufi_1_v1Appearance",
+            "unitKeywordList": [
+                "CLAN"
+            ],
             "associationList": [
                 "RING_FINGER"
             ],
@@ -4559,6 +4570,9 @@
             "nameID": 90132,
             "sdPortrait": 90129,
             "appearance": "90132_Oufi_2_v1Appearance",
+            "unitKeywordList": [
+                "CLAN"
+            ],
             "associationList": [
                 "RING_FINGER"
             ],
@@ -4707,6 +4721,9 @@
             "nameID": 90133,
             "sdPortrait": 90130,
             "appearance": "90134_Oufi_Elite_v2Appearance",
+            "unitKeywordList": [
+                "CLAN"
+            ],
             "associationList": [
                 "RING_FINGER"
             ],
@@ -5112,7 +5129,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY"
             ],
             "nameID": 90116,
             "sdPortrait": 90116,
@@ -5262,7 +5279,7 @@
                 "DEAD_RABBITS"
             ],
             "unitKeywordList": [
-                "GLASS_ENEMY"
+                "CLAN", "GLASS_ENEMY"
             ],
             "nameID": 90117,
             "sdPortrait": 90117,
@@ -5410,6 +5427,7 @@
             "nameID": 91015,
             "sdPortrait": 91015,
             "appearance": "91015_HindleyAppearance",
+            "associationList": [ "WUTHERING_HEIGHTS" ],
             "level": 2,
             "slotWeightConditionList": [
                 "Default1"
@@ -5812,9 +5830,11 @@
             "sdPortrait": 8167,
             "appearance": "90136_JosephineWHAppearance",
             "associationList": [
-                "WUTHERING_HEIGHTS"
+                "WUTHERING_HEIGHTS",
+                "WILD_HUNT"
             ],
             "unitKeywordList": [
+                "FIXER", 
                 "BUTLER",
                 "GLASS_ENEMY"
             ],
@@ -6223,6 +6243,10 @@
             "nameID": 8168,
             "sdPortrait": 8169,
             "appearance": "90137_HindleyWHAppearance",
+            "associationList": [
+                "WUTHERING_HEIGHTS",
+                "WILD_HUNT"
+            ],
             "unitKeywordList": [
                 "GLASS_ENEMY"
             ],
@@ -6627,6 +6651,9 @@
             "nameID": 8169,
             "sdPortrait": 8168,
             "appearance": "90138_LintonWHAppearance",
+            "associationList": [
+                "LINTON", "WILD_HUNT"
+            ],
             "unitKeywordList": [
                 "GLASS_ENEMY"
             ],
@@ -7192,6 +7219,9 @@
             "sdPortrait": 90140,
             "nameID": 90140,
             "appearance": "90140_Euro_Mob_1Appearance",
+            "unitKeywordList": [
+              "CLAN"
+            ],
             "associationList": [
               "YURODIVY"
             ],
@@ -7339,6 +7369,9 @@
             "sdPortrait": 90141,
             "nameID": 90141,
             "appearance": "90141_Euro_Mob_2Appearance",
+            "unitKeywordList": [
+              "CLAN"
+            ],
             "associationList": [
               "YURODIVY"
             ],
@@ -7486,6 +7519,9 @@
             "sdPortrait": 91017,
             "nameID": 91017,
             "appearance": "91017_Yuro_EliteAppearance",
+            "unitKeywordList": [
+              "CLAN"
+            ],
             "associationList": [
               "YURODIVY"
             ],

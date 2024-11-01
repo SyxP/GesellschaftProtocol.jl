@@ -1,7 +1,7 @@
 {
   "list": [
     {
-      "nodeid": 910901,
+      "nodeid": 911001,
       "acquireExp": 0,
       "acquireTotalExpForPersonality": 0,
       "normalClearRewards": [],
@@ -14,20 +14,7 @@
       ]
     },
     {
-      "nodeid": 910902,
-      "acquireExp": 20,
-      "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [],
-      "exClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 2,
-          "num": 40
-        }
-      ]
-    },
-    {
-      "nodeid": 910903,
+      "nodeid": 911002,
       "acquireExp": 0,
       "acquireTotalExpForPersonality": 0,
       "normalClearRewards": [],
@@ -40,7 +27,7 @@
       ]
     },
     {
-      "nodeid": 910904,
+      "nodeid": 911003,
       "acquireExp": 0,
       "acquireTotalExpForPersonality": 0,
       "normalClearRewards": [],
@@ -53,7 +40,20 @@
       ]
     },
     {
-      "nodeid": 910905,
+      "nodeid": 911004,
+      "acquireExp": 20,
+      "acquireTotalExpForPersonality": 600,
+      "normalClearRewards": [],
+      "exClearRewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 40
+        }
+      ]
+    },
+    {
+      "nodeid": 911005,
       "acquireExp": 0,
       "acquireTotalExpForPersonality": 0,
       "normalClearRewards": [],
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "nodeid": 910906,
+      "nodeid": 911006,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
       "normalClearRewards": [],
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "nodeid": 910907,
+      "nodeid": 911007,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
       "normalClearRewards": [],
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "nodeid": 910908,
+      "nodeid": 911008,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
       "normalClearRewards": [],
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "nodeid": 910909,
+      "nodeid": 911009,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
       "normalClearRewards": [],
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "nodeid": 910910,
+      "nodeid": 911010,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
       "normalClearRewards": [
@@ -132,46 +132,7 @@
       ]
     },
     {
-      "nodeid": 910911,
-      "acquireExp": 0,
-      "acquireTotalExpForPersonality": 0,
-      "normalClearRewards": [],
-      "exClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 2,
-          "num": 40
-        }
-      ]
-    },
-    {
-      "nodeid": 910912,
-      "acquireExp": 0,
-      "acquireTotalExpForPersonality": 0,
-      "normalClearRewards": [],
-      "exClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 2,
-          "num": 40
-        }
-      ]
-    },
-    {
-      "nodeid": 910913,
-      "acquireExp": 0,
-      "acquireTotalExpForPersonality": 0,
-      "normalClearRewards": [],
-      "exClearRewards": [
-        {
-          "type": "ITEM",
-          "id": 2,
-          "num": 40
-        }
-      ]
-    },
-    {
-      "nodeid": 910914,
+      "nodeid": 911011,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
       "normalClearRewards": [],
@@ -184,13 +145,53 @@
       ]
     },
     {
-      "nodeid": 910915,
-      "acquireExp": 40,
-      "acquireTotalExpForPersonality": 1200,
+      "nodeid": 911012,
+      "acquireExp": 20,
+      "acquireTotalExpForPersonality": 600,
+      "normalClearRewards": [],
+      "exClearRewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 40
+        }
+      ]
+    },
+    {
+      "nodeid": 911013,
+      "acquireExp": 20,
+      "acquireTotalExpForPersonality": 600,
+      "normalClearRewards": [],
+      "exClearRewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 40
+        }
+      ],
+      "exclearConditionTurnCount": 15
+    },
+    {
+      "nodeid": 911014,
+      "acquireExp": 0,
+      "acquireTotalExpForPersonality": 0,
+      "normalClearRewards": [],
+      "exClearRewards": [
+        {
+          "type": "ITEM",
+          "id": 2,
+          "num": 40
+        }
+      ]
+    },
+    {
+      "nodeid": 911015,
+      "acquireExp": 0,
+      "acquireTotalExpForPersonality": 0,
       "normalClearRewards": [
         {
           "type": "UNLOCK_CODE",
-          "id": 9109
+          "id": 9110
         }
       ],
       "exClearRewards": [

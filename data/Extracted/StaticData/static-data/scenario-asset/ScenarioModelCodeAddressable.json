@@ -3033,6 +3033,100 @@
       "name": "질투죄종",
       "krname": "질투죄종오티스",
       "fileName": "Jsin_Outis"
+    },
+    {
+      "name": "열차아이",
+      "krname": "호기심 많은 아이",
+      "fileName": "Trainkid",
+      "portraitSpritePath": "StoryLog_Trainkid",
+      "scale": 0.85,
+      "bottomYPos": 280
+    },
+    {
+      "name": "카세티",
+      "krname": "카세티",
+      "fileName": "Cassetti",
+      "portraitSpritePath": "StoryLog_Cassetti",
+      "nameTagColor": "#1c1616",
+      "nameFontColor": "#cc2424",
+      "scale": 0.9,
+      "bottomYPos": 80
+    },
+    {
+      "name": "카세티혈귀",
+      "krname": "카세티",
+      "fileName": "CassettiBF",
+      "portraitSpritePath": "StoryLog_CassettiBF",
+      "nameTagColor": "#1c1616",
+      "nameFontColor": "#cc2424",
+      "scale": 0.95
+    },
+    {
+      "name": "북부창",
+      "krname": "북부 해결사",
+      "fileName": "NorthernFixer2",
+      "portraitSpritePath": "StoryLog_NorthernFixer2",
+      "nameTagColor": "#dbc9ab",
+      "nameFontColor": "#e9415c"
+    },
+    {
+      "name": "북부대검",
+      "krname": "북부 해결사",
+      "fileName": "NorthernFixer1",
+      "portraitSpritePath": "StoryLog_NorthernFixer1",
+      "nameTagColor": "#dbc9ab",
+      "nameFontColor": "#e9415c"
+      
+    },
+    {
+      "name": "북부대검혈귀",
+      "krname": "북부 해결사",
+      "fileName": "NorthernFixerB",
+      "nameTagColor": "#1c1616",
+      "nameFontColor": "#cc2424",
+      "portraitSpritePath": "StoryLog_NorthernFixerB"
+    },
+    {
+      "name": "W사정리요원",
+      "krname": "정리 요원",
+      "fileName": "WCleanup1",
+      "nameTagColor": "#265682",
+      "nameFontColor": "#3f99eb",
+      "portraitSpritePath": "StoryLog_WCleanup1"
+    },
+    {
+      "name": "W사정리요원2",
+      "krname": "정리 요원",
+      "fileName": "WCleanup2",
+      "nameTagColor": "#265682",
+      "nameFontColor": "#3f99eb",
+      "portraitSpritePath": "StoryLog_WCleanup2"
+    },
+    {
+      "name": "실루엣돈키호테",
+      "krname": "돈키호테",
+      "jpname": "ドンキホーテ",
+      "enname": "Don Quixote",
+      "fileName": "SilhouetteDonQuixote2",
+      "staringSide": "middle",
+      "bottomYPos": -15,
+      "portraitSpritePath": "StoryLog_SilhouetteDonQuixote2",
+      "nameTagColor": "#1c1616",
+      "nameFontColor": "#cc2424"
+    },
+    {
+      "name": "돈키호테다침",
+      "krname": "돈키호테",
+      "jpname": "ドンキホーテ",
+      "enname": "Don Quixote",
+      "fileName": "DonQuixote_Hurt",
+      "nickName": "3번 수감자",
+      "jpNickName": "囚人3番",
+      "enNickName": "Sinner #3",
+      "staringSide": "middle",
+      "bottomYPos": -15,
+      "portraitSpritePath": "StoryLog_DonQuixote",
+      "nameTagColor": "#ffef23"
     }
   ]
 }

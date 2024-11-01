@@ -8335,7 +8335,8 @@
       "sdPortrait": 91006,
       "appearance": "91006_NCorpAppearance",
       "associationList": [
-        "TIEQIU"
+        "N_CORP",
+        "N_CORP_FNATIC"
       ],
       "level": 30,
       "classType": "ZAYIN",
@@ -8379,6 +8380,7 @@
       "nameID": 91004,
       "sdPortrait": 91004,
       "appearance": "91004_EyedAppearance",
+      "unitKeywordList": [ "CLAN", "BACK_STREET" ],
       "associationList": [
         "MARIACHI"
       ],
@@ -8420,7 +8422,7 @@
       "nameID": 91002,
       "sdPortrait": 91002,
       "appearance": "91002_GCorp_Infested_BossAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "G_CORP" ],
       "level": 30,
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
@@ -16061,7 +16063,7 @@
       "viewid": 8044,
       "storyID": 8044,
       "appearance": "8044_Camellia_AwakenAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "ATL" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -16506,7 +16508,7 @@
       "originID": 8044,
       "storyID": 8044,
       "appearance": "8044_Camellia_AwakenAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "ATL" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -16922,7 +16924,7 @@
       "viewid": 8050,
       "storyID": 8050,
       "appearance": "8050_DongLang_AwakenAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "K_CORP" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",

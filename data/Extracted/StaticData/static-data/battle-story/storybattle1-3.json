@@ -154,7 +154,7 @@
           "S304A"
         ]
       },
-      "stageScriptNameAfterClear": "KCorpEntrance"
+      "stageScriptList": ["KCorpEntrance"]
     },
     {
       "id": 10305,
@@ -227,7 +227,7 @@
       "rewardList": [
 
       ],
-      "stageScriptNameAfterClear": "KCorpEntrance"
+      "stageScriptList": ["KCorpEntrance"]
     },
     {
       "id": 10306,
@@ -315,7 +315,7 @@
           "S306A"
         ]
       },
-      "stageScriptNameAfterClear": "KCorpEntrance"
+      "stageScriptList": ["KCorpEntrance"]
     },
     {
       "id": 10310,
@@ -942,7 +942,7 @@
           "S317B"
         ]
       },
-      "stageScriptNameAfterClear": "Whistle_3"
+      "stageScriptList": ["Whistle_3"]
     },
     {
       "id": 10318,
@@ -1054,7 +1054,7 @@
           "S318A"
         ]
       },
-      "stageScriptNameAfterClear": "Whistle_3"
+      "stageScriptList": ["Whistle_3"]
     },
     {
       "id": 10319,

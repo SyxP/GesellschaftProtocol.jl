@@ -1745,6 +1745,42 @@
                 "rootX": -0.11991482973098755,
                 "rootY": 0.19837786257266999
             }
+        },
+        {
+            "id": 10709,
+            "root1Data": {
+                "panningDirection": "DOWN",
+                "rootX": 0.2477688193321228,
+                "rootY": -0.15990477800369264
+            },
+            "root2Data": {
+                "panningDirection": "UP",
+                "rootX": -0.21861954033374787,
+                "rootY": -0.2924184501171112
+            },
+            "root3Data": {
+                "panningDirection": "RIGHT",
+                "rootX": -0.011659708805382252,
+                "rootY": 0.09179718792438507
+            }
+        },
+        {
+            "id": 10210,
+            "root1Data": {
+                "panningDirection": "LEFT",
+                "rootX": 0.28524646162986758,
+                "rootY": -0.2531825602054596
+            },
+            "root2Data": {
+                "panningDirection": "UP",
+                "rootX": -0.2111240178346634,
+                "rootY": -0.2605855464935303
+            },
+            "root3Data": {
+                "panningDirection": "RIGHT",
+                "rootX": -0.1386672556400299,
+                "rootY": 0.1562032699584961
+            }
         }
     ],
     "standardScreen": [
@@ -3492,6 +3528,42 @@
                 "panningDirection": "LEFT",
                 "rootX": -0.1366666704416275,
                 "rootY": 0.22933360934257508
+            }
+        },
+        {
+            "id": 10709,
+            "root1Data": {
+                "panningDirection": "DOWN",
+                "rootX": 0.2939999997615814,
+                "rootY": -0.13037052750587464
+            },
+            "root2Data": {
+                "panningDirection": "UP",
+                "rootX": -0.21861954033374787,
+                "rootY": -0.13392609357833863
+            },
+            "root3Data": {
+                "panningDirection": "RIGHT",
+                "rootX": -0.011659708805382252,
+                "rootY": 0.1333335041999817
+            }
+        },
+        {
+            "id": 10210,
+            "root1Data": {
+                "panningDirection": "LEFT",
+                "rootX": 0.28524646162986758,
+                "rootY": -0.2186669409275055
+            },
+            "root2Data": {
+                "panningDirection": "UP",
+                "rootX": -0.2199999988079071,
+                "rootY": -0.2605855464935303
+            },
+            "root3Data": {
+                "panningDirection": "RIGHT",
+                "rootX": -0.12166666984558106,
+                "rootY": 0.1890372633934021
             }
         }
     ]

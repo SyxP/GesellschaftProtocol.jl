@@ -2690,6 +2690,7 @@
       "originID": 8153,
       "sdPortrait": 8153,
       "appearance": "8153_KimSatGat_ErodeAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -3100,6 +3101,7 @@
       "sdPortrait": 8153,
       "storyID": 8154,
       "appearance": "8153_KimSatGat_ErodeAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [
         "BLADE_LINEAGE"
       ],

@@ -273,7 +273,7 @@
           "skillLevelCorrection": 3,
           "defaultValue": 7,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "skillMotion": "Default",
           "viewType": "BATTLE",
@@ -750,7 +750,7 @@
           "skillLevelCorrection": 2,
           "defaultValue": 9,
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "abilityScriptList": [
             {

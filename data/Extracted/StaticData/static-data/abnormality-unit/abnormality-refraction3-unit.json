@@ -4740,6 +4740,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90084,
       "appearance": "90084_DoubleHook_Mob_AAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "abnormalityPartList": [
         859001
@@ -4812,6 +4813,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90085,
       "appearance": "90085_DoubleHook_Mob_BAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "abnormalityPartList": [
         859101
@@ -4884,6 +4886,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90086,
       "appearance": "90086_DoubleHook_Elite_AAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "abnormalityPartList": [
         859201
@@ -4961,6 +4964,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90087,
       "appearance": "90087_DoubleHook_Elite_BAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "abnormalityPartList": [
         859301
@@ -5038,6 +5042,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 91012,
       "appearance": "91012_DoubleHook_SmeeAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "abnormalityPartList": [
         859401
@@ -5341,6 +5346,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90092,
       "appearance": "90093_LCCB_Infested_BAppearance",
+      "associationList": [ "LIMBUS_COMPANY" ],
       "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         859501
@@ -5416,6 +5422,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90093,
       "appearance": "90092_LCCB_Infested_AAppearance",
+      "associationList": [ "LIMBUS_COMPANY" ],
       "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         859601
@@ -5487,7 +5494,8 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90094,
       "appearance": "90094_DoubleHook_Infested_AAppearance",
-      "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
+      "associationList": [ "DUAL_HOOK_PIRATE" ],
+      "unitKeywordList": [ "CLAN", "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         859701
       ],
@@ -5561,7 +5569,8 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90095,
       "appearance": "90095_DoubleHook_Infested_BAppearance",
-      "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
+      "associationList": [ "DUAL_HOOK_PIRATE" ],
+      "unitKeywordList": [ "CLAN", "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         859801
       ],
@@ -5635,7 +5644,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90089,
       "appearance": "90089_Fishman_Infested_AAppearance",
-      "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
+      "unitKeywordList": [ "MERMAID", "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         859901
       ],
@@ -5678,7 +5687,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90090,
       "appearance": "90090_Fishman_Infested_BAppearance",
-      "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
+      "unitKeywordList": [ "MERMAID", "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         860001
       ],
@@ -5721,7 +5730,7 @@
       "isOriginNormalEnemy": true,
       "sdPortrait": 90091,
       "appearance": "90091_Fishman_Infested_CAppearance",
-      "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
+      "unitKeywordList": [ "MERMAID", "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         860101
       ],
@@ -5923,7 +5932,7 @@
       "appearance": "90100_Fishman_Infested_BAppearance",
       "isOriginNormalEnemy": true,
       "sdPortrait": 90090,
-      "unitKeywordList": [ "WHITE_PARASITE", "ON_THE_LAKE" ],
+      "unitKeywordList": [ "MERMAID", "WHITE_PARASITE", "ON_THE_LAKE" ],
       "abnormalityPartList": [
         860201
       ],

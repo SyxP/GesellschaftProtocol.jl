@@ -521,6 +521,28 @@
       "list": [
         {}
       ]
+    },
+    {
+      "id": "PhotoElectricity",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 3,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "PhotoElectricity",
+          "value": 1,
+          "buffData": {
+            "buffKeyword": "Charge",
+            "target": "Target",
+            "stack": 0,
+            "turn": -1,
+            "activeRound": 0,
+            "value": 3,
+            "limit" : 5
+          }
+        }
+      ]
     }
   ]
 }

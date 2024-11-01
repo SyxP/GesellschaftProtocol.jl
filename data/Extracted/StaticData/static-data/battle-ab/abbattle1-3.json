@@ -793,7 +793,7 @@
         
       ],
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "10329"
+      "stageScriptList": ["10329"]
     },
     {
       "id": 10332,
@@ -1272,7 +1272,7 @@
         ]
       },
       "dangerLevel": 1,
-      "stageScriptNameAfterClear": "Cromer",
+      "stageScriptList": ["Cromer"],
       "eventScriptName": "Cromer",
       "abnormalityEventList": [
         803001

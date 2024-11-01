@@ -58,7 +58,7 @@
           "S402B"
         ]
       },
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10403,
@@ -115,7 +115,7 @@
           "S403A"
         ]
       },
-      "stageScriptNameAfterClear": "BrassBull_First"
+      "stageScriptList": ["BrassBull_First"]
     },
     {
       "id": 10404,
@@ -175,7 +175,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10405,
@@ -235,7 +235,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10406,
@@ -283,7 +283,7 @@
           "S406A"
         ]
       },
-      "stageScriptNameAfterClear": "BrassBull_Second"
+      "stageScriptList": ["BrassBull_Second"]
     },
     {
       "id": 10410,
@@ -348,7 +348,7 @@
           "S410B"
         ]
       },
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10411,
@@ -408,7 +408,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10412,
@@ -478,7 +478,7 @@
           "S412B"
         ]
       },
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10413,
@@ -543,7 +543,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10414,
@@ -622,7 +622,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10416,
@@ -685,7 +685,7 @@
           "S416A"
         ]
       },
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10417,
@@ -750,7 +750,7 @@
           "S417A"
         ]
       },
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10418,
@@ -815,7 +815,7 @@
           "S418B"
         ]
       },
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10419,
@@ -894,7 +894,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10420,
@@ -973,7 +973,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10421,
@@ -1043,7 +1043,7 @@
           "S421B"
         ]
       },
-      "stageScriptNameAfterClear": "Troubleshooter"
+      "stageScriptList": ["Troubleshooter"]
     },
     {
       "id": 10422,
@@ -1113,7 +1113,7 @@
           "S422B"
         ]
       },
-      "stageScriptNameAfterClear": "Troubleshooter"
+      "stageScriptList": ["Troubleshooter"]
     },
     {
       "id": 10423,
@@ -1178,7 +1178,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Troubleshooter"
+      "stageScriptList": ["Troubleshooter"]
     },
     {
       "id": 10424,
@@ -1263,7 +1263,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "Robot"
+      "stageScriptList": ["Robot"]
     },
     {
       "id": 10425,
@@ -1417,7 +1417,7 @@
           "S430B"
         ]
       },
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10431,
@@ -1487,7 +1487,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10432,
@@ -1547,7 +1547,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10433,
@@ -1949,7 +1949,7 @@
           "S438B"
         ]
       },
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10439,
@@ -2014,7 +2014,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10440,
@@ -2079,7 +2079,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10441,
@@ -2149,7 +2149,7 @@
           "S441B"
         ]
       },
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10442,
@@ -2223,7 +2223,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10443,
@@ -2371,7 +2371,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10445,
@@ -2505,7 +2505,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "KCorpDrone"
+      "stageScriptList": ["KCorpDrone"]
     },
     {
       "id": 10447,
@@ -2560,7 +2560,7 @@
           "S447B"
         ]
       },
-      "stageScriptNameAfterClear": "Dongbaek_UmbrellaFox"
+      "stageScriptList": ["Dongbaek_UmbrellaFox"]
     },
     {
       "id": 10448,
@@ -2624,7 +2624,7 @@
           "S448A"
         ]
       },
-      "stageScriptNameAfterClear": "EgoAwaken_Dongbaek",
+      "stageScriptList": ["EgoAwaken_Dongbaek"],
       "includeBoss": 1
     },
     {

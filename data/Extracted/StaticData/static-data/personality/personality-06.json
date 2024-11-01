@@ -105,6 +105,7 @@
     {
       "id": 10602,
       "appearance": "10602_Honglu_BlackCloudAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLACK_CLOUD" ],
       "characterId": 6,
       "panicType": 9999,
@@ -204,6 +205,7 @@
     {
       "id": 10603,
       "appearance": "10603_Honglu_ConconAppearance",
+      "unitKeywordList": [ "CLAN", "BACK_STREET" ],
       "associationList": [ "KONG_KONG" ],
       "characterId": 6,
       "panicType": 9999,
@@ -303,6 +305,7 @@
     {
       "id": 10604,
       "appearance": "10604_Honglu_LiuAssoAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "LIU" ],
       "characterId": 6,
       "panicType": 9999,
@@ -596,6 +599,7 @@
     {
       "id": 10607,
       "appearance": "10607_Honglu_TaeinAppearance",
+      "unitKeywordList": [ "FIXER", "BACK_STREET" ],
       "associationList": [ "HOOK_OFFICE" ],
       "characterId": 6,
       "panicType": 9999,
@@ -696,6 +700,7 @@
     {
       "id": 10608,
       "appearance": "10608_Honglu_Dieci_Appearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "DIECI" ],
       "characterId": 6,
       "panicType": 9999,
@@ -805,6 +810,7 @@
     {
       "id": 10609,
       "appearance": "10609_Honglu_YurodivyAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "YURODIVY" ],
       "characterId": 6,
       "panicType": 9999,

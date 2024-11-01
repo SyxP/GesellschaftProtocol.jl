@@ -666,7 +666,7 @@
           "enemyPositionID": 13
         }
       ],
-      "stageScriptNameAfterClear": "8113",
+      "stageScriptList": ["8113"],
       "staminaCost": 20,
       "recommendedLevel": 40,
       "turnLimit": 99,

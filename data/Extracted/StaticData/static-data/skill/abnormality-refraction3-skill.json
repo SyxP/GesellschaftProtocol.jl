@@ -1774,7 +1774,7 @@
           "iconID": 810612,
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "AMBER",
           "atkType": "PENETRATE",

@@ -37,7 +37,7 @@
           ]
         }
       ],
-      "stageScriptNameAfterClear": "8263",
+      "stageScriptList": ["8263"],
       "staminaType": "ENKEPHALIN_MODULE",
       "staminaCost": 1,
       "recommendedLevel": 45,
@@ -107,7 +107,7 @@
           ]
         }
       ],
-      "stageScriptNameAfterClear": "8265",
+      "stageScriptList": ["8265"],
       "staminaType": "ENKEPHALIN_MODULE",
       "staminaCost": 1,
       "recommendedLevel": 45,
@@ -164,7 +164,7 @@
           ]
         }
       ],
-      "stageScriptNameAfterClear": "8263",
+      "stageScriptList": ["8263"],
       "staminaCost": 0,
       "recommendedLevel": 45,
       "turnLimit": 99,

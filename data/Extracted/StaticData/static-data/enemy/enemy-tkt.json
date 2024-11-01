@@ -3,6 +3,9 @@
     {
       "id": 90140,
       "appearance": "90140_Euro_Mob_1Appearance",
+      "unitKeywordList": [
+        "CLAN"
+      ],
       "associationList": [
         "YURODIVY"
       ],
@@ -148,6 +151,9 @@
     {
       "id": 90141,
       "appearance": "90141_Euro_Mob_2Appearance",
+      "unitKeywordList": [
+        "CLAN"
+      ],
       "associationList": [
         "YURODIVY"
       ],
@@ -293,6 +299,9 @@
     {
       "id": 91017,
       "appearance": "91017_Yuro_EliteAppearance",
+      "unitKeywordList": [
+        "CLAN"
+      ],
       "associationList": [
         "YURODIVY"
       ],

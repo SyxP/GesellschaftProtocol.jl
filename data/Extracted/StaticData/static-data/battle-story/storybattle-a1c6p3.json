@@ -60,7 +60,7 @@
           "S635A"
         ]
       },
-      "stageScriptNameAfterClear": "8166",
+      "stageScriptList": ["8166"],
       "eventScriptName": "8166",
       "abnormalityEventList": [
         816601,
@@ -162,7 +162,7 @@
           "S637A"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p3_Buff_Normal_Filter"
+      "stageScriptList": ["a1c6p3_Buff_Normal_Filter"]
     },
     {
       "id": 10638,
@@ -245,7 +245,7 @@
           "S638B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p3_EnemyFiltered"
+      "stageScriptList": ["a1c6p3_EnemyFiltered"]
     },
     {
       "id": 10639,
@@ -328,7 +328,7 @@
           "S639B"
         ]
       },
-      "stageScriptNameAfterClear": "a1c6p3_EnemyFiltered"
+      "stageScriptList": ["a1c6p3_EnemyFiltered"]
     },
     {
       "id": 10640,
@@ -396,7 +396,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c6p3_EnemyFiltered"
+      "stageScriptList": ["a1c6p3_EnemyFiltered"]
     },
     {
       "id": 10641,
@@ -555,7 +555,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "WH"
+      "stageScriptList": ["WH"]
     },
     {
       "id": 10642,
@@ -638,7 +638,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "a1c6p3_EnemyFiltered"
+      "stageScriptList": ["a1c6p3_EnemyFiltered"]
     },
     {
       "id": 10644,
@@ -748,7 +748,7 @@
           "S644A"
         ]
       },
-      "stageScriptNameAfterClear": "8172"
+      "stageScriptList": ["8172"]
     },
     {
       "id": 10645,
@@ -803,7 +803,7 @@
           "S645A"
         ]
       },
-      "stageScriptNameAfterClear": "8171",
+      "stageScriptList": ["8171"],
       "eventScriptName": "8171",
       "abnormalityEventList": [
         817101
@@ -915,7 +915,7 @@
           "S648A"
         ]
       },
-      "stageScriptNameAfterClear": "8173",
+      "stageScriptList": ["8173"],
       "eventScriptName": "8173",
       "includeBoss": 1,
       "abnormalityEventList": [

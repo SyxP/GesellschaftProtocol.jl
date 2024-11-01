@@ -138,7 +138,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "R41",
+      "stageScriptList": ["R41"],
       "eventScriptName": "8605",
       "abnormalityEventList": [
         860501
@@ -374,7 +374,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "403"
+      "stageScriptList": ["403"]
     },
     {
       "id": 405,
@@ -515,7 +515,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "8608",
+      "stageScriptList": ["8608"],
       "eventScriptName": "8608",
       "abnormalityEventList": [
         860801
@@ -644,7 +644,7 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "8629",
+      "stageScriptList": ["8629"],
       "eventScriptName": "8629",
       "abnormalityEventList": [
         862901,

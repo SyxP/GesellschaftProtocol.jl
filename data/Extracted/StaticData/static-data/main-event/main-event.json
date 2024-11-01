@@ -1,6 +1,21 @@
 {
   "list": [
     {
+      "eventId": "MOWE",
+      "mainUIPhaseTypeList": [
+        "Lobby",
+        "Stage"
+      ],
+      "bannerSpriteId": "banner_MOWE_event",
+      "isBannerVisible": true
+    },
+    {
+      "eventId": "MOWEReward",
+      "mainUIPhaseTypeList": [
+        "Stage"
+      ]
+    },
+    {
       "eventId": "RailwayDungeonBanner",
       "mainUIPhaseTypeList": [
         "Lobby"

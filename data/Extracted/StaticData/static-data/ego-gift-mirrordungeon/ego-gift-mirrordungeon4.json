@@ -2218,6 +2218,207 @@
       "keyword": "Vibration",
       "lockType": false,
       "price": 400
+    },
+    {
+      "id": 9732,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9732,
+          "abilityIDList": [ 9732 ]
+        }
+      ],
+      "tag": [
+        "TIER_1"
+      ],
+      "lockType": false,
+      "price": 151
+    },
+    {
+      "id": 9733,
+      "attributeType": "AMBER",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9733,
+          "abilityIDList": [ 9733, 97331 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 195
+    },
+    {
+      "id": 9734,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9734,
+          "abilityIDList": [ 9734, 97341, 97342 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 250
+    },
+    {
+      "id": 9735,
+      "attributeType": "INDIGO",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9735,
+          "abilityIDList": [ 9735, 97351 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 250
+    },
+    {
+      "id": 9736,
+      "attributeType": "SCARLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9736,
+          "abilityIDList": [ 9736, 97361, 97362 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 203
+    },
+    {
+      "id": 9737,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9737,
+          "abilityIDList": [ 9737, 97371 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 197
+    },
+    {
+      "id": 9738,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9738,
+          "abilityIDList": [ 9738, 97381 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 207
+    },
+    {
+      "id": 9739,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9739,
+          "abilityIDList": [ 9739 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 195
+    },
+    {
+      "id": 9740,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9740,
+          "abilityIDList": [ 9740, 97401, 97402 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 400
+    },
+    {
+      "id": 9741,
+      "attributeType": "INDIGO",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9741,
+          "abilityIDList": [ 9741, 97411, 97412 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 400
+    },
+    {
+      "id": 9742,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9742,
+          "abilityIDList": [ 9742, 97421, 97422 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 400
+    },
+    {
+      "id": 9743,
+      "attributeType": "INDIGO",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9743,
+          "abilityIDList": [ 9743, 97431, 97432 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Charge",
+      "lockType": false,
+      "price": 400
     }
   ]
 }

@@ -1823,6 +1823,12 @@
             "customChapterText": "2",
             "mapAreaId": 9109
           }
+        },
+        {
+          "chapterId": 91,
+          "subchapterId": 9110,
+          "type": "SUB",
+          "relatedEventId": "MOWE"
         }
       ]
     },
@@ -2446,10 +2452,148 @@
               "stageNodeType": "DUNGEON"
             }
           ],
-          "nextMainchapterid": -1,
-          "nextSubchapterid": -1,
+          "nextMainchapterid": 91,
+          "nextSubchapterid": 9110,
           "lastnodeid": 910915,
           "relatedMainEventId": "TKT"
+        },
+        {
+          "id": 9110,
+          "illustSprName": "9110",
+          "region": "t",
+          "sprName": "chapter6.5_mowe",
+          "subChapterNumber": "6.5",
+          "mapSizeRow": 1,
+          "mapSizeColoumn": 7,
+          "unlockCondition": {
+            "unlockCode": 9109
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 911001,
+              "stageId": 911001,
+              "posx": 780,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911002,
+              "stageId": 911002,
+              "posx": 2679,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911003,
+              "stageId": 911003,
+              "posx": 3601,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911004,
+              "stageId": 911004,
+              "posx": 4631,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911005,
+              "stageId": 911005,
+              "posx": 5619,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911006,
+              "stageId": 911006,
+              "posx": 6542,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911007,
+              "stageId": 911007,
+              "posx": 7491,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911008,
+              "stageId": 911008,
+              "posx": 8499,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911009,
+              "stageId": 911009,
+              "posx": 8961,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911010,
+              "stageId": 911010,
+              "posx": 9479,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911011,
+              "stageId": 911011,
+              "posx": 10384,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911012,
+              "stageId": 911012,
+              "posx": 11278,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911013,
+              "stageId": 911013,
+              "posx": 12219,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 911014,
+              "stageId": 911014,
+              "posx": 13096,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 911015,
+              "stageId": 911015,
+              "posx": 13560,
+              "posy": 764,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            }
+          ],
+          "nextMainchapterid": -1,
+          "nextSubchapterid": -1,
+          "lastnodeid": 911015,
+          "relatedMainEventId": "MOWE"
         }
       ]
     }

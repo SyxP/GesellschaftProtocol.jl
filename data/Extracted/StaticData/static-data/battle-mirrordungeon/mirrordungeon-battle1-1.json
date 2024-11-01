@@ -95,7 +95,7 @@
         }
       ],
       "rewardList": [],
-      "stageScriptNameAfterClear": "PinkShoe_Mirror",
+      "stageScriptList": ["PinkShoe_Mirror"],
       "eventScriptName": "PinkShoe_Mirror",
       "abnormalityEventList": [
         801501,

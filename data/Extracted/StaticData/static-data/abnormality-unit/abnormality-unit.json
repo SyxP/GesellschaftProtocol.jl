@@ -1916,7 +1916,7 @@
     {
       "id": 8024,
       "appearance": "8024_Nothing_ThereAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "patternID": "8024",
       "classType": "TETH",
@@ -2051,7 +2051,7 @@
     {
       "id": 8025,
       "appearance": "8025_Wolf_EnhancedAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "patternID": "8025",
       "classType": "TETH",
@@ -2243,7 +2243,7 @@
     {
       "id": 8026,
       "appearance": "8026_Nothing_There_BossAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -2377,7 +2377,7 @@
     {
       "id": 8027,
       "appearance": "8027_Wolf_ErosionAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "classType": "ZAYIN",
       "attributeType": "SCARLET",
@@ -2482,7 +2482,7 @@
     {
       "id": 8028,
       "appearance": "8028_SnakeAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -2888,7 +2888,7 @@
     {
       "id": 8029,
       "appearance": "8029_CromerAppearance",
-      "associationList": [ "N_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -3296,7 +3296,7 @@
       "id": 8030,
       "originID": 8030,
       "appearance": "8030_Cromer_2pAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "classType": "HE",
       "attributeType": "SCARLET",
@@ -5790,7 +5790,7 @@
     {
       "id": 8033,
       "appearance": "8033_Snake_weakAppearance",
-      "associationList": [ "G_CORP" ],
+      "associationList": [ "N_CORP", "N_CORP_FNATIC" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -14904,6 +14904,7 @@
     {
       "id": 8042,
       "appearance": "90046_KCorpAppearance",
+      "associationList": [ "K_CORP" ],
       "unitKeywordList": [ "MACHINE" ],
       "level": 30,
       "classType": "ZAYIN",
@@ -15638,7 +15639,7 @@
     {
       "id": 8043,
       "appearance": "8043_CamelliaAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "ATL" ],
       "level": 10,
       "classType": "TETH",
       "attributeType": "SHAMROCK",
@@ -16160,7 +16161,7 @@
     {
       "id": 8044,
       "appearance": "8044_Camellia_AwakenAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "ATL" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -16603,7 +16604,7 @@
       "id": 80442,
       "originID": 8044,
       "appearance": "8044_Camellia_AwakenAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "ATL" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "SCARLET",
@@ -17083,7 +17084,7 @@
     {
       "id": 8049,
       "appearance": "8049_DongLang_1pAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "K_CORP" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -17305,7 +17306,7 @@
       "id": 80492,
       "originID": 8049,
       "appearance": "8049_DongLang_2pAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "K_CORP" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -17461,7 +17462,7 @@
       "id": 80493,
       "originID": 8049,
       "appearance": "8049_DongLang_3pAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "K_CORP" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",
@@ -17737,7 +17738,7 @@
     {
       "id": 8050,
       "appearance": "8050_DongLang_AwakenAppearance",
-      "unitKeywordList": [],
+      "associationList": [ "K_CORP" ],
       "level": 6,
       "classType": "TETH",
       "attributeType": "AMBER",

@@ -239,6 +239,7 @@
     {
       "id": 90084,
       "appearance": "90084_DoubleHook_Mob_AAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -382,6 +383,7 @@
     {
       "id": 90085,
       "appearance": "90085_DoubleHook_Mob_BAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -525,6 +527,7 @@
     {
       "id": 90086,
       "appearance": "90086_DoubleHook_Elite_AAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -673,6 +676,7 @@
     {
       "id": 90087,
       "appearance": "90087_DoubleHook_Elite_BAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -823,6 +827,7 @@
     {
       "id": 91012,
       "appearance": "91012_DoubleHook_SmeeAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "DUAL_HOOK_PIRATE" ],
       "level": 2,
       "slotWeightConditionList": [
@@ -1768,7 +1773,8 @@
       "id": 97405,
       "appearance": "90056_KCorpAppearance",
       "sdPortrait": 90056,
-      "unitKeywordList": ["MACHINE"],
+      "associationList": [ "K_CORP" ],
+      "unitKeywordList": [ "MACHINE" ],
       "level": 2,
       "slotWeightConditionList": [
         "Default1"

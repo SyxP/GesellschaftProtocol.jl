@@ -581,7 +581,7 @@
         {
           "skillTargetType": "FRONT",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "VIOLET",
           "atkType": "SLASH",
@@ -1801,7 +1801,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "CRIMSON",
           "atkType": "PENETRATE",
@@ -1811,7 +1811,7 @@
           "actionScript": "816104",
           "targetNum": 1,
           "defaultValue": 6,
-           "skillLevelCorrection": 5,
+          "skillLevelCorrection": 5,
           "abilityScriptList": [
             {
               "scriptName": "EmptyBody"
@@ -2359,7 +2359,7 @@
         {
           "skillTargetType": "RANDOM",
           "canTeamKill": false,
-          "canDuel": true,
+          "canDuel": false,
           "canChangeTarget": true,
           "attributeType": "VIOLET",
           "atkType": "HIT",

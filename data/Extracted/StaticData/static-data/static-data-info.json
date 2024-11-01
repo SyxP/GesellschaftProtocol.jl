@@ -58,6 +58,7 @@
             "abnormality-part-a1c951",
             "abnormality-part-event1",
             "abnormality-part-ycgd",
+            "abnormality-part-mowe",
             "abnormality-part-a1c6p2",
             "abnormality-part-a1c6p3",
             "abnormality-part-wp3",
@@ -84,6 +85,7 @@
             "abnormality-unit-a1c951",
             "abnormality-unit-event1",
             "abnormality-unit-ycgd",
+            "abnormality-unit-mowe",
             "abnormality-unit-a1c6p2",
             "abnormality-unit-a1c6p3",
             "abnormality-unit-wp3",
@@ -133,6 +135,7 @@
             "buff-enemy-wp3",
             "special-buff",
             "buff-tkt",
+            "buff-mowe",
             "buff-enemy-refraction4",
             "buff-player-refraction4"
           ]
@@ -145,7 +148,8 @@
             "panic-buff-a1c6p2",
             "panic-buff-a1c6p3",
             "panic-overwrite-buff",
-            "panic-buff-tkt"
+            "panic-buff-tkt",
+            "panic-buff-mowe"
           ]
         },
         {
@@ -231,7 +235,8 @@
             "enemy-a1c6p2",
             "enemy-a1c6p3",
             "enemy-mirrordungeon4",
-            "enemy-tkt"
+            "enemy-tkt",
+            "enemy-mowe"
           ]
         },
         {
@@ -253,7 +258,9 @@
 				"gacha-180",
 				"gacha-181",
 				"gacha-182",
-				"gacha-183"
+				"gacha-183",
+				"gacha-184",
+				"gacha-185"
             ]
         },
         {
@@ -271,7 +278,6 @@
                 "item-piece",
                 "item-piece-a1c5",
                 "item-20000-event",
-                "item-20000-event-a1c6",
                 "item-piece-a1c6",
                 "item-1100-season-randompackage-a1c6",
                 "item-1200-season-optionalpackage-a1c6",
@@ -298,6 +304,7 @@
             "passive-enemy-ycgd",
             "passive-enemy-wp3",
             "passive-enemy-tkt",
+            "passive-enemy-mowe",
             "passive-enemy-refraction4"
           ]
         },
@@ -395,7 +402,9 @@
             "skill-abnormality-wp3",
             "skill-enemy-tkt",
             "skill-abnormality-tkt",
-            "abnormality-refraction4-skill"
+            "skill-abnormality-mowe",
+            "abnormality-refraction4-skill",
+            "skill-enemy-mowe"
           ]
         },
         {
@@ -418,7 +427,8 @@
             "storybattle-a1c6p2",
             "storybattle-a1c6p3",
             "storybattle-wp3",
-            "storybattle-tkt"
+            "storybattle-tkt",
+            "storybattle-mowe"
           ]
         },
         {
@@ -488,7 +498,8 @@
                 "stagenodereward-a1c6p1",
                 "stagenodereward-a1c6p2",
                 "stagenodereward-a1c6p3",
-                "stagenodereward-tkt"
+                "stagenodereward91-9",
+                "stagenodereward91-10"
             ]
         },
         {
@@ -666,7 +677,8 @@
               "storytheater-other-9015",
               "storytheater-other-9016",
               "storytheater-other-9109",
-              "storytheater-other-9017"
+              "storytheater-other-9017",
+              "storytheater-other-9110"
             ]
         },
         {
@@ -857,7 +869,8 @@
                 "stage-progress-reward",
                 "stage-progress-reward-a1c5p3",
                 "stage-progress-reward-a1c6p3",
-                "stage-progress-reward-tkt"
+                "stage-progress-reward-tkt",
+                "stage-progress-reward-mowe"
             ]
         },
         {
@@ -1088,7 +1101,8 @@
         {
             "dataClass": "event",
             "fileList": [
-                "limbus-1st-gift-240227"
+                "limbus-1st-gift-240227",
+                "mowe-event"
             ]
         },
         {

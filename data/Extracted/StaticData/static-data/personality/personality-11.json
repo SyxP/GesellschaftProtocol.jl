@@ -105,6 +105,7 @@
     {
       "id": 11102,
       "appearance": "11102_Outis_SwordGroupAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "BLADE_LINEAGE" ],
       "defenseSkillIDList": [
         1110204
@@ -302,6 +303,7 @@
     {
       "id": 11104,
       "appearance": "11104_Outis_SevenAssoAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "SEVEN" ],
       "characterId": 11,
       "panicType": 9999,
@@ -399,6 +401,7 @@
     {
       "id": 11105,
       "appearance": "11105_Outis_OlgaAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "MOLAR" ],
       "characterId": 11,
       "panicType": 9999,
@@ -499,6 +502,7 @@
     {
       "id": 11106,
       "appearance": "11106_Outis_CinqAppearance",
+      "unitKeywordList": [ "FIXER" ],
       "associationList": [ "CINQ" ],
       "characterId": 11,
       "panicType": 9999,
@@ -596,6 +600,7 @@
     {
       "id": 11107,
       "appearance": "11107_Outis_DerFreischutzAppearance",
+      "unitKeywordList": [ "LOBOTOMY_HEAD" ],
       "associationList": [ "L_CORP" ],
       "characterId": 11,
       "panicType": 9999,
@@ -708,7 +713,7 @@
       "id": 11108,
       "appearance": "11108_Outis_JosephineAppearance",
       "associationList": [ "WUTHERING_HEIGHTS" ],
-      "unitKeywordList": [ "BUTLER" ],
+      "unitKeywordList": [  "FIXER", "BUTLER" ],
       "characterId": 11,
       "panicType": 9999,
       "season": 4,
@@ -813,6 +818,7 @@
     {
       "id": 11109,
       "appearance": "11109_Outis_RingFingerAppearance",
+      "unitKeywordList": [ "CLAN" ],
       "associationList": [ "RING_FINGER" ],
       "characterId": 11,
       "panicType": 9999,
