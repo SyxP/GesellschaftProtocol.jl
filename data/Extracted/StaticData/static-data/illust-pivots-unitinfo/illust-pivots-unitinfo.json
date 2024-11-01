@@ -295,6 +295,20 @@
             "rotateZ": 0.0
         },
         {
+            "id": "10406_gacksung",
+            "offsetX": -273.0,
+            "offsetY": 0.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10406_normal",
+            "offsetX": 376.0,
+            "offsetY": 0.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
             "id": "10501_normal",
             "offsetX": 14.0,
             "offsetY": 23.0,
@@ -303,7 +317,7 @@
         },
         {
             "id": "10502_gacksung",
-            "offsetX": -59.0,
+            "offsetX": 2.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
@@ -338,7 +352,7 @@
         },
         {
             "id": "10504_normal",
-            "offsetX": 254.0,
+            "offsetX": 358.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
@@ -415,7 +429,7 @@
         },
         {
             "id": "10604_normal",
-            "offsetX": -310.0,
+            "offsetX": -379.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
@@ -478,7 +492,7 @@
         },
         {
             "id": "10702_normal",
-            "offsetX": 385.0,
+            "offsetX": 373.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
@@ -618,8 +632,8 @@
         },
         {
             "id": "10807_gacksung",
-            "offsetX": -229.0,
-            "offsetY": 0.0,
+            "offsetX": -221.0,
+            "offsetY": -8.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
         },
@@ -695,7 +709,7 @@
         },
         {
             "id": "10906_gacksung",
-            "offsetX": -345.0,
+            "offsetX": -280.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
@@ -821,7 +835,7 @@
         },
         {
             "id": "11102_gacksung",
-            "offsetX": -366.0,
+            "offsetX": -370.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0
@@ -948,6 +962,20 @@
         {
             "id": "11206_normal",
             "offsetX": 359.0,
+            "offsetY": 0.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11207_gacksung",
+            "offsetX": -226.0,
+            "offsetY": 0.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11207_normal",
+            "offsetX": -365.0,
             "offsetY": 0.0,
             "scaleFactor": 1.0,
             "rotateZ": 0.0

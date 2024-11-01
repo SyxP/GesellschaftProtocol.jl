@@ -156,18 +156,6 @@
       ]
     },
     {
-      "id": "PseudoLastBoss_KingCrap",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Neutral",
-      "canBeDespelled": false,
-      "destroyableOnZero": false,
-      "list": [
-        {
-          "ability": "PseudoLastBossKingCrap"
-        }
-      ]
-    },
-    {
       "id": "Whistle_Fear",
       "buffClass": "NonvolatileBuff",
       "buffType": "Negative",
@@ -606,6 +594,7 @@
     {
       "id": "EgoAwakenDongrangTreeDisplay",
       "buffClass": "NonvolatileBuff",
+      "iconId": "EgoAwakenDongrangTree",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
@@ -673,6 +662,7 @@
     },
     {
       "id": "DongbaekFullBloomDisplay",
+      "iconId": "DongbaekFullBloom",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
       "canBeDespelled": false,
@@ -721,6 +711,7 @@
     {
       "id": "DongbaekScatterPetal",
       "buffClass": "NonvolatileBuff",
+      "iconId": "DongbaekScatterPetal",
       "buffType": "Negative",
       "canBeDespelled": false,
       "list": [

@@ -1277,7 +1277,8 @@
       "abnormalityEventList": [
         803001
       ],
-	  "hasGoldenBough": true
+	  "hasGoldenBough": true,
+    "includeBoss": 1
     }
   ]
 }

@@ -40,6 +40,16 @@
       }
     },
     {
+      "id": 214,
+      "category": "NORMAL",
+      "spriteStr": "exp_ticket_4",
+      "target": {
+        "type": "PERSONALITYEXP",
+        "id": 0,
+        "num": 3000
+      }
+    },
+    {
       "id": 221,
       "category": "NORMAL",
       "spriteStr": "level_ticket_1",
@@ -67,6 +77,16 @@
         "type": "PERSONALITYLEVEL",
         "id": 0,
         "num": 30
+      }
+    },
+    {
+      "id": 224,
+      "category": "NORMAL",
+      "spriteStr": "level_ticket_4",
+      "target": {
+        "type": "PERSONALITYLEVEL",
+        "id": 0,
+        "num": 40
       }
     }
   ]

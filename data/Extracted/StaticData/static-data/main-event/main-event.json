@@ -8,11 +8,11 @@
       "bannerSpriteId": "banner_RailwayLine2"
     },
     {
-      "eventId": "HalloweenDailyLoginEvent",
+      "eventId": "SeventhAnniversary",
       "mainUIPhaseTypeList": [
         "Lobby"
       ],
-      "bannerSpriteId": "banner_HalloweenLogin"
+      "bannerSpriteId": "banner_7thAnniversary"
     }
   ]
 }

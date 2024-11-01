@@ -13,22 +13,6 @@
       ]
     },
     {
-      "id": "ATL_EndureCombustion",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "maxStack": 10,
-      "canBeDespelled": false,
-      "list": [
-        {
-          "ability": "TakeSinBuffDamageMultiplierByStack",
-          "value": -0.1,
-          "buffData": {
-            "buffKeyword": "Combustion"
-          }
-        }
-      ]
-    },
-    {
       "id": "ATL_EndureLaceration",
       "buffClass": "NonvolatileBuff",
       "buffType": "Positive",

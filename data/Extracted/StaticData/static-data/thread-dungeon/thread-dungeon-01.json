@@ -58,7 +58,7 @@
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -93,6 +93,50 @@
             ]
           },
           "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 8,
+          "abnormalityId": 8741,
+          "stageId": 15,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -110,7 +154,7 @@
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -144,7 +188,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         },
         {
           "ui_id": 2,
@@ -154,7 +198,7 @@
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -189,6 +233,50 @@
             ]
           },
           "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 9,
+          "abnormalityId": 8742,
+          "stageId": 16,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -206,7 +294,7 @@
             "num": 2,
             "type": "ITEM"
           },
-		  "skipRequiredItem": {
+          "skipRequiredItem": {
             "id": 11,
             "num": 4,
             "type": "ITEM"
@@ -240,7 +328,7 @@
               }
             ]
           },
-		  "skipRewardModify": 1.5
+          "skipRewardModify": 1.5
         },
         {
           "ui_id": 3,
@@ -280,6 +368,50 @@
               {
                 "id": 201,
                 "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 10,
+          "abnormalityId": 8744,
+          "stageId": 17,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
                 "type": "ITEM"
               }
             ]
@@ -381,6 +513,50 @@
             ]
           },
           "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 11,
+          "abnormalityId": 8746,
+          "stageId": 18,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -472,6 +648,50 @@
               {
                 "id": 201,
                 "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 12,
+          "abnormalityId": 8041,
+          "stageId": 19,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
                 "type": "ITEM"
               }
             ]
@@ -573,6 +793,50 @@
             ]
           },
           "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 13,
+          "abnormalityId": 8519,
+          "stageId": 20,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
         }
       ]
     },
@@ -664,6 +928,50 @@
               {
                 "id": 201,
                 "num": 3,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "skipRewardModify": 1.5
+        },
+        {
+          "ui_id": 14,
+          "abnormalityId": 8510,
+          "stageId": 21,
+          "requiredItem": {
+            "id": 11,
+            "num": 2,
+            "type": "ITEM"
+          },
+          "skipRequiredItem": {
+            "id": 11,
+            "num": 4,
+            "type": "ITEM"
+          },
+          "openChapterData": {
+            "mainChapterId": 1,
+            "subChapterId": 104,
+            "nodeId": 10454,
+            "unlockCode": 104
+          },
+          "chanceReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 8,
+                "type": "ITEM"
+              }
+            ]
+          },
+          "normalReward": {
+            "acquireExp": 40,
+            "acquireTotalExpForPersonality": 0,
+            "rewards": [
+              {
+                "id": 201,
+                "num": 4,
                 "type": "ITEM"
               }
             ]

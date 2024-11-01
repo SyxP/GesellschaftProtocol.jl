@@ -926,13 +926,6 @@
                 {
                   "scriptName": "UseBuffAllStackOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "ExaltedRail",
-                    "target": "Target"
-                  }
-                },
-                {
-                  "scriptName": "UseBuffAllStackOnSucceedAttack",
-                  "buffData": {
                     "buffKeyword": "TipsinessRail",
                     "target": "Target"
                   }

@@ -172,59 +172,6 @@
       }
     },
     {
-      "panicID": 1007,
-      "lowMorale": {
-        "id": "Sad_LowMorale",
-        "stack": 1,
-        "turn": 0,
-        "buffClass": "VolatileBuff",
-        "buffType": "Neutral",
-        "canBeDespelled": false,
-        "list": [
-          {
-            "ability": "GiveBuffOnPanicOrLowMorale",
-            "buffData": {
-              "buffKeyword": "AttackDmgDown",
-              "target": "IfAbnormalityAllPartsOrSelf",
-              "stack": 2,
-              "turn": 0,
-              "activeRound": 0
-            }
-          }
-        ]
-      },
-      "panic": {
-        "id": "Sad_Panic",
-        "stack": 1,
-        "turn": 0,
-        "buffClass": "VolatileBuff",
-        "buffType": "Neutral",
-        "canBeDespelled": false,
-        "list": [
-          {
-            "ability": "GiveBuffOnPanicOrLowMorale",
-            "buffData": {
-              "buffKeyword": "AttackDmgDown",
-              "target": "IfAbnormalityAllPartsOrSelf",
-              "stack": 5,
-              "turn": 0,
-              "activeRound": 0
-            }
-          },
-          {
-            "ability": "GiveBuffOnPanicOrLowMorale",
-            "buffData": {
-              "buffKeyword": "Vulnerable",
-              "target": "IfAbnormalityAllPartsOrSelf",
-              "stack": 2,
-              "turn": 0,
-              "activeRound": 0
-            }
-          }
-        ]
-      }
-    },
-    {
       "panicID": 1008,
       "lowMorale": {
         "id": "Crazy_LowMorale",
@@ -364,6 +311,7 @@
       "panicID": 1012,
       "lowMorale": {
         "id": "Blue_LowMorale",
+        "iconId": "Anger_LowMorale",
         "stack": 1,
         "turn": 0,
         "buffClass": "VolatileBuff",
@@ -377,6 +325,7 @@
       },
       "panic": {
         "id": "Blue_Panic",
+        "iconId": "Anger_Panic",
         "stack": 1,
         "turn": 0,
         "buffClass": "VolatileBuff",
@@ -561,6 +510,69 @@
           },
           {
             "ability": "ForceCoinResultTail"
+          }
+        ]
+      }
+    },
+    {
+      "panicID": 1016,
+      "lowMorale": {
+        "id": "AaCePbBg",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "AttackDmgUp",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 2,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "DefenseDown",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 3,
+              "turn": 0,
+              "activeRound": 0
+            }
+          }
+        ]
+      },
+      "panic": {
+        "id": "AaCePbBh",
+        "stack": 1,
+        "turn": 0,
+        "buffClass": "VolatileBuff",
+        "buffType": "Neutral",
+        "canBeDespelled": false,
+        "list": [
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "Enhancement",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 1,
+              "turn": 0,
+              "activeRound": 0
+            }
+          },
+          {
+            "ability": "GiveBuffOnPanicOrLowMorale",
+            "buffData": {
+              "buffKeyword": "DefenseDown",
+              "target": "IfAbnormalityAllPartsOrSelf",
+              "stack": 5,
+              "turn": 0,
+              "activeRound": 0
+            }
           }
         ]
       }

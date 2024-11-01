@@ -70,7 +70,8 @@
       "mirrorWorldId": 8,
       "needsPersonalityIdList": [
         10903,
-        10804
+        10804,
+        10406
       ]
     },
     {
@@ -160,6 +161,12 @@
       "mirrorWorldId": 20,
       "needsPersonalityIdList": [
         10607
+      ]
+    },
+    {
+      "mirrorWorldId": 21,
+      "needsPersonalityIdList": [
+        11207
       ]
     }
   ]

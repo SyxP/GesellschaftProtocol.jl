@@ -137,19 +137,6 @@
       ]
     },
     {
-      "id": "TimesCoinValueUp",
-      "buffClass": "VolatileBuff",
-      "buffType": "Positive",
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "CoinScaleAdderByStack",
-          "coinOperator": "MUL",
-          "value": 1
-        }
-      ]
-    },
-    {
       "id": "SlashDamageUp",
       "buffClass": "VolatileBuff",
       "buffType": "Positive",
@@ -556,7 +543,7 @@
       "canBeDespelled": true,
       "list": [
         {
-          "ability": "AttackDmgUp_Weak",
+          "ability": "AttackDmgUpWeak",
           "value": 0.01
         }
       ]

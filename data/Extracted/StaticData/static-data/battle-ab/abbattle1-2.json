@@ -1196,7 +1196,8 @@
         ]
       },
       "dangerLevel": 2,
-      "stageScriptNameAfterClear": "BabaYaga"
+      "stageScriptNameAfterClear": "BabaYaga",
+      "includeBoss": 1
     },
     {
       "id": 10229,

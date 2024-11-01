@@ -12,7 +12,11 @@
                 "mirror-dungeon-personality-choice-event",
                 "story-dungeon-action-choice-event",
                 "story-dungeon-personality-choice-event",
-                "abnormality-action-choice-event_Refraction2"
+                "abnormality-action-choice-event_Refraction2",
+                "battle-coin-choice-event-a1c5p1",
+                "battle-action-choice-event-a1c5p1",
+                "sdungeon-coin-choice-event-a1c5p1",
+                "sdungeon-action-choice-event-a1c5p1"
             ]
         },
         {
@@ -22,7 +26,8 @@
                 "abnormality-mirror-part",
                 "abnormality-refraction-part",
                 "abnormality-refraction2-part",
-                "abnormality-part91-4"
+                "abnormality-part91-4",
+                "abnormality-part-a1c5p1"
             ]
         },
         {
@@ -32,7 +37,8 @@
                 "abnormality-mirror-unit",
                 "abnormality-refraction-unit",
                 "abnormality-refraction2-unit",
-                "abnormality-unit91-4"
+                "abnormality-unit91-4",
+                "abnormality-unit-a1c5p1"
             ]
         },
         {
@@ -61,7 +67,8 @@
                 "positive-volatile-buff",
                 "rail-line-2-buff",
                 "rail-line-2-content-buff",
-                "typo-only-buff"
+                "typo-only-buff",
+                "buff-enemy-a1c5p1"
             ]
         },
         {
@@ -86,7 +93,7 @@
         {
             "dataClass": "part",
             "fileList": [
-                "part"
+                "part-a1c5p1"
             ]
         },
         {
@@ -122,7 +129,8 @@
             "dataClass": "ego-gift",
             "fileList": [
                 "ego-gift",
-                "hidden-ego-gift-storydungeon"
+                "hidden-ego-gift-storydungeon",
+                "ego-gift-a1c5p1"
             ]
         },
         {
@@ -137,7 +145,8 @@
             "dataClass": "enemy",
             "fileList": [
                 "enemy",
-                "enemy91-4"
+                "enemy91-4",
+                "enemy-a1c5p1"
             ]
         },
         {
@@ -160,22 +169,27 @@
                 "gacha-137",
                 "gacha-138",
                 "gacha-139",
-                "gacha-140"
+                "gacha-140",
+                "gacha-141",
+                "gacha-142"
             ]
         },
         {
             "dataClass": "item",
-            "fileList": [
-                "item-0-currency",
-                "item-100-gacha",
-                "item-200-ticket",
-                "item-300-consumable",
-                "item-400-consumablebox",
-                "item-1100-season-randompackage",
-                "item-1200-season-optionalpackage",
-                "item-piece",
-                "item-20000-event"
-            ]
+          "fileList": [
+            "item-0-currency",
+            "item-100-gacha",
+            "item-200-ticket",
+            "item-300-consumable",
+            "item-400-consumablebox",
+            "item-1100-season-randompackage",
+            "item-1100-season-randompackage-a1c5",
+            "item-1200-season-optionalpackage",
+            "item-1200-season-optionalpackage-a1c5",
+            "item-piece",
+            "item-piece-a1c5",
+            "item-20000-event"
+          ]
         },
         {
             "dataClass": "passive",
@@ -183,7 +197,8 @@
                 "passive",
                 "passive-mr2",
                 "passive_check4",
-                "passive-ego"
+                "passive-ego",
+                "passive-enemy-a1c5p1"
             ]
         },
         {
@@ -254,7 +269,9 @@
                 "personality-skill-10",
                 "personality-skill-11",
                 "personality-skill-12",
-                "enemy-skill91-4"
+                "enemy-skill91-4",
+                "skill-enemy-a1c5p1",
+                "skill-abnormality-a1c5p1"
             ]
         },
         {
@@ -267,7 +284,8 @@
                 "storybattle91-4",
                 "storybattle1-4",
                 "stage_Test",
-                "stage_Tutorial"
+                "stage_Tutorial",
+                "storybattle-a1c5p1"
             ]
         },
         {
@@ -277,7 +295,8 @@
                 "dungeonbattle1-2",
                 "dungeonbattle1-3",
                 "dungeonbattle1-4",
-                "dungeonbattle91-3"
+                "dungeonbattle91-3",
+                "dungeonbattle-a1c5p1"
             ]
         },
         {
@@ -287,7 +306,8 @@
                 "abbattle1-2",
                 "abbattle1-3",
                 "abbattle1-4",
-                "abbattle91-3"
+                "abbattle91-3",
+                "abbattle-a1c5p1"
             ]
         },
         {
@@ -310,7 +330,8 @@
                 "stagenodereward1-3",
                 "stagenodereward91-3",
                 "stagenodereward1-4",
-                "stagenodereward91-4"
+                "stagenodereward91-4",
+                "stagenodereward-a1c5p1"
             ]
         },
         {
@@ -337,6 +358,7 @@
                 "vending-machine-0",
                 "vending-machine-1",
                 "vending-machine-2",
+                "vending-machine-3",
                 "vending-machine-91"
             ]
         },
@@ -400,10 +422,11 @@
         },
         {
             "dataClass": "battlepass",
-            "fileList": [
-                "battlepass",
-                "battlepass-2"
-            ]
+          "fileList": [
+            "battlepass",
+            "battlepass-2",
+            "battlepass-3-a1c5"
+          ]
         },
         {
             "dataClass": "storytheater-main",
@@ -412,7 +435,8 @@
                 "storytheater-main-101",
                 "storytheater-main-102",
                 "storytheater-main-103",
-                "storytheater-main-104"
+                "storytheater-main-104",
+                "storytheater-main-a1c5p1"
             ]
         },
         {
@@ -444,7 +468,8 @@
                 "storytheater-other-9103",
                 "storytheater-other-9104",
                 "storytheater-other-9010",
-                "storytheater-other-9011"
+                "storytheater-other-9011",
+                "storytheater-other-a1c5p1"
             ]
         },
         {
@@ -463,7 +488,8 @@
         {
             "dataClass": "announcer",
             "fileList": [
-                "announcer"
+                "announcer",
+                "announcer-a1c5p1"
             ]
         },
         {
@@ -530,7 +556,9 @@
             "dataClass": "cutscene",
             "fileList": [
                 "cutscene-ego",
-                "cutscene"
+                "cutscene",
+                "cutscene-a1c5p1",
+                "cutscene-ego-a1c5p1"
             ]
         },
         {
@@ -563,15 +591,17 @@
                 "abnormality-part-status-ui-position",
                 "refraction-abnormality-part-status-ui-position",
                 "refraction2-abnormality-part-status-ui-position",
-                "mirror-abnormality-part-status-ui-position"
+                "mirror-abnormality-part-status-ui-position",
+                "ab-part-status-ui-position-a1c5p1"
             ]
         },
         {
             "dataClass": "season-info",
-            "fileList": [
-                "season-1",
-                "season-2"
-            ]
+          "fileList": [
+            "season-1",
+            "season-2",
+            "season-3"
+          ]
         },
         {
             "dataClass": "gacha-panning",
@@ -582,7 +612,8 @@
         {
             "dataClass": "stage-progress-reward",
             "fileList": [
-                "stage-progress-reward"
+                "stage-progress-reward",
+                "stage-progress-reward-a1c5p1"
             ]
         },
         {
@@ -606,7 +637,8 @@
                 "loadingCG-stage_103",
                 "loadingCG-stage_9103",
                 "loadingCG-stage_104",
-                "loadingCG-stage_9104"
+                "loadingCG-stage_9104",
+                "loadingCG-stage_105"
             ]
         },
         {
@@ -643,19 +675,22 @@
         {
             "dataClass": "battle-thread-dungeon",
             "fileList": [
-                "battle-thread-dungeon-01"
+                "battle-thread-dungeon-01",
+                "battle-thread-dungeon-02"
             ]
         },
         {
             "dataClass": "exp-dungeon",
-            "fileList": [
-                "exp-dungeon-01"
-            ]
+          "fileList": [
+            "exp-dungeon-01",
+            "exp-dungeon-02-a1c5p1"
+          ]
         },
         {
             "dataClass": "battle-exp-dungeon",
             "fileList": [
-                "battle-exp-dungeon-01"
+                "battle-exp-dungeon-01",
+                "battle-exp-dungeon-02"
             ]
         },
         {
@@ -745,7 +780,8 @@
         {
             "dataClass": "subchapter-detail",
             "fileList": [
-                "subchapter-detail"
+                "subchapter-detail",
+                "subchapter-detail-a1c5p1"
             ]
         },
         {
@@ -769,7 +805,8 @@
         {
             "dataClass": "main-stage-map-setting",
             "fileList": [
-                "main-stage-map-setting"
+                "main-stage-map-setting",
+                "main-stage-map-setting-a1c5p1"
             ]
         },
         {
@@ -781,7 +818,8 @@
         {
             "dataClass": "restrict-participation",
             "fileList": [
-                "restrict-participation-1"
+                "restrict-participation-1",
+                "restrict-participation-a1c5p1"
             ]
         },
         {
@@ -825,14 +863,39 @@
         {
             "dataClass": "event",
             "fileList": [
-                "daily-login-event-230907",
-                "daily-login-event-2301026_Halloween"
+              "daily-login-event-230907",
+              "daily-login-event-2301026_Halloween",
+              "daily-login-event-2301118_7thAnniversary"
             ]
         },
         {
             "dataClass": "railway-dungeon-buff",
             "fileList": [
                 "railway-dungeon-buff-02"
+            ]
+        },
+        {
+            "dataClass": "shortcut-key",
+            "fileList": [
+                "shortcut-key"
+            ]
+        },
+        {
+            "dataClass": "newly-updated-content",
+            "fileList": [
+                "newly-updated-content-dungeon-alarm"
+            ]
+        },
+        {
+            "dataClass": "ego-empty",
+            "fileList": [
+              "ego-empty"
+            ]
+        },
+        {
+            "dataClass": "ui-excution-priority",
+            "fileList": [
+              "ui-excution-priority-on-enter-main"
             ]
         }
     ]

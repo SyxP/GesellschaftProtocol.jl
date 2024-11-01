@@ -83,6 +83,44 @@
       ]
     },
     {
+      "id": 104,
+      "category": "PACKAGE",
+      "productId": "exp_package_monthly_1",
+      "priceTier": 19,
+      "chanceId": 1104,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 224,
+          "num": 2
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 20
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "category": "PACKAGE",
+      "productId": "thread_package_monthly_1",
+      "priceTier": 19,
+      "chanceId": 1105,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 300
+        }
+      ]
+    },
+    {
       "id": 111,
       "category": "PACKAGE",
       "productId": "start_package_assured_extraction_1",
@@ -145,6 +183,7 @@
       "id": 122,
       "category": "PACKAGE",
       "productId": "settlement_package_season_2nd",
+      "isDisabled": true,
       "priceTier": 54,
       "chanceId": 1122,
       "defaultElements": [
@@ -181,6 +220,45 @@
       ]
     },
     {
+      "id": 123,
+      "category": "PACKAGE",
+      "productId": "settlement_package_season_3rd",
+      "priceTier": 54,
+      "chanceId": 1123,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 1,
+          "num": 5040
+        },
+        {
+          "type": "ITEM",
+          "id": 102,
+          "num": 3
+        },
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 30
+        },
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 80
+        },
+        {
+          "type": "ITEM",
+          "id": 1203,
+          "num": 40
+        }
+      ]
+    },
+    {
       "id": 131,
       "category": "PACKAGE",
       "productId": "extraction_package_weekly_1",
@@ -203,6 +281,7 @@
       "id": 133,
       "category": "PACKAGE",
       "productId": "thread_package_weekly_1",
+      "isDisabled": true,
       "priceTier": 7,
       "chanceId": 1133,
       "defaultElements": [
@@ -224,6 +303,44 @@
           "type": "ITEM",
           "id": 301,
           "num": 20
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "category": "PACKAGE",
+      "productId": "exp_package_weekly_1",
+      "priceTier": 7,
+      "chanceId": 1135,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 223,
+          "num": 1
+        },
+        {
+          "type": "ITEM",
+          "id": 214,
+          "num": 12
+        },
+        {
+          "type": "ITEM",
+          "id": 213,
+          "num": 20
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "category": "PACKAGE",
+      "productId": "thread_package_weekly_1_adjust",
+      "priceTier": 7,
+      "chanceId": 1136,
+      "defaultElements": [
+        {
+          "type": "ITEM",
+          "id": 201,
+          "num": 100
         }
       ]
     }

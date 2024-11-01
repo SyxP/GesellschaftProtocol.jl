@@ -1,16 +1,6 @@
 {
   "list": [
     {
-      "id": "Taunt",
-      "buffClass": "VolatileBuff",
-      "buffType": "Negative",
-      "maxStack": 1,
-      "canBeDespelled": true,
-      "list": [
-
-      ]
-    },
-    {
       "id": "Reduction",
       "buffClass": "VolatileBuff",
       "buffType": "Negative",
@@ -159,19 +149,6 @@
           "ability": "CoinScaleAdderByStack",
           "coinOperator": "SUB",
           "value": 1
-        }
-      ]
-    },
-    {
-      "id": "TimesCoinValueDown",
-      "buffClass": "VolatileBuff",
-      "buffType": "Negative",
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "CoinScaleAdderByStack",
-          "coinOperator": "MUL",
-          "value": -1
         }
       ]
     },

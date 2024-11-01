@@ -2624,7 +2624,8 @@
           "S448A"
         ]
       },
-      "stageScriptNameAfterClear": "EgoAwaken_Dongbaek"
+      "stageScriptNameAfterClear": "EgoAwaken_Dongbaek",
+      "includeBoss": 1
     },
     {
       "id": 10449,

@@ -254,7 +254,7 @@
         }
       ],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "LightningBeast",
+      "stageScriptNameAfterClear": "LightningBeast_Easy",
       "abnormalityEventList": [
         803201
       ]
@@ -759,7 +759,7 @@
         }
       ],
       "dangerLevel": 0,
-      "stageScriptNameAfterClear": "LightningBeast",
+      "stageScriptNameAfterClear": "LightningBeast_Hard",
       "abnormalityEventList": [
         803201
       ]

@@ -90,6 +90,7 @@
     {
       "id": "S2Mirror1stFloor_Hard",
       "buffClass": "NonvolatileBuff",
+      "iconId": "S2Mirror1stFloor",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
@@ -119,6 +120,7 @@
     },
     {
       "id": "S2Mirror2ndFloor_Hard",
+      "iconId": "S2Mirror2ndFloor",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
       "canBeDespelled": false,
@@ -150,6 +152,7 @@
     {
       "id": "S2Mirror3rdFloor_Hard",
       "buffClass": "NonvolatileBuff",
+      "iconId": "S2Mirror3rdFloor",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
@@ -180,6 +183,7 @@
     {
       "id": "S2Mirror4thFloor_Hard",
       "buffClass": "NonvolatileBuff",
+      "iconId": "S2Mirror4thFloor",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [
@@ -210,6 +214,7 @@
     {
       "id": "S2Mirror5thFloor_Hard",
       "buffClass": "NonvolatileBuff",
+      "iconId": "S2Mirror5thFloor",
       "buffType": "Neutral",
       "canBeDespelled": false,
       "list": [

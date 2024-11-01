@@ -2,7 +2,7 @@
   "list": [
     {
       "id": 2,
-      "isCurrentForUI": true,
+      "isCurrentForUI": false,
       "isExRewardAcquirable": true,
       "limbusExRewardAcquireType": "COLLECT_AFTER_LIMBUS_PURCHASED",
       "exRewardStartDate": "2023-06-15T03:00:00.000Z",

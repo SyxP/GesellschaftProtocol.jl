@@ -6300,7 +6300,6 @@
         800101,
         800105
       ],
-      "includeBoss": 1,
       "attackType": "SLASH",
       "attributeType": "INDIGO"
     },
@@ -6376,7 +6375,6 @@
         800205,
         800206
       ],
-      "includeBoss": 1,
       "attackType": "HIT",
       "attributeType": "AMBER"
     },
@@ -6424,7 +6422,6 @@
       "abnormalityEventList": [
         800801
       ],
-      "includeBoss": 2,
       "attackType": "HIT",
       "attributeType": "AMBER"
     },

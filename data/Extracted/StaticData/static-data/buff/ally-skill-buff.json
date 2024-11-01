@@ -2,6 +2,7 @@
   "list": [
     {
       "id": "NailPersonality",
+      "iconId": "Nail",
       "buffClass": "NonvolatileBuff",
       "buffType": "Negative",
       "canBeDespelled": true,
@@ -25,6 +26,7 @@
     },
     {
       "id": "AssemblePersonality",
+      "iconId": "Assemble",
       "buffClass": "VolatileBuff",
       "buffType": "Positive",
       "canBeDespelled": true,
@@ -66,82 +68,6 @@
       ]
     },
     {
-      "id": "ExaltedPersonality",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Neutral",
-      "maxStack": 5,
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "RecoverSelfMpByStackOnRoundStart",
-          "value": 1.5
-        },
-        {
-          "ability": "GiveBuffOnRoundStart",
-          "value": 1,
-          "buffData": {
-            "buffKeyword": "AttackDmgUp",
-            "target": "Self",
-            "stack": -1,
-            "turn": 0,
-            "activeRound": 0
-          }
-        },
-        {
-          "ability": "GiveBuffOnRoundStart",
-          "value": 1,
-          "buffData": {
-            "buffKeyword": "Vulnerable",
-            "target": "Self",
-            "stack": -1,
-            "turn": 0,
-            "activeRound": 0
-          }
-        },
-        {
-          "ability": "GiveBuffOnRoundStart",
-          "value": 1,
-          "buffData": {
-            "buffKeyword": "Binding",
-            "target": "Self",
-            "stack": -1,
-            "turn": 0,
-            "activeRound": 0
-          }
-        },
-        {
-          "ability": "RefreshSpeedOnRoundStart"
-        },
-        {
-          "ability": "LoseStackOnTakeAttackDamage",
-          "value": 1
-        }
-      ]
-    },
-    {
-      "id": "FairyLiquor",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "FairyLiquor"
-        }
-      ]
-    },
-    {
-      "id": "TipsinessPersonality",
-      "buffClass": "VolatileBuff",
-      "buffType": "Negative",
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "ParryingResultAdderAsStack",
-          "value": -1
-        }
-      ]
-    },
-    {
       "id": "MpTakeDamageDown",
       "buffClass": "VolatileBuff",
       "buffType": "Positive",
@@ -150,27 +76,6 @@
         {
           "ability": "MpTakeDamageDown",
           "value": -0.1
-        }
-      ]
-    },
-    {
-      "id": "Florescence",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "canBeDespelled": false,
-      "list": [
-
-      ]
-    },
-    {
-      "id": "Fragrance",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Negative",
-      "maxStack": 5,
-      "canBeDespelled": true,
-      "list": [
-        {
-          "ability": "Fragrance"
         }
       ]
     },
@@ -249,6 +154,15 @@
         {
           "ability": "PinkRibbonIshmael"
         }
+      ]
+    },
+    {
+      "id": "Unjust_Enrichment",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 4,
+      "canBeDespelled": true,
+      "list": [
       ]
     }
   ]
