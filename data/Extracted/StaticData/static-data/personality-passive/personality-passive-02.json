@@ -27,11 +27,17 @@
           "passiveIDList": [
             1020201
           ]
+        },
+        {
+          "level": 4,
+          "passiveIDList": [
+            1020211
+          ]
         }
       ],
       "supporterPassiveList": [
         {
-          "level": 2,
+          "level": 3,
           "passiveIDList": [
             1020221
           ]
@@ -50,7 +56,7 @@
       ],
       "supporterPassiveList": [
         {
-          "level": 2,
+          "level": 3,
           "passiveIDList": [
             1020321
           ]
@@ -65,6 +71,12 @@
           "passiveIDList": [
             1020401
           ]
+        },
+        {
+          "level": 4,
+          "passiveIDList": [
+            1020411
+          ]
         }
       ],
       "supporterPassiveList": [
@@ -72,6 +84,12 @@
           "level": 3,
           "passiveIDList": [
             1020421
+          ]
+        },
+        {
+          "level": 4,
+          "passiveIDList": [
+            1020431
           ]
         }
       ]

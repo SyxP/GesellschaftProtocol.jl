@@ -19,17 +19,16 @@
         "defaultStat": 66,
         "incrementByLevel": 2.28
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.57
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -98,17 +97,7 @@
           "skillId": 1060103,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1060101
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1060121
-        ]
-      }
+      ]
     },
     {
       "id": 10602,
@@ -129,18 +118,17 @@
         "defaultStat": 76,
         "incrementByLevel": 2.6
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2,
+        3,
         3,
         3
       ],
       "maxSpeedList": [
         6,
         6,
+        7,
         7
       ],
       "uniqueAttribute": "SCARLET",
@@ -208,17 +196,7 @@
           "skillId": 1060203,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1060201
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1060221
-        ]
-      }
+      ]
     },
     {
       "id": 10603,
@@ -239,17 +217,16 @@
         "defaultStat": 76,
         "incrementByLevel": 2.6
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -318,17 +295,7 @@
           "skillId": 1060303,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1060301
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1060321
-        ]
-      }
+      ]
     },
     {
       "id": 10604,
@@ -349,17 +316,16 @@
         "defaultStat": 76,
         "incrementByLevel": 2.6
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -427,17 +393,7 @@
           "skillId": 1060403,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1060401
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1060421
-        ]
-      }
+      ]
     },
     {
       "id": 10605,
@@ -458,18 +414,17 @@
         "defaultStat": 99,
         "incrementByLevel": 3.41
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 0.86
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         1,
+        2,
         2,
         2
       ],
       "maxSpeedList": [
         5,
         5,
+        6,
         6
       ],
       "uniqueAttribute": "SHAMROCK",
@@ -535,17 +490,7 @@
           "skillId": 1060503,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1060501
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1060521
-        ]
-      }
+      ]
     }
   ]
 }

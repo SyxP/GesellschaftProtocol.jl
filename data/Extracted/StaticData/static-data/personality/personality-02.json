@@ -19,18 +19,17 @@
         "defaultStat": 84,
         "incrementByLevel": 2.9
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.72
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1,
+        2,
         2,
         2
       ],
       "maxSpeedList": [
         3,
         3,
+        4,
         4
       ],
       "uniqueAttribute": "INDIGO",
@@ -98,17 +97,7 @@
           "skillId": 1020103,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1020101
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1020121
-        ]
-      }
+      ]
     },
     {
       "id": 10202,
@@ -129,18 +118,17 @@
         "defaultStat": 88,
         "incrementByLevel": 3.05
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.76
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1,
+        2,
         2,
         2
       ],
       "maxSpeedList": [
         3,
         3,
+        4,
         4
       ],
       "uniqueAttribute": "VIOLET",
@@ -207,17 +195,7 @@
           "skillId": 1020203,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1020201
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1020221
-        ]
-      }
+      ]
     },
     {
       "id": 10203,
@@ -238,17 +216,16 @@
         "defaultStat": 69,
         "incrementByLevel": 2.39
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.6
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -317,17 +294,7 @@
           "skillId": 1020303,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1020301
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1020321
-        ]
-      }
+      ]
     },
     {
       "id": 10204,
@@ -348,11 +315,9 @@
         "defaultStat": 66,
         "incrementByLevel": 2.28
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.63
-      },
+      "defCorrection": -1,
       "minSpeedList": [
+        4,
         4,
         4,
         4
@@ -360,6 +325,7 @@
       "maxSpeedList": [
         5,
         6,
+        7,
         7
       ],
       "uniqueAttribute": "SCARLET",
@@ -427,17 +393,7 @@
           "skillId": 1020403,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1020401
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1020421
-        ]
-      }
+      ]
     }
   ]
 }

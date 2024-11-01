@@ -59,7 +59,22 @@
               ],
               "profileId": "ncorp_donquixote_profile",
               "analysisId": "ncorp_donquixote_analysis"
-          }
+          },
+          {
+            "personalityId": 10305,
+            "releaseDay": 20230720,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10305",
+                "lockCondition": "gacksung",
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "cinq_donquixote_profile",
+            "analysisId": "cinq_donquixote_analysis"
+        }
         ]
     }
   ]

@@ -14,8 +14,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 10,
-          "defaultSkillLevel": 13.0,
-          "skillLevelPerUnitLevel": 0.67,
+          "skillLevelCorrection" : 0,
           "defaultValue": 10,
           "canTeamKill": false,
           "canDuel": true,
@@ -76,6 +75,36 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatio30IfHpRatioNotLessThan50"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 13,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "2090111_1_gaksung4th"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -93,8 +122,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.79,
+          "skillLevelCorrection" : 3,
           "defaultValue": 33,
           "canTeamKill": false,
           "canDuel": true,
@@ -156,6 +184,10 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3
         }
       ]
     },
@@ -173,8 +205,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 3,
           "mpUsage": 20,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.79,
+          "skillLevelCorrection" : 3,
           "defaultValue": 28,
           "canTeamKill": true,
           "canDuel": true,
@@ -236,6 +267,10 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 5
         }
       ]
     },
@@ -253,8 +288,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 3,
           "mpUsage": 20,
-          "defaultSkillLevel": 14.0,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection" : 1,
           "defaultValue": 13,
           "canTeamKill": false,
           "canDuel": true,
@@ -320,6 +354,37 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "defaultValue": 15,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatio30IfHpRatioNotLessThan50"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 15,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 5,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -337,8 +402,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 14.0,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection" : 1,
           "defaultValue": 17,
           "canTeamKill": true,
           "canDuel": true,
@@ -404,6 +468,40 @@
                     "buffOwner": "",
                     "stack": 0,
                     "turn": 6,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackHighestHpTarget"
+            },
+            {
+              "scriptName": "AttackDmgUpByRatio30IfHpRatioNotLessThan50"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 8,
                     "activeRound": 0
                   }
                 }

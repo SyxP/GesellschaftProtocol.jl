@@ -688,6 +688,18 @@
       ]
     },
     {
+      "id": 1070311,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
       "id": 1080301,
       "attributeStockCondition": [
         {
@@ -1414,6 +1426,18 @@
       ]
     },
     {
+      "id": 1050611,
+      "attributeStockCondition": [
+        {
+          "type": "VIOLET",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
       "id": 1050621,
       "attributeStockCondition": [
         {
@@ -1442,6 +1466,30 @@
       "attributeResonanceCondition": [
         {
           "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1030501,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1030521,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
           "value": 3
         }
       ],

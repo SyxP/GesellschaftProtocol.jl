@@ -27,24 +27,11 @@
           "passiveIDList": [
             1080201
           ]
-        }
-      ],
-      "supporterPassiveList": [
+        },
         {
-          "level": 3,
+          "level": 4,
           "passiveIDList": [
-            1080221
-          ]
-        }
-      ]
-    },
-    {
-      "personalityID": 10802,
-      "battlePassiveList": [
-        {
-          "level": 2,
-          "passiveIDList": [
-            1080201
+            1080211
           ]
         }
       ],
@@ -102,6 +89,12 @@
           "level": 2,
           "passiveIDList": [
             1080501
+          ]
+        },
+        {
+          "level": 4,
+          "passiveIDList": [
+            1080511
           ]
         }
       ],

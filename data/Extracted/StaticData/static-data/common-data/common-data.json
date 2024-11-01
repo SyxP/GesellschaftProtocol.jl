@@ -245,18 +245,122 @@
       6075
     ],
     "gacksungPieceTable": {
-      "rank1":[0,0],
-      "rank2":[10,40],
-      "rank3":[20,80]
+      "rank1": [
+        {
+          "thread": 0,
+          "piece": 0
+        },
+        {
+          "thread": 0,
+          "piece": 0
+        },
+        {
+          "thread": 50,
+          "piece": 20
+        }
+      ],
+      "rank2": [
+        {
+          "thread": 10,
+          "piece": 0
+        },
+        {
+          "thread": 40,
+          "piece": 0
+        },
+        {
+          "thread": 100,
+          "piece": 30
+        }
+      ],
+      "rank3": [
+        {
+          "thread": 20,
+          "piece": 0
+        },
+        {
+          "thread": 80,
+          "piece": 0
+        },
+        {
+          "thread": 150,
+          "piece": 50
+        }
+      ]
     }
   },
   "egoLevelTable": {
     "gacksungPieceTable": {
-      "ZAYIN":[20,60],
-      "TETH":[25,70],
-      "HE":[30,80],
-      "WAW":[35,90],
-      "ALEPH":[40,100]
+      "ZAYIN": [
+        {
+          "thread": 20,
+          "piece": 0
+        },
+        {
+          "thread": 60,
+          "piece": 0
+        },
+        {
+          "thread": 110,
+          "piece": 80
+        }
+      ],
+      "TETH": [
+        {
+          "thread": 25,
+          "piece": 0
+        },
+        {
+          "thread": 70,
+          "piece": 0
+        },
+        {
+          "thread": 130,
+          "piece": 90
+        }
+      ],
+      "HE": [
+        {
+          "thread": 30,
+          "piece": 0
+        },
+        {
+          "thread": 80,
+          "piece": 0
+        },
+        {
+          "thread": 150,
+          "piece": 100
+        }
+      ],
+      "WAW": [
+        {
+          "thread": 35,
+          "piece": 0
+        },
+        {
+          "thread": 90,
+          "piece": 0
+        },
+        {
+          "thread": 170,
+          "piece": 150
+        }
+      ],
+      "ALEPH": [
+        {
+          "thread": 40,
+          "piece": 0
+        },
+        {
+          "thread": 100,
+          "piece": 0
+        },
+        {
+          "thread": 200,
+          "piece": 250
+        }
+      ]
     }
   },
   "needAmountToTicket": {

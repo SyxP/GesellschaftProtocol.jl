@@ -19,17 +19,16 @@
         "defaultStat": 78,
         "incrementByLevel": 2.69
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1,
         1,
+        2,
         2
       ],
       "maxSpeedList": [
         4,
+        5,
         5,
         5
       ],
@@ -98,17 +97,7 @@
           "skillId": 1070103,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1070101
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1070121
-        ]
-      }
+      ]
     },
     {
       "id": 10702,
@@ -129,17 +118,16 @@
         "defaultStat": 82,
         "incrementByLevel": 2.82
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.65
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1,
         1,
+        2,
         2
       ],
       "maxSpeedList": [
         4,
+        5,
         5,
         5
       ],
@@ -207,17 +195,7 @@
           "skillId": 1070203,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1070201
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1070221
-        ]
-      }
+      ]
     },
     {
       "id": 10703,
@@ -229,6 +207,26 @@
       "defenseSkillIDList": [
         1070304
       ],
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "Bullet",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "list": [
+            {
+              "buff": "Bullet",
+              "count": 16
+            }
+          ]
+        }
+      ],
       "panicSkillOnErosion" : 1000104,
       "slotWeightConditionList": [
         "Default1"
@@ -238,11 +236,9 @@
         "defaultStat": 66,
         "incrementByLevel": 2.28
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.57
-      },
+      "defCorrection": -4,
       "minSpeedList": [
+        3,
         3,
         3,
         3
@@ -250,6 +246,7 @@
       "maxSpeedList": [
         5,
         6,
+        7,
         7
       ],
       "uniqueAttribute": "CRIMSON",
@@ -317,17 +314,7 @@
           "skillId": 1070303,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1070301
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1070321
-        ]
-      }
+      ]
     },
     {
       "id": 10704,
@@ -348,18 +335,17 @@
         "defaultStat": 76,
         "incrementByLevel": 2.6
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2,
+        3,
         3,
         3
       ],
       "maxSpeedList": [
         6,
         6,
+        7,
         7
       ],
       "uniqueAttribute": "CRIMSON",
@@ -427,17 +413,7 @@
           "skillId": 1070403,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1070401
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1070421
-        ]
-      }
+      ]
     },
     {
       "id": 10705,
@@ -458,17 +434,16 @@
         "defaultStat": 86,
         "incrementByLevel": 2.96
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.68
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         4,
+        5,
         5,
         5
       ],
@@ -494,6 +469,9 @@
           {
             "level": 1,
             "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
               {
                 "conditionID": "OnDieAllyAsLevelRatio10"
               }
@@ -536,17 +514,7 @@
           "skillId": 1070503,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1070501
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1070521
-        ]
-      }
+      ]
     }
   ]
 }

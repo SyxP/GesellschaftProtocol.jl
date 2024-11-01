@@ -12,10 +12,7 @@
         "defaultStat": 999,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -109,10 +106,7 @@
         "defaultStat": 999,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         10
       ],
@@ -206,10 +200,7 @@
         "defaultStat": 999,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         10
       ],
@@ -304,10 +295,7 @@
         "defaultStat": 80,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -389,10 +377,7 @@
         "defaultStat": 65,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -474,10 +459,7 @@
         "defaultStat": 70,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -559,10 +541,7 @@
         "defaultStat": 66,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -644,10 +623,7 @@
         "defaultStat": 68,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -728,10 +704,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -852,10 +825,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -976,10 +946,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1100,10 +1067,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1224,10 +1188,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1348,10 +1309,7 @@
         "defaultStat": 59,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1472,10 +1430,7 @@
         "defaultStat": 59,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1595,10 +1550,7 @@
         "defaultStat": 59,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1718,10 +1670,7 @@
         "defaultStat": 63,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1841,10 +1790,7 @@
         "defaultStat": 79,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1969,10 +1915,7 @@
         "defaultStat": 49,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -2093,10 +2036,7 @@
         "defaultStat": 43,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -2218,10 +2158,7 @@
         "defaultStat": 49,
         "incrementByLevel": 0.19
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0.19
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -2342,10 +2279,7 @@
         "defaultStat": 20,
         "incrementByLevel": 0.69
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -2473,10 +2407,7 @@
         "defaultStat": 20,
         "incrementByLevel": 0.69
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -2604,10 +2535,7 @@
         "defaultStat": 20,
         "incrementByLevel": 0.69
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -2734,10 +2662,7 @@
         "defaultStat": 35,
         "incrementByLevel": 1.21
       },
-      "def": {
-        "defaultStat": 7,
-        "incrementByLevel": 0.56
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         1
       ],
@@ -2872,10 +2797,7 @@
         "defaultStat": 35,
         "incrementByLevel": 1.21
       },
-      "def": {
-        "defaultStat": 8,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -3002,10 +2924,7 @@
         "defaultStat": 23,
         "incrementByLevel": 0.79
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.43
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -3132,10 +3051,7 @@
         "defaultStat": 28,
         "incrementByLevel": 0.97
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.55
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -3266,10 +3182,7 @@
         "defaultStat": 38,
         "incrementByLevel": 1.31
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.68
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -3401,10 +3314,7 @@
         "defaultStat": 25,
         "incrementByLevel": 0.86
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         3
       ],
@@ -3540,10 +3450,7 @@
         "defaultStat": 30,
         "incrementByLevel": 1.03
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -3679,10 +3586,7 @@
         "defaultStat": 40,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.72
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -3818,10 +3722,7 @@
         "defaultStat": 27,
         "incrementByLevel": 0.93
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],
@@ -3957,10 +3858,7 @@
         "defaultStat": 32,
         "incrementByLevel": 1.1
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -4096,10 +3994,7 @@
         "defaultStat": 50,
         "incrementByLevel": 1.72
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.76
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -4235,10 +4130,7 @@
         "defaultStat": 33,
         "incrementByLevel": 1.14
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -4374,10 +4266,7 @@
         "defaultStat": 40,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -4513,10 +4402,7 @@
         "defaultStat": 68,
         "incrementByLevel": 2.34
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         4
       ],
@@ -4657,10 +4543,7 @@
         "defaultStat": 84,
         "incrementByLevel": 2.9
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.82
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         4
       ],
@@ -4806,10 +4689,7 @@
         "defaultStat": 46,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.58
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -4945,10 +4825,7 @@
         "defaultStat": 46,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.58
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -5084,10 +4961,7 @@
         "defaultStat": 46,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.58
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -5223,10 +5097,7 @@
         "defaultStat": 167,
         "incrementByLevel": 5.76
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.68
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],
@@ -5376,10 +5247,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -5515,10 +5383,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -5654,10 +5519,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -5789,10 +5651,7 @@
         "defaultStat": 78,
         "incrementByLevel": 2.69
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5929,10 +5788,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -6069,10 +5925,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -6209,10 +6062,7 @@
         "defaultStat": 184,
         "incrementByLevel": 6.35
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],
@@ -6362,10 +6212,7 @@
         "defaultStat": 55,
         "incrementByLevel": 1.9
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -6500,10 +6347,7 @@
         "defaultStat": 55,
         "incrementByLevel": 1.9
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -6639,10 +6483,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.79
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -6783,10 +6624,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.79
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -6927,10 +6765,7 @@
         "defaultStat": 70,
         "incrementByLevel": 2.41
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -7067,10 +6902,7 @@
         "defaultStat": 70,
         "incrementByLevel": 2.41
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -7207,10 +7039,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.52
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -7348,10 +7177,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.52
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -7489,10 +7315,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.52
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -7630,10 +7453,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.83
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -7775,10 +7595,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.83
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -7921,10 +7738,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.83
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -8067,10 +7881,7 @@
         "defaultStat": 77,
         "incrementByLevel": 2.66
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -8213,10 +8024,7 @@
         "defaultStat": 77,
         "incrementByLevel": 2.66
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -8359,10 +8167,7 @@
         "defaultStat": 77,
         "incrementByLevel": 2.66
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -8506,10 +8311,7 @@
         "defaultStat": 193,
         "incrementByLevel": 6.66
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         3
       ],
@@ -8658,10 +8460,7 @@
         "defaultStat": 193,
         "incrementByLevel": 6.66
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -9292,10 +9091,7 @@
         "defaultStat": 40,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -9416,6 +9212,7 @@
     },
     {
       "id": 97101,
+      "sdPortrait": "90011",
       "appearance": "90011_GCorp_Normal_BaldAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -9426,10 +9223,7 @@
         "defaultStat": 38,
         "incrementByLevel": 1.31
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.68
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -9551,6 +9345,7 @@
     },
     {
       "id": 97102,
+      "sdPortrait": "90012",
       "appearance": "90012_GCorp_Normal_BobAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -9561,10 +9356,7 @@
         "defaultStat": 25,
         "incrementByLevel": 0.86
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         3
       ],
@@ -9690,6 +9482,7 @@
     },
     {
       "id": 97103,
+      "sdPortrait": "90013",
       "appearance": "90013_GCorp_Normal_ShortcutAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -9700,10 +9493,7 @@
         "defaultStat": 30,
         "incrementByLevel": 1.03
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -9829,6 +9619,7 @@
     },
     {
       "id": 97104,
+      "sdPortrait": "90001",
       "appearance": "90001_GCorp_Enhanced_BaldAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -9839,10 +9630,7 @@
         "defaultStat": 40,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.72
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -9968,6 +9756,7 @@
     },
     {
       "id": 97105,
+      "sdPortrait": "90002",
       "appearance": "90002_GCorp_Enhanced_ShortcutAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -9978,10 +9767,7 @@
         "defaultStat": 27,
         "incrementByLevel": 0.93
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],
@@ -10107,6 +9893,7 @@
     },
     {
       "id": 97106,
+      "sdPortrait": "90003",
       "appearance": "90003_GCorp_Enhanced_BobAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -10117,10 +9904,7 @@
         "defaultStat": 32,
         "incrementByLevel": 1.1
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -10246,6 +10030,7 @@
     },
     {
       "id": 97107,
+      "sdPortrait": "90014",
       "appearance": "90014_GCorp_Infested_BaldAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -10256,10 +10041,7 @@
         "defaultStat": 50,
         "incrementByLevel": 1.72
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.76
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -10385,6 +10167,7 @@
     },
     {
       "id": 97108,
+      "sdPortrait": "90015",
       "appearance": "90015_GCorp_Infested_BobAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 5,
@@ -10395,10 +10178,7 @@
         "defaultStat": 33,
         "incrementByLevel": 1.14
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -10524,6 +10304,7 @@
     },
     {
       "id": 97109,
+      "sdPortrait": "90016",
       "appearance": "90016_GCorp_Infested_ShortcutAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -10534,10 +10315,7 @@
         "defaultStat": 40,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -10663,6 +10441,7 @@
     },
     {
       "id": 97151,
+      "sdPortrait": "91001",
       "appearance": "91001_GCorp_Enhanced_BossAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -10673,10 +10452,7 @@
         "defaultStat": 68,
         "incrementByLevel": 2.34
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         4
       ],
@@ -10807,6 +10583,7 @@
     },
     {
       "id": 97152,
+      "sdPortrait": "91002",
       "appearance": "91002_GCorp_Infested_BossAppearance",
       "unitKeywordList": [ "G_CORP" ],
       "level": 1,
@@ -10817,10 +10594,7 @@
         "defaultStat": 84,
         "incrementByLevel": 2.9
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.82
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         4
       ],
@@ -10955,6 +10729,7 @@
     },
     {
       "id": 97201,
+      "sdPortrait": "90020",
       "appearance": "90020_VipAppearance",
       "unitKeywordList": [ "CASINO_SECURITY" ],
       "level": 1,
@@ -10965,10 +10740,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -11094,6 +10866,7 @@
     },
     {
       "id": 97202,
+      "sdPortrait": "90021",
       "appearance": "90021_VipAppearance",
       "unitKeywordList": [ "CASINO_SECURITY" ],
       "level": 1,
@@ -11104,10 +10877,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -11233,6 +11003,7 @@
     },
     {
       "id": 97203,
+      "sdPortrait": "90022",
       "appearance": "90022_VipAppearance",
       "unitKeywordList": [ "CASINO_SECURITY" ],
       "level": 1,
@@ -11243,10 +11014,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -11368,6 +11136,7 @@
     },
     {
       "id": 97204,
+      "sdPortrait": "90024",
       "appearance": "90024_MexicanAppearance",
       "unitKeywordList": [ "MARIACHI" ],
       "patternID": "90024",
@@ -11379,10 +11148,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -11508,6 +11274,7 @@
     },
     {
       "id": 97205,
+      "sdPortrait": "90025",
       "appearance": "90025_MexicanAppearance",
       "unitKeywordList": [ "MARIACHI" ],
       "patternID": "90025",
@@ -11519,10 +11286,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.62
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -11648,6 +11412,7 @@
     },
     {
       "id": 97206,
+      "sdPortrait": "90026",
       "appearance": "90026_CnBigGuyAppearance",
       "unitKeywordList": [ "TIEQIU" ],
       "level": 1,
@@ -11658,10 +11423,7 @@
         "defaultStat": 55,
         "incrementByLevel": 1.9
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -11787,6 +11549,7 @@
     },
     {
       "id": 97207,
+      "sdPortrait": "90027",
       "appearance": "90027_CnBigGuyAppearance",
       "unitKeywordList": [ "TIEQIU" ],
       "level": 5,
@@ -11797,10 +11560,7 @@
         "defaultStat": 55,
         "incrementByLevel": 1.9
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -11926,6 +11686,7 @@
     },
     {
       "id": 97251,
+      "sdPortrait": "90023",
       "appearance": "90023_VipAppearance",
       "unitKeywordList": [ "CASINO_SECURITY" ],
       "level": 1,
@@ -11936,10 +11697,7 @@
         "defaultStat": 78,
         "incrementByLevel": 2.69
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -12065,6 +11823,7 @@
     },
     {
       "id": 97252,
+      "sdPortrait": "91004",
       "appearance": "91004_EyedAppearance",
       "unitKeywordList": [ "MARIACHI" ],
       "patternID": "91004",
@@ -12076,10 +11835,7 @@
         "defaultStat": 184,
         "incrementByLevel": 6.35
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         3
       ],
@@ -12219,6 +11975,7 @@
     },
     {
       "id": 97301,
+      "sdPortrait": "90032",
       "appearance": "90032_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -12229,10 +11986,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.52
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -12360,6 +12114,7 @@
     },
     {
       "id": 97302,
+      "sdPortrait": "90032",
       "appearance": "90032_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -12370,10 +12125,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.52
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -12501,6 +12253,7 @@
     },
     {
       "id": 97303,
+      "sdPortrait": "90032",
       "appearance": "90032_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -12511,10 +12264,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.52
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -12642,6 +12392,7 @@
     },
     {
       "id": 97304,
+      "sdPortrait": "90035",
       "appearance": "90035_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -12652,10 +12403,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.83
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -12787,6 +12535,7 @@
     },
     {
       "id": 97305,
+      "sdPortrait": "90035",
       "appearance": "90035_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -12797,10 +12546,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.83
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -12933,6 +12679,7 @@
     },
     {
       "id": 97306,
+      "sdPortrait": "90035",
       "appearance": "90035_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -12943,10 +12690,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.83
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.66
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -13079,6 +12823,7 @@
     },
     {
       "id": 97307,
+      "sdPortrait": "90038",
       "appearance": "90038_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -13089,10 +12834,7 @@
         "defaultStat": 77,
         "incrementByLevel": 2.66
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -13225,6 +12967,7 @@
     },
     {
       "id": 97308,
+      "sdPortrait": "90038",
       "appearance": "90038_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 6,
@@ -13235,10 +12978,7 @@
         "defaultStat": 77,
         "incrementByLevel": 2.66
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -13371,6 +13111,7 @@
     },
     {
       "id": 97309,
+      "sdPortrait": "90038",
       "appearance": "90038_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "level": 1,
@@ -13381,10 +13122,7 @@
         "defaultStat": 77,
         "incrementByLevel": 2.66
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -13517,6 +13255,7 @@
     },
     {
       "id": 97351,
+      "sdPortrait": "91006",
       "appearance": "91006_NCorpAppearance",
       "unitKeywordList": [ "N_CORP" ],
       "patternID": "91006",
@@ -13528,10 +13267,7 @@
         "defaultStat": 193,
         "incrementByLevel": 6.66
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -14162,10 +13898,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.66
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.47
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -14301,10 +14034,7 @@
         "defaultStat": 45,
         "incrementByLevel": 1.55
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.47
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -14440,10 +14170,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.45
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.41
-      },
+      "defCorrection": -6,
       "minSpeedList": [
         3
       ],
@@ -14579,10 +14306,7 @@
         "defaultStat": 70,
         "incrementByLevel": 2.41
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.72
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -14722,10 +14446,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.34
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.67
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -14833,10 +14554,7 @@
         "defaultStat": 45,
         "incrementByLevel": 1.55
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.47
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -14945,10 +14663,7 @@
         "defaultStat": 61,
         "incrementByLevel": 2.1
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -15057,10 +14772,7 @@
         "defaultStat": 62,
         "incrementByLevel": 2.14
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.47
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -15178,10 +14890,7 @@
         "defaultStat": 85,
         "incrementByLevel": 2.93
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -15299,10 +15008,7 @@
         "defaultStat": 81,
         "incrementByLevel": 2.79
       },
-      "def": {
-        "defaultStat": 23,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -15665,10 +15371,7 @@
         "defaultStat": 65,
         "incrementByLevel": 2.24
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -15939,10 +15642,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.79
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.67
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         4
       ],
@@ -16213,10 +15913,7 @@
         "defaultStat": 56,
         "incrementByLevel": 1.93
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -16487,10 +16184,7 @@
         "defaultStat": 151,
         "incrementByLevel": 5.21
       },
-      "def": {
-        "defaultStat": 20,
-        "incrementByLevel": 0.69
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         3
       ],
@@ -16994,10 +16688,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.66
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -17139,10 +16830,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.79
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.69
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -17284,10 +16972,7 @@
         "defaultStat": 86,
         "incrementByLevel": 2.97
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         4
       ],
@@ -17404,10 +17089,7 @@
         "defaultStat": 86,
         "incrementByLevel": 2.97
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 1.12
-      },
+      "defCorrection": 10,
       "minSpeedList": [
         4
       ],
@@ -17536,10 +17218,7 @@
         "defaultStat": 43,
         "incrementByLevel": 1.48
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.67
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -17656,10 +17335,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.35
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.67
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -17780,10 +17456,7 @@
         "defaultStat": 172,
         "incrementByLevel": 5.93
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -18218,10 +17891,7 @@
         "defaultStat": 54,
         "incrementByLevel": 1.86
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -18361,10 +18031,7 @@
         "defaultStat": 38,
         "incrementByLevel": 1.31
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.43
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -18505,10 +18172,7 @@
         "defaultStat": 67,
         "incrementByLevel": 2.31
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         1
       ],
@@ -18651,10 +18315,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.66
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.43
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -18798,10 +18459,7 @@
         "defaultStat": 50,
         "incrementByLevel": 1.72
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         1
       ],
@@ -18947,10 +18605,7 @@
         "defaultStat": 36,
         "incrementByLevel": 1.24
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -19093,10 +18748,7 @@
         "defaultStat": 135,
         "incrementByLevel": 4.66
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -19255,10 +18907,7 @@
         "defaultStat": 34,
         "incrementByLevel": 1.17
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -19398,10 +19047,7 @@
         "defaultStat": 46,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.88
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -19541,10 +19187,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.66
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -19688,10 +19331,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.79
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.69
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -19839,10 +19479,7 @@
         "defaultStat": 60,
         "incrementByLevel": 2.07
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.69
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -19982,10 +19619,7 @@
         "defaultStat": 74,
         "incrementByLevel": 2.55
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         1
       ],
@@ -20126,10 +19760,7 @@
         "defaultStat": 86,
         "incrementByLevel": 2.97
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.83
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         2
       ],
@@ -20402,10 +20033,7 @@
         "defaultStat": 34,
         "incrementByLevel": 1.17
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -20547,10 +20175,7 @@
         "defaultStat": 34,
         "incrementByLevel": 1.17
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -20692,10 +20317,7 @@
         "defaultStat": 46,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.88
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -20833,10 +20455,7 @@
         "defaultStat": 46,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.88
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -20975,10 +20594,7 @@
         "defaultStat": 150,
         "incrementByLevel": 5.17
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],

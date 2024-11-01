@@ -19,11 +19,9 @@
         "defaultStat": 72,
         "incrementByLevel": 2.48
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.72
-      },
+      "defCorrection": -2,
       "minSpeedList": [
+        4,
         4,
         4,
         4
@@ -31,6 +29,7 @@
       "maxSpeedList": [
         6,
         7,
+        8,
         8
       ],
       "uniqueAttribute": "AZURE",
@@ -98,17 +97,7 @@
           "skillId": 1010103,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1010101
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1010121
-        ]
-      }
+      ]
     },
     {
       "id": 10102,
@@ -129,11 +118,9 @@
         "defaultStat": 82,
         "incrementByLevel": 2.82
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
+        5,
         5,
         5,
         5
@@ -141,6 +128,7 @@
       "maxSpeedList": [
         6,
         7,
+        8,
         8
       ],
       "uniqueAttribute": "AZURE",
@@ -207,17 +195,7 @@
           "skillId": 1010202,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1010201
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1010221
-        ]
-      }
+      ]
     },
     {
       "id": 10103,
@@ -238,11 +216,9 @@
         "defaultStat": 66,
         "incrementByLevel": 2.28
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.57
-      },
+      "defCorrection": -4,
       "minSpeedList": [
+        3,
         3,
         3,
         3
@@ -250,6 +226,7 @@
       "maxSpeedList": [
         5,
         6,
+        7,
         7
       ],
       "uniqueAttribute": "INDIGO",
@@ -317,17 +294,7 @@
           "skillId": 1010303,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1010301
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1010321
-        ]
-      }
+      ]
     },
     {
       "id": 10104,
@@ -348,11 +315,9 @@
         "defaultStat": 66,
         "incrementByLevel": 2.28
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.57
-      },
+      "defCorrection": -4,
       "minSpeedList": [
+        3,
         3,
         3,
         3
@@ -360,6 +325,7 @@
       "maxSpeedList": [
         5,
         6,
+        7,
         7
       ],
       "uniqueAttribute": "AMBER",
@@ -427,17 +393,7 @@
           "skillId": 1010403,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1010401
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1010421
-        ]
-      }
+      ]
     }
   ]
 }

@@ -1,0 +1,124 @@
+{
+  "list": [
+    {
+      "id": 1020211,
+      "attributeStockCondition": [
+        {
+          "type": "VIOLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1100211,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1010311,
+      "attributeStockCondition": [
+        {
+          "type": "INDIGO",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1050311,
+      "attributeStockCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1020411,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1070411,
+      "attributeStockCondition": [
+        {
+          "type": "VIOLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1020431,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1100511,
+      "attributeStockCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1080511,
+      "attributeStockCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1080211,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    }
+  ]
+}

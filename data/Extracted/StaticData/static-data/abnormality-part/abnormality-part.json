@@ -9,10 +9,7 @@
         "defaultStat": 26,
         "incrementByLevel": 0.62
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -97,10 +94,7 @@
         "defaultStat": 18,
         "incrementByLevel": 0.51
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -186,10 +180,7 @@
         "defaultStat": 92,
         "incrementByLevel": 2.54
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -272,10 +263,7 @@
         "defaultStat": 92,
         "incrementByLevel": 2.54
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -360,10 +348,7 @@
         "defaultStat": 148,
         "incrementByLevel": 4.07
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -452,10 +437,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.79
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -540,10 +522,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.79
       },
-      "def": {
-        "defaultStat": 8,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -628,10 +607,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.79
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.47
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -716,10 +692,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.45
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -801,10 +774,7 @@
         "defaultStat": 53,
         "incrementByLevel": 1.45
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -886,10 +856,7 @@
         "defaultStat": 123,
         "incrementByLevel": 3.4
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -969,10 +936,7 @@
         "defaultStat": 35,
         "incrementByLevel": 0.89
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -1055,10 +1019,7 @@
         "defaultStat": 35,
         "incrementByLevel": 0.89
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -1141,10 +1102,7 @@
         "defaultStat": 168,
         "incrementByLevel": 5.81
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1231,10 +1189,7 @@
         "defaultStat": 38,
         "incrementByLevel": 1.56
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1320,10 +1275,7 @@
         "defaultStat": 151,
         "incrementByLevel": 6.25
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -1408,10 +1360,7 @@
         "defaultStat": 40,
         "incrementByLevel": 0.96
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -1495,10 +1444,7 @@
         "defaultStat": 40,
         "incrementByLevel": 0.96
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -1582,10 +1528,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.53
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -1670,10 +1613,7 @@
         "defaultStat": 68,
         "incrementByLevel": 1.88
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -1757,10 +1697,7 @@
         "defaultStat": 68,
         "incrementByLevel": 1.88
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -1844,10 +1781,7 @@
         "defaultStat": 64,
         "incrementByLevel": 2.67
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -1932,10 +1866,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.67
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.6
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         4
       ],
@@ -2019,10 +1950,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.67
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.6
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -2106,10 +2034,7 @@
         "defaultStat": 33,
         "incrementByLevel": 0.67
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.43
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -2193,10 +2118,7 @@
         "defaultStat": 29,
         "incrementByLevel": 0.81
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.58
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -2280,10 +2202,7 @@
         "defaultStat": 29,
         "incrementByLevel": 0.81
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.58
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -2367,10 +2286,7 @@
         "defaultStat": 29,
         "incrementByLevel": 0.81
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -2454,10 +2370,7 @@
         "defaultStat": 29,
         "incrementByLevel": 0.81
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -2540,9 +2453,7 @@
       "hp": {
         "defaultStat": 999
       },
-      "def": {
-        "defaultStat": 99
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         4
       ],
@@ -2626,10 +2537,7 @@
         "defaultStat": 99,
         "incrementByLevel": 2.73
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -2714,10 +2622,7 @@
         "defaultStat": 203,
         "incrementByLevel": 6.3
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -2801,10 +2706,7 @@
         "defaultStat": 117,
         "incrementByLevel": 3.63
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         1
       ],
@@ -2889,10 +2791,7 @@
         "defaultStat": 131,
         "incrementByLevel": 3.16
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -2973,10 +2872,7 @@
         "defaultStat": 107,
         "incrementByLevel": 3.69
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         2
       ],
@@ -3061,10 +2957,7 @@
         "defaultStat": 125,
         "incrementByLevel": 4.31
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         2
       ],
@@ -3152,10 +3045,7 @@
         "defaultStat": 125,
         "incrementByLevel": 4.31
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         2
       ],
@@ -3243,10 +3133,7 @@
         "defaultStat": 307,
         "incrementByLevel": 12.69
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -3330,10 +3217,7 @@
         "defaultStat": 116,
         "incrementByLevel": 4.78
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -3419,10 +3303,7 @@
         "defaultStat": 116,
         "incrementByLevel": 4.78
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -3508,10 +3389,7 @@
         "defaultStat": 201,
         "incrementByLevel": 8.32
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -3597,10 +3475,7 @@
         "defaultStat": 157,
         "incrementByLevel": 5.94
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -3690,10 +3565,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.6
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -3778,10 +3650,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.6
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -3866,10 +3735,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.48
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -3954,10 +3820,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -4042,10 +3905,7 @@
         "defaultStat": 121,
         "incrementByLevel": 4.24
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -4130,10 +3990,7 @@
         "defaultStat": 84,
         "incrementByLevel": 3.18
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -4218,10 +4075,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -4306,10 +4160,7 @@
         "defaultStat": 47,
         "incrementByLevel": 1.45
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         1
       ],
@@ -4396,10 +4247,7 @@
         "defaultStat": 54,
         "incrementByLevel": 1.69
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         1
       ],
@@ -4479,6 +4327,7 @@
     },
     {
       "id": 870101,
+      "sdPortrait": "800101",
       "viewid": 800101,
       "slotWeightConditionList": [
         "Default1"
@@ -4487,10 +4336,7 @@
         "defaultStat": 18,
         "incrementByLevel": 0.51
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -4569,6 +4415,7 @@
     },
     {
       "id": 870102,
+      "sdPortrait": "800102",
       "viewid": 800102,
       "slotWeightConditionList": [
         "Default1"
@@ -4577,10 +4424,7 @@
         "defaultStat": 92,
         "incrementByLevel": 2.54
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -4656,6 +4500,7 @@
     },
     {
       "id": 870103,
+      "sdPortrait": "800103",
       "viewid": 800103,
       "slotWeightConditionList": [
         "Default1"
@@ -4664,10 +4509,7 @@
         "defaultStat": 92,
         "incrementByLevel": 2.54
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -4745,6 +4587,7 @@
     },
     {
       "id": 870104,
+      "sdPortrait": "800104",
       "viewid": 800104,
       "slotWeightConditionList": [
         "Default2"
@@ -4753,10 +4596,7 @@
         "defaultStat": 148,
         "incrementByLevel": 4.07
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -4838,6 +4678,7 @@
     },
     {
       "id": 870201,
+      "sdPortrait": "803101",
       "viewid": 803101,
       "slotWeightConditionList": [
         "Default2"
@@ -4846,10 +4687,7 @@
         "defaultStat": 157,
         "incrementByLevel": 5.94
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -4932,6 +4770,7 @@
     },
     {
       "id": 870202,
+      "sdPortrait": "803102",
       "viewid": 803102,
       "slotWeightConditionList": [
         "Default1"
@@ -4940,10 +4779,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.6
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -5021,6 +4857,7 @@
     },
     {
       "id": 870203,
+      "sdPortrait": "803103",
       "viewid": 803103,
       "slotWeightConditionList": [
         "Default1"
@@ -5029,10 +4866,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.6
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -5110,6 +4944,7 @@
     },
     {
       "id": 870204,
+      "sdPortrait": "803104",
       "viewid": 803104,
       "slotWeightConditionList": [
         "Default1"
@@ -5118,10 +4953,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.48
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -5199,6 +5031,7 @@
     },
     {
       "id": 870301,
+      "sdPortrait": "8008",
       "viewid": 800801,
       "slotWeightConditionList": [
         "Default1"
@@ -5207,10 +5040,7 @@
         "defaultStat": 168,
         "incrementByLevel": 5.81
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5290,6 +5120,7 @@
     },
     {
       "id": 870401,
+      "sdPortrait": "800901",
       "viewid": 800901,
       "slotWeightConditionList": [
         "Default1"
@@ -5298,10 +5129,7 @@
         "defaultStat": 38,
         "incrementByLevel": 1.56
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5380,6 +5208,7 @@
     },
     {
       "id": 870402,
+      "sdPortrait": "800902",
       "viewid": 800902,
       "slotWeightConditionList": [
         "Default1"
@@ -5388,10 +5217,7 @@
         "defaultStat": 151,
         "incrementByLevel": 6.25
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5469,6 +5295,7 @@
     },
     {
       "id": 870501,
+      "sdPortrait": "803201",
       "viewid": 803201,
       "slotWeightConditionList": [
         "Default1"
@@ -5477,10 +5304,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5559,6 +5383,7 @@
     },
     {
       "id": 870502,
+      "sdPortrait": "803202",
       "viewid": 803202,
       "slotWeightConditionList": [
         "Default2"
@@ -5567,10 +5392,7 @@
         "defaultStat": 121,
         "incrementByLevel": 4.24
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5648,6 +5470,7 @@
     },
     {
       "id": 870503,
+      "sdPortrait": "803203",
       "viewid": 803203,
       "slotWeightConditionList": [
         "Default1"
@@ -5656,10 +5479,7 @@
         "defaultStat": 84,
         "incrementByLevel": 3.18
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5738,6 +5558,7 @@
     },
     {
       "id": 870504,
+      "sdPortrait": "803204",
       "viewid": 803204,
       "slotWeightConditionList": [
         "Default1"
@@ -5746,10 +5567,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         1
       ],
@@ -5828,6 +5646,7 @@
     },
     {
       "id": 870601,
+      "sdPortrait": "8010",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -5835,10 +5654,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.94
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -5915,6 +5731,7 @@
     },
     {
       "id": 870701,
+      "sdPortrait": "8011",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -5922,10 +5739,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.94
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -6002,6 +5816,7 @@
     },
     {
       "id": 870801,
+      "sdPortrait": "801201",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -6009,10 +5824,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.53
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -6090,6 +5902,7 @@
     },
     {
       "id": 870901,
+      "sdPortrait": "8013",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -6097,10 +5910,7 @@
         "defaultStat": 68,
         "incrementByLevel": 1.88
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -6177,6 +5987,7 @@
     },
     {
       "id": 871001,
+      "sdPortrait": "8014",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -6184,10 +5995,7 @@
         "defaultStat": 68,
         "incrementByLevel": 1.88
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         1
       ],
@@ -6264,6 +6072,7 @@
     },
     {
       "id": 871101,
+      "sdPortrait": "801501",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -6271,10 +6080,7 @@
         "defaultStat": 64,
         "incrementByLevel": 2.67
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -6352,6 +6158,7 @@
     },
     {
       "id": 871201,
+      "sdPortrait": "800201",
       "viewid": 800201,
       "slotWeightConditionList": [
         "Default1"
@@ -6360,10 +6167,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.43
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -6438,6 +6242,7 @@
     },
     {
       "id": 871202,
+      "sdPortrait": "800202",
       "viewid": 800202,
       "slotWeightConditionList": [
         "Default1"
@@ -6446,10 +6251,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.45
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -6524,6 +6326,7 @@
     },
     {
       "id": 871203,
+      "sdPortrait": "800203",
       "viewid": 800203,
       "slotWeightConditionList": [
         "Default1"
@@ -6532,10 +6335,7 @@
         "defaultStat": 122,
         "incrementByLevel": 3.37
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -6608,6 +6408,7 @@
     },
     {
       "id": 871301,
+      "sdPortrait": "8003",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -6615,10 +6416,7 @@
         "defaultStat": 35,
         "incrementByLevel": 0.89
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -6694,6 +6492,7 @@
     },
     {
       "id": 871401,
+      "sdPortrait": "8004",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -6701,10 +6500,7 @@
         "defaultStat": 35,
         "incrementByLevel": 0.89
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -6780,6 +6576,7 @@
     },
     {
       "id": 872101,
+      "sdPortrait": "800101",
       "viewid": 800101,
       "slotWeightConditionList": [
         "Default1"
@@ -6788,10 +6585,7 @@
         "defaultStat": 18,
         "incrementByLevel": 0.51
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -6870,6 +6664,7 @@
     },
     {
       "id": 872102,
+      "sdPortrait": "800102",
       "viewid": 800102,
       "slotWeightConditionList": [
         "Default1"
@@ -6878,10 +6673,7 @@
         "defaultStat": 92,
         "incrementByLevel": 2.54
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -6957,6 +6749,7 @@
     },
     {
       "id": 872103,
+      "sdPortrait": "800103",
       "viewid": 800103,
       "slotWeightConditionList": [
         "Default1"
@@ -6965,10 +6758,7 @@
         "defaultStat": 92,
         "incrementByLevel": 2.54
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -7046,6 +6836,7 @@
     },
     {
       "id": 872104,
+      "sdPortrait": "800104",
       "viewid": 800104,
       "slotWeightConditionList": [
         "Default2"
@@ -7054,10 +6845,7 @@
         "defaultStat": 148,
         "incrementByLevel": 4.07
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -7139,6 +6927,7 @@
     },
     {
       "id": 872201,
+      "sdPortrait": "803101",
       "viewid": 803101,
       "slotWeightConditionList": [
         "Default2"
@@ -7147,10 +6936,7 @@
         "defaultStat": 157,
         "incrementByLevel": 5.94
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -7233,6 +7019,7 @@
     },
     {
       "id": 872202,
+      "sdPortrait": "803102",
       "viewid": 803102,
       "slotWeightConditionList": [
         "Default1"
@@ -7241,10 +7028,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.6
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -7322,6 +7106,7 @@
     },
     {
       "id": 872203,
+      "sdPortrait": "803103",
       "viewid": 803103,
       "slotWeightConditionList": [
         "Default1"
@@ -7330,10 +7115,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.6
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -7411,6 +7193,7 @@
     },
     {
       "id": 872204,
+      "sdPortrait": "803104",
       "viewid": 803104,
       "slotWeightConditionList": [
         "Default1"
@@ -7419,10 +7202,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.48
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -7500,6 +7280,7 @@
     },
     {
       "id": 872301,
+      "sdPortrait": "8008",
       "viewid": 800801,
       "slotWeightConditionList": [
         "Default1"
@@ -7508,10 +7289,7 @@
         "defaultStat": 147,
         "incrementByLevel": 5.08
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -7591,6 +7369,7 @@
     },
     {
       "id": 872401,
+      "sdPortrait": "800901",
       "viewid": 800901,
       "slotWeightConditionList": [
         "Default1"
@@ -7599,10 +7378,7 @@
         "defaultStat": 32,
         "incrementByLevel": 1.33
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -7681,6 +7457,7 @@
     },
     {
       "id": 872402,
+      "sdPortrait": "800902",
       "viewid": 800902,
       "slotWeightConditionList": [
         "Default1"
@@ -7689,10 +7466,7 @@
         "defaultStat": 128,
         "incrementByLevel": 5.31
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -7770,6 +7544,7 @@
     },
     {
       "id": 872501,
+      "sdPortrait": "803201",
       "viewid": 803201,
       "slotWeightConditionList": [
         "Default1"
@@ -7778,10 +7553,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -7860,6 +7632,7 @@
     },
     {
       "id": 872502,
+      "sdPortrait": "803202",
       "viewid": 803202,
       "slotWeightConditionList": [
         "Default2"
@@ -7868,10 +7641,7 @@
         "defaultStat": 121,
         "incrementByLevel": 4.24
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -7949,6 +7719,7 @@
     },
     {
       "id": 872503,
+      "sdPortrait": "803203",
       "viewid": 803203,
       "slotWeightConditionList": [
         "Default1"
@@ -7957,10 +7728,7 @@
         "defaultStat": 84,
         "incrementByLevel": 3.18
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -8039,6 +7807,7 @@
     },
     {
       "id": 872504,
+      "sdPortrait": "803204",
       "viewid": 803204,
       "slotWeightConditionList": [
         "Default1"
@@ -8047,10 +7816,7 @@
         "defaultStat": 42,
         "incrementByLevel": 1.59
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -8129,6 +7895,7 @@
     },
     {
       "id": 872601,
+      "sdPortrait": "8010",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8136,10 +7903,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.94
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -8216,6 +7980,7 @@
     },
     {
       "id": 872701,
+      "sdPortrait": "8011",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8223,10 +7988,7 @@
         "defaultStat": 39,
         "incrementByLevel": 0.94
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -8303,6 +8065,7 @@
     },
     {
       "id": 872801,
+      "sdPortrait": "8012",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8310,10 +8073,7 @@
         "defaultStat": 44,
         "incrementByLevel": 1.53
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -8391,6 +8151,7 @@
     },
     {
       "id": 872901,
+      "sdPortrait": "8013",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8398,10 +8159,7 @@
         "defaultStat": 68,
         "incrementByLevel": 1.88
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -8478,6 +8236,7 @@
     },
     {
       "id": 873001,
+      "sdPortrait": "8014",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8485,10 +8244,7 @@
         "defaultStat": 68,
         "incrementByLevel": 1.88
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -8565,6 +8321,7 @@
     },
     {
       "id": 873101,
+      "sdPortrait": "8015",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8572,10 +8329,7 @@
         "defaultStat": 64,
         "incrementByLevel": 2.67
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -8653,6 +8407,7 @@
     },
     {
       "id": 873201,
+      "sdPortrait": "800201",
       "viewid": 800201,
       "slotWeightConditionList": [
         "Default1"
@@ -8661,10 +8416,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.43
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -8739,6 +8491,7 @@
     },
     {
       "id": 873202,
+      "sdPortrait": "800202",
       "viewid": 800202,
       "slotWeightConditionList": [
         "Default1"
@@ -8747,10 +8500,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.45
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -8825,6 +8575,7 @@
     },
     {
       "id": 873203,
+      "sdPortrait": "800203",
       "viewid": 800203,
       "slotWeightConditionList": [
         "Default1"
@@ -8833,10 +8584,7 @@
         "defaultStat": 122,
         "incrementByLevel": 3.37
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -8909,6 +8657,7 @@
     },
     {
       "id": 873301,
+      "sdPortrait": "8003",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -8916,10 +8665,7 @@
         "defaultStat": 35,
         "incrementByLevel": 0.89
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -8995,6 +8741,7 @@
     },
     {
       "id": 873401,
+      "sdPortrait": "8004",
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -9002,10 +8749,7 @@
         "defaultStat": 35,
         "incrementByLevel": 0.89
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.54
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -9088,10 +8832,7 @@
         "defaultStat": 31,
         "incrementByLevel": 0.75
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.51
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -9175,10 +8916,7 @@
         "defaultStat": 31,
         "incrementByLevel": 0.75
       },
-      "def": {
-        "defaultStat": 8,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -9262,10 +9000,7 @@
         "defaultStat": 31,
         "incrementByLevel": 0.64
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.43
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -9349,10 +9084,7 @@
         "defaultStat": 52,
         "incrementByLevel": 1.43
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2
       ],
@@ -9436,10 +9168,7 @@
         "defaultStat": 157,
         "incrementByLevel": 3.79
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1
       ],
@@ -9521,10 +9250,7 @@
         "defaultStat": 146,
         "incrementByLevel": 5.05
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -9610,10 +9336,7 @@
         "defaultStat": 63,
         "incrementByLevel": 2.16
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": 0,
       "minSpeedList": [
         2
       ],
@@ -9696,10 +9419,7 @@
         "defaultStat": 197,
         "incrementByLevel": 10.21
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],
@@ -9785,10 +9505,7 @@
         "defaultStat": 85,
         "incrementByLevel": 4.38
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],
@@ -9870,10 +9587,7 @@
         "defaultStat": 305,
         "incrementByLevel": 12.77
       },
-      "def": {
-        "defaultStat": 16,
-        "incrementByLevel": 0.82
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         2
       ],
@@ -9958,10 +9672,7 @@
         "defaultStat": 190,
         "incrementByLevel": 6.87
       },
-      "def": {
-        "defaultStat": 16,
-        "incrementByLevel": 0.82
-      },
+      "defCorrection": 5,
       "minSpeedList": [
         2
       ],
@@ -10048,10 +9759,7 @@
         "defaultStat": 351,
         "incrementByLevel": 15.1
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.55
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -10137,10 +9845,7 @@
         "defaultStat": 150,
         "incrementByLevel": 6.47
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.55
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         2
       ],
@@ -10225,10 +9930,7 @@
         "defaultStat": 1,
         "incrementByLevel": 0.03
       },
-      "def": {
-        "defaultStat": 0,
-        "incrementByLevel": 0
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -10308,10 +10010,7 @@
         "defaultStat": 257,
         "incrementByLevel": 8.85
       },
-      "def": {
-        "defaultStat": 16,
-        "incrementByLevel": 0.96
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         1
       ],
@@ -10400,10 +10099,7 @@
         "defaultStat": 88,
         "incrementByLevel": 3.02
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.52
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -10491,10 +10187,7 @@
         "defaultStat": 56,
         "incrementByLevel": 1.93
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.67
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         3
       ],
@@ -10585,10 +10278,7 @@
         "defaultStat": 361,
         "incrementByLevel": 12.08
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -10676,10 +10366,7 @@
         "defaultStat": 155,
         "incrementByLevel": 5.18
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -10768,10 +10455,7 @@
         "defaultStat": 257,
         "incrementByLevel": 10.28
       },
-      "def": {
-        "defaultStat": 7,
-        "incrementByLevel": 0.35
-      },
+      "defCorrection": -8,
       "minSpeedList": [
         2
       ],
@@ -10858,10 +10542,7 @@
         "defaultStat": 110,
         "incrementByLevel": 4.41
       },
-      "def": {
-        "defaultStat": 7,
-        "incrementByLevel": 0.35
-      },
+      "defCorrection": -8,
       "minSpeedList": [
         2
       ],
@@ -10948,10 +10629,7 @@
         "defaultStat": 38,
         "incrementByLevel": 1.33
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.48
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -11033,10 +10711,7 @@
         "defaultStat": 205,
         "incrementByLevel": 8.44
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         3
       ],
@@ -11120,10 +10795,7 @@
         "defaultStat": 4,
         "incrementByLevel": 0.14
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -11205,10 +10877,7 @@
         "defaultStat": 521,
         "incrementByLevel": 26.97
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -11291,10 +10960,7 @@
         "defaultStat": 10,
         "incrementByLevel": 0.3
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -11380,10 +11046,7 @@
         "defaultStat": 15,
         "incrementByLevel": 0.45
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -3,
       "minSpeedList": [
         1
       ],
@@ -11465,10 +11128,7 @@
         "defaultStat": 349,
         "incrementByLevel": 18.07
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.77
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -11551,10 +11211,7 @@
         "defaultStat": 60,
         "incrementByLevel": 1
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -11636,10 +11293,7 @@
         "defaultStat": 16,
         "incrementByLevel": 0.55
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -11721,10 +11375,7 @@
         "defaultStat": 730,
         "incrementByLevel": 37.76
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2
       ],
@@ -11806,10 +11457,7 @@
         "defaultStat": 60,
         "incrementByLevel": 1
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -11891,10 +11539,7 @@
         "defaultStat": 20,
         "incrementByLevel": 0.05
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.45
-      },
+      "defCorrection": -5,
       "minSpeedList": [
         1
       ],
@@ -11976,10 +11621,7 @@
         "defaultStat": 344,
         "incrementByLevel": 9.7
       },
-      "def": {
-        "defaultStat": 6,
-        "incrementByLevel": 0.32
-      },
+      "defCorrection": -9,
       "minSpeedList": [
         3
       ],
@@ -12065,10 +11707,7 @@
         "defaultStat": 147,
         "incrementByLevel": 4.16
       },
-      "def": {
-        "defaultStat": 6,
-        "incrementByLevel": 0.32
-      },
+      "defCorrection": -9,
       "minSpeedList": [
         3
       ],
@@ -12154,10 +11793,7 @@
         "defaultStat": 98,
         "incrementByLevel": 2.77
       },
-      "def": {
-        "defaultStat": 6,
-        "incrementByLevel": 0.32
-      },
+      "defCorrection": -9,
       "minSpeedList": [
         3
       ],
@@ -12243,10 +11879,7 @@
         "defaultStat": 123,
         "incrementByLevel": 2.52
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.8
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         1
       ],
@@ -12328,10 +11961,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.18
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.64
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -12416,10 +12046,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.28
       },
-      "def": {
-        "defaultStat": 19,
-        "incrementByLevel": 0.96
-      },
+      "defCorrection": 9,
       "minSpeedList": [
         1
       ],
@@ -12504,10 +12131,7 @@
         "defaultStat": 48,
         "incrementByLevel": 0.96
       },
-      "def": {
-        "defaultStat": 6,
-        "incrementByLevel": 0.29
-      },
+      "defCorrection": -10,
       "minSpeedList": [
         2
       ],
@@ -12592,10 +12216,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.07
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         4
       ],
@@ -12679,10 +12300,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.28
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         1
       ],
@@ -12766,10 +12384,7 @@
         "defaultStat": 48,
         "incrementByLevel": 1.07
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         3
       ],

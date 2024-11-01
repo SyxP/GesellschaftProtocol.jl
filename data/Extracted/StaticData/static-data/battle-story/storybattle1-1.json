@@ -60,13 +60,14 @@
         }
       ],
       "rewardList": [
-       
+
       ],
       "story": {
         "enter": [
           "S102B"
         ]
-      }
+      },
+      "stageScriptNameAfterClear": "10101_Story"
     },
     {
       "id": 10102,

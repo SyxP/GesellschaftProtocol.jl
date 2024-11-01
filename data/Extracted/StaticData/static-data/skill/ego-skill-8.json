@@ -14,8 +14,7 @@
           "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 10,
-          "defaultSkillLevel": 10.0,
-          "skillLevelPerUnitLevel": 0.52,
+          "skillLevelCorrection" : -4,
           "defaultValue": 15,
           "canTeamKill": false,
           "canDuel": true,
@@ -88,6 +87,42 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 6,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttack"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -105,8 +140,7 @@
           "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 13.0,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "defaultValue": 26,
           "canTeamKill": false,
           "canDuel": true,
@@ -125,7 +159,7 @@
                     "buffKeyword": "AttackDown",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 2,
+                    "stack": 4,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -159,7 +193,7 @@
                     "buffKeyword": "AttackDown",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 4,
+                    "stack": 7,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -173,6 +207,50 @@
                     "stack": 3,
                     "turn": 0,
                     "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 13,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "AttackDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
                   }
                 }
               ]
@@ -195,8 +273,7 @@
           "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 13.0,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "defaultValue": 16,
           "canTeamKill": true,
           "canDuel": true,
@@ -220,7 +297,7 @@
                     "buffKeyword": "AttackDown",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 2,
+                    "stack": 4,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -270,7 +347,7 @@
                     "buffKeyword": "AttackDown",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 4,
+                    "stack": 7,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -300,6 +377,55 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackFastestTarget"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 9,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "AttackDown",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -317,8 +443,7 @@
           "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.79,
+          "skillLevelCorrection" : 3,
           "defaultValue": 14,
           "canTeamKill": false,
           "canDuel": true,
@@ -395,6 +520,44 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 22,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttackHeadByDamageRatio4"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackStackByCrimsonResonance",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnEndCoinHead",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "RandomEnemy3",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -412,8 +575,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.79,
+          "skillLevelCorrection" : 3,
           "defaultValue": 36,
           "canTeamKill": true,
           "canDuel": true,
@@ -478,6 +640,38 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 5,
+          "abilityScriptList": [
+            {
+              "scriptName": "LoseHpOnUseAttackSelfByRatio10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 22,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnEndCoinStackByCrimsonResonance",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "EveryUnit",
+                    "buffOwner": "",
+                    "stack": -1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 2
+                  }
+                },
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttackByDamageRatio6"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -495,8 +689,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 13.0,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "defaultValue": 17,
           "canTeamKill": false,
           "canDuel": true,
@@ -578,6 +771,10 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 2
         }
       ]
     },
@@ -595,8 +792,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 1,
           "mpUsage": 25,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.76,
+          "skillLevelCorrection" : 3,
           "defaultValue": 24,
           "canTeamKill": true,
           "canDuel": true,
@@ -714,6 +910,10 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 4
         }
       ]
     }

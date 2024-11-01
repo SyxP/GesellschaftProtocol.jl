@@ -115,7 +115,8 @@
         "gacha-120",
         "gacha-121",
         "gacha-122",
-        "gacha-123"
+        "gacha-123",
+        "gacha-124"
       ]
     },
     {
@@ -135,6 +136,7 @@
       "dataClass": "passive",
       "fileList": [
         "passive",
+        "passive_check4",
         "passive-ego"
       ]
     },

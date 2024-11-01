@@ -19,17 +19,16 @@
         "defaultStat": 66,
         "incrementByLevel": 2.28
       },
-      "def": {
-        "defaultStat": 11,
-        "incrementByLevel": 0.57
-      },
+      "defCorrection": -2,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -62,7 +61,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -98,17 +97,7 @@
           "skillId": 1030103,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1030101
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1030121
-        ]
-      }
+      ]
     },
     {
       "id": 10302,
@@ -129,17 +118,16 @@
         "defaultStat": 73,
         "incrementByLevel": 2.51
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.53
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -172,7 +160,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           40,
@@ -208,17 +196,7 @@
           "skillId": 1030203,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1030201
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1030221
-        ]
-      }
+      ]
     },
     {
       "id": 10303,
@@ -239,17 +217,16 @@
         "defaultStat": 69,
         "incrementByLevel": 2.39
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.6
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2,
         2,
+        3,
         3
       ],
       "maxSpeedList": [
         5,
+        6,
         6,
         6
       ],
@@ -282,7 +259,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           80,
           60
@@ -317,17 +294,7 @@
           "skillId": 1030303,
           "number": 1
         }
-      ],
-      "passiveSet": {
-        "passiveIdList": [
-          1030301
-        ]
-      },
-      "supporterPassiveSet": {
-        "passiveIdList": [
-          1030321
-        ]
-      }
+      ]
     },
     {
       "id": 10304,
@@ -348,17 +315,16 @@
         "defaultStat": 82,
         "incrementByLevel": 2.82
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         1,
         1,
+        2,
         2
       ],
       "maxSpeedList": [
         4,
+        5,
         5,
         5
       ],
@@ -391,7 +357,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           65,
           35
@@ -435,6 +401,115 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1030421
+        ]
+      }
+    },
+    {
+      "id": 10305,
+      "appearance": "10305_Donquixote_CinqAppearance",
+      "unitKeywordList": [ "CINQ" ],
+      "characterId": 3,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1030504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 72,
+        "incrementByLevel": 2.28
+      },
+      "defCorrection": -2,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "INDIGO",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1030501,
+          "number": 3
+        },
+        {
+          "skillId": 1030502,
+          "number": 2
+        },
+        {
+          "skillId": 1030503,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1030501
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1030521
         ]
       }
     }

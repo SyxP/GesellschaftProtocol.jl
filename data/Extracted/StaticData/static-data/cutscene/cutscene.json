@@ -205,6 +205,23 @@
       ]
     },
     {
+      "id": 10305,
+      "pivotList": [
+        {
+          "cutsceneType": "GACKSUNG_BEFORE",
+          "offsetX": -0.08,
+          "offsetY": 0.23,
+          "closeUp": 0.64
+        },
+        {
+          "cutsceneType": "GACKSUNG_AFTER",
+          "offsetX": 0.05,
+          "offsetY": 0.23,
+          "closeUp": 0.75
+        }
+      ]
+    },
+    {
       "id": 10401,
       "pivotList": [
         {

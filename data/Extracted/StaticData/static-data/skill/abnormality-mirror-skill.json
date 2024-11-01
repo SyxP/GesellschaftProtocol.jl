@@ -16,8 +16,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -65,8 +64,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -108,8 +106,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -156,8 +153,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -233,8 +229,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -330,8 +325,7 @@
           "parryingCloseType": "NEAR",
           "range": 20,
           "defaultValue": 14,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -384,8 +378,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.64,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -420,8 +413,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.72,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -453,8 +445,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.72,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -490,8 +481,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.72,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -626,8 +616,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.72,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -707,8 +696,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.72,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -788,8 +776,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "defaultValue": 6,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.77,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -828,8 +815,7 @@
           "skillMotion": "S7",
           "parryingCloseType": "NEAR",
           "defaultValue": 6,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.77,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -935,8 +921,7 @@
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
           "defaultValue": 13,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.77,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -983,8 +968,7 @@
           "parryingCloseType": "NEAR",
           "range": 999,
           "defaultValue": 15,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.77,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1041,8 +1025,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1085,8 +1068,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1129,8 +1111,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1188,8 +1169,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1233,8 +1213,7 @@
           "targetNum": 1,
           "range": 999,
           "defaultValue": 15,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1287,8 +1266,7 @@
           "targetNum": 5,
           "range": 999,
           "defaultValue": 22,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1331,8 +1309,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1375,8 +1352,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1419,8 +1395,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1479,8 +1454,7 @@
           "range": 999,
           "targetNum": 2,
           "defaultValue": 6,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1533,8 +1507,7 @@
           "range": 999,
           "targetNum": 4,
           "defaultValue": 8,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1577,8 +1550,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1634,8 +1606,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 5,
           "defaultValue": 24,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1683,8 +1654,7 @@
           "range": 999,
           "targetNum": 2,
           "defaultValue": 6,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1736,8 +1706,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1801,8 +1770,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1882,8 +1850,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -1957,8 +1924,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2025,8 +1991,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2097,8 +2062,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2177,8 +2141,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 5,
           "defaultValue": 13,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2279,8 +2242,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 1,
-          "defaultSkillLevel": 16,
-          "skillLevelPerUnitLevel": 0.82,
+          "skillLevelCorrection": 5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2312,8 +2274,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.5,
+          "skillLevelCorrection": -2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2384,8 +2345,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 8,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.5,
+          "skillLevelCorrection": -2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2460,8 +2420,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 16,
-          "skillLevelPerUnitLevel": 0.84,
+          "skillLevelCorrection": 5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2505,8 +2464,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 16,
-          "skillLevelPerUnitLevel": 0.84,
+          "skillLevelCorrection": 5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2566,8 +2524,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 16,
-          "skillLevelPerUnitLevel": 0.84,
+          "skillLevelCorrection": 5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2627,8 +2584,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 16,
-          "skillLevelPerUnitLevel": 0.84,
+          "skillLevelCorrection": 5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2698,8 +2654,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 5,
           "defaultValue": 16,
-          "defaultSkillLevel": 16,
-          "skillLevelPerUnitLevel": 0.84,
+          "skillLevelCorrection": 5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2750,8 +2705,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 15,
-          "defaultSkillLevel": 7,
-          "skillLevelPerUnitLevel": 0.35,
+          "skillLevelCorrection": -8,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2787,8 +2741,7 @@
           "targetNum": 1,
           "defaultValue": 1,
           "range": 999,
-          "defaultSkillLevel": 10,
-          "skillLevelPerUnitLevel": 0.5,
+          "skillLevelCorrection": -5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2842,8 +2795,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 9,
-          "skillLevelPerUnitLevel": 0.44,
+          "skillLevelCorrection": -5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2897,8 +2849,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 9,
-          "skillLevelPerUnitLevel": 0.44,
+          "skillLevelCorrection": -5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -2985,8 +2936,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 3,
-          "defaultSkillLevel": 10,
-          "skillLevelPerUnitLevel": 0.44,
+          "skillLevelCorrection": -5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3063,8 +3013,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.75,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3114,8 +3063,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 9,
-          "skillLevelPerUnitLevel": 0.44,
+          "skillLevelCorrection": -5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3158,8 +3106,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.6,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3213,8 +3160,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.6,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3274,8 +3220,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.6,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3329,8 +3274,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 8,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.6,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3399,8 +3343,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 16,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.6,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3469,8 +3412,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 7,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.6,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3519,8 +3461,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.55,
+          "skillLevelCorrection": -3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3563,8 +3504,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 1,
-          "defaultSkillLevel": 0,
-          "skillLevelPerUnitLevel": 0,
+          "skillLevelCorrection": -18,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3600,8 +3540,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 17,
-          "skillLevelPerUnitLevel": 0.9,
+          "skillLevelCorrection": 4,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3668,8 +3607,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 17,
-          "skillLevelPerUnitLevel": 0.9,
+          "skillLevelCorrection": 4,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3725,8 +3663,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 17,
-          "skillLevelPerUnitLevel": 0.9,
+          "skillLevelCorrection": 4,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3799,8 +3736,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 17,
-          "defaultSkillLevel": 20,
-          "skillLevelPerUnitLevel": 0.9,
+          "skillLevelCorrection": 4,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3853,8 +3789,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "skillLevelCorrection": 4,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3904,8 +3839,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.59,
+          "skillLevelCorrection": -2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3941,8 +3875,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 11,
-          "skillLevelPerUnitLevel": 0.59,
+          "skillLevelCorrection": -2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -3984,8 +3917,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 13,
-          "skillLevelPerUnitLevel": 0.64,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4017,8 +3949,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 5,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4059,8 +3990,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 8,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4114,8 +4044,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.7,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4165,8 +4094,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 4,
-          "defaultSkillLevel": 14,
-          "skillLevelPerUnitLevel": 0.59,
+          "skillLevelCorrection": 2,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4198,8 +4126,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.63,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4259,8 +4186,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 10,
-          "defaultSkillLevel": 12,
-          "skillLevelPerUnitLevel": 0.63,
+          "skillLevelCorrection": -1,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4304,8 +4230,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 6,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4390,8 +4315,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 15,
-          "defaultSkillLevel": 10,
-          "skillLevelPerUnitLevel": 0.5,
+          "skillLevelCorrection": -5,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4441,8 +4365,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 12,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {
@@ -4516,8 +4439,7 @@
           "parryingCloseType": "NEAR",
           "targetNum": 1,
           "defaultValue": 12,
-          "defaultSkillLevel": 15,
-          "skillLevelPerUnitLevel": 0.75,
+          "skillLevelCorrection": 3,
           "skillTargetType": "RANDOM",
           "abilityScriptList": [
             {

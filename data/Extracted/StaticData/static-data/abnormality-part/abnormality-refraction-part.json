@@ -9,10 +9,7 @@
         "defaultStat": 75,
         "incrementByLevel": 3.1
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.93
-      },
+      "defCorrection": 6,
       "minSpeedList": [
         1
       ],
@@ -94,10 +91,7 @@
         "defaultStat": 50,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.42
-      },
+      "defCorrection": -6,
       "minSpeedList": [
         3
       ],
@@ -179,10 +173,7 @@
         "defaultStat": 60,
         "incrementByLevel": 1.99
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -264,10 +255,7 @@
         "defaultStat": 100,
         "incrementByLevel": 3.31
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         4
       ],
@@ -350,10 +338,7 @@
         "defaultStat": 55,
         "incrementByLevel": 1.67
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.5
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -436,10 +421,7 @@
         "defaultStat": 55,
         "incrementByLevel": 1.67
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.5
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -522,10 +504,7 @@
         "defaultStat": 87,
         "incrementByLevel": 3.12
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -608,10 +587,7 @@
         "defaultStat": 87,
         "incrementByLevel": 3.12
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -694,10 +670,7 @@
         "defaultStat": 129,
         "incrementByLevel": 3.91
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.5
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -780,10 +753,7 @@
         "defaultStat": 235,
         "incrementByLevel": 19.91
       },
-      "def": {
-        "defaultStat": 26,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 11,
       "minSpeedList": [
         1
       ],
@@ -865,10 +835,7 @@
         "defaultStat": 91,
         "incrementByLevel": 5.6
       },
-      "def": {
-        "defaultStat": 26,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 11,
       "minSpeedList": [
         1
       ],
@@ -956,10 +923,7 @@
         "defaultStat": 91,
         "incrementByLevel": 5.6
       },
-      "def": {
-        "defaultStat": 26,
-        "incrementByLevel": 0.89
-      },
+      "defCorrection": 11,
       "minSpeedList": [
         1
       ],
@@ -1047,10 +1011,7 @@
         "defaultStat": 50,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.42
-      },
+      "defCorrection": -6,
       "minSpeedList": [
         3
       ],
@@ -1134,10 +1095,7 @@
         "defaultStat": 50,
         "incrementByLevel": 1.38
       },
-      "def": {
-        "defaultStat": 9,
-        "incrementByLevel": 0.42
-      },
+      "defCorrection": -6,
       "minSpeedList": [
         3
       ],
@@ -1221,10 +1179,7 @@
         "defaultStat": 80,
         "incrementByLevel": 2.65
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -1308,10 +1263,7 @@
         "defaultStat": 80,
         "incrementByLevel": 2.65
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.7
-      },
+      "defCorrection": 1,
       "minSpeedList": [
         2
       ],
@@ -1395,10 +1347,7 @@
         "defaultStat": 117,
         "incrementByLevel": 4.52
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -1482,10 +1431,7 @@
         "defaultStat": 117,
         "incrementByLevel": 4.52
       },
-      "def": {
-        "defaultStat": 13,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -1569,10 +1515,7 @@
         "defaultStat": 195,
         "incrementByLevel": 6.99
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -1657,10 +1600,7 @@
         "defaultStat": 187,
         "incrementByLevel": 7.9
       },
-      "def": {
-        "defaultStat": 24,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -1744,10 +1684,7 @@
         "defaultStat": 70,
         "incrementByLevel": 2.96
       },
-      "def": {
-        "defaultStat": 24,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -1831,10 +1768,7 @@
         "defaultStat": 140,
         "incrementByLevel": 5.92
       },
-      "def": {
-        "defaultStat": 24,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -1918,10 +1852,7 @@
         "defaultStat": 70,
         "incrementByLevel": 2.96
       },
-      "def": {
-        "defaultStat": 24,
-        "incrementByLevel": 0.75
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -2004,10 +1935,7 @@
         "defaultStat": 503,
         "incrementByLevel": 25.86
       },
-      "def": {
-        "defaultStat": 25,
-        "incrementByLevel": 1.25
-      },
+      "defCorrection": 17,
       "minSpeedList": [
         1
       ],
@@ -2089,10 +2017,7 @@
         "defaultStat": 200,
         "incrementByLevel": 6.52
       },
-      "def": {
-        "defaultStat": 19,
-        "incrementByLevel": 0.67
-      },
+      "defCorrection": 3,
       "minSpeedList": [
         1
       ],
@@ -2176,10 +2101,7 @@
         "defaultStat": 92,
         "incrementByLevel": 3.49
       },
-      "def": {
-        "defaultStat": 20,
-        "incrementByLevel": 0.87
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -2264,10 +2186,7 @@
         "defaultStat": 380,
         "incrementByLevel": 12.72
       },
-      "def": {
-        "defaultStat": 18,
-        "incrementByLevel": 0.74
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         2
       ],
@@ -2350,10 +2269,7 @@
         "defaultStat": 186,
         "incrementByLevel": 7.63
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 1.01
-      },
+      "defCorrection": 10,
       "minSpeedList": [
         1
       ],
@@ -2438,10 +2354,7 @@
         "defaultStat": 115,
         "incrementByLevel": 3.66
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.52
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -2533,10 +2446,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.37
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.52
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -2620,10 +2530,7 @@
         "defaultStat": 39,
         "incrementByLevel": 1.37
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.52
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -2707,10 +2614,7 @@
         "defaultStat": 72,
         "incrementByLevel": 2.74
       },
-      "def": {
-        "defaultStat": 15,
-        "incrementByLevel": 0.52
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         3
       ],
@@ -2794,10 +2698,7 @@
         "defaultStat": 192,
         "incrementByLevel": 10.37
       },
-      "def": {
-        "defaultStat": 32,
-        "incrementByLevel": 1.4
-      },
+      "defCorrection": 23,
       "minSpeedList": [
         1
       ],
@@ -2884,10 +2785,7 @@
         "defaultStat": 224,
         "incrementByLevel": 12.1
       },
-      "def": {
-        "defaultStat": 32,
-        "incrementByLevel": 1.4
-      },
+      "defCorrection": 23,
       "minSpeedList": [
         1
       ],
@@ -2977,10 +2875,7 @@
         "defaultStat": 224,
         "incrementByLevel": 12.1
       },
-      "def": {
-        "defaultStat": 32,
-        "incrementByLevel": 1.4
-      },
+      "defCorrection": 23,
       "minSpeedList": [
         1
       ],
@@ -3070,10 +2965,7 @@
         "defaultStat": 100,
         "incrementByLevel": 5.39
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -3158,10 +3050,7 @@
         "defaultStat": 100,
         "incrementByLevel": 5.39
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -3246,10 +3135,7 @@
         "defaultStat": 173,
         "incrementByLevel": 7.19
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         1
       ],
@@ -3333,10 +3219,7 @@
         "defaultStat": 9,
         "incrementByLevel": 0.28
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.5
-      },
+      "defCorrection": -4,
       "overwriteDefaultCalculatedSkillLevelBy" : 42.3,
       "minSpeedList": [
         2
@@ -3426,10 +3309,7 @@
         "defaultStat": 147,
         "incrementByLevel": 4.46
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.5
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -3516,10 +3396,7 @@
         "defaultStat": 199,
         "incrementByLevel": 8.17
       },
-      "def": {
-        "defaultStat": 18,
-        "incrementByLevel": 0.74
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         1
       ],
@@ -3602,10 +3479,7 @@
         "defaultStat": 148,
         "incrementByLevel": 5.15
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 0.63
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -3688,10 +3562,7 @@
         "defaultStat": 200,
         "incrementByLevel": 9.45
       },
-      "def": {
-        "defaultStat": 22,
-        "incrementByLevel": 1.17
-      },
+      "defCorrection": 14,
       "minSpeedList": [
         1
       ],
@@ -3773,10 +3644,7 @@
         "defaultStat": 73,
         "incrementByLevel": 2.22
       },
-      "def": {
-        "defaultStat": 10,
-        "incrementByLevel": 0.5
-      },
+      "defCorrection": -4,
       "minSpeedList": [
         2
       ],
@@ -3858,10 +3726,7 @@
         "defaultStat": 100,
         "incrementByLevel": 4.14
       },
-      "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.93
-      },
+      "defCorrection": 6,
       "minSpeedList": [
         1
       ],
@@ -3944,10 +3809,7 @@
         "defaultStat": 336,
         "incrementByLevel": 14.95
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.81
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         1
       ],
@@ -4033,10 +3895,7 @@
         "defaultStat": 92,
         "incrementByLevel": 3.49
       },
-      "def": {
-        "defaultStat": 20,
-        "incrementByLevel": 0.87
-      },
+      "defCorrection": 7,
       "minSpeedList": [
         2
       ],
@@ -4120,10 +3979,7 @@
         "defaultStat": 271,
         "incrementByLevel": 9.72
       },
-      "def": {
-        "defaultStat": 12,
-        "incrementByLevel": 0.59
-      },
+      "defCorrection": -1,
       "minSpeedList": [
         1
       ],
@@ -4210,10 +4066,7 @@
         "defaultStat": 310,
         "incrementByLevel": 12.72
       },
-      "def": {
-        "defaultStat": 18,
-        "incrementByLevel": 0.74
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         1
       ],
@@ -4300,10 +4153,7 @@
         "defaultStat": 150,
         "incrementByLevel": 6.22
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         3
       ],
@@ -4395,10 +4245,7 @@
         "defaultStat": 56,
         "incrementByLevel": 2.33
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         3
       ],
@@ -4482,10 +4329,7 @@
         "defaultStat": 56,
         "incrementByLevel": 2.33
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         3
       ],
@@ -4569,10 +4413,7 @@
         "defaultStat": 113,
         "incrementByLevel": 4.67
       },
-      "def": {
-        "defaultStat": 21,
-        "incrementByLevel": 0.62
-      },
+      "defCorrection": 4,
       "minSpeedList": [
         3
       ],
@@ -4656,10 +4497,7 @@
         "defaultStat": 135,
         "incrementByLevel": 4.7
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 0.63
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -4743,10 +4581,7 @@
         "defaultStat": 51,
         "incrementByLevel": 4.7
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 0.63
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -4830,10 +4665,7 @@
         "defaultStat": 101,
         "incrementByLevel": 3.52
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 0.63
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],
@@ -4917,10 +4749,7 @@
         "defaultStat": 51,
         "incrementByLevel": 1.76
       },
-      "def": {
-        "defaultStat": 17,
-        "incrementByLevel": 0.63
-      },
+      "defCorrection": 2,
       "minSpeedList": [
         2
       ],

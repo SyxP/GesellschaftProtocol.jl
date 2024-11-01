@@ -14,8 +14,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 3,
           "mpUsage": 20,
-          "defaultSkillLevel": 10.0,
-          "skillLevelPerUnitLevel": 0.52,
+          "skillLevelCorrection" : -3,
           "defaultValue": 15,
           "canTeamKill": false,
           "canDuel": true,
@@ -50,6 +49,20 @@
               "scale": 4
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "HealMpOnEndSkill12LeastMpAllyExceptSelf3"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
         }
       ]
     },
@@ -67,20 +80,11 @@
           "skillTargetType": "FRONT",
           "targetNum": 5,
           "mpUsage": 20,
-          "defaultSkillLevel": 12.0,
-          "skillLevelPerUnitLevel": 0.63,
+          "skillLevelCorrection" : -1,
           "defaultValue": 14,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
-          "abilityScriptList": [
-            {
-              "scriptName": "HealMpOnEndSkillEveryAlly10"
-            },
-            {
-              "scriptName": "HealHpOnEndSkillEveryAllyByRatio10"
-            }
-          ],
           "actionScript": "2020221",
           "skillMotion": "Default",
           "viewType": "SKILL",
@@ -88,25 +92,53 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 8
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnEndCoinEveryAlly10"
+                },
+                {
+                  "scriptName": "HealHpOnEndCoinEveryAllyByRatio10"
+                }
+              ]
             }
           ]
         },
         {
           "gaksungLevel": 3,
           "defaultValue": 16,
-          "abilityScriptList": [
-            {
-              "scriptName": "HealMpOnEndSkillEveryAlly15"
-            },
-            {
-              "scriptName": "HealHpOnEndSkillEveryAllyByRatio15"
-            }
-          ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 8
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnEndCoinEveryAlly15"
+                },
+                {
+                  "scriptName": "HealHpOnEndCoinEveryAllyByRatio15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnEndCoinEveryAlly15"
+                },
+                {
+                  "scriptName": "HealHpOnEndCoinEveryAllyByRatio15"
+                },
+                {
+                  "scriptName": "HealMpOnEndCoinHeadEveryAlly10"
+                }
+              ]
             }
           ]
         }
@@ -126,8 +158,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 5,
           "mpUsage": 20,
-          "defaultSkillLevel": 12.0,
-          "skillLevelPerUnitLevel": 0.63,
+          "skillLevelCorrection" : -1,
           "defaultValue": 27,
           "canTeamKill": true,
           "canDuel": true,
@@ -184,6 +215,34 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 14,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackTarget20"
+                },
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackTailTarget10"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -201,8 +260,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 13.0,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "defaultValue": 14,
           "canTeamKill": false,
           "canDuel": true,
@@ -285,6 +343,73 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "PenetrateTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "VioletTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Curse",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "Curse",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.5
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -302,8 +427,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 13.0,
-          "skillLevelPerUnitLevel": 0.65,
+          "skillLevelCorrection" : 0,
           "defaultValue": 18,
           "canTeamKill": true,
           "canDuel": true,
@@ -386,6 +510,73 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "PenetrateTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "VioletTakeDamageUp",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Curse",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "NailPersonality",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "DmgUpByBuff",
+                  "buffData": {
+                    "buffKeyword": "Curse",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0,
+                    "value": 0.5
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -403,8 +594,7 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 14.0,
-          "skillLevelPerUnitLevel": 0.74,
+          "skillLevelCorrection" : 2,
           "defaultValue": 20,
           "canTeamKill": false,
           "canDuel": true,
@@ -479,6 +669,54 @@
               ]
             }
           ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnEndCoin",
+                  "buffData": {
+                    "buffKeyword": "Charge",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 7,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "2020411_1_gaksung4th"
+                },
+                {
+                  "scriptName": "GiveBuffOnEndCoinHead",
+                  "buffData": {
+                    "buffKeyword": "Charge",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -496,8 +734,7 @@
           "skillTargetType": "RANDOM",
           "targetNum": 1,
           "mpUsage": 20,
-          "defaultSkillLevel": 14.0,
-          "skillLevelPerUnitLevel": 0.74,
+          "skillLevelCorrection" : 2,
           "defaultValue": 22,
           "canTeamKill": true,
           "canDuel": true,
@@ -568,6 +805,43 @@
                 },
                 {
                   "scriptName": "2020421_1_gaksung"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "targetNum": 3,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnEndCoin",
+                  "buffData": {
+                    "buffKeyword": "Charge",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 10,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "2020421_1_gaksung4th"
                 }
               ]
             }
