@@ -29,7 +29,7 @@
       "defenseSkillIDList": [
         1080104
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -62,7 +62,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           60,
           30
@@ -119,7 +119,7 @@
       "defenseSkillIDList": [
         1080204
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -171,7 +171,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           70,
           30
@@ -228,7 +228,7 @@
       "defenseSkillIDList": [
         1080304
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -280,7 +280,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           80,
           60
@@ -337,7 +337,7 @@
       "defenseSkillIDList": [
         1080404
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -389,7 +389,7 @@
           }
         ]
       },
-      "breakSection":  {
+      "breakSection": {
         "sectionList": [
           55,
           20
@@ -433,6 +433,115 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1080421
+        ]
+      }
+    },
+    {
+      "id": 10805,
+      "appearance": "10805_Ishmeal_FairyAppearance",
+      "unitKeywordList": [],
+      "characterId": 8,
+      "panicType": 9999,
+      "season": 1,
+      "defenseSkillIDList": [
+        1080504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 88,
+        "incrementByLevel": 2.6
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        1,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        4,
+        4,
+        5
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1080501,
+          "number": 3
+        },
+        {
+          "skillId": 1080502,
+          "number": 2
+        },
+        {
+          "skillId": 1080503,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1080501
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1080521
         ]
       }
     }

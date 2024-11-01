@@ -213,6 +213,42 @@
       "condition": "GetPersonality",
       "conditionRefId": 10905,
       "sortingOrder": 1
+    },
+    {
+      "id": 51,
+      "condition": "GetEGO",
+      "conditionRefId": 20804,
+      "sortingOrder": 1
+    },
+    {
+      "id": 52,
+      "condition": "GetEGO",
+      "conditionRefId": 20504,
+      "sortingOrder": 1
+    },
+    {
+      "id": 53,
+      "condition": "GetPersonality",
+      "conditionRefId": 10705,
+      "sortingOrder": 1
+    },
+    {
+      "id": 54,
+      "condition": "GetPersonality",
+      "conditionRefId": 11205,
+      "sortingOrder": 1
+    },
+    {
+      "id": 55,
+      "condition": "GetEGO",
+      "conditionRefId": 20703,
+      "sortingOrder": 1
+    },
+    {
+      "id": 56,
+      "condition": "GetEGO",
+      "conditionRefId": 21104,
+      "sortingOrder": 1
     }
   ]
 }

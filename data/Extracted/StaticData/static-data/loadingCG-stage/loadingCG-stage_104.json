@@ -122,6 +122,70 @@
         "CG/S408"
   
       ]
+    },
+    {
+      "id": 10428,
+      "clearCGList": [
+        "BG/story_story_adminoffice",
+        "CG/S411",
+        "CG/S410_2"
+  
+      ]
+    },
+    {
+      "id": 10430,
+      "clearCGList": [
+        "BG/story_lab entrance",
+        "CG/S413_1",
+        "CG/S413_2",
+        "CG/S413_3",
+        "CG/S413_4",
+        "CG/S413_5",
+        "CG/S413_6",
+        "BG/story_lab corridor_v1"
+  
+      ]
+    },
+    {
+      "id": 10433,
+      "clearCGList": [
+        "CG/S413_1",
+        "CG/S413_2",
+        "CG/S413_3",
+        "CG/S413_4",
+        "CG/S413_5",
+        "CG/S413_6",
+        "BG/story_lab corridor_v1"
+  
+      ]
+    },
+    {
+      "id": 10438,
+      "clearCGList": [
+        "CG/S425",
+        "BG/story_lab corridor_v1"
+  
+      ]
+    },
+    {
+      "id": 10447,
+      "clearCGList": [
+        "CG/S425",
+        "BG/story_shedding tears_1(light off)"
+  
+      ]
+    },
+    {
+      "id": 10448,
+      "clearCGList": [
+        "CG/S411",
+        "CG/S409",
+        "BG/story_shedding tears_2(light on)",
+        "BG/story_shedding tears_3(screen v1)",
+        "BG/story_shedding tears_4(screen v2)",
+        "story_shedding tears_5(screen v3)"
+  
+      ]
     }
   ]
 }

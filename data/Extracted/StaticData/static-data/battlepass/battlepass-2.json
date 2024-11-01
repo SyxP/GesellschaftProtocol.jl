@@ -7,12 +7,12 @@
       "exRewardStartDate": "2023-06-15T03:00:00.000Z",
       "passSeasonInfo": {
         "startDate": "2023-06-01T03:00:00.000Z",
-        "endDate": "2023-10-11T20:59:00.000Z",
+        "endDate": "2023-10-11T21:00:00.000Z",
         "banner": "banner_battlepass2",
         "acquirableEgoIds": [
           20504,
-          21204,
           20703,
+          21204,
           20804,
           21104,
           20104
@@ -454,64 +454,414 @@
             ]
           },
           {
-            "level": 21
+            "level": 21,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 301,
+                "num": 1
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 7
+              },
+              {
+                "type": "ITEM",
+                "id": 1102,
+                "num": 15
+              }
+            ]
           },
           {
-            "level": 22
+            "level": 22,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1202,
+                "num": 25
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              },
+              {
+                "type": "ITEM",
+                "id": 11,
+                "num": 3
+              }
+            ]
           },
           {
-            "level": 23
+            "level": 23,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 15
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 11,
+                "num": 3
+              }
+            ]
           },
           {
-            "level": 24
+            "level": 24,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 2,
+                "num": 200
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 7
+              },
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              }
+            ]
           },
           {
-            "level": 25
+            "level": 25,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1102,
+                "num": 25
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 2,
+                "num": 350
+              }
+            ]
           },
           {
-            "level": 26
+            "level": 26,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 11,
+                "num": 6
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              },
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 8
+              }
+            ]
           },
           {
-            "level": 27
+            "level": 27,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 15
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 301,
+                "num": 2
+              }
+            ]
           },
           {
-            "level": 28
+            "level": 28,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1202,
+                "num": 25
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 222,
+                "num": 1
+              },
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              }
+            ]
           },
           {
-            "level": 29
+            "level": 29,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 20
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1102,
+                "num": 15
+              },
+              {
+                "type": "ITEM",
+                "id": 212,
+                "num": 8
+              }
+            ]
           },
           {
-            "level": 30
+            "level": 30,
+            "defaultRewardList": [
+              {
+                "type": "EGO",
+                "id": 20703,
+                "num": 1
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 101,
+                "num": 2
+              }
+            ]
           },
           {
-            "level": 31
+            "level": 31,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 301,
+                "num": 2
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 1
+              },
+              {
+                "type": "ITEM",
+                "id": 1202,
+                "num": 10
+              }
+            ]
           },
           {
-            "level": 32
+            "level": 32,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1202,
+                "num": 30
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              },
+              {
+                "type": "ITEM",
+                "id": 11,
+                "num": 6
+              }
+            ]
           },
           {
-            "level": 33
+            "level": 33,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 2
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 11,
+                "num": 6
+              }
+            ]
           },
           {
-            "level": 34
+            "level": 34,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 2,
+                "num": 300
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 1
+              },
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              }
+            ]
           },
           {
-            "level": 35
+            "level": 35,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 101,
+                "num": 2
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ANNOUNCER",
+                "id": 5,
+                "num": 1
+              }
+            ]
           },
           {
-            "level": 36
+            "level": 36,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 11,
+                "num": 6
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              },
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 1
+              }
+            ]
           },
           {
-            "level": 37
+            "level": 37,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 2
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 301,
+                "num": 2
+              }
+            ]
           },
           {
-            "level": 38
+            "level": 38,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1202,
+                "num": 30
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 222,
+                "num": 1
+              },
+              {
+                "type": "ITEM",
+                "id": 201,
+                "num": 10
+              }
+            ]
           },
           {
-            "level": 39
+            "level": 39,
+            "defaultRewardList": [
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 2
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "ITEM",
+                "id": 1202,
+                "num": 10
+              },
+              {
+                "type": "ITEM",
+                "id": 213,
+                "num": 1
+              }
+            ]
           },
           {
-            "level": 40
+            "level": 40,
+            "defaultRewardList": [
+              {
+                "type": "USER_TICKET_DECO_LEFT",
+                "id": 8,
+                "num": 1
+              },
+              {
+                "type": "USER_TICKET_DECO_RIGHT",
+                "id": 8,
+                "num": 1
+              },
+              {
+                "type": "USER_TICKET_DECO_EGOBG",
+                "id": 8,
+                "num": 1
+              }
+            ],
+            "limbusRewardList": [
+              {
+                "type": "EGO",
+                "id": 21104,
+                "num": 1
+              }
+            ]
           },
           {
             "level": 41

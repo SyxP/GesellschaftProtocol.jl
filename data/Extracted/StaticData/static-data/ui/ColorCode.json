@@ -87,6 +87,14 @@
     {
       "id": "Neutral",
       "color": "#a16a3b"
+    },
+    {
+      "id": "CantDuel",
+      "color": "#ff0000"
+    },
+    {
+      "id": "DefeatDuel",
+      "color": "#e30000"
     }
   ]
 }

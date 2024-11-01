@@ -96,18 +96,9 @@
         "gacha-3",
         "gacha-4",
         "gacha-5",
-        "gacha-103",
-        "gacha-104",
-        "gacha-105",
-        "gacha-106",
-        "gacha-107",
-        "gacha-108",
-        "gacha-109",
-        "gacha-110",
-        "gacha-111",
-        "gacha-112",
         "gacha-113",
-        "gacha-114"
+        "gacha-114",
+        "gacha-115"
       ]
     },
     {
@@ -261,6 +252,12 @@
         "chance-iap",
         "chance-mirrordungeon",
         "chance-rewarddungeon"
+      ]
+    },
+    {
+      "dataClass": "iap-pricetier",
+      "fileList": [
+        "pricetier"
       ]
     },
     {

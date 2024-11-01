@@ -12,7 +12,54 @@
       "stageMapPosZ": 0.0,
       "stageNodeZoomAnimationPivotX": 0.275,
       "stageIconSlotScale": 0.75,
-      "selectedIconScale": 1.25
+      "selectedIconScale": 1.25,
+      "effectOffsetX": 4056.0,
+      "boundarySetting": {
+        "xAxisBoundaryList": [
+          {
+            "range": {
+              "from": 0,
+              "to": 0
+            },
+            "min": -30420,
+            "max": 0
+          },
+          {
+            "range": {
+              "from": 1,
+              "to": 1
+            },
+            "min": -32448,
+            "max": 0
+          },
+          {
+            "range": {
+              "from": 2,
+              "to": 2
+            },
+            "min": -32448,
+            "max": -22308
+          },
+          {
+            "range": {
+              "from": 3,
+              "to": 3
+            },
+            "min": -32448,
+            "max": -22308
+          }
+        ],
+        "yAxisBoundaryList": [
+          {
+            "range": {
+              "from": 0,
+              "to": 10
+            },
+            "min": -4056,
+            "max": 0
+          }
+        ]
+      }
     }
   ]
 }

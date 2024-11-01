@@ -3,6 +3,9 @@
     {
       "id": 9001,
       "attributeType": "CRIMSON",
+      "subEgoGiftAbilityIDList": [
+        90011
+      ],
       "tag": [
         "TIER_3",
         "FLOORBOSS"
@@ -12,6 +15,9 @@
     {
       "id": 9002,
       "attributeType": "CRIMSON",
+      "subEgoGiftAbilityIDList": [
+        90021
+      ],
       "tag": [
         "TIER_2",
         "START",
@@ -79,6 +85,9 @@
     {
       "id": 9009,
       "attributeType": "SCARLET",
+      "subEgoGiftAbilityIDList": [
+        90091
+      ],
       "tag": [
         "TIER_3",
         "FLOORBOSS"
@@ -126,6 +135,9 @@
     {
       "id": 9014,
       "attributeType": "AMBER",
+      "subEgoGiftAbilityIDList": [
+        90141
+      ],
       "tag": [
         "TIER_3",
         "FLOORBOSS"
@@ -162,6 +174,9 @@
     {
       "id": 9018,
       "attributeType": "SHAMROCK",
+      "subEgoGiftAbilityIDList": [
+        90181
+      ],
       "tag": [
         "TIER_2",
         "START",
@@ -200,6 +215,9 @@
     {
       "id": 9022,
       "attributeType": "AZURE",
+      "subEgoGiftAbilityIDList": [
+        90221
+      ],
       "tag": [
         "TIER_2",
         "START",
@@ -230,6 +248,9 @@
     {
       "id": 9025,
       "attributeType": "AZURE",
+      "subEgoGiftAbilityIDList": [
+        90251
+      ],
       "tag": [
         "TIER_3",
         "FLOORBOSS"
@@ -248,6 +269,9 @@
     {
       "id": 9027,
       "attributeType": "INDIGO",
+      "subEgoGiftAbilityIDList": [
+        90271
+      ],
       "tag": [
         "TIER_3",
         "FLOORBOSS"
@@ -257,6 +281,9 @@
     {
       "id": 9028,
       "attributeType": "INDIGO",
+      "subEgoGiftAbilityIDList": [
+        90281
+      ],
       "tag": [
         "TIER_1",
         "START"
@@ -286,6 +313,9 @@
     {
       "id": 9031,
       "attributeType": "VIOLET",
+      "subEgoGiftAbilityIDList": [
+        90311
+      ],
       "tag": [
         "TIER_2",
         "START",
@@ -296,6 +326,9 @@
     {
       "id": 9032,
       "attributeType": "VIOLET",
+      "subEgoGiftAbilityIDList": [
+        90321
+      ],
       "tag": [
         "TIER_3",
         "FLOORBOSS"

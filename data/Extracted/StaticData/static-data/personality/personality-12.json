@@ -438,6 +438,116 @@
           1120421
         ]
       }
+    },
+    {
+      "id": 11205,
+      "appearance": "11205_Gregor_ChainsawFixerAppearance",
+      "unitKeywordList": [],
+      "characterId": 12,
+      "panicType": 9999,
+      "season": 2,
+      "defenseSkillIDList": [
+        1120504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 69,
+        "incrementByLevel": 2.39
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.6
+      },
+      "minSpeedList": [
+        3,
+        3,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          65,
+          35,
+          15
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1120501,
+          "number": 3
+        },
+        {
+          "skillId": 1120502,
+          "number": 2
+        },
+        {
+          "skillId": 1120503,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1120501
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1120521
+        ]
+      }
     }
   ]
 }

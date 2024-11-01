@@ -518,8 +518,8 @@
           "region": "k",
           "sprName": "chapter4",
           "subChapterNumber": "4",
-          "mapSizeRow": 2,
-          "mapSizeColoumn": 11,
+          "mapSizeRow": 4,
+          "mapSizeColoumn": 16,
           "stageNodeList": [
             {
               "nodeId": 10401,
@@ -736,6 +736,174 @@
               "posy": 401,
               "upper": 1,
               "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 10428,
+              "stageId": 10428,
+              "posx": 23179,
+              "posy": 401,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 10429,
+              "stageId": 10429,
+              "posx": 24415,
+              "posy": 1290,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 10430,
+              "stageId": 10430,
+              "posx": 25962,
+              "posy": 1290,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10431,
+              "stageId": 10431,
+              "posx": 26872,
+              "posy": 1270,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10432,
+              "stageId": 10432,
+              "posx": 27862,
+              "posy": 2010,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10433,
+              "stageId": 10433,
+              "posx": 27081,
+              "posy": 2010,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10434,
+              "stageId": 10434,
+              "posx": 26330,
+              "posy": 2010,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10435,
+              "stageId": 10435,
+              "posx": 25549,
+              "posy": 2010,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10436,
+              "stageId": 10436,
+              "posx": 26106,
+              "posy": 2730,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10437,
+              "stageId": 10437,
+              "posx": 26893,
+              "posy": 2730,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10438,
+              "stageId": 10438,
+              "posx": 27681,
+              "posy": 2730,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10439,
+              "stageId": 10439,
+              "posx": 28425,
+              "posy": 2710,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10440,
+              "stageId": 10440,
+              "posx": 29401,
+              "posy": 2710,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10441,
+              "stageId": 10441,
+              "posx": 29415,
+              "posy": 3470,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10442,
+              "stageId": 10442,
+              "posx": 30245,
+              "posy": 3470,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10443,
+              "stageId": 10443,
+              "posx": 30950,
+              "posy": 3470,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10444,
+              "stageId": 10444,
+              "posx": 31778,
+              "posy": 3500,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10445,
+              "stageId": 10445,
+              "posx": 31778,
+              "posy": 4180,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10446,
+              "stageId": 10446,
+              "posx": 29645,
+              "posy": 4180,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10447,
+              "stageId": 10447,
+              "posx": 29645,
+              "posy": 7554,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10448,
+              "stageId": 10448,
+              "posx": 29193,
+              "posy": 7554,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
             }
           ],
           "nextMainchapterid":-1,

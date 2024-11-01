@@ -438,6 +438,115 @@
           1070421
         ]
       }
+    },
+    {
+      "id": 10705,
+      "appearance": "10705_Heathclif_WolfoxAppearance",
+      "unitKeywordList": [],
+      "characterId": 7,
+      "panicType": 9999,
+      "season": 2,
+      "defenseSkillIDList": [
+        1070504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 86,
+        "incrementByLevel": 2.96
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.68
+      },
+      "minSpeedList": [
+        2,
+        2,
+        3
+      ],
+      "maxSpeedList": [
+        4,
+        5,
+        5
+      ],
+      "uniqueAttribute": "VIOLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          55,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1070501,
+          "number": 3
+        },
+        {
+          "skillId": 1070502,
+          "number": 2
+        },
+        {
+          "skillId": 1070503,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1070501
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1070521
+        ]
+      }
     }
   ]
 }
