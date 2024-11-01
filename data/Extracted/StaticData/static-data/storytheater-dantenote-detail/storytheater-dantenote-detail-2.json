@@ -1,0 +1,100 @@
+{
+  "defaultOpenOrder": 21,
+  "maxOpenOrder": 28,
+  "startDate": "2023-10-18T21:00:00.000Z",
+  "endDate":"2023-11-01T21:00:00.000Z",
+  "openConditionChapter": 9104,
+  "list": [
+    {
+      "id": 64,
+      "openOrder": 22,
+      "openDate": "",
+      "titleOrder": 1,
+      "days": "984.5.17"
+    },
+    {
+        "id": 65,
+        "openOrder": 22,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.17"
+    },
+    {
+        "id": 66,
+        "openOrder": 23,
+        "openDate": "",
+        "titleOrder": 2,
+        "days": "984.5.18"
+    },
+    {
+        "id": 67,
+        "openOrder": 23,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.18"
+    },
+    {
+        "id": 68,
+        "openOrder": 23,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.18"
+    },
+    {
+        "id": 69,
+        "openOrder": 24,
+        "openDate": "",
+        "titleOrder": 2,
+        "days": "984.5.19"
+    },
+    {
+        "id": 70,
+        "openOrder": 24,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.19"
+    },
+    {
+        "id": 71,
+        "openOrder": 25,
+        "openDate": "",
+        "titleOrder": 2,
+        "days": "984.5.20"
+    },
+    {
+        "id": 72,
+        "openOrder": 25,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.20"
+    },
+    {
+        "id": 73,
+        "openOrder": 26,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.21"
+    },
+    {
+        "id": 74,
+        "openOrder": 27,
+        "openDate": "",
+        "titleOrder": 1,
+        "days": "984.5.22"
+    },
+    {
+        "id": 75,
+        "openOrder": 27,
+        "openDate": "",
+        "titleOrder": 3,
+        "days": "984.5.22"
+    },
+    {
+        "id": 76,
+        "openOrder": 28,
+        "openDate": "",
+        "titleOrder": 4,
+        "days": "984.5.23"
+    }
+  ]
+}

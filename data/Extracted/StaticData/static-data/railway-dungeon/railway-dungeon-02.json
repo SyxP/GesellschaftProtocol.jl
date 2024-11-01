@@ -124,6 +124,28 @@
             "num": 1
           },
           "localizeId": "railway_dungeon_2_banner_reward_condition_6"
+        },
+        {
+          "isDateLimited": true,
+          "requiredConditions": [
+            {
+              "type": "ROTATION_COUNT",
+              "count": 5
+            },
+            {
+              "type": "CLEAR_TURN_COUNT",
+              "count": 150
+            }
+          ],
+          "startDateForUI": "2023-09-15T11:15:00.000Z",
+          "startDate": "2023-09-15T11:15:00.000Z",
+          "endDate": "2023-11-16T00:59:59.000Z",
+          "reward": {
+            "type": "USERBANNER",
+            "id": 19,
+            "num": 1
+          },
+          "localizeId": "railway_dungeon_2_banner_reward_condition_7"
         }
       ],
       "extraRewards": [
@@ -406,6 +428,49 @@
               "num": 1
             }
           ]
+        },
+        {
+          "id": 15,
+          "isDateLimited": true,
+          "requiredConditions": [
+            {
+              "type": "ROTATION_COUNT",
+              "count": 5
+            },
+            {
+              "type": "CLEAR_TURN_COUNT",
+              "count": 150
+            },
+            {
+              "type": "CLEAR_NODE",
+              "count": 9
+            }
+          ],
+          "startDateForUI": "2023-09-15T11:15:00.000Z",
+          "startDate": "2023-09-15T11:15:00.000Z",
+          "endDate": "2023-11-16T00:59:59.000Z",
+          "rewards": [
+            {
+              "type": "USER_TICKET_DECO_LEFT",
+              "id": 14,
+              "num": 1
+            },
+            {
+              "type": "USER_TICKET_DECO_RIGHT",
+              "id": 14,
+              "num": 1
+            },
+            {
+              "type": "USER_TICKET_DECO_EGOBG",
+              "id": 14,
+              "num": 1
+            }
+          ],
+          "uiConfig": {
+            "isSpecialReward": true,
+            "descLocalizeId": "railway_dungeon_2_reward_condition_special_ticket_14",
+            "isHideAtNode": true
+          }
         }
       ],
       "buffSet": [

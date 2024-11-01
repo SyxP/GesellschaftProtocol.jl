@@ -90,7 +90,8 @@
         "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
       },
       "value1Max": 9999,
-      "value2Max": 99
+      "value2Max": 99,
+      "effectId": 1
     },
     {
       "id": 17,
@@ -101,7 +102,8 @@
         "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
       },
       "value1Max": 9999,
-      "value2Max": 99
+      "value2Max": 99,
+      "effectId": 1
     },
     {
       "id": 18,
@@ -112,7 +114,8 @@
         "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line2\"><color=#ecfff2>"
       },
       "value1Max": 9999,
-      "value2Max": 99
+      "value2Max": 99,
+      "effectId": 1
     },
     {
       "id": 19,
@@ -124,7 +127,7 @@
       },
       "value1Max": 9999,
       "value2Max": 99,
-      "useEffect": true
+      "effectId": 2
     }
   ]
 }

@@ -1,6 +1,9 @@
 {
+  "defaultOpenOrder": 0,
+  "maxOpenOrder": 21,
   "startDate": "2023-05-10T21:00:00.000Z",
-  "endDate":"2023-05-31T21:00:00.000Z",
+  "endDate": "2023-05-31T21:00:00.000Z",
+  "openConditionChapter": 9103,
   "list": [
     {
       "id": 1,
