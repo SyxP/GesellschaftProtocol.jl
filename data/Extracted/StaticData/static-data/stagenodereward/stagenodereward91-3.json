@@ -4,23 +4,12 @@
       "nodeid": 910301,
       "acquireExp": 18,
       "acquireTotalExpForPersonality": 540,
-      "normalClearRewards": [
-          {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 9
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 25
         }
       ]
     },
@@ -28,23 +17,12 @@
       "nodeid": 910302,
       "acquireExp": 18,
       "acquireTotalExpForPersonality": 540,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 9
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 25
         }
       ]
     },
@@ -52,23 +30,12 @@
       "nodeid": 910303,
       "acquireExp": 18,
       "acquireTotalExpForPersonality": 540,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 9
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 50
         }
       ]
     },
@@ -76,23 +43,12 @@
       "nodeid": 910304,
       "acquireExp": 18,
       "acquireTotalExpForPersonality": 540,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 9
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 50
         }
       ]
     },
@@ -100,23 +56,12 @@
       "nodeid": 910305,
       "acquireExp": 18,
       "acquireTotalExpForPersonality": 540,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 9
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 50
         }
       ]
     },
@@ -124,23 +69,12 @@
       "nodeid": 910306,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 75
         }
       ]
     },
@@ -148,23 +82,12 @@
       "nodeid": 910307,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 75
         }
       ]
     },
@@ -172,23 +95,12 @@
       "nodeid": 910308,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 10
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 40
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 75
         }
       ]
     },
@@ -196,23 +108,12 @@
       "nodeid": 910309,
       "acquireExp": 20,
       "acquireTotalExpForPersonality": 600,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 25
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
           "num": 200
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 125
         }
       ]
     },
@@ -220,22 +121,11 @@
       "nodeid": 910310,
       "acquireExp": 40,
       "acquireTotalExpForPersonality": 1200,
-      "normalClearRewards": [
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
-          "num": 80
-        }
-      ],
+      "normalClearRewards": [],
       "exClearRewards": [
         {
           "type": "ITEM",
           "id": 2,
-          "num": 200
-        },
-        {
-          "type": "EVENT_ITEM",
-          "id": 0,
           "num": 200
         }
       ]

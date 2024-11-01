@@ -11,7 +11,8 @@
             "id": 101,
             "name": "Limbuscompany",
             "danteNoteDetailId": [
-              1,2
+              1,
+              2
             ]
           },
           "smallCategoryList": [
@@ -20,7 +21,8 @@
                 "id": 10101,
                 "name": "LCB",
                 "danteNoteDetailId": [
-                  3,4
+                  3,
+                  4
                 ]
               }
             },
@@ -29,7 +31,7 @@
                 "id": 10102,
                 "name": "LCC",
                 "danteNoteDetailId": [
-                 5
+                  5
                 ]
               }
             },
@@ -38,7 +40,9 @@
                 "id": 10103,
                 "name": "Sinner",
                 "danteNoteDetailId": [
-                  6, 7, 8
+                  6,
+                  7,
+                  8
                 ]
               }
             },
@@ -47,7 +51,8 @@
                 "id": 10104,
                 "name": "Goldenbranch",
                 "danteNoteDetailId": [
-                  20
+                  20,
+                  42
                 ]
               }
             }
@@ -78,14 +83,24 @@
                 "danteNoteDetailId": [
                   13
                 ]
-              }
+              },
+              "smallDetailCategoryList": [
+                {
+                  "id": 1020201,
+                  "name": "LobotomyCorp",
+                  "danteNoteDetailId": [
+                    29
+                  ]
+                }
+              ]
             },
             {
               "smallCategory": {
                 "id": 10203,
                 "name": "NestK",
                 "danteNoteDetailId": [
-                  11,12
+                  11,
+                  12
                 ]
               }
             },
@@ -94,7 +109,8 @@
                 "id": 10204,
                 "name": "NestN",
                 "danteNoteDetailId": [
-                  14,15
+                  14,
+                  15
                 ]
               }
             }
@@ -108,7 +124,7 @@
               23
             ]
           },
-          
+
           "smallCategoryList": [
             {
               "smallCategory": {
@@ -136,6 +152,50 @@
                   19
                 ]
               }
+            },
+            {
+              "smallCategory": {
+                "id": 10304,
+                "name": "Association",
+                "danteNoteDetailId": [
+                  25
+                ]
+              },
+              "smallDetailCategoryList": [
+                {
+                  "id": 1030401,
+                  "name": "ShiAsso",
+                  "danteNoteDetailId": [
+                    26
+                  ]
+                },
+                {
+                  "id": 1030402,
+                  "name": "LiuAsso",
+                  "danteNoteDetailId": [
+                    27,
+                    30,
+                    33
+                  ]
+                },
+                {
+                  "id": 1030403,
+                  "name": "Shank",
+                  "danteNoteDetailId": [
+                    37
+                  ]
+                }
+              ]
+            },
+            {
+              "smallCategory": {
+                "id": 10305,
+                "name": "Office",
+                "danteNoteDetailId": [
+                  28,
+                  31
+                ]
+              }
             }
 
           ]
@@ -154,21 +214,71 @@
                 "id": 10401,
                 "name": "Personality",
                 "danteNoteDetailId": [
-                  21,22
+                  21,
+                  22
+          
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10402,
+                "name": "Singularity",
+                "danteNoteDetailId": [
+                  40
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10403,
+                "name": "Enkephalin",
+                "danteNoteDetailId": [
+                  32,
+                  35
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10404,
+                "name": "Abnormality",
+                "danteNoteDetailId": [
+                  34,
+                  36
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10405,
+                "name": "E.G.O",
+                "danteNoteDetailId": [
+                  39
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10406,
+                "name": "String",
+                "danteNoteDetailId": [
+                  38,
+                  41
                 ]
               }
             }
           ]
-          
         },
         {
           "middleCategory": {
             "id": 105,
             "name": "Fixer",
             "danteNoteDetailId": [
-              18
+              18,
+              44
             ]
-          } 
+          }
         }
       ]
     }

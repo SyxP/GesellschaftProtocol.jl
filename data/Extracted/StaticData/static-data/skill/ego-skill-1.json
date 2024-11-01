@@ -419,6 +419,144 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2010411,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "BACK",
+          "targetNum": 1,
+          "mpUsage": 25,
+          "defaultSkillLevel": 15.0,
+          "skillLevelPerUnitLevel": 0.76,
+          "defaultValue": 15,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 18,
+              "abilityScriptList": [
+                {
+                  "scriptName": "2010411_1"
+                },
+                {
+                  "scriptName": "2010411_2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 20,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 18,
+              "abilityScriptList": [
+                {
+                  "scriptName": "2010411_1_gaksung"
+                },
+                {
+                  "scriptName": "2010411_2_gaksung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010421,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 1,
+          "mpUsage": 30,
+          "defaultSkillLevel": 16.0,
+          "skillLevelPerUnitLevel": 0.82,
+          "defaultValue": 36,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 24,
+              "abilityScriptList": [
+                {
+                  "scriptName": "2010421_1"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "2010421_2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 42,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 24,
+              "abilityScriptList": [
+                {
+                  "scriptName": "2010421_1_gaksung"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 6,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "2010421_2_gaksung"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

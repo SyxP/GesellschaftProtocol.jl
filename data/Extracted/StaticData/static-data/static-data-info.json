@@ -102,7 +102,9 @@
         "gacha-107",
         "gacha-108",
         "gacha-109",
-        "gacha-110"
+        "gacha-110",
+        "gacha-111",
+        "gacha-112"
       ]
     },
     {
@@ -617,6 +619,12 @@
       "dataClass": "open-story-by-date",
       "fileList": [
         "open-story-by-date-dante-mini-story"
+      ]
+    },
+    {
+      "dataClass": "control-code",
+      "fileList": [
+        "control-code"
       ]
     }
   ]

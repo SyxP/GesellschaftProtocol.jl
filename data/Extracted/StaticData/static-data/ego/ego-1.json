@@ -5,7 +5,7 @@
       "characterId": 1,
       "egoType": "ZAYIN",
       "egoClass": 1,
-      "season":  0,
+      "season": 0,
       "skillTier": 3,
       "attributeResistList": [
         {
@@ -228,6 +228,81 @@
       ],
       "awakeningSkillId": 2010311,
       "corrosionSkillId": 2010321
+    },
+    {
+      "id": 20104,
+      "characterId": 1,
+      "egoType": "HE",
+      "egoClass": 3,
+      "season": 0,
+      "skillTier": 3,
+      "attributeResistList": [
+        {
+          "type": "CRIMSON",
+          "value": 2
+        },
+        {
+          "type": "SCARLET",
+          "value": 0.75
+        },
+        {
+          "type": "AMBER",
+          "value": 1
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 1
+        },
+        {
+          "type": "AZURE",
+          "value": 1
+        },
+        {
+          "type": "INDIGO",
+          "value": 0.5
+        },
+        {
+          "type": "VIOLET",
+          "value": 2
+        },
+        {
+          "type": "WHITE",
+          "value": 2
+        },
+        {
+          "type": "BLACK",
+          "value": 2
+        }
+      ],
+      "requirementList": [
+        {
+          "attributeType": "AMBER",
+          "num": 3
+        },
+        {
+          "attributeType": "SHAMROCK",
+          "num": 3
+        }
+      ],
+      "corrosionSectionList": [
+        {
+          "section": 0.5,
+          "probability": 0.25
+        },
+        {
+          "section": 0.25,
+          "probability": 0.75
+        },
+        {
+          "section": 0,
+          "probability": 1.0
+        }
+      ],
+      "awakeningPassiveList": [
+        2010411
+      ],
+      "awakeningSkillId": 2010411,
+      "corrosionSkillId": 2010421
     }
   ]
 }
