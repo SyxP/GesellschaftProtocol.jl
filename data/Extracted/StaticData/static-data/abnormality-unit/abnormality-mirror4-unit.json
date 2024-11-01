@@ -1156,14 +1156,6 @@
           "number": 2
         },
         {
-          "skillId": 851006,
-          "number": 2
-        },
-        {
-          "skillId": 851007,
-          "number": 2
-        },
-        {
           "skillId": 851008,
           "number": 2
         },
@@ -1484,45 +1476,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -1540,45 +1493,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -1589,46 +1503,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851007,
+                      "skillID": -1,
                       "chance": 1
                     }
                   ],
@@ -1682,45 +1557,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -1738,45 +1574,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -1788,45 +1585,6 @@
                   "skillChildList": [
                     {
                       "skillID": 851002,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 851006,
                       "chance": 1
                     }
                   ],
@@ -3437,10 +3195,6 @@
           "number": 0
         },
         {
-          "skillId": 808606,
-          "number": 0
-        },
-        {
           "skillId": 808607,
           "number": 0
         },
@@ -3839,19 +3593,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 808606,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -3895,19 +3636,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 808606,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -3945,19 +3673,6 @@
                   "skillChildList": [
                     {
                       "skillID": 808604,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 808606,
                       "chance": 1
                     }
                   ],
@@ -17880,7 +17595,6 @@
           805002,
           805004,
           805005,
-          805006,
           805007,
           9999998
         ]

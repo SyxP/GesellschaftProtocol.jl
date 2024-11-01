@@ -7025,10 +7025,6 @@
         {
           "skillId": 803206,
           "number": 1
-        },
-        {
-          "skillId": 803208,
-          "number": 1
         }
       ],
       "patternList": [
@@ -9764,14 +9760,6 @@
         },
         {
           "skillId": 803206,
-          "number": 1
-        },
-        {
-          "skillId": 803207,
-          "number": 1
-        },
-        {
-          "skillId": 803208,
           "number": 1
         }
       ],
@@ -13672,10 +13660,6 @@
           "number": 0
         },
         {
-          "skillId": 804506,
-          "number": 0
-        },
-        {
           "skillId": 804507,
           "number": 0
         },
@@ -14074,19 +14058,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 804506,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -14130,19 +14101,6 @@
                   "chance": 1
                 }
               ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 804506,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
             }
           ]
         },
@@ -14180,19 +14138,6 @@
                   "skillChildList": [
                     {
                       "skillID": 804504,
-                      "chance": 1
-                    }
-                  ],
-                  "chance": 1
-                }
-              ]
-            },
-            {
-              "skillParentList": [
-                {
-                  "skillChildList": [
-                    {
-                      "skillID": 804506,
                       "chance": 1
                     }
                   ],
@@ -18466,7 +18411,6 @@
           805003,
           805004,
           805005,
-          805006,
           805007,
           9999998
         ]

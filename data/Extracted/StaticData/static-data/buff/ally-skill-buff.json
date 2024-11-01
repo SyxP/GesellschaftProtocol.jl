@@ -118,6 +118,9 @@
       "list": [
         {
           "ability": "DuelDeclaration"
+        },
+        {
+          "ability": "LoseAllStackOnDie"
         }
       ]
     },
@@ -132,6 +135,9 @@
       "list": [
         {
           "ability": "DuelDeclaration"
+        },
+        {
+          "ability": "LoseAllStackOnDie"
         }
       ]
     },
@@ -146,6 +152,9 @@
       "list": [
         {
           "ability": "DuelDeclaration"
+        },
+        {
+          "ability": "LoseAllStackOnDie"
         }
       ]
     },
@@ -215,6 +224,9 @@
       "maxStack": 1,
       "canBeDespelled": true,
       "list": [
+        {
+          "ability": "LoseAllStackOnDie"
+        }
       ]
     },
     {

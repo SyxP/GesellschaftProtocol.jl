@@ -331,7 +331,7 @@
           "defaultValue": 3,
           "abilityScriptList": [
             {
-              "scriptName": "EmptyRightEye"
+              "scriptName": "EmptyLeftEye"
             },
             {
               "scriptName": "AttackDmgUpOnAttackNegativeMpByRatio10"
@@ -384,7 +384,7 @@
           "defaultValue": 4,
           "abilityScriptList": [
             {
-              "scriptName": "EmptyLeftEye"
+              "scriptName": "EmptyRightEye"
             },
             {
               "scriptName": "AttackDmgUpOnAttackNegativeMpByRatio10"

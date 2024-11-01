@@ -9,21 +9,6 @@
       "isBannerVisible": true
     },
     {
-      "eventId": "TKT",
-      "mainUIPhaseTypeList": [
-        "Lobby",
-        "Stage"
-      ],
-      "bannerSpriteId": "banner_TimeKillingTime_event",
-      "isBannerVisible": true
-    },
-    {
-      "eventId": "TKTReward",
-      "mainUIPhaseTypeList": [
-        "Stage"
-      ]
-    },
-    {
       "eventId": "MirrorDungeon",
       "mainUIPhaseTypeList": [
         "Lobby"
