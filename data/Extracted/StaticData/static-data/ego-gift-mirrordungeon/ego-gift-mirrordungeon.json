@@ -1,0 +1,379 @@
+{
+  "list": [
+    {
+      "id": 9001,
+      "attributeType": "CRIMSON",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9002,
+      "attributeType": "CRIMSON",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9003,
+      "attributeType": "CRIMSON",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9004,
+      "attributeType": "CRIMSON",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9005,
+      "attributeType": "CRIMSON",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9006,
+      "attributeType": "SCARLET",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9007,
+      "attributeType": "SCARLET",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9008,
+      "attributeType": "SCARLET",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9009,
+      "attributeType": "SCARLET",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9010,
+      "attributeType": "SCARLET",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9011,
+      "attributeType": "AMBER",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9012,
+      "attributeType": "AMBER",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9013,
+      "attributeType": "AMBER",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9014,
+      "attributeType": "AMBER",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9015,
+      "attributeType": "AMBER",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9016,
+      "attributeType": "SHAMROCK",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9017,
+      "attributeType": "SHAMROCK",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9018,
+      "attributeType": "SHAMROCK",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9019,
+      "attributeType": "SHAMROCK",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9020,
+      "attributeType": "SHAMROCK",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9021,
+      "attributeType": "AZURE",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9022,
+      "attributeType": "AZURE",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9023,
+      "attributeType": "AZURE",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9024,
+      "attributeType": "AZURE",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9025,
+      "attributeType": "AZURE",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9026,
+      "attributeType": "INDIGO",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9027,
+      "attributeType": "INDIGO",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9028,
+      "attributeType": "INDIGO",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9029,
+      "attributeType": "INDIGO",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9030,
+      "attributeType": "INDIGO",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9031,
+      "attributeType": "VIOLET",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9032,
+      "attributeType": "VIOLET",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9033,
+      "attributeType": "VIOLET",
+      "tag": [
+        "TIER_2",
+        "START",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9034,
+      "attributeType": "VIOLET",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9035,
+      "attributeType": "VIOLET",
+      "tag": [
+        "TIER_1",
+        "START"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9036,
+      "attributeType": "CRIMSON",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9037,
+      "attributeType": "SCARLET",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9038,
+      "attributeType": "AZURE",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9039,
+      "attributeType": "SHAMROCK",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    },
+    {
+      "id": 9040,
+      "attributeType": "INDIGO",
+      "tag": [
+        "TIER_3",
+        "FLOORBOSS"
+      ],
+      "lockType": false
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "bannerInfo": {
+        "bannerSpr": "banner_vendingMachine0"
+      },
+      "contents": [
+        {
+          "type": "PERSONALITY",
+          "id": 10102,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10202,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10203,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10303,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10402,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10502,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10602,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10702,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10803,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10804,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10903,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11003,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11004,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11102,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11103,
+          "price": 150
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11202,
+          "price": 150
+        },
+
+
+
+
+        {
+          "type": "PERSONALITY",
+          "id": 10103,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10302,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10403,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10503,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10603,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10703,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10802,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 10902,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11002,
+          "price": 400
+        },
+        {
+          "type": "PERSONALITY",
+          "id": 11203,
+          "price": 400
+        },
+
+
+
+
+        {
+          "type": "EGO",
+          "id": 20103,
+          "price": 400
+        },
+        {
+          "type": "EGO",
+          "id": 20203,
+          "price": 400
+        },
+        {
+          "type": "EGO",
+          "id": 20503,
+          "price": 400
+        },
+        {
+          "type": "EGO",
+          "id": 20803,
+          "price": 400
+        },
+        {
+          "type": "EGO",
+          "id": 21103,
+          "price": 400
+        },
+        {
+          "type": "EGO",
+          "id": 21203,
+          "price": 400
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "id": 10801,
+      "appearance": "10801_Ishmael_BaseAppearance",
+      "characterId": 8,
+      "season": 1,
+      "rank": 1,
+      "hp": {
+        "defaultStat": 78,
+        "incrementByLevel": 2.69
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.67
+      },
+      "minSpeedList": [
+        5,5,5
+      ],
+      "maxSpeedList": [
+        6,7,8
+      ],
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "breakSection": {
+        "sectionList": [
+          60,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1080101,
+          "number": 3
+        },
+        {
+          "skillId": 1080102,
+          "number": 2
+        },
+        {
+          "skillId": 1080103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1080101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1080121
+        ]
+      }
+    },
+    {
+      "id": 10802,
+      "appearance": "10802_Ishmael_RCorpAppearance",
+      "characterId": 8,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 79,
+        "incrementByLevel": 2.69
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.74
+      },
+      "minSpeedList": [
+        2,3,3
+      ],
+      "maxSpeedList": [
+        6,6,7
+      ],
+      "uniqueAttribute": "AZURE",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1080201,
+          "number": 3
+        },
+        {
+          "skillId": 1080202,
+          "number": 2
+        },
+        {
+          "skillId": 1080203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1080201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1080221
+        ]
+      }
+    },
+    {
+      "id": 10803,
+      "appearance": "10803_Ishmael_ShiAssoAppearance",
+      "characterId": 8,
+      "season": 1,
+      "defenseSkillIDList": [
+        1080304
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.82
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.65
+      },
+      "minSpeedList": [
+        1,1,2
+      ],
+      "maxSpeedList": [
+        4,5,5
+      ],
+      "uniqueAttribute": "VIOLET",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1080301,
+          "number": 3
+        },
+        {
+          "skillId": 1080302,
+          "number": 2
+        },
+        {
+          "skillId": 1080303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1080301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1080321
+        ]
+      }
+    },
+    {
+      "id": 10804,
+      "appearance": "10804_Ishmael_LCCSodeAppearance",
+      "characterId": 8,
+      "season": 1,
+      "defenseSkillIDList": [
+        1080404
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.82
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.76
+      },
+      "minSpeedList": [
+        1,1,2
+      ],
+      "maxSpeedList": [
+        5,5,6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "breakSection": {
+        "sectionList": [
+          60,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1080401,
+          "number": 3
+        },
+        {
+          "skillId": 1080402,
+          "number": 2
+        },
+        {
+          "skillId": 1080403,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1080401
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1080421
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "list": [
+    {
+      "id": 10501,
+      "appearance": "10501_Meursault_BaseAppearance",
+      "characterId": 5,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 90,
+        "incrementByLevel": 3.1
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.78
+      },
+      "minSpeedList": [
+        1,1,2
+      ],
+      "maxSpeedList": [
+        2,2,3
+      ],
+      "uniqueAttribute": "AMBER",
+      "breakSection": {
+        "sectionList": [
+          60,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1050101,
+          "number": 3
+        },
+        {
+          "skillId": 1050102,
+          "number": 2
+        },
+        {
+          "skillId": 1050103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1050101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1050121
+        ]
+      }
+    },
+    {
+      "id": 10502,
+      "appearance": "10502_Meursault_LiuAppearance",
+      "characterId": 5,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 82,
+        "incrementByLevel": 2.82
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.65
+      },
+      "minSpeedList": [
+        1,1,2
+      ],
+      "maxSpeedList": [
+        4,5,5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1050201,
+          "number": 3
+        },
+        {
+          "skillId": 1050202,
+          "number": 2
+        },
+        {
+          "skillId": 1050203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1050201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1050221
+        ]
+      }
+    },
+    {
+      "id": 10503,
+      "appearance": "10503_Meursault_WCorpAppearance",
+      "characterId": 5,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 79,
+        "incrementByLevel": 2.73
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.79
+      },
+      "minSpeedList": [
+        4,4,4
+      ],
+      "maxSpeedList": [
+        6,7,8
+      ],
+      "uniqueAttribute": "VIOLET",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1050301,
+          "number": 3
+        },
+        {
+          "skillId": 1050302,
+          "number": 2
+        },
+        {
+          "skillId": 1050303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1050301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1050321
+        ]
+      }
+    }
+  ]
+}

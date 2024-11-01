@@ -1,0 +1,229 @@
+{
+  "list": [
+    {
+      "id": 11201,
+      "appearance": "11201_Gregor_BaseAppearance",
+      "characterId": 12,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 72,
+        "incrementByLevel": 2.48
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.67
+      },
+      "minSpeedList": [
+        2,3,3
+      ],
+      "maxSpeedList": [
+        6,6,7
+      ],
+      "uniqueAttribute": "AZURE",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1120101,
+          "number": 3
+        },
+        {
+          "skillId": 1120102,
+          "number": 2
+        },
+        {
+          "skillId": 1120103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1120101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1120121
+        ]
+      }
+    },
+    {
+      "id": 11202,
+      "appearance": "11202_Gregor_LiuAssoAppearance",
+      "characterId": 12,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 63,
+        "incrementByLevel": 2.17
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.55
+      },
+      "minSpeedList": [
+        3,3,3
+      ],
+      "maxSpeedList": [
+        5,6,7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1120201,
+          "number": 3
+        },
+        {
+          "skillId": 1120202,
+          "number": 2
+        },
+        {
+          "skillId": 1120203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1120201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1120221
+        ]
+      }
+    },
+    {
+      "id": 11203,
+      "appearance": "11203_Gregor_TommyAppearance",
+      "characterId": 12,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.57
+      },
+      "minSpeedList": [
+        3,3,3
+      ],
+      "maxSpeedList": [
+        5,6,7
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1120301,
+          "number": 3
+        },
+        {
+          "skillId": 1120302,
+          "number": 2
+        },
+        {
+          "skillId": 1120303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1120301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1120321
+        ]
+      }
+    }
+  ]
+}

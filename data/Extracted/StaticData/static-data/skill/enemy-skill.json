@@ -1,0 +1,6567 @@
+{
+  "list": [
+    {
+      "id": 9900101,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "actionScript": "Animals",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 10,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900102,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "actionScript": "Animals",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 8,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900103,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "actionScript": "Animals",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 6,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900201,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "actionScript": "Animals",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900202,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "actionScript": "Animals",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900203,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "actionScript": "Animals",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900301,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "actionScript": "Animals",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900302,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "actionScript": "Animals",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900303,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "actionScript": "Animals",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000101,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ],
+          "actionList": [
+            {
+              "successCoins": 2,
+              "actionOrder": [
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000102,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000201,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ],
+          "actionList": [
+            {
+              "successCoins": 3,
+              "actionOrder": [
+                1,
+                2,
+                3
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000202,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 1,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ],
+          "actionList": [
+            {
+              "successCoins": 6,
+              "actionOrder": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000301,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ],
+          "actionList": [
+            {
+              "successCoins": 2,
+              "actionOrder": [
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000302,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ],
+          "actionList": [
+            {
+              "successCoins": 2,
+              "actionOrder": [
+                1,
+                2
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100101,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100102,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100103,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "targetNum": 2,
+          "defaultValue": 6,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "MUL",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100104,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 5,
+          "defaultValue": 6,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ],
+          "actionList": [
+            {
+              "successCoins": 5,
+              "actionOrder": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900401,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900501,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900601,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900701,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 1
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900801,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900901,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901001,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901101,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901201,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901301,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901401,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901501,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901601,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901701,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901801,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901802,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901803,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9901901,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9902001,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9902101,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 1,
+          "attackLevelPerLevel": 0.19,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000401,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.46,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000501,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.46,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000601,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.46,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000701,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 7,
+          "attackLevelPerLevel": 0.35,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000702,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 7,
+          "attackLevelPerLevel": 0.35,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000703,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000801,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 7,
+          "attackLevelPerLevel": 0.35,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000802,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000901,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.53,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001001,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.42,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001002,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.42,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001101,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 8,
+          "attackLevelPerLevel": 0.35,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001102,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001201,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.53,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001202,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.53,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001301,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.42,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001302,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.42,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000103,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 8,
+          "attackLevelPerLevel": 0.4,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000104,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000203,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.64,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000204,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.64,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000303,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.51,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9000304,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.51,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 9,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001401,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 9,
+          "attackLevelPerLevel": 0.45,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001402,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001501,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.68,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001502,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.68,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001601,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.54,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001602,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.54,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001603,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100105,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100106,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Protection",
+                "target": "RandomAlly2",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100108,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 6,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100109,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100201,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackHeadTarget5"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackHeadTarget5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100202,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "AttackDmgUp",
+                "target": "RandomAlly2",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 5,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100203,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 2,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackHeadTarget15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100204,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 6,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100205,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Protection",
+                "target": "RandomAlly2",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackHeadTarget5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001701,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001702,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001703,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "SomangStickerSecondSlot"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001801,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001802,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001803,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "SomangStickerSecondSlot"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001901,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001902,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001903,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "SomangStickerSecondSlot"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9001904,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100301,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.75,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100302,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.75,
+          "abilityScriptList": [
+            {
+              "scriptName": "9100302"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100303,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 1,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.75,
+          "abilityScriptList": [
+            {
+              "scriptName": "ReuseOnKillTargetOnce"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveHpDmgOnSucceedAttackHeadTarget3"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveHpDmgOnSucceedAttackHeadTarget3"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveHpDmgOnSucceedAttackHeadTarget3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100304,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "VIOLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.75,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnBattleStart",
+              "buffData": {
+                "buffKeyword": "Enhancement",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100305,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S5",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.75,
+          "abilityScriptList": [
+            {
+              "scriptName": "SomangStickerAllSlot"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100306,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "COUNTER",
+          "skillMotion": "S6",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.75,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002001,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002002,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "PlusCoinValueDown",
+                    "target": "Target",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002003,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "ResultReduction",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "ResultReduction",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002101,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderOnWinDuel1"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002301,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.5,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002302,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.5,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002303,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.5,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderOnWinDuel2"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002304,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.5,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002401,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.7,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnSucceedAttackSelf2"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnSucceedAttackSelf2"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnSucceedAttackSelf2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002402,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.7,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Endurance",
+                "target": "EveryAlly",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002403,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.7,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnWinDuelTarget5"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002404,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.7,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderOnTargetMpIsNegative1"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002405,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002502,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.7,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Enhancement",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100401,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.77,
+          "abilityScriptList": [
+            {
+              "scriptName": "HealMpOnUseSelf5"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Breath",
+                    "target": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100402,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.77,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnWinDuelTarget10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100403,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.77,
+          "abilityScriptList": [
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Enhancement",
+                    "target": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100404,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.77,
+          "abilityScriptList": [
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Endurance",
+                    "target": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100405,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 15,
+          "attackLevelPerLevel": 0.77,
+          "abilityScriptList": [
+            {
+              "scriptName": "MariachiCriticalChanceAdderByTargetMp"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealFirstBreakSectionOnSuccessAttackHeadByDamageRatio5"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100406,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "EVADE",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnSucceedEvadeTarget5"
+            },
+            {
+              "scriptName": "HealFirstBreakSectionOnSucceedEvadeSelf5"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002601,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderAttackingLessMp1"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002602,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 9,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackTarget15"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002603,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "HealMpOnUse10RandomAlly1"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 1
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackTarget5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002604,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 13,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnWinDuelTarget15"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 10,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002607,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AZURE",
+          "atkType": "PENETRATE",
+          "defType": "COUNTER",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002701,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.59,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderAttackingLessMp1"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptLi90038st": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002801,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.63,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002803,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.63,
+          "abilityScriptList": [
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002804,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 10,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "HealHpOnUseAttackSelf10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9002901,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.63,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003001,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.5,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Endurance",
+                "target": "RandomAlly2",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003002,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 6,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.45,
+          "abilityScriptList": [
+            {
+              "scriptName": "Empty"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibarationExplosionOnSucceedAttackHead"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003101,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SHAMROCK",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.5,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Protection",
+                "target": "RandomAllyExceptSelf",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003201,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003202,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003301,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Disarming",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003302,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003401,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 8,
+          "defaultAttackLevel": 14,
+          "attackLevelPerLevel": 0.71,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003502,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.6,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003503,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.6,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "buffData": {
+                "buffKeyword": "Vulnerable",
+                "target": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vulnerable",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003504,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "COUNTER",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.6,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003602,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.6,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003603,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.6,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "buffData": {
+                "buffKeyword": "Reduction",
+                "target": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 9,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003701,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 6,
+          "defaultAttackLevel": 12,
+          "attackLevelPerLevel": 0.6,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 1
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Nail5",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "buffOwner": "Target",
+                    "target": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003801,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 8,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003803,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Assemble",
+                "target": "RandomAlly2",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003804,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 6,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Protection",
+                "target": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003901,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9003903,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "abilityScriptList": [
+            {
+              "scriptName": "HealMpOnWinDuel15LeastMpAlly2"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9004001,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 7,
+          "defaultAttackLevel": 11,
+          "attackLevelPerLevel": 0.55,
+          "abilityScriptList": [
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 2
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Nail5",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "buffOwner": "Target",
+                    "target": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Nail5",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "buffOwner": "Target",
+                    "target": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100501,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100502,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vulnerable",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100503,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnWinDuel",
+              "buffData": {
+                "buffKeyword": "Assemble",
+                "target": "EveryAlly",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealMpOnSucceedAttack10LeastMpAlly2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100504,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "BreakTargetOnSucceedAttackIfTargetHasStack_Nail5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100505,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 12,
+          "defaultAttackLevel": 0,
+          "attackLevelPerLevel": 0,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Protection",
+                "target": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100601,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "GuidoBerserk"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100602,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100603,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 4,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Assemble",
+                "target": "EveryAlly",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100604,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 5,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 5,
+              "abilityScriptList": [
+                {
+                  "scriptName": "BreakTargetOnSucceedAttackIfTargetHasStack_Nail5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100605,
+      "skillTier": 3,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S4",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 11,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatioViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Nail",
+                "buffOwner": "Target",
+                "stack": 1,
+                "value": 1.0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "SUB",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vulnerable",
+                    "target": "Target",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9100606,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "COUNTER",
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 8,
+          "defaultAttackLevel": 13,
+          "attackLevelPerLevel": 0.65,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Nail",
+                    "target": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9004101,
+      "skillTier": 1,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 3,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.54,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9004102,
+      "skillTier": 2,
+      "skillData": [
+        {
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "targetNum": 1,
+          "defaultValue": 2,
+          "defaultAttackLevel": 10,
+          "attackLevelPerLevel": 0.54,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

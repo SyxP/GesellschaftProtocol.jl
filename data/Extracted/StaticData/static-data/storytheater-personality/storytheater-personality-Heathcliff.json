@@ -1,0 +1,51 @@
+{
+  "list": [
+    {
+        "characterId": 7,
+        "storyList":
+        [
+            {
+                "personalityId": 10701,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList":
+                [
+                ],
+                "profileId": "",
+                "analysisId": ""
+            },
+            {
+                "personalityId": 10702,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList":
+                [
+                  {
+                    "storyId": "P10702",
+                    "lockCondition": "gacksung",
+                    "order": 1,
+                    "reward":{"type":"ITEM","id":2,"num":40}
+                  }
+                ],
+                "profileId": "shi_heathcliff_profile",
+                "analysisId": "shi_heathcliff_analysis"
+            },
+            {
+                "personalityId": 10703,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList": [
+                  {
+                    "storyId": "P10703",
+                    "lockCondition": "gacksung",
+                    "order": 1,
+                    "reward":{"type":"ITEM","id":2,"num":40}
+                  }
+                ],
+                "profileId": "rcorp_heathcliff_profile",
+                "analysisId": "rcorp_heathcliff_analysis"
+            }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "list": [
+    {
+      "id": 2100111,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SHAMROCK",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultAttackLevel": 15.0,
+          "attackLevelPerLevel": 0.78,
+          "defaultValue": 10,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "actionScript": "2100121",
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 15,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 6,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 14,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 15,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Burst",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 12,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Reduction",
+                    "target": "Self",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100211,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "defaultAttackLevel": 14.0,
+          "attackLevelPerLevel": 0.7,
+          "defaultValue": 24,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatio10IfHpRatioLessThan25"
+            },
+            {
+              "scriptName": "HealHpOnKillTargetEveryAllyByRatio10"
+            }
+          ],
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 28,
+          "abilityScriptList": [
+            {
+              "scriptName": "AttackDmgUpByRatio20IfHpRatioLessThan25"
+            },
+            {
+              "scriptName": "HealHpOnKillTargetEveryAllyByRatio15"
+            },
+            {
+              "scriptName": "GiveBuffOnKillTarget",
+              "buffData": {
+                "buffKeyword": "Enhancement",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100221,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "defaultAttackLevel": 14.0,
+          "attackLevelPerLevel": 0.7,
+          "defaultValue": 24,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdder2IfTargetHpRatioLessThan25"
+            },
+            {
+              "scriptName": "GiveBuffOnFailKillTarget",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 28,
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdder4IfTargetHpRatioLessThan25"
+            },
+            {
+              "scriptName": "GiveBuffOnFailKillTarget",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 10,
+                "turn": 0,
+                "activeRound": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnFailKillTarget",
+              "buffData": {
+                "buffKeyword": "Enhancement",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

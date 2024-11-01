@@ -1,0 +1,232 @@
+{
+  "list": [
+    {
+      "id": 2030111,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "defaultAttackLevel": 14.0,
+          "attackLevelPerLevel": 0.72,
+          "defaultValue": 12,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "actionScript": "2030121",
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 11,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 12,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 11,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 6,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "HealSelfOnSuccessAttackHeadByRatio50"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030211,
+      "skillType": "EGO_AWAKEN",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "defaultAttackLevel": 13.0,
+          "attackLevelPerLevel": 0.68,
+          "defaultValue": 15,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "actionScript": "2030221",
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 18,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibarationExplosionOnSucceedAttackHead"
+                },
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackTarget15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 20,
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 18,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibarationExplosionOnSucceedAttack"
+                },
+                {
+                  "scriptName": "GiveMpDmgOnSucceedAttackTarget25"
+                },
+                {
+                  "scriptName": "2030211_1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030221,
+      "skillType": "EGO_EROSION",
+      "skillTier": 3,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "RANDOM",
+          "targetNum": 1,
+          "mpUsage": 20,
+          "defaultAttackLevel": 13.0,
+          "attackLevelPerLevel": 0.68,
+          "defaultValue": 37,
+          "canTeamKill": true,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "actionScript": "2030222",
+          "skillMotion": "Default",
+          "viewType": "SKILL",
+          "parryingCloseType": "NEAR",
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 25,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 42,
+          "coinList": [
+            {
+              "operatorType": "SUB",
+              "scale": 25,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 7,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 7,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "2030221_1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

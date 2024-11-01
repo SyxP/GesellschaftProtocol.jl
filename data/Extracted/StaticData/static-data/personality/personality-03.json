@@ -1,0 +1,229 @@
+{
+  "list": [
+    {
+      "id": 10301,
+      "appearance": "10301_Donquixote_BaseAppearance",
+      "characterId": 3,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.57
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1030101,
+          "number": 3
+        },
+        {
+          "skillId": 1030102,
+          "number": 2
+        },
+        {
+          "skillId": 1030103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1030101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1030121
+        ]
+      }
+    },
+    {
+      "id": 10302,
+      "appearance": "10302_Donquixote_WAppearance",
+      "characterId": 3,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 73,
+        "incrementByLevel": 2.51
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "AMBER",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1030201,
+          "number": 3
+        },
+        {
+          "skillId": 1030202,
+          "number": 2
+        },
+        {
+          "skillId": 1030203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1030201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1030221
+        ]
+      }
+    },
+    {
+      "id": 10303,
+      "appearance": "10303_Donquixote_ShiAssoAppearance",
+      "characterId": 3,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 69,
+        "incrementByLevel": 2.39
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.6
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1030301,
+          "number": 3
+        },
+        {
+          "skillId": 1030302,
+          "number": 2
+        },
+        {
+          "skillId": 1030303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1030301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1030321
+        ]
+      }
+    }
+  ]
+}

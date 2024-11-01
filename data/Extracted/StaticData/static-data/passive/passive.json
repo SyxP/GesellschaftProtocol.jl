@@ -1,0 +1,1129 @@
+{
+  "list": [
+    {
+      "id": 1000101,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1000201,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1000301,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1000401,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1000501,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1000601,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1000701,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1010101,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": 1020101,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": 1030101,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1040101,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1050101,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1060101,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1070101,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": 1080101,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": 1090101,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1100101,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": 1110101,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1120101,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": 1010121,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1020121,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1030121,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1040121,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1050121,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1060121,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1070121,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1080121,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1090121,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1100121,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1110121,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1120121,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1010201,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1020201,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1030201,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1040201,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1050201,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1060201,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1070201,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1080201,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1090201,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1100201,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1110201,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1120201,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1010221,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1020221,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1030221,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1040221,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1050221,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1060221,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1070221,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1080221,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1090221,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1100221,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1110221,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1120221,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1010301,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1020301,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1030301,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1040301,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1050301,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1060301,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1070301,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1080301,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1090301,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1100301,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1110301,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1120301,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1010321,
+      "attributeResonanceCondition": [
+        {
+          "type": "INDIGO",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1020321,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1030321,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1040321,
+      "attributeResonanceCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1050321,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1060321,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1070321,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1080321,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1090321,
+      "attributeResonanceCondition": [
+        {
+          "type": "VIOLET",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1100321,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1110321,
+      "attributeResonanceCondition": [
+        {
+          "type": "AMBER",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1120321,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 5
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1080401,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1100401,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1080421,
+      "attributeResonanceCondition": [
+        {
+          "type": "SHAMROCK",
+          "value": 2
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 1100421,
+      "attributeResonanceCondition": [
+        {
+          "type": "AZURE",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
+      "id": 90001
+    },
+    {
+      "id": 90002
+    },
+    {
+      "id": 90003
+    },
+    {
+      "id": 90004
+    },
+    {
+      "id": 90005
+    },
+    {
+      "id": 90006
+    },
+    {
+      "id": 800101
+    },
+    {
+      "id": 800104
+    },
+    {
+      "id": 800105
+    },
+    {
+      "id": 800201
+    },
+    {
+      "id": 800203
+    },
+    {
+      "id": 800204
+    },
+    {
+      "id": 800206
+    },
+    {
+      "id": 800301
+    },
+    {
+      "id": 800801
+    },
+    {
+      "id": 800902
+    },
+    {
+      "id": 800903
+    },
+    {
+      "id": 801001
+    },
+    {
+      "id": 801002
+    },
+    {
+      "id": 801201
+    },
+    {
+      "id": 801301
+    },
+    {
+      "id": 801302
+    },
+    {
+      "id": 801501
+    },
+    {
+      "id": 801904
+    },
+    {
+      "id": 802401
+    },
+    {
+      "id": 802402
+    },
+    {
+      "id": 802403
+    },
+    {
+      "id": 802404
+    },
+    {
+      "id": 802501
+    },
+    {
+      "id": 802502
+    },
+    {
+      "id": 802503
+    },
+    {
+      "id": 802801
+    },
+    {
+      "id": 802802
+    },
+    {
+      "id": 802803
+    },
+    {
+      "id": 802804
+    },
+    {
+      "id": 802901
+    },
+    {
+      "id": 802902
+    },
+    {
+      "id": 802903
+    },
+    {
+      "id": 802904
+    },
+    {
+      "id": 803001
+    },
+    {
+      "id": 803002
+    },
+    {
+      "id": 803003
+    },
+    {
+      "id": 9002801
+    },
+    {
+      "id": 803101
+    },
+    {
+      "id": 803102
+    },
+    {
+      "id": 803103
+    },
+    {
+      "id": 803201
+    },
+    {
+      "id": 803202
+    },
+    {
+      "id": 803203
+    },
+    {
+      "id": 9000101
+    },
+    {
+      "id": 9000102
+    },
+    {
+      "id": 9000103
+    },
+    {
+      "id": 9100301
+    },
+    {
+      "id": 9100302
+    },
+    {
+      "id": 9100401
+    },
+    {
+      "id": 9100402
+    },
+    {
+      "id": 9003201
+    },
+    {
+      "id": 9003801
+    },
+    {
+      "id": 9100501
+    },
+    {
+      "id": 9100502
+    },
+    {
+      "id": 9100601
+    },
+    {
+      "id": 803302
+    }
+  ]
+}

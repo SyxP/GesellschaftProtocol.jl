@@ -1,0 +1,229 @@
+{
+  "list": [
+    {
+      "id": 10201,
+      "appearance": "10201_Faust_BaseAppearance",
+      "characterId": 2,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 84,
+        "incrementByLevel": 2.9
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.72
+      },
+      "minSpeedList": [
+        1,2,2
+      ],
+      "maxSpeedList": [
+        3,3,4
+      ],
+      "uniqueAttribute": "INDIGO",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1020101,
+          "number": 3
+        },
+        {
+          "skillId": 1020102,
+          "number": 2
+        },
+        {
+          "skillId": 1020103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1020101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1020121
+        ]
+      }
+    },
+    {
+      "id": 10202,
+      "appearance": "10202_Faust_WAppearance",
+      "characterId": 2,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 88,
+        "incrementByLevel": 3.05
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.76
+      },
+      "minSpeedList": [
+        1,2,2
+      ],
+      "maxSpeedList": [
+        3,3,4
+      ],
+      "uniqueAttribute": "VIOLET",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1020201,
+          "number": 3
+        },
+        {
+          "skillId": 1020202,
+          "number": 2
+        },
+        {
+          "skillId": 1020203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1020201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1020221
+        ]
+      }
+    },
+    {
+      "id": 10203,
+      "appearance": "10203_Faust_YuriAppearance",
+      "characterId": 2,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 69,
+        "incrementByLevel": 2.39
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.6
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1020301,
+          "number": 3
+        },
+        {
+          "skillId": 1020302,
+          "number": 2
+        },
+        {
+          "skillId": 1020303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1020301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1020321
+        ]
+      }
+    }
+  ]
+}

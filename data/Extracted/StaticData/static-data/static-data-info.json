@@ -1,0 +1,450 @@
+{
+  "version": "220322_test",
+  "directory": "static-data/",
+  "dataList": [
+    {
+      "dataClass": "abnormality-event",
+      "fileList": [
+        "abnormality-action-choice-event",
+        "abnormality-personality-choice-event",
+        "mirror-dungeon-action-choice-event",
+        "mirror-dungeon-personality-choice-event",
+        "story-dungeon-action-choice-event",
+        "story-dungeon-personality-choice-event"
+      ]
+    },
+    {
+      "dataClass": "abnormality-part",
+      "fileList": [
+        "abnormality-part"
+      ]
+    },
+    {
+      "dataClass": "abnormality-unit",
+      "fileList": [
+        "abnormality-unit"
+      ]
+    },
+    {
+      "dataClass": "banner",
+      "fileList": [
+        "banner"
+      ]
+    },
+    {
+      "dataClass": "part",
+      "fileList": [
+        "part"
+      ]
+    },
+    {
+      "dataClass": "character",
+      "fileList": [
+        "character"
+      ]
+    },
+    {
+      "dataClass": "common-data",
+      "fileList": [
+        "common-data"
+      ]
+    },
+    {
+      "dataClass": "ego",
+      "fileList": [
+        "ego-1",
+        "ego-2",
+        "ego-3",
+        "ego-4",
+        "ego-5",
+        "ego-6",
+        "ego-7",
+        "ego-8",
+        "ego-9",
+        "ego-10",
+        "ego-11",
+        "ego-12"
+      ]
+    },
+    {
+      "dataClass": "ego-gift",
+      "fileList": [
+        "ego-gift",
+        "hidden-ego-gift-storydungeon"
+      ]
+    },
+    {
+      "dataClass": "ego-gift-mirrordungeon",
+      "fileList": [
+        "ego-gift-mirrordungeon",
+        "hidden-ego-gift-mirrordungeon"
+      ]
+    },
+    {
+      "dataClass": "enemy",
+      "fileList": [
+        "enemy"
+      ]
+    },
+    {
+      "dataClass": "gacha",
+      "fileList": [
+        "gacha-1",
+        "gacha-2",
+        "gacha-3",
+        "gacha-101"
+      ]
+    },
+    {
+      "dataClass": "item",
+      "fileList": [
+        "item-0-currency",
+        "item-100-gacha",
+        "item-200-ticket",
+        "item-300-consumable",
+        "item-400-consumablebox",
+        "item-1100-season-randompackage",
+        "item-1200-season-optionalpackage",
+        "item-piece"
+      ]
+    },
+    {
+      "dataClass": "passive",
+      "fileList": [
+        "passive",
+        "passive-ego"
+      ]
+    },
+    {
+      "dataClass": "personality",
+      "fileList": [
+        "personality-01",
+        "personality-02",
+        "personality-03",
+        "personality-04",
+        "personality-05",
+        "personality-06",
+        "personality-07",
+        "personality-08",
+        "personality-09",
+        "personality-10",
+        "personality-11",
+        "personality-12"
+      ]
+    },
+    {
+      "dataClass": "skill",
+      "fileList": [
+        "abnormality-skill",
+        "ego-skill-1",
+        "ego-skill-2",
+        "ego-skill-3",
+        "ego-skill-4",
+        "ego-skill-5",
+        "ego-skill-6",
+        "ego-skill-7",
+        "ego-skill-8",
+        "ego-skill-9",
+        "ego-skill-10",
+        "ego-skill-11",
+        "ego-skill-12",
+        "enemy-skill",
+        "common-skill",
+        "personality-skill-01",
+        "personality-skill-02",
+        "personality-skill-03",
+        "personality-skill-04",
+        "personality-skill-05",
+        "personality-skill-06",
+        "personality-skill-07",
+        "personality-skill-08",
+        "personality-skill-09",
+        "personality-skill-10",
+        "personality-skill-11",
+        "personality-skill-12"
+      ]
+    },
+    {
+      "dataClass": "battle-story",
+      "fileList": [
+        "storybattle1-1",
+        "storybattle1-2",
+        "storybattle1-3",
+        "stage_Test",
+        "stage_Tutorial"
+      ]
+    },
+    {
+      "dataClass": "battle-dungeon",
+      "fileList": [
+        "dungeonbattle1-1",
+        "dungeonbattle1-2",
+        "dungeonbattle1-3"
+      ]
+    },
+    {
+      "dataClass": "battle-ab",
+      "fileList": [
+        "abbattle1-1",
+        "abbattle1-2",
+        "abbattle1-3"
+      ]
+    },
+    {
+      "dataClass": "battle-mirrordungeon",
+      "fileList": [
+        "mirrordungeon-battle1-1",
+        "mirrordungeon-abbattle1-1"
+      ]
+    },
+    {
+      "dataClass": "stagenodereward",
+      "fileList": [
+        "stagenodereward1-0",
+        "stagenodereward1-1",
+        "stagenodereward1-2",
+        "stagenodereward1-3"
+      ]
+    },
+    {
+      "dataClass": "story",
+      "fileList": [
+        "story"
+      ]
+    },
+    {
+      "dataClass": "dungeon",
+      "fileList": [
+        "dungeon"
+      ]
+    },
+    {
+      "dataClass": "team-position",
+      "fileList": [
+        "team-position"
+      ]
+    },
+    {
+      "dataClass": "vending-machine",
+      "fileList": [
+        "vending-machine"
+      ]
+    },
+    {
+      "dataClass": "chance",
+      "fileList": [
+        "chance-gacha",
+        "chance-iap",
+        "chance-mirrordungeon"
+      ]
+    },
+    {
+      "dataClass": "iap-product",
+      "fileList": [
+        "iap-lunacy",
+        "iap-membership",
+        "iap-package",
+        "iap-limbuspass"
+      ]
+    },
+    {
+      "dataClass": "ui",
+      "fileList": [
+        "ColorCode"
+      ]
+    },
+    {
+      "dataClass": "dungeonMap",
+      "fileList": [
+        "dungeonMap"
+      ]
+    },
+    {
+      "dataClass": "dungeonEvent",
+      "fileList": [
+        "duengeonEvents"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon",
+      "fileList": [
+        "mirrordungeon-01"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-encounterinfo",
+      "fileList": [
+        "mirrordungeon-encounterinfos-01"
+      ]
+    },
+    {
+      "dataClass": "battlepass",
+      "fileList": [
+        "battlepass"
+      ]
+    },
+    {
+      "dataClass": "storytheater-main",
+      "fileList": [
+        "storytheater-main-100",
+        "storytheater-main-101",
+        "storytheater-main-102",
+        "storytheater-main-103"
+      ]
+    },
+    {
+      "dataClass": "storytheater-personality",
+      "fileList": [
+        "storytheater-personality-Yisang",
+        "storytheater-personality-Faust",
+        "storytheater-personality-DonQuixote",
+        "storytheater-personality-Ryoshu",
+        "storytheater-personality-Merusault",
+        "storytheater-personality-HongLu",
+        "storytheater-personality-Heathcliff",
+        "storytheater-personality-Ishmael",
+        "storytheater-personality-Rodion",
+        "storytheater-personality-Sinclair",
+        "storytheater-personality-Outis",
+        "storytheater-personality-Gregor"
+      ]
+    },
+    {
+      "dataClass": "storytheater-mirrorworld",
+      "fileList": [
+        "storytheater-mirrorworld"
+      ]
+    },
+    {
+      "dataClass": "announcer",
+      "fileList": [
+        "announcer"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-egogift-droppool",
+      "fileList": [
+        "mirrordungeon-egogift-droppool"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-generatenodepool",
+      "fileList": [
+        "mirrordungeon-generatenodepool-1-1",
+        "mirrordungeon-generatenodepool-event-1-1"
+      ]
+    },
+    {
+      "dataClass": "greeting-sentenceids",
+      "fileList": [
+        "greeting-sentenceids"
+      ]
+    },
+    {
+      "dataClass": "greeting-wordsids",
+      "fileList": [
+        "greeting-wordids"
+      ]
+    },
+    {
+      "dataClass": "userbanner",
+      "fileList": [
+        "userbanner"
+      ]
+    },
+    {
+      "dataClass": "require-condition",
+      "fileList": [
+        "require-condition"
+      ]
+    },
+    {
+      "dataClass": "cutscene",
+      "fileList": [
+        "cutscene-ego",
+        "cutscene"
+      ]
+    },
+    {
+      "dataClass": "illust-pivots-unitinfo",
+      "fileList": [
+        "illust-pivots-unitinfo"
+      ]
+    },
+    {
+      "dataClass": "illust-pivots-battleresult",
+      "fileList": [
+        "illust-pivots-br"
+      ]
+    },
+    {
+      "dataClass": "illust-pivots-vendingmachine",
+      "fileList": [
+        "illust-pivots-vm"
+      ]
+    },
+    {
+      "dataClass": "illust-pivots-storytheater",
+      "fileList": [
+        "illust-pivots-p"
+      ]
+    },
+    {
+      "dataClass": "abnormality-part-status-ui-position",
+      "fileList": [
+        "abnormality-part-status-ui-position"
+      ]
+    },
+    {
+      "dataClass": "season-info",
+      "fileList": [
+        "season-1"
+      ]
+    },
+    {
+      "dataClass": "gacha-panning",
+      "fileList": [
+        "gacha-panning"
+      ]
+    },
+    {
+      "dataClass": "stage-progress-reward",
+      "fileList": [
+        "stage-progress-reward"
+      ]
+    },
+    {
+      "dataClass": "mirrordungeon-event-acquirable-egogifts",
+      "fileList": [
+        "mirrordungeon-event-acquirable-egogifts-01"
+      ]
+    },
+    {
+      "dataClass": "localized-banner",
+      "fileList": [
+        "localized-lobby-banner-01"
+      ]
+    },
+    {
+      "dataClass": "loadingCG-stage",
+      "fileList": [
+        "loadingCG-stage_100",
+        "loadingCG-stage_101",
+        "loadingCG-stage_102",
+        "loadingCG-stage_103"
+      ]
+    },
+    {
+      "dataClass": "credits-ui",
+      "fileList": [
+        "credits_101"
+      ]
+    },
+    {
+      "dataClass": "gacksung-panning",
+      "fileList": [
+        "gacksung-panning"
+      ]
+    }
+  ]
+}

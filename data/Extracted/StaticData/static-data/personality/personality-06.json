@@ -1,0 +1,229 @@
+{
+  "list": [
+    {
+      "id": 10601,
+      "appearance": "10601_Honglu_BaseAppearance",
+      "characterId": 6,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.57
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "INDIGO",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1060101,
+          "number": 3
+        },
+        {
+          "skillId": 1060102,
+          "number": 2
+        },
+        {
+          "skillId": 1060103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1060101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1060121
+        ]
+      }
+    },
+    {
+      "id": 10602,
+      "appearance": "10602_Honglu_BlackCloudAppearance",
+      "characterId": 6,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 76,
+        "incrementByLevel": 2.6
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        2,3,3
+      ],
+      "maxSpeedList": [
+        6,6,7
+      ],
+      "uniqueAttribute": "SCARLET",
+      "breakSection": {
+        "sectionList": [
+          70,
+          50,
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1060201,
+          "number": 3
+        },
+        {
+          "skillId": 1060202,
+          "number": 2
+        },
+        {
+          "skillId": 1060203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1060201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1060221
+        ]
+      }
+    },
+    {
+      "id": 10603,
+      "appearance": "10603_Honglu_ConconAppearance",
+      "characterId": 6,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 76,
+        "incrementByLevel": 2.6
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "VIOLET",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1060301,
+          "number": 3
+        },
+        {
+          "skillId": 1060302,
+          "number": 2
+        },
+        {
+          "skillId": 1060303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1060301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1060321
+        ]
+      }
+    }
+  ]
+}

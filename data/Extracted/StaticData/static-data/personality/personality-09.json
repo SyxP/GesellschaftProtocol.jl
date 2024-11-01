@@ -1,0 +1,230 @@
+{
+  "list": [
+    {
+      "id": 10901,
+      "appearance": "10901_Rodion_BaseAppearance",
+      "characterId": 9,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000103
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 78,
+        "incrementByLevel": 2.69
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.62
+      },
+      "minSpeedList": [
+        1,1,2
+      ],
+      "maxSpeedList": [
+        4,5,5
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1090101,
+          "number": 3
+        },
+        {
+          "skillId": 1090102,
+          "number": 2
+        },
+        {
+          "skillId": 1090103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1090101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1090121
+        ]
+      }
+    },
+    {
+      "id": 10902,
+      "appearance": "10902_Rodion_BlackCloudAppearance",
+      "characterId": 9,
+      "season": 1,
+      "defenseSkillIDList": [
+        1090204,
+        1090205
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 86,
+        "incrementByLevel": 2.96
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.68
+      },
+      "minSpeedList": [
+        1,1,2
+      ],
+      "maxSpeedList": [
+        4,5,5
+      ],
+      "uniqueAttribute": "AZURE",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1090201,
+          "number": 3
+        },
+        {
+          "skillId": 1090202,
+          "number": 2
+        },
+        {
+          "skillId": 1090203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1090201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1090221
+        ]
+      }
+    },
+    {
+      "id": 10903,
+      "appearance": "10903_Rodion_EpiAppearance",
+      "characterId": 9,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 63,
+        "incrementByLevel": 2.17
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.55
+      },
+      "minSpeedList": [
+        3,3,3
+      ],
+      "maxSpeedList": [
+        5,6,7
+      ],
+      "uniqueAttribute": "INDIGO",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1090301,
+          "number": 3
+        },
+        {
+          "skillId": 1090302,
+          "number": 2
+        },
+        {
+          "skillId": 1090303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1090301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1090321
+        ]
+      }
+    }
+  ]
+}

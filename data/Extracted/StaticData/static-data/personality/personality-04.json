@@ -1,0 +1,231 @@
+{
+  "list": [
+    {
+      "id": 10401,
+      "appearance": "10401_Ryoshu_BaseAppearance",
+      "characterId": 4,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000102
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 1,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.57
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1040101,
+          "number": 3
+        },
+        {
+          "skillId": 1040102,
+          "number": 2
+        },
+        {
+          "skillId": 1040103,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1040101
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1040121
+        ]
+      }
+    },
+    {
+      "id": 10402,
+      "appearance": "10402_Ryoshu_SevenAssoAppearance",
+      "characterId": 4,
+      "season": 1,
+      "defenseSkillIDList": [
+        1040204
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 2,
+      "hp": {
+        "defaultStat": 63,
+        "incrementByLevel": 2.17
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.55
+      },
+      "minSpeedList": [
+        3,3,3
+      ],
+      "maxSpeedList": [
+        5,6,7
+      ],
+      "uniqueAttribute": "AMBER",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1040201,
+          "number": 3
+        },
+        {
+          "skillId": 1040202,
+          "number": 2
+        },
+        {
+          "skillId": 1040203,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1040201
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1040221
+        ]
+      }
+    },
+    {
+      "id": 10403,
+      "appearance": "10403_Ryoshu_BlackCloudAppearance",
+      "characterId": 4,
+      "season": 1,
+      "defenseSkillIDList": [
+        1000101
+      ],
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 73,
+        "incrementByLevel": 2.51
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.63
+      },
+      "minSpeedList": [
+        2,2,3
+      ],
+      "maxSpeedList": [
+        5,6,6
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "breakSection": {
+        "sectionList": [
+          80,
+          60,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1040301,
+          "number": 3
+        },
+        {
+          "skillId": 1040302,
+          "number": 2
+        },
+        {
+          "skillId": 1040303,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1040301
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1040321
+        ]
+      }
+    }
+    
+    
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "list": [
+    {
+      "id": 20701,
+      "characterId": 7,
+      "egoType": "ZAYIN",
+      "egoClass": 1,
+      "season": 1,
+      "skillTier": 3,
+      "attributeResistList": [
+        {
+          "type": "CRIMSON",
+          "value": 1
+        },
+        {
+          "type": "SCARLET",
+          "value": 2
+        },
+        {
+          "type": "AMBER",
+          "value": 1
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 2
+        },
+        {
+          "type": "AZURE",
+          "value": 1
+        },
+        {
+          "type": "INDIGO",
+          "value": 1
+        },
+        {
+          "type": "VIOLET",
+          "value": 0.75
+        },
+        {
+          "type": "WHITE",
+          "value": 2
+        },
+        {
+          "type": "BLACK",
+          "value": 2
+        }
+      ],
+      "requirementList": [
+        {
+          "attributeType": "SCARLET",
+          "num": 2
+        },
+        {
+          "attributeType": "VIOLET",
+          "num": 2
+        }
+      ],
+      "corrosionSectionList": [
+        {
+          "section": 0.5,
+          "probability": 0.25
+        },
+        {
+          "section": 0.25,
+          "probability": 0.75
+        },
+        {
+          "section": 0,
+          "probability": 1.0
+        }
+      ],
+      "awakeningPassiveList": [
+        2070111
+      ],
+      "awakeningSkillId": 2070111
+    },
+    {
+      "id": 20702,
+      "characterId": 7,
+      "egoType": "HE",
+      "egoClass": 2,
+      "season": 1,
+      "skillTier": 3,
+      "attributeResistList": [
+        {
+          "type": "CRIMSON",
+          "value": 1
+        },
+        {
+          "type": "SCARLET",
+          "value": 1
+        },
+        {
+          "type": "AMBER",
+          "value": 2
+        },
+        {
+          "type": "SHAMROCK",
+          "value": 2
+        },
+        {
+          "type": "AZURE",
+          "value": 1
+        },
+        {
+          "type": "INDIGO",
+          "value": 0.75
+        },
+        {
+          "type": "VIOLET",
+          "value": 0.5
+        },
+        {
+          "type": "WHITE",
+          "value": 2
+        },
+        {
+          "type": "BLACK",
+          "value": 2
+        }
+      ],
+      "requirementList": [
+        {
+          "attributeType": "CRIMSON",
+          "num": 3
+        },
+        {
+          "attributeType": "SCARLET",
+          "num": 2
+        },
+        {
+          "attributeType": "VIOLET",
+          "num": 3
+        }
+      ],
+      "corrosionSectionList": [
+        {
+          "section": 0.5,
+          "probability": 0.25
+        },
+        {
+          "section": 0.25,
+          "probability": 0.75
+        },
+        {
+          "section": 0,
+          "probability": 1.0
+        }
+      ],
+      "awakeningPassiveList": [
+        2070211
+      ],
+      "awakeningSkillId": 2070211,
+      "corrosionSkillId": 2070221
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "list": [
+    {
+        "characterId": 4,
+        "storyList":
+        [
+            {
+                "personalityId": 10401,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList":
+                [
+                ],
+                "profileId": "",
+                "analysisId": ""
+            },
+            {
+                "personalityId": 10402,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList":
+                [
+                  {
+                    "storyId": "P10402",
+                    "lockCondition": "gacksung",
+                    "order": 1,
+                    "reward":{"type":"ITEM","id":2,"num":40}
+                  }
+                ],
+                "profileId": "seven_ryoshu_profile",
+                "analysisId": "seven_ryoshu_analysis"
+            },
+            {
+                "personalityId": 10403,
+                "releaseDay": 20221223,
+                "cv_Id": "",
+                "personalityStoryList": [
+                  {
+                    "storyId": "P10403",
+                    "lockCondition": "gacksung",
+                    "order": 1,
+                    "reward":{"type":"ITEM","id":2,"num":40}
+                  }
+                ],
+                "profileId": "kurokumo_ryoshu_profile",
+                "analysisId": "kurokumo_ryoshu_analysis"
+            }
+        ]
+    }
+  ]
+}

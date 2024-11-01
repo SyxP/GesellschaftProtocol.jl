@@ -1,0 +1,422 @@
+{
+  "list": [
+    {
+      "id": 10101,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.07,
+          "offsetY": 0.21,
+          "closeUp": 0.75
+        }
+      ]
+    },
+    {
+      "id": 10102,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.17,
+          "offsetY": 0.23,
+          "closeUp": 0.8
+        }
+      ]
+    },
+    {
+      "id": 10103,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.18,
+          "offsetY": 0.32,
+          "closeUp": 0.55
+        }
+      ]
+    },
+    {
+      "id": 10201,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.04,
+          "offsetY": 0.19,
+          "closeUp": 0.93
+        }
+      ]
+    },
+    {
+      "id": 10202,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.09,
+          "offsetY": 0.24,
+          "closeUp": 0.75
+        }
+      ]
+    },
+    {
+      "id": 10203,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.01,
+          "offsetY": 0.3,
+          "closeUp": 0.6
+        }
+      ]
+    },
+    {
+      "id": 10301,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.04,
+          "offsetY": 0.19,
+          "closeUp": 0.93
+        }
+      ]
+    },
+    {
+      "id": 10302,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.09,
+          "offsetY": 0.24,
+          "closeUp": 0.75
+        }
+      ]
+    },
+    {
+      "id": 10303,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.15,
+          "offsetY": 0.25,
+          "closeUp": 0.75
+        }
+      ]
+    },
+    {
+      "id": 10401,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.04,
+          "offsetY": 0.17,
+          "closeUp": 0.95
+        }
+      ]
+    },
+    {
+      "id": 10402,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.25,
+          "offsetY": 0.21,
+          "closeUp": 0.73
+        }
+      ]
+    },
+    {
+      "id": 10403,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.04,
+          "offsetY": 0.13,
+          "closeUp": 1.11
+        }
+      ]
+    },
+    {
+      "id": 10501,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.02,
+          "offsetY": 0.27,
+          "closeUp": 0.61
+        }
+      ]
+    },
+    {
+      "id": 10502,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.05,
+          "offsetY": 0.27,
+          "closeUp": 0.63
+        }
+      ]
+    },
+    {
+      "id": 10503,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.05,
+          "offsetY": 0.27,
+          "closeUp": 0.49
+        }
+      ]
+    },
+    {
+      "id": 10601,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.04,
+          "offsetY": 0.27,
+          "closeUp": 0.63
+        }
+      ]
+    },
+    {
+      "id": 10602,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.02,
+          "offsetY": 0.27,
+          "closeUp": 0.54
+        }
+      ]
+    },
+    {
+      "id": 10603,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0,
+          "offsetY": 0.3,
+          "closeUp": 0.55
+        }
+      ]
+    },
+    {
+      "id": 10701,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.07,
+          "offsetY": 0.21,
+          "closeUp": 0.72
+        }
+      ]
+    },
+    {
+      "id": 10702,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.19,
+          "offsetY": 0.33,
+          "closeUp": 0.93
+        }
+      ]
+    },
+    {
+      "id": 10703,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.05,
+          "offsetY": 0.27,
+          "closeUp": 0.77
+        }
+      ]
+    },
+    {
+      "id": 10801,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.05,
+          "offsetY": 0.18,
+          "closeUp": 0.77
+        }
+      ]
+    },
+    {
+      "id": 10802,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.17,
+          "offsetY": 0.21,
+          "closeUp": 0.8
+        }
+      ]
+    },
+    {
+      "id": 10803,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.16,
+          "offsetY": 0.15,
+          "closeUp": 0.72
+        }
+      ]
+    },
+    {
+      "id": 10804,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.08,
+          "offsetY": 0.22,
+          "closeUp": 1.05
+        }
+      ]
+    },
+    {
+      "id": 10901,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.07,
+          "offsetY": 0.15,
+          "closeUp": 1.08
+        }
+      ]
+    },
+    {
+      "id": 10902,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.04,
+          "offsetY": 0.3,
+          "closeUp": 0.74
+        }
+      ]
+    },
+    {
+      "id": 10903,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.01,
+          "offsetY": 0.15,
+          "closeUp": 0.81
+        }
+      ]
+    },
+    {
+      "id": 11001,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.02,
+          "offsetY": 0.21,
+          "closeUp": 0.96
+        }
+      ]
+    },
+    {
+      "id": 11002,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.03,
+          "offsetY": 0.21,
+          "closeUp": 0.6
+        }
+      ]
+    },
+    {
+      "id": 11003,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.03,
+          "offsetY": 0.25,
+          "closeUp": 0.61
+        }
+      ]
+    },
+    {
+      "id": 11004,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.08,
+          "offsetY": 0.22,
+          "closeUp": 1.05
+        }
+      ]
+    },
+    {
+      "id": 11101,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.03,
+          "offsetY": 0.22,
+          "closeUp": 0.79
+        }
+      ]
+    },
+    {
+      "id": 11102,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.09,
+          "offsetY": 0.19,
+          "closeUp": 0.75
+        }
+      ]
+    },
+    {
+      "id": 11103,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.14,
+          "offsetY": 0.12,
+          "closeUp": 1.01
+        }
+      ]
+    },
+    {
+      "id": 11201,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.02,
+          "offsetY": 0.09,
+          "closeUp": 1
+        }
+      ]
+    },
+    {
+      "id": 11202,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": 0.01,
+          "offsetY": 0.28,
+          "closeUp": 0.68
+        }
+      ]
+    },
+    {
+      "id": 11203,
+      "pivotList": [
+        {
+          "cutsceneType": "PERSONALITY",
+          "offsetX": -0.08,
+          "offsetY": 0.22,
+          "closeUp": 0.82
+        }
+      ]
+    }
+  ]
+}

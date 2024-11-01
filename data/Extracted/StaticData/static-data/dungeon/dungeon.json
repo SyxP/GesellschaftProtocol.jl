@@ -1,0 +1,40 @@
+{
+  "list": [
+    {
+      "id": 10101,
+      "staminaModule": 1,
+      "recommendedLevel": 7,
+      "entranceStory": "S111B",
+      "illustname": "chapter1_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    },
+    {
+      "id": 10201,
+      "staminaModule": 2,
+      "recommendedLevel": 15,
+      "entranceStory": "S219B",
+      "illustname": "chapter2_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    },
+    {
+      "id": 10301,
+      "staminaModule": 3,
+      "recommendedLevel": 30,
+      "entranceStory": "S322B",
+      "illustname": "chapter3_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
+    }
+  ]
+}

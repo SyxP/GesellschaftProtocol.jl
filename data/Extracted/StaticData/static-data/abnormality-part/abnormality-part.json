@@ -1,0 +1,4539 @@
+{
+  "list": [
+    {
+      "id": 890101,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 26,
+        "incrementByLevel": 0.62
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.51
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        1
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 0.75
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 1.5
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": []
+      }
+    },
+    {
+      "id": 800101,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 18,
+        "incrementByLevel": 0.51
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "regenerateTurn": 1,
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "HEAD",
+      "breakSection": {
+        "sectionList": [
+          
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": [
+          800101
+        ]
+      }
+    },
+    {
+      "id": 800102,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 92,
+        "incrementByLevel": 2.54
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "LEFT_ARM",
+      "breakSection": {
+        "sectionList": [
+          
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 800103,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 92,
+        "incrementByLevel": 2.54
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 800104,
+      "slotWeightConditionList":[
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 148,
+        "incrementByLevel": 4.07
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "LEG",
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          800104,
+          800105
+        ]
+      }
+    },
+    {
+      "id": 800501,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 33,
+        "incrementByLevel": 0.79
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.51
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": []
+      }
+    },
+    {
+      "id": 800601,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 33,
+        "incrementByLevel": 0.79
+      },
+      "def": {
+        "defaultStat": 8,
+        "incrementByLevel": 0.64
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 0.75
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 2
+          },
+          {
+            "type": "AZURE",
+            "value": 2
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": []
+      }
+    },
+    {
+      "id": 800701,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 33,
+        "incrementByLevel": 0.79
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.47
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          60
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 0.75
+          },
+          {
+            "type": "SCARLET",
+            "value": 2
+          },
+          {
+            "type": "AMBER",
+            "value": 0.75
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 2
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": []
+      }
+    },
+    {
+      "id": 800201,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 53,
+        "incrementByLevel": 1.45
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.75
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "LEFT_ARM",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": []
+    },
+    {
+      "id": 800202,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 53,
+        "incrementByLevel": 1.45
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.75
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": []
+    },
+    {
+      "id": 800203,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 123,
+        "incrementByLevel": 3.4
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.75
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "HEAD",
+      "breakSection": {
+        "sectionList": [
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 0.75
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": []
+    },
+    {
+      "id": 800301,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 35,
+        "incrementByLevel": 0.89
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.54
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "HEAD",
+      "breakSection": {
+        "sectionList": [
+
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": [  ]
+      }
+    },
+    {
+      "id": 800401,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 35,
+        "incrementByLevel": 0.89
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.54
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "HEAD",
+      "breakSection": {
+        "sectionList": [
+
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [],
+      "passiveSet": {
+        "passiveIdList": [  ]
+      }
+    },
+    {
+      "id": 800801,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 168,
+        "incrementByLevel": 5.81
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.64
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 0.75
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          800801
+        ]
+      }
+    },
+    {
+      "id": 800901,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 38,
+        "incrementByLevel": 1.56
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "regenerateTurn": 1,
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "HEAD",
+      "breakSection": {
+        "sectionList": [
+
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          800902
+        ]
+      }
+    },
+    {
+      "id": 800902,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 151,
+        "incrementByLevel": 6.25
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          800903
+        ]
+      }
+    },
+    {
+      "id": 801001,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 40,
+        "incrementByLevel": 0.96
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 801101,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 40,
+        "incrementByLevel": 0.96
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 801201,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 44,
+        "incrementByLevel": 1.53
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.5
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 801301,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 68,
+        "incrementByLevel": 1.88
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 801401,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 68,
+        "incrementByLevel": 1.88
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 801501,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 64,
+        "incrementByLevel": 2.67
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.5
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 801601,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 33,
+        "incrementByLevel": 0.67
+      },
+      "def": {
+        "defaultStat": 9,
+        "incrementByLevel": 0.6
+      },
+      "minSpeedList": [
+        4
+      ],
+      "maxSpeedList": [
+        6
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          60
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 0.75
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 2
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 801701,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 33,
+        "incrementByLevel": 0.67
+      },
+      "def": {
+        "defaultStat": 9,
+        "incrementByLevel": 0.6
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 801801,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 33,
+        "incrementByLevel": 0.67
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.43
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 0.75
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 801901,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 29,
+        "incrementByLevel": 0.81
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.58
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802001,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 29,
+        "incrementByLevel": 0.81
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.58
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802101,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 29,
+        "incrementByLevel": 0.81
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802201,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 29,
+        "incrementByLevel": 0.81
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802301,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 999
+      },
+      "def": {
+        "defaultStat": 99
+      },
+      "minSpeedList": [
+        4
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          0
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 0
+          },
+          {
+            "type": "SCARLET",
+            "value": 0
+          },
+          {
+            "type": "AMBER",
+            "value": 0
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0
+          },
+          {
+            "type": "AZURE",
+            "value": 0
+          },
+          {
+            "type": "INDIGO",
+            "value": 0
+          },
+          {
+            "type": "VIOLET",
+            "value": 0
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 802401,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 99,
+        "incrementByLevel": 2.73
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "canUseSkillOnDestroyed": "true",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 0.75
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802501,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 203,
+        "incrementByLevel": 6.3
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.64
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 0.75
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802601,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 117,
+        "incrementByLevel": 3.63
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.8
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "canUseSkillOnDestroyed": "true",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 0.75
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 802701,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 131,
+        "incrementByLevel": 3.16
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          25
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 0.75
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 1.5
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "id": 802801,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 107,
+        "incrementByLevel": 3.69
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.8
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          802801,
+          802803
+        ]
+      }
+    },
+    {
+      "id": 802802,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 125,
+        "incrementByLevel": 4.31
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.8
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "regenerateTurn": 2,
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "LEFT_ARM",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          802801,
+          802802
+        ]
+      }
+    },
+    {
+      "id": 802803,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 125,
+        "incrementByLevel": 4.31
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.8
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        4
+      ],
+      "regenerateTurn": 2,
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          802801,
+          802802
+        ]
+      }
+    },
+    {
+      "id": 802901,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 307,
+        "incrementByLevel": 12.69
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.64
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 803001,
+      "slotWeightConditionList": [
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 116,
+        "incrementByLevel": 4.78
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "LEFT_ARM",
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 803002,
+      "slotWeightConditionList":[
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 116,
+        "incrementByLevel": 4.78
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 803003,
+      "slotWeightConditionList":[
+        "Default3"
+      ],
+      "hp": {
+        "defaultStat": 201,
+        "incrementByLevel": 8.32
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.7
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "canUseSkillOnDestroyed": "false",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 803101,
+      "slotWeightConditionList":[
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 157,
+        "incrementByLevel": 5.94
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "false",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          70,
+          45
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 0.75
+          },
+          {
+            "type": "SCARLET",
+            "value": 1.5
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          803101,
+          803102,
+          803103
+        ]
+      }
+    },
+    {
+      "id": 803102,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 42,
+        "incrementByLevel": 1.6
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          70
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1.5
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 803103,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 42,
+        "incrementByLevel": 1.6
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "LEFT_ARM",
+      "breakSection": {
+        "sectionList": [
+          70
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1.5
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 803104,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 39,
+        "incrementByLevel": 1.48
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "false",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "TAIL",
+      "breakSection": {
+        "sectionList": [
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 0.75
+          },
+          {
+            "type": "AMBER",
+            "value": 1.5
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 803201,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 42,
+        "incrementByLevel": 1.59
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 1.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1.5
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 803202,
+      "slotWeightConditionList":[
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 121,
+        "incrementByLevel": 4.24
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "false",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "BACK",
+      "breakSection": {
+        "sectionList": [
+          33
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 1.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1.5
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+        ]
+      }
+    },
+    {
+      "id": 803203,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 84,
+        "incrementByLevel": 3.18
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "false",
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "BACK_HEAD",
+      "breakSection": {
+        "sectionList": [
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 803204,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 42,
+        "incrementByLevel": 1.59
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "canUseSkillOnDestroyed": "true",
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "true",
+      "partType": "HEAD",
+      "breakSection": {
+        "sectionList": [
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1.5
+          },
+          {
+            "type": "HIT",
+            "value": 1.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1.5
+          },
+          {
+            "type": "VIOLET",
+            "value": 0.75
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+
+        ]
+      }
+    },
+    {
+      "id": 803301,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 47,
+        "incrementByLevel": 1.45
+      },
+      "def": {
+        "defaultStat": 10,
+        "incrementByLevel": 0.8
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY",
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.75
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          802801,
+          803302
+        ]
+      }
+    },
+    {
+      "id": 803302,
+      "slotWeightConditionList":[
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 54,
+        "incrementByLevel": 1.69
+      },
+      "def": {
+        "defaultStat": 10,
+        "incrementByLevel": 0.8
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "regenerateTurn": -1,
+      "isDestroyable": "true",
+      "skillCancelable": "true",
+      "canVanish": "true",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "RIGHT_ARM",
+      "breakSection": {
+        "sectionList": [
+          40
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.75
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.5
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.75
+          },
+          {
+            "type": "AZURE",
+            "value": 0.75
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "passiveSet": {
+        "passiveIdList": [
+          802801
+        ]
+      }
+    }
+  ]
+}
