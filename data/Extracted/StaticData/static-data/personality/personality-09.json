@@ -3,7 +3,7 @@
     {
       "id": 10901,
       "appearance": "10901_Rodion_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 9,
       "season": 0,
       "defenseSkillIDList": [
@@ -84,7 +84,7 @@
     {
       "id": 10902,
       "appearance": "10902_Rodion_BlackCloudAppearance",
-      "mainClique": "BLACK_CLOUD",
+      "unitKeywordList": [ "BLACK_CLOUD" ],
       "characterId": 9,
       "season": 0,
       "defenseSkillIDList": [
@@ -165,7 +165,7 @@
     {
       "id": 10903,
       "appearance": "10903_Rodion_EpiAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 9,
       "season": 1,
       "defenseSkillIDList": [
@@ -246,7 +246,7 @@
     {
       "id": 10904,
       "appearance": "10904_Rodion_NCorpAppearance",
-      "mainClique": "N_CORP",
+      "unitKeywordList": [ "N_CORP" ],
       "characterId": 9,
       "season": 1,
       "defenseSkillIDList": [

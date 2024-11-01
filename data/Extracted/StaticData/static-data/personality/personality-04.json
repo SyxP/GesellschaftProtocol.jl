@@ -3,7 +3,7 @@
     {
       "id": 10401,
       "appearance": "10401_Ryoshu_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 4,
       "season": 0,
       "defenseSkillIDList": [
@@ -84,7 +84,7 @@
     {
       "id": 10402,
       "appearance": "10402_Ryoshu_SevenAssoAppearance",
-      "mainClique": "SEVEN",
+      "unitKeywordList": [ "SEVEN" ],
       "characterId": 4,
       "season": 0,
       "defenseSkillIDList": [
@@ -165,7 +165,7 @@
     {
       "id": 10403,
       "appearance": "10403_Ryoshu_BlackCloudAppearance",
-      "mainClique": "BLACK_CLOUD",
+      "unitKeywordList": [ "BLACK_CLOUD" ],
       "characterId": 4,
       "season": 0,
       "defenseSkillIDList": [
@@ -246,7 +246,7 @@
     {
       "id": 10404,
       "appearance": "10404_Ryoshu_PierreAppearance",
-      "mainClique": "BACKSTREET_COOK",
+      "unitKeywordList": [ "BACKSTREET_COOK" ],
       "characterId": 4,
       "season": 1,
       "additionalAttachment": "EVENT",

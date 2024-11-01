@@ -3,7 +3,7 @@
     {
       "id": 11201,
       "appearance": "11201_Gregor_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 12,
       "season": 0,
       "defenseSkillIDList": [
@@ -83,7 +83,7 @@
     {
       "id": 11202,
       "appearance": "11202_Gregor_LiuAssoAppearance",
-      "mainClique": "LIU",
+      "unitKeywordList": [ "LIU" ],
       "characterId": 12,
       "season": 0,
       "defenseSkillIDList": [
@@ -164,7 +164,7 @@
     {
       "id": 11203,
       "appearance": "11203_Gregor_TommyAppearance",
-      "mainClique": "G_CORP",
+      "unitKeywordList": [ "G_CORP" ],
       "characterId": 12,
       "season": 1,
       "defenseSkillIDList": [
@@ -245,7 +245,7 @@
     {
       "id": 11204,
       "appearance": "11204_Gregor_JackAppearance",
-      "mainClique": "BACKSTREET_COOK",
+      "unitKeywordList": [ "BACKSTREET_COOK" ],
       "characterId": 12,
       "season": 1,
       "additionalAttachment": "EVENT",

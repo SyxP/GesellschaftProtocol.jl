@@ -3,7 +3,7 @@
     {
       "id": 10101,
       "appearance": "10101_YiSang_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 1,
       "season": 0,
       "defenseSkillIDList": [
@@ -84,7 +84,7 @@
     {
       "id": 10102,
       "appearance": "10102_YiSang_7Appearance",
-      "mainClique": "SEVEN",
+      "unitKeywordList": [ "SEVEN" ],
       "characterId": 1,
       "season": 0,
       "defenseSkillIDList": [
@@ -164,7 +164,7 @@
     {
       "id": 10103,
       "appearance": "10103_Yisang_SwordGroupAppearance",
-      "mainClique": "BLADE_LINEAGE",
+      "unitKeywordList": [ "BLADE_LINEAGE" ],
       "characterId": 1,
       "season": 0,
       "defenseSkillIDList": [

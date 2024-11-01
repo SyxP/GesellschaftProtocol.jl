@@ -3,7 +3,7 @@
     {
       "id": 10501,
       "appearance": "10501_Meursault_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 5,
       "season": 0,
       "defenseSkillIDList": [
@@ -83,7 +83,7 @@
     {
       "id": 10502,
       "appearance": "10502_Meursault_LiuAppearance",
-      "mainClique": "LIU",
+      "unitKeywordList": [ "LIU" ],
       "characterId": 5,
       "season": 0,
       "defenseSkillIDList": [
@@ -164,7 +164,7 @@
     {
       "id": 10503,
       "appearance": "10503_Meursault_WCorpAppearance",
-      "mainClique": "W_CORP",
+      "unitKeywordList": [ "W_CORP" ],
       "characterId": 5,
       "season": 0,
       "defenseSkillIDList": [
@@ -244,7 +244,7 @@
 	 {
       "id": 10504,
       "appearance": "10504_Meursault_NCorpGuidoAppearance",
-      "mainClique": "N_CORP",
+      "unitKeywordList": [ "N_CORP" ],
       "characterId": 5,
       "season": 1,
       "defenseSkillIDList": [

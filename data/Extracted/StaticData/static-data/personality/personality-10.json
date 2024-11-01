@@ -3,13 +3,13 @@
     {
       "id": 11001,
       "appearance": "11001_Sinclair_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 10,
       "season": 0,
       "defenseSkillIDList": [
         1100104
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -84,13 +84,13 @@
     {
       "id": 11002,
       "appearance": "11002_Sinclair_SwordGroupAppearance",
-      "mainClique": "BLADE_LINEAGE",
+      "unitKeywordList": [ "BLADE_LINEAGE" ],
       "characterId": 10,
       "season": 0,
       "defenseSkillIDList": [
         1100204
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -164,13 +164,13 @@
     {
       "id": 11003,
       "appearance": "11003_Sinclair_ZweiAppearance",
-      "mainClique": "ZWEI",
+      "unitKeywordList": [ "ZWEI" ],
       "characterId": 10,
       "season": 0,
       "defenseSkillIDList": [
         1100304
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -244,13 +244,13 @@
     {
       "id": 11004,
       "appearance": "11004_Sinclair_MexicanAppearance",
-      "mainClique": "MARIACHI",
+      "unitKeywordList": [ "MARIACHI" ],
       "characterId": 10,
       "season": 1,
       "defenseSkillIDList": [
         1100404
       ],
-      "panicSkillOnErosion" : 1000104,
+      "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": [
         "Default1"
       ],
@@ -317,6 +317,86 @@
       "supporterPassiveSet": {
         "passiveIdList": [
           1100421
+        ]
+      }
+    },
+    {
+      "id": 11005,
+      "appearance": "11005_Sinclair_NCorpAppearance",
+      "unitKeywordList": [ "N_CORP" ],
+      "characterId": 10,
+      "season": 1,
+      "defenseSkillIDList": [
+        1100504
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 79,
+        "incrementByLevel": 2.73
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.57
+      },
+      "minSpeedList": [
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        7,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "breakSection": {
+        "sectionList": [
+          70,
+          30
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1100501,
+          "number": 3
+        },
+        {
+          "skillId": 1100502,
+          "number": 2
+        },
+        {
+          "skillId": 1100503,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          1100501
+        ]
+      },
+      "supporterPassiveSet": {
+        "passiveIdList": [
+          1100521
         ]
       }
     }

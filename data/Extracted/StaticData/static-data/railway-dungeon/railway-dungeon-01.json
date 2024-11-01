@@ -9,12 +9,12 @@
         "nodeId": 10322
       },
       "startDate": "2023-04-06T03:00:00.000Z",
-      "endDate": "2023-05-04T00:59:59.000Z",
+      "endDate": "2023-05-18T00:59:59.000Z",
       "bannerRewards":[
         {
           "isMinValue": true,
           "clearTurn": 999,
-          "endDate": "2023-05-04T00:59:59.000Z",
+          "endDate": "2023-05-18T00:59:59.000Z",
           "reward": {
             "type": "USERBANNER",
             "id": 5,
@@ -23,7 +23,7 @@
         },
         {
           "clearTurn": 120,
-          "endDate": "2023-05-04T00:59:59.000Z",
+          "endDate": "2023-05-18T00:59:59.000Z",
           "reward": {
             "type": "USERBANNER",
             "id": 6,

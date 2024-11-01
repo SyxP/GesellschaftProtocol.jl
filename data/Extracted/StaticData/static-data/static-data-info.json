@@ -100,7 +100,9 @@
         "gacha-105",
         "gacha-106",
         "gacha-107",
-        "gacha-108"
+        "gacha-108",
+        "gacha-109",
+        "gacha-110"
       ]
     },
     {
@@ -578,6 +580,18 @@
       "dataClass": "subchapter-detail",
       "fileList": [
         "subchapter-detail"
+      ]
+    },
+	{
+      "dataClass": "gacha-banner-sorting",
+      "fileList": [
+        "gacha-banner-sorting"
+      ]
+    },
+	{
+      "dataClass": "vending-machine-banner-sorting",
+      "fileList": [
+        "vending-machine-banner-sorting"
       ]
     }
   ]

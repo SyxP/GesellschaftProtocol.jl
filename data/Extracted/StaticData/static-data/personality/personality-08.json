@@ -3,7 +3,7 @@
     {
       "id": 10801,
       "appearance": "10801_Ishmael_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 8,
       "season": 0,
       "rank": 1,
@@ -83,7 +83,7 @@
     {
       "id": 10802,
       "appearance": "10802_Ishmael_RCorpAppearance",
-      "mainClique": "R_CORP",
+      "unitKeywordList": [ "R_CORP" ],
       "characterId": 8,
       "season": 0,
       "defenseSkillIDList": [
@@ -163,7 +163,7 @@
     {
       "id": 10803,
       "appearance": "10803_Ishmael_ShiAssoAppearance",
-      "mainClique": "SHI",
+      "unitKeywordList": [ "SHI" ],
       "characterId": 8,
       "season": 0,
       "defenseSkillIDList": [
@@ -243,7 +243,7 @@
     {
       "id": 10804,
       "appearance": "10804_Ishmael_LCCSodeAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 8,
       "season": 1,
       "defenseSkillIDList": [

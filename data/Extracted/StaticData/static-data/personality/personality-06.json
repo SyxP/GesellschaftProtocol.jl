@@ -3,7 +3,7 @@
     {
       "id": 10601,
       "appearance": "10601_Honglu_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 6,
       "season": 0,
       "defenseSkillIDList": [
@@ -84,7 +84,7 @@
     {
       "id": 10602,
       "appearance": "10602_Honglu_BlackCloudAppearance",
-      "mainClique": "BLACK_CLOUD",
+      "unitKeywordList": [ "BLACK_CLOUD" ],
       "characterId": 6,
       "season": 0,
       "defenseSkillIDList": [
@@ -165,7 +165,7 @@
     {
       "id": 10603,
       "appearance": "10603_Honglu_ConconAppearance",
-      "mainClique": "KONG_KONG",
+      "unitKeywordList": [ "KONG_KONG" ],
       "characterId": 6,
       "season": 1,
       "defenseSkillIDList": [
@@ -246,7 +246,7 @@
     {
       "id": 10604,
       "appearance": "10604_Honglu_LiuAssoAppearance",
-      "mainClique": "LIU",
+      "unitKeywordList": [ "LIU" ],
       "characterId": 6,
       "season": 0,
       "defenseSkillIDList": [

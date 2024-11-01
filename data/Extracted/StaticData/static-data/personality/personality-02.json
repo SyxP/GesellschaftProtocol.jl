@@ -3,7 +3,7 @@
     {
       "id": 10201,
       "appearance": "10201_Faust_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 2,
       "season": 0,
       "defenseSkillIDList": [
@@ -84,7 +84,7 @@
     {
       "id": 10202,
       "appearance": "10202_Faust_WAppearance",
-      "mainClique": "W_CORP",
+      "unitKeywordList": [ "W_CORP" ],
       "characterId": 2,
       "season": 0,
       "defenseSkillIDList": [
@@ -164,7 +164,7 @@
     {
       "id": 10203,
       "appearance": "10203_Faust_YuriAppearance",
-      "mainClique": "L_CORP",
+      "unitKeywordList": [ "L_CORP" ],
       "characterId": 2,
       "season": 1,
       "defenseSkillIDList": [
@@ -245,7 +245,7 @@
     {
       "id": 10204,
       "appearance": "10204_Faust_CromerAppearance",
-      "mainClique": "N_CORP",
+      "unitKeywordList": [ "N_CORP" ],
       "characterId": 2,
       "season": 1,
       "defenseSkillIDList": [

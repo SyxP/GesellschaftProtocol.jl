@@ -3,7 +3,7 @@
     {
       "id": 11101,
       "appearance": "11101_Outis_BaseAppearance",
-      "mainClique": "LIMBUS_COMPANY",
+      "unitKeywordList": [ "LIMBUS_COMPANY" ],
       "characterId": 11,
       "season": 0,
       "defenseSkillIDList": [
@@ -84,7 +84,7 @@
     {
       "id": 11102,
       "appearance": "11102_Outis_SwordGroupAppearance",
-      "mainClique": "BLADE_LINEAGE",
+      "unitKeywordList": [ "BLADE_LINEAGE" ],
       "defenseSkillIDList": [
         1110204
       ],
@@ -165,7 +165,7 @@
     {
       "id": 11103,
       "appearance": "11103_Outis_GCorpAppearance",
-      "mainClique": "G_CORP",
+      "unitKeywordList": [ "G_CORP" ],
       "characterId": 11,
       "season": 1,
       "defenseSkillIDList": [
@@ -245,7 +245,7 @@
     {
       "id": 11104,
       "appearance": "11104_Outis_SevenAssoAppearance",
-      "mainClique": "SEVEN",
+      "unitKeywordList": [ "SEVEN" ],
       "characterId": 11,
       "season": 0,
       "defenseSkillIDList": [

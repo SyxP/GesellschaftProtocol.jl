@@ -44,7 +44,22 @@
                 ],
                 "profileId": "shi_donquixote_profile",
                 "analysisId": "shi_donquixote_analysis"
-            }
+            },
+            {
+              "personalityId": 10304,
+              "releaseDay": 20230504,
+              "cv_Id": "",
+              "personalityStoryList": [
+                {
+                  "storyId": "P10304",
+                  "lockCondition": "gacksung",
+                  "order": 3,
+                  "reward":{"type":"ITEM","id":2,"num":40}
+                }
+              ],
+              "profileId": "ncorp_donquixote_profile",
+              "analysisId": "ncorp_donquixote_analysis"
+          }
         ]
     }
   ]

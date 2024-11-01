@@ -4,5 +4,6 @@
   "expDungeonBonusChanceId": 10003,
   "threadDungeonBonusChanceId": 10004,
   "railwayDungeonIds": [ 1 ],
+  "isRailwayDungeonOpened": true,
   "railwayDungeonBonusChanceId": 10005
 }
