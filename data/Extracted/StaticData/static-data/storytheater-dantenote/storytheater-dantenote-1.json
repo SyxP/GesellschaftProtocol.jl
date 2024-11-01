@@ -53,6 +53,7 @@
                 "danteNoteDetailId": [
                   20,
                   42
+                  
                 ]
               }
             }
@@ -113,12 +114,89 @@
                   15
                 ]
               }
+            },
+            {
+              "smallCategory": {
+                "id": 10205,
+                "name": "NestR",
+                "danteNoteDetailId": [
+                  48,
+                  56                  
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10206,
+                "name": "NestW",
+                "danteNoteDetailId": [
+                  45,
+                  52,
+                  55
+                ]
+              }
             }
           ]
         },
         {
           "middleCategory": {
             "id": 103,
+            "name": "Fixer",
+            "danteNoteDetailId": [
+              18,
+              44
+            ]
+          },
+          "smallCategoryList": [
+          {
+            "smallCategory": {
+              "id": 10301,
+              "name": "Association",
+              "danteNoteDetailId": [
+                25
+              ]
+            },
+            "smallDetailCategoryList": [
+              {
+                "id": 1030101,
+                "name": "ShiAsso",
+                "danteNoteDetailId": [
+                  26
+                ]
+              },
+              {
+                "id": 1030102,
+                "name": "LiuAsso",
+                "danteNoteDetailId": [
+                  27,
+                  30,
+                  33
+                ]
+              },
+              {
+                "id": 1030103,
+                "name": "Shank",
+                "danteNoteDetailId": [
+                  37
+                ]
+              }
+            ]
+          },
+          {
+            "smallCategory": {
+              "id": 10302,
+              "name": "Office",
+              "danteNoteDetailId": [
+                28,
+                31
+              ]
+            }
+          }
+          ]
+        },
+        {
+          "middleCategory": {
+            "id": 104,
             "name": "Organization",
             "danteNoteDetailId": [
               23
@@ -128,7 +206,7 @@
           "smallCategoryList": [
             {
               "smallCategory": {
-                "id": 10301,
+                "id": 10401,
                 "name": "Backstreet",
                 "danteNoteDetailId": [
                   16
@@ -137,7 +215,7 @@
             },
             {
               "smallCategory": {
-                "id": 10302,
+                "id": 10402,
                 "name": "Swordgroup",
                 "danteNoteDetailId": [
                   17
@@ -146,63 +224,18 @@
             },
             {
               "smallCategory": {
-                "id": 10303,
+                "id": 10403,
                 "name": "Kurokumo",
                 "danteNoteDetailId": [
                   19
                 ]
               }
-            },
-            {
-              "smallCategory": {
-                "id": 10304,
-                "name": "Association",
-                "danteNoteDetailId": [
-                  25
-                ]
-              },
-              "smallDetailCategoryList": [
-                {
-                  "id": 1030401,
-                  "name": "ShiAsso",
-                  "danteNoteDetailId": [
-                    26
-                  ]
-                },
-                {
-                  "id": 1030402,
-                  "name": "LiuAsso",
-                  "danteNoteDetailId": [
-                    27,
-                    30,
-                    33
-                  ]
-                },
-                {
-                  "id": 1030403,
-                  "name": "Shank",
-                  "danteNoteDetailId": [
-                    37
-                  ]
-                }
-              ]
-            },
-            {
-              "smallCategory": {
-                "id": 10305,
-                "name": "Office",
-                "danteNoteDetailId": [
-                  28,
-                  31
-                ]
-              }
             }
-
           ]
         },
         {
           "middleCategory": {
-            "id": 104,
+            "id": 105,
             "name": "Tech",
             "danteNoteDetailId": [
               24
@@ -211,27 +244,49 @@
           "smallCategoryList": [
             {
               "smallCategory": {
-                "id": 10401,
+                "id": 10501,
                 "name": "Personality",
                 "danteNoteDetailId": [
                   21,
-                  22
-          
+                  22          
                 ]
               }
             },
             {
               "smallCategory": {
-                "id": 10402,
+                "id": 10507,
+                "name": "PersonalitySync",
+                "danteNoteDetailId": [
+                  46,
+                  49,
+                  57         
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10508,
+                "name": "PersonalityUpgrade",
+                "danteNoteDetailId": [
+                  50,
+                  51,
+                  54  
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10502,
                 "name": "Singularity",
                 "danteNoteDetailId": [
-                  40
+                  40,
+                  60
                 ]
               }
             },
             {
               "smallCategory": {
-                "id": 10403,
+                "id": 10503,
                 "name": "Enkephalin",
                 "danteNoteDetailId": [
                   32,
@@ -241,26 +296,40 @@
             },
             {
               "smallCategory": {
-                "id": 10404,
+                "id": 10504,
                 "name": "Abnormality",
                 "danteNoteDetailId": [
                   34,
-                  36
+                  36,
+                  63
                 ]
               }
             },
             {
               "smallCategory": {
-                "id": 10405,
+                "id": 10509,
+                "name": "AbnormalityInterpret",
+                "danteNoteDetailId": [
+                  47,
+                  53,
+                  58
+                ]
+              }
+            },
+            {
+              "smallCategory": {
+                "id": 10505,
                 "name": "E.G.O",
                 "danteNoteDetailId": [
-                  39
+                  39,
+                  59,
+                  62
                 ]
               }
             },
             {
               "smallCategory": {
-                "id": 10406,
+                "id": 10506,
                 "name": "String",
                 "danteNoteDetailId": [
                   38,
@@ -269,17 +338,7 @@
               }
             }
           ]
-        },
-        {
-          "middleCategory": {
-            "id": 105,
-            "name": "Fixer",
-            "danteNoteDetailId": [
-              18,
-              44
-            ]
-          }
-        }
+        }        
       ]
     }
   ]

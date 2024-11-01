@@ -9667,7 +9667,7 @@
       "maxSpeedList": [
         5
       ],
-      "overwriteSkillLevelBy" : 30,
+      "overwriteDefaultCalculatedSkillLevelBy" : 30,
       "isDestroyable": "false",
       "skillCancelable": "false",
       "canVanish": "false",
@@ -9757,7 +9757,7 @@
       "maxSpeedList": [
         5
       ],
-      "overwriteSkillLevelBy" : 30,
+      "overwriteDefaultCalculatedSkillLevelBy" : 30,
       "isDestroyable": "true",
       "skillCancelable": "true",
       "canVanish": "true",
@@ -9843,7 +9843,7 @@
       "maxSpeedList": [
         5
       ],
-      "overwriteSkillLevelBy" : 35,
+      "overwriteDefaultCalculatedSkillLevelBy" : 35,
       "isDestroyable": "false",
       "skillCancelable": "false",
       "canVanish": "false",
@@ -9933,7 +9933,7 @@
       "maxSpeedList": [
         5
       ],
-      "overwriteSkillLevelBy" : 35,
+      "overwriteDefaultCalculatedSkillLevelBy" : 35,
       "isDestroyable": "true",
       "skillCancelable": "true",
       "canVanish": "true",

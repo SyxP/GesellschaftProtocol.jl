@@ -240,7 +240,7 @@
           "attributeType": "AMBER",
           "atkType": "PENETRATE",
           "defType": "ATTACK",
-          "skillTargetType": "RANDOM",
+          "skillTargetType": "BACK",
           "targetNum": 1,
           "mpUsage": 20,
           "defaultSkillLevel": 12.0,

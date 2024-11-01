@@ -1,24 +1,6 @@
 {
   "list": [
     {
-      "eventId": "AttendanceRewards",
-      "mainUIPhaseTypeList": [
-        "Lobby"
-      ],
-      "bannerSpriteId": "banner_event",
-      "startDate": "2023-03-23T03:00:00.000Z",
-      "endDate": "2023-04-06T00:59:59.000Z"
-    },
-    {
-      "eventId": "AprilStory",
-      "mainUIPhaseTypeList": [
-        "Lobby"
-      ],
-      "bannerSpriteId": "banner_april_event_story",
-      "startDate": "2023-03-31T15:00:00.000Z",
-      "endDate": "2023-04-02T14:59:59.000Z"
-    },
-    {
       "eventId": "HellsChickenMain",
       "mainUIPhaseTypeList": [
         "Lobby",
@@ -39,6 +21,13 @@
     {
       "eventId": "DailyLoginEvent",
       "bannerSpriteId": "banner_daily_login_event",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ]
+    },
+    {
+      "eventId": "ChapterTeaser",
+      "bannerSpriteId": "banner_chapter4_pv",
       "mainUIPhaseTypeList": [
         "Lobby"
       ]
