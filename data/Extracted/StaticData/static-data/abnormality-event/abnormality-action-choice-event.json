@@ -136,6 +136,57 @@
           }
         ]
       }
+    },
+    {
+      "id": 805001,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "resultList": [
+              {
+                "nextEventID": 805002
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 805003,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "resultList": [
+              {
+                "nextEventID": 805004
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 805005,
+      "canSkip": false,
+      "eventType": "EVENT",
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "resultList": [
+              {
+                "nextEventID": 805006
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

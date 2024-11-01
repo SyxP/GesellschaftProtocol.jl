@@ -442,7 +442,7 @@
       "unitKeywordList": [],
       "characterId": 8,
       "panicType": 9999,
-      "season": 1,
+      "season": 2,
       "defenseSkillIDList": [
         1080504
       ],
@@ -452,12 +452,12 @@
       ],
       "rank": 2,
       "hp": {
-        "defaultStat": 88,
-        "incrementByLevel": 2.6
+        "defaultStat": 90,
+        "incrementByLevel": 3.1
       },
       "def": {
-        "defaultStat": 14,
-        "incrementByLevel": 0.7
+        "defaultStat": 13,
+        "incrementByLevel": 0.8
       },
       "minSpeedList": [
         1,
@@ -465,9 +465,9 @@
         2
       ],
       "maxSpeedList": [
-        4,
-        4,
-        5
+        6,
+        6,
+        7
       ],
       "uniqueAttribute": "SHAMROCK",
       "mentalConditionInfo": {
@@ -500,15 +500,15 @@
       },
       "breakSection": {
         "sectionList": [
-          60,
-          30
+          50,
+          20
         ]
       },
       "resistInfo": {
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 1
+            "value": 0.5
           },
           {
             "type": "PENETRATE",
@@ -516,7 +516,7 @@
           },
           {
             "type": "HIT",
-            "value": 0.5
+            "value": 1
           }
         ]
       },

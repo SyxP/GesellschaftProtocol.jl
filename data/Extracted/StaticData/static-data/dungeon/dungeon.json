@@ -64,6 +64,19 @@
           "localizeId": 2
         }
       ]
+    },
+    {
+      "id": 10401,
+      "dungeonType": "STORY_DUNGEON",
+      "staminaModule": 4,
+      "recommendedLevel": 35,
+      "entranceStory": "S454B",
+      "illustname": "chapter4_StoryDungeon",
+      "questlist": [
+        {
+          "localizeId": 2
+        }
+      ]
     }
   ]
 }

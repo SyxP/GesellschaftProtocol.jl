@@ -335,7 +335,7 @@
       "unitKeywordList": [],
       "characterId": 1,
       "panicType": 9999,
-      "season": 0,
+      "season": 2,
       "defenseSkillIDList": [
         1010404
       ],
@@ -402,15 +402,15 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 0.5
+            "value": 1
           },
           {
             "type": "PENETRATE",
-            "value": 2
+            "value": 0.5
           },
           {
             "type": "HIT",
-            "value": 1
+            "value": 2
           }
         ]
       },

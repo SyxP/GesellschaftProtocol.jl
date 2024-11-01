@@ -3,9 +3,8 @@
     {
       "id": 115,
       "bannerInfo": {
-        "startDate": "2023-06-08T03:00:00.000Z",
+        "startDate": "2023-05-25T03:00:00.000Z",
         "endDate": "2023-06-22T00:59:59.000Z",
-        "bannerType": "main",
         "pickupIdList": [ 10705, 11205 ],
         "illustList": [ "gacha_115_illust" ],
         "videoList": [ "10705_115", "11205_115" ]
@@ -120,6 +119,7 @@
             10704,
             10803,
             10804,
+            10805,
             10903,
             10904,
             11003,
@@ -177,6 +177,7 @@
           "elementType": "PERSONALITY",
           "elementIdList": [
             10103,
+            10104,
             10204,
             10302,
             10403,

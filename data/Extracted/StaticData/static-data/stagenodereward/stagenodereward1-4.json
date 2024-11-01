@@ -675,14 +675,98 @@
             "acquireTotalExpForPersonality": 600,
             "normalClearRewards": [
             ],
+            "exclearConditionTurnCount": 15,
             "exClearRewards": [
                 {
                     "type": "ITEM",
                     "id": 2,
                     "num": 40
                 }
+            ]
+        },
+        {
+            "nodeid": 10449,
+            "acquireExp": 20,
+            "acquireTotalExpForPersonality": 600,
+            "normalClearRewards": [
             ],
-            "exclearConditionTurnCount":15
+            "exClearRewards": [
+                {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 40
+                }
+            ]
+        },
+        {
+            "nodeid": 10450,
+            "acquireExp": 20,
+            "acquireTotalExpForPersonality": 600,
+            "normalClearRewards": [
+            ],
+            "exClearRewards": [
+                {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 40
+                }
+            ]
+        },
+        {
+            "nodeid": 10451,
+            "acquireExp": 20,
+            "acquireTotalExpForPersonality": 600,
+            "normalClearRewards": [
+            ],
+            "exClearRewards": [
+                {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 40
+                }
+            ]
+        },
+        {
+            "nodeid": 10452,
+            "acquireExp": 20,
+            "acquireTotalExpForPersonality": 600,
+            "normalClearRewards": [
+            ],
+            "exClearRewards": [
+                {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 40
+                }
+            ]
+        },
+        {
+            "nodeid": 10453,
+            "acquireExp": 20,
+            "acquireTotalExpForPersonality": 600,
+            "normalClearRewards": [
+            ],
+            "exClearRewards": [
+                {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 40
+                }
+            ]
+        },
+        {
+            "nodeid": 10454,
+            "acquireExp": 80,
+            "acquireTotalExpForPersonality": 2400,
+            "normalClearRewards": [
+            ],
+            "exClearRewards": [
+                {
+                    "type": "ITEM",
+                    "id": 2,
+                    "num": 200
+                }
+            ]
         }
     ]
 }

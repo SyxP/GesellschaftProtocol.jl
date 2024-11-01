@@ -14719,18 +14719,18 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 82,
-        "incrementByLevel": 2.83
+        "defaultStat": 39,
+        "incrementByLevel": 1.34
       },
       "def": {
         "defaultStat": 10,
         "incrementByLevel": 0.67
       },
       "minSpeedList": [
-        1
+        3
       ],
       "maxSpeedList": [
-        3
+        5
       ],
       "breakSection": {
         "sectionList": [
@@ -14830,8 +14830,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 64,
-        "incrementByLevel": 2.21
+        "defaultStat": 45,
+        "incrementByLevel": 1.55
       },
       "def": {
         "defaultStat": 12,
@@ -14942,8 +14942,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 88,
-        "incrementByLevel": 3.03
+        "defaultStat": 61,
+        "incrementByLevel": 2.1
       },
       "def": {
         "defaultStat": 10,
@@ -15054,8 +15054,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 89,
-        "incrementByLevel": 3.07
+        "defaultStat": 62,
+        "incrementByLevel": 2.14
       },
       "def": {
         "defaultStat": 12,
@@ -15175,8 +15175,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 121,
-        "incrementByLevel": 4.17
+        "defaultStat": 85,
+        "incrementByLevel": 2.93
       },
       "def": {
         "defaultStat": 10,
@@ -15296,18 +15296,18 @@
         "Default2"
       ],
       "hp": {
-        "defaultStat": 128,
-        "incrementByLevel": 4.41
+        "defaultStat": 81,
+        "incrementByLevel": 2.79
       },
       "def": {
         "defaultStat": 23,
         "incrementByLevel": 0.8
       },
       "minSpeedList": [
-        3
+        2
       ],
       "maxSpeedList": [
-        5
+        4
       ],
       "breakSection": {
         "sectionList": [
@@ -15662,8 +15662,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 111,
-        "incrementByLevel": 3.83
+        "defaultStat": 65,
+        "incrementByLevel": 2.24
       },
       "def": {
         "defaultStat": 10,
@@ -15936,8 +15936,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 89,
-        "incrementByLevel": 3.07
+        "defaultStat": 52,
+        "incrementByLevel": 1.79
       },
       "def": {
         "defaultStat": 10,
@@ -16210,8 +16210,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 96,
-        "incrementByLevel": 3.31
+        "defaultStat": 56,
+        "incrementByLevel": 1.93
       },
       "def": {
         "defaultStat": 11,
@@ -16484,8 +16484,8 @@
         "Default2"
       ],
       "hp": {
-        "defaultStat": 231,
-        "incrementByLevel": 7.97
+        "defaultStat": 151,
+        "incrementByLevel": 5.21
       },
       "def": {
         "defaultStat": 20,
@@ -16991,8 +16991,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 68,
-        "incrementByLevel": 2.34
+        "defaultStat": 48,
+        "incrementByLevel": 1.66
       },
       "def": {
         "defaultStat": 13,
@@ -17136,8 +17136,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 74,
-        "incrementByLevel": 2.55
+        "defaultStat": 52,
+        "incrementByLevel": 1.79
       },
       "def": {
         "defaultStat": 12,
@@ -17151,7 +17151,8 @@
       ],
       "breakSection": {
         "sectionList": [
-          20
+          60,
+          30
         ]
       },
       "mp": 45,
@@ -17280,8 +17281,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 123,
-        "incrementByLevel": 4.24
+        "defaultStat": 86,
+        "incrementByLevel": 2.97
       },
       "def": {
         "defaultStat": 14,
@@ -17400,8 +17401,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 154,
-        "incrementByLevel": 5.31
+        "defaultStat": 86,
+        "incrementByLevel": 2.97
       },
       "def": {
         "defaultStat": 17,
@@ -17532,8 +17533,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 82,
-        "incrementByLevel": 2.83
+        "defaultStat": 43,
+        "incrementByLevel": 1.48
       },
       "def": {
         "defaultStat": 10,
@@ -17543,7 +17544,7 @@
         1
       ],
       "maxSpeedList": [
-        2
+        3
       ],
       "breakSection": {
         "sectionList": [
@@ -17652,18 +17653,18 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 82,
-        "incrementByLevel": 2.83
+        "defaultStat": 39,
+        "incrementByLevel": 1.35
       },
       "def": {
         "defaultStat": 10,
         "incrementByLevel": 0.67
       },
       "minSpeedList": [
-        1
+        3
       ],
       "maxSpeedList": [
-        3
+        5
       ],
       "breakSection": {
         "sectionList": [
@@ -17776,8 +17777,8 @@
         "Default2"
       ],
       "hp": {
-        "defaultStat": 308,
-        "incrementByLevel": 10.62
+        "defaultStat": 172,
+        "incrementByLevel": 5.93
       },
       "def": {
         "defaultStat": 15,
@@ -18110,21 +18111,21 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 1
+            "value": 0.5
           },
           {
             "type": "PENETRATE",
-            "value": 2
+            "value": 1
           },
           {
             "type": "HIT",
-            "value": 0.5
+            "value": 2
           }
         ],
         "attributeResistList": [
           {
             "type": "CRIMSON",
-            "value": 1
+            "value": 0.6
           },
           {
             "type": "SCARLET",
@@ -18140,7 +18141,7 @@
           },
           {
             "type": "AZURE",
-            "value": 1
+            "value": 1.2
           },
           {
             "type": "INDIGO",
@@ -18214,8 +18215,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 98,
-        "incrementByLevel": 3.38
+        "defaultStat": 54,
+        "incrementByLevel": 1.86
       },
       "def": {
         "defaultStat": 11,
@@ -18269,7 +18270,7 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 1
+            "value": 0.75
           },
           {
             "type": "PENETRATE",
@@ -18277,7 +18278,7 @@
           },
           {
             "type": "HIT",
-            "value": 0.75
+            "value": 1
           }
         ],
         "attributeResistList": [
@@ -18357,18 +18358,18 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 70,
-        "incrementByLevel": 2.41
+        "defaultStat": 38,
+        "incrementByLevel": 1.31
       },
       "def": {
         "defaultStat": 12,
         "incrementByLevel": 0.43
       },
       "minSpeedList": [
-        1
+        3
       ],
       "maxSpeedList": [
-        4
+        5
       ],
       "breakSection": {
         "sectionList": [
@@ -18377,7 +18378,7 @@
         ]
       },
       "mp": 0,
-      "lowMorale": -10,
+      "lowMorale": -25,
       "panic": -45,
       "panicType": 1009,
       "mentalConditionInfo": {
@@ -18412,7 +18413,7 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 2
+            "value": 0.75
           },
           {
             "type": "PENETRATE",
@@ -18420,7 +18421,7 @@
           },
           {
             "type": "HIT",
-            "value": 0.75
+            "value": 2
           }
         ],
         "attributeResistList": [
@@ -18501,8 +18502,8 @@
       ],
       "patternID": "90061",
       "hp": {
-        "defaultStat": 126,
-        "incrementByLevel": 4.34
+        "defaultStat": 67,
+        "incrementByLevel": 2.31
       },
       "def": {
         "defaultStat": 14,
@@ -18556,7 +18557,7 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 1
+            "value": 0.75
           },
           {
             "type": "PENETRATE",
@@ -18564,7 +18565,7 @@
           },
           {
             "type": "HIT",
-            "value": 0.5
+            "value": 1
           }
         ],
         "attributeResistList": [
@@ -18647,8 +18648,8 @@
       ],
       "patternID": "90060",
       "hp": {
-        "defaultStat": 90,
-        "incrementByLevel": 3.1
+        "defaultStat": 48,
+        "incrementByLevel": 1.66
       },
       "def": {
         "defaultStat": 12,
@@ -18702,7 +18703,7 @@
         "atkResistList": [
           {
             "type": "SLASH",
-            "value": 2
+            "value": 0.75
           },
           {
             "type": "PENETRATE",
@@ -18710,7 +18711,7 @@
           },
           {
             "type": "HIT",
-            "value": 0.5
+            "value": 2
           }
         ],
         "attributeResistList": [
@@ -18759,7 +18760,6 @@
       ],
       "passiveSet": {
         "passiveIdList": [
-          
         ]
       },
       "maxActionSlotNum": 2,
@@ -18787,8 +18787,751 @@
       ]
     },
     {
-      "id": 90073,
+      "id": 90062,
+      "appearance": "90058_LobotomyAppearance",
+      "unitKeywordList": [],
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 50,
+        "incrementByLevel": 1.72
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.89
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        3
+      ],
+      "breakSection": {
+        "sectionList": [
+          40,
+          20
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -25,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 0.8
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1.2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9006101,
+          9006102,
+          9006201,
+          9006202
+
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9006001,
+          "number": 2
+        },
+        {
+          "skillId": 9006002,
+          "number": 2
+        },
+        {
+          "skillId": 9006003,
+          "number": 2
+        },
+        {
+          "skillId": 9006004,
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": 90063,
+      "appearance": "90059_LobotomyAppearance",
+      "unitKeywordList": [],
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 36,
+        "incrementByLevel": 1.24
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "breakSection": {
+        "sectionList": [
+          60,
+          30
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -25,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 0.8
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1.2
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9006201,
+          9006202
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9006101,
+          "number": 2
+        },
+        {
+          "skillId": 9006102,
+          "number": 2
+        },
+        {
+          "skillId": 9006103,
+          "number": 2
+        },
+        {
+          "skillId": 9006104,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 91010,
+      "appearance": "91009_LobotomyEGOBossAppearance",
+      "unitKeywordList": [],
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 135,
+        "incrementByLevel": 4.66
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        3
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "breakSection": {
+        "sectionList": [
+          60,
+          30
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -30,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 0.6
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1.2
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        3
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9100901,
+          9100902,
+          9100903,
+          9100904,
+          9006201,
+          9006202
+        ]
+      },
+      "maxActionSlotNum": 5,
+      "attributeList": [
+        {
+          "skillId": 9100901,
+          "number": 2
+        },
+        {
+          "skillId": 9100902,
+          "number": 2
+        },
+        {
+          "skillId": 9100903,
+          "number": 2
+        },
+        {
+          "skillId": 9100904,
+          "number": 2
+        },
+        {
+          "skillId": 9100905,
+          "number": 2
+        },
+        {
+          "skillId": 9101001,
+          "number": 2
+        },
+        {
+          "skillId": 9100907,
+          "number": 2
+        }
+      ]
+    },
+    {
+      "id": 90064,
       "appearance": "90028_KCorpAppearance",
+      "unitKeywordList": [],
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 34,
+        "incrementByLevel": 1.17
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.59
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "breakSection": {
+        "sectionList": [
+          40,
+          20
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -25,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801,
+          9006201,
+          9006202
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9002801,
+          "number": 3
+        },
+        {
+          "skillId": 9002803,
+          "number": 3
+        },
+        {
+          "skillId": 9002804,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 90065,
+      "appearance": "90029_KCorpAppearance",
+      "unitKeywordList": [],
+      "level": 2,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 46,
+        "incrementByLevel": 1.59
+      },
+      "def": {
+        "defaultStat": 11,
+        "incrementByLevel": 0.88
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        2
+      ],
+      "breakSection": {
+        "sectionList": [
+          60,
+          30
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -25,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.75
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801,
+          9006201,
+          9006202
+        ]
+      },
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9003001,
+          "number": 3
+        },
+        {
+          "skillId": 9003002,
+          "number": 3
+        },
+        {
+          "skillId": 9003101,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 90066,
+      "appearance": "90054_KCorpAppearance",
       "unitKeywordList": [ "K_CORP" ],
       "level": 3,
       "slotWeightConditionList": [
@@ -18797,6 +19540,863 @@
       "hp": {
         "defaultStat": 48,
         "incrementByLevel": 1.66
+      },
+      "def": {
+        "defaultStat": 13,
+        "incrementByLevel": 0.53
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "breakSection": {
+        "sectionList": [
+          70,
+          40
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -25,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.75
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9005401,
+          "number": 3
+        },
+        {
+          "skillId": 9005402,
+          "number": 1
+        },
+        {
+          "skillId": 9005403,
+          "number": 1
+        },
+        {
+          "skillId": 9005404,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801,
+          9006201,
+          9006202
+        ]
+      }
+    },
+    {
+      "id": 90067,
+      "appearance": "90055_KCorpAppearance",
+      "unitKeywordList": [ "K_CORP" ],
+      "level": 3,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 52,
+        "incrementByLevel": 1.79
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.69
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        6
+      ],
+      "breakSection": {
+        "sectionList": [
+          60,
+          30
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -25,
+      "panic": -45,
+      "panicType": 1012,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.75
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9005501,
+          "number": 3
+        },
+        {
+          "skillId": 9005502,
+          "number": 1
+        },
+        {
+          "skillId": 9005503,
+          "number": 1
+        },
+        {
+          "skillId": 9005504,
+          "number": 1
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9002801,
+          9006201,
+          9006202
+        ]
+      }
+    },
+    {
+      "id": 90068,
+      "appearance": "8501_KCorp_Grade3Appearance",
+      "unitKeywordList": [ "K_CORP" ],
+      "level": 3,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 60,
+        "incrementByLevel": 2.07
+      },
+      "def": {
+        "defaultStat": 12,
+        "incrementByLevel": 0.69
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        6
+      ],
+      "breakSection": {
+        "sectionList": [
+          45,
+          0
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -30,
+      "panic": -45,
+      "panicType": 1005,
+      "patternID": "RevivalKCorp",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 852101,
+          "number": 5
+        },
+        {
+          "skillId": 852102,
+          "number": 3
+        },
+        {
+          "skillId": 852103,
+          "number": 2
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9006801,
+          9006201,
+          9006202
+        ]
+      }
+    },
+    {
+      "id": 90069,
+      "appearance": "8502_KCorp_Grade3_FuryAppearance",
+      "unitKeywordList": [ "K_CORP" ],
+      "level": 3,
+      "slotWeightConditionList": [
+        "Default2"
+      ],
+      "hp": {
+        "defaultStat": 74,
+        "incrementByLevel": 2.55
+      },
+      "def": {
+        "defaultStat": 14,
+        "incrementByLevel": 0.89
+      },
+      "minSpeedList": [
+        1
+      ],
+      "maxSpeedList": [
+        5
+      ],
+      "breakSection": {
+        "sectionList": [
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -30,
+      "panic": -45,
+      "panicType": 1005,
+      "patternID": "ReturnedEnemy",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9006801,
+          "number": 5
+        },
+        {
+          "skillId": 9006802,
+          "number": 3
+        },
+        {
+          "skillId": 9006803,
+          "number": 2
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          852301,
+          9006901,
+          9006902,
+          9006201,
+          9006202
+        ]
+      }
+    },
+    {
+      "id": 90070,
+      "appearance": "90070_TCorpAppearance",
+      "unitKeywordList": [ "T_CORP" ],
+      "level": 3,
+      "slotWeightConditionList": [
+        "Default2"
+      ],
+      "patternID": "PickByPattern_Enemy",
+      "hp": {
+        "defaultStat": 86,
+        "incrementByLevel": 2.97
+      },
+      "def": {
+        "defaultStat": 15,
+        "incrementByLevel": 0.83
+      },
+      "minSpeedList": [
+        2
+      ],
+      "maxSpeedList": [
+        6
+      ],
+      "breakSection": {
+        "sectionList": [
+          30,
+          0
+        ]
+      },
+      "mp": 45,
+      "lowMorale": -30,
+      "panic": -45,
+      "panicType": 1005,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "startActionSlotNumList": [
+        1,
+        2,
+        2
+      ],
+      "maxActionSlotNum": 2,
+      "attributeList": [
+        {
+          "skillId": 9007001,
+          "number": 0
+        },
+        {
+          "skillId": 9007002,
+          "number": 0
+        },
+        {
+          "skillId": 9007003,
+          "number": 0
+        },
+        {
+          "skillId": 9007004,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          9007001,
+          9007002
+        ]
+      },
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007001,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007002,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007002,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007002,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007001,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007001,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007002,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007004,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 9007003,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90073,
+      "appearance": "90028_KCorpAppearance",
+      "unitKeywordList": [ "K_CORP" ],
+      "level": 3,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 34,
+        "incrementByLevel": 1.17
       },
       "def": {
         "defaultStat": 14,
@@ -18940,8 +20540,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 48,
-        "incrementByLevel": 1.66
+        "defaultStat": 34,
+        "incrementByLevel": 1.17
       },
       "def": {
         "defaultStat": 14,
@@ -19085,8 +20685,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 66,
-        "incrementByLevel": 2.28
+        "defaultStat": 46,
+        "incrementByLevel": 1.59
       },
       "def": {
         "defaultStat": 11,
@@ -19226,8 +20826,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 66,
-        "incrementByLevel": 2.28
+        "defaultStat": 46,
+        "incrementByLevel": 1.59
       },
       "def": {
         "defaultStat": 11,

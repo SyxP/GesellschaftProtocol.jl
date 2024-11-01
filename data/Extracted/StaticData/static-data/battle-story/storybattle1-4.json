@@ -1560,7 +1560,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor",
+            "mapName": "Cp4_KCropLab_2F_Corridor_v3",
             "mapSize": 28.0
           },
           "unitList": [
@@ -1962,7 +1962,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor",
+            "mapName": "Cp4_KCropLab_2F_Corridor_v3",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2092,7 +2092,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor_v2",
+            "mapName": "Cp4_KCropLab_2F_Corridor_v4",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2162,7 +2162,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor",
+            "mapName": "Cp4_KCropLab_2F_Corridor_v4",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2236,7 +2236,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor_v3",
+            "mapName": "Cp4_KcorLaboratory",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2319,7 +2319,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor_v3",
+            "mapName": "Cp4_KcorLaboratory",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2384,7 +2384,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor_v4",
+            "mapName": "Cp4_KcorLaboratory",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2448,7 +2448,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F_Corridor_v4",
+            "mapName": "Cp4_KcorLaboratory",
             "mapSize": 28.0
           },
           "unitList": [
@@ -2528,7 +2528,7 @@
               "unitLevel": 35
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8053,
               "unitCount": 4,
@@ -2559,7 +2559,8 @@
         "enter": [
           "S447B"
         ]
-      }
+      },
+      "stageScriptNameAfterClear": "Dongbaek_UmbrellaFox"
     },
     {
       "id": 10448,
@@ -2609,7 +2610,7 @@
       "questlist": [
         {
           "args": [
-            "10"
+            "15"
           ],
           "localizeId": 1
         }
@@ -2624,6 +2625,322 @@
         ]
       },
       "stageScriptNameAfterClear": "EgoAwaken_Dongbaek"
+    },
+    {
+      "id": 10449,
+      "stageLevel": 32,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_RelocatedLab",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90064,
+              "unitCount": 2,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90065,
+              "unitCount": 2,
+              "unitLevel": 32
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90064,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90065,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90066,
+              "unitCount": 1,
+              "unitLevel": 32
+            },
+            {
+              "unitID": 90067,
+              "unitCount": 1,
+              "unitLevel": 32
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 32,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S449B"
+        ]
+      }
+    },
+    {
+      "id": 10450,
+      "stageLevel": 33,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_RelocatedLab",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90064,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90065,
+              "unitCount": 2,
+              "unitLevel": 33
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90064,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90065,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90066,
+              "unitCount": 1,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90067,
+              "unitCount": 1,
+              "unitLevel": 33
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 33,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 10451,
+      "stageLevel": 33,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_RelocatedLab_v1",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90062,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 2,
+              "unitLevel": 33
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90062,
+              "unitCount": 2,
+              "unitLevel": 33
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 2,
+              "unitLevel": 33
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 33,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "story": {
+        "enter": [
+          "S451B"
+        ]
+      }
+    },
+    {
+      "id": 10452,
+      "stageLevel": 34,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_RelocatedLab",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90062,
+              "unitCount": 2,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 2,
+              "unitLevel": 34
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_1",
+            "Battle_Cp4_Enemy_1"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90062,
+              "unitCount": 2,
+              "unitLevel": 34
+            },
+            {
+              "unitID": 90063,
+              "unitCount": 2,
+              "unitLevel": 34
+            }
+          ]
+        }
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 34,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
+    },
+    {
+      "id": 10453,
+      "stageLevel": 35,
+      "stageType": "Normal",
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp4_RelocatedLab_v1",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 90068,
+              "unitCount": 4,
+              "unitLevel": 35
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp4_Ally_3",
+            "Battle_Cp4_Enemy_3"
+          ]
+        },
+        {
+          "unitList": [
+            {
+              "unitID": 90069,
+              "unitCount": 3,
+              "unitLevel": 35
+            }
+          ]
+        }
+
+      ],
+      "staminaCost": 20,
+      "recommendedLevel": 35,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": []
     }
   ]
 }

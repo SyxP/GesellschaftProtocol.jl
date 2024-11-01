@@ -519,7 +519,7 @@
           "sprName": "chapter4",
           "subChapterNumber": "4",
           "mapSizeRow": 4,
-          "mapSizeColoumn": 16,
+          "mapSizeColoumn": 18,
           "stageNodeList": [
             {
               "nodeId": 10401,
@@ -904,11 +904,59 @@
               "posy": 7554,
               "upper": 1,
               "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10449,
+              "stageId": 10449,
+              "posx": 31244,
+              "posy": 7554,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10450,
+              "stageId": 10450,
+              "posx": 32477,
+              "posy": 7353,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10451,
+              "stageId": 10451,
+              "posx": 33158,
+              "posy": 7349,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10452,
+              "stageId": 10452,
+              "posx": 33801,
+              "posy": 7079,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10453,
+              "stageId": 10453,
+              "posx": 34337,
+              "posy": 6721,
+              "upper": 0,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 10454,
+              "stageId": 10401,
+              "posx": 35070,
+              "posy": 6927,
+              "upper": 1,
+              "stageNodeType": "DUNGEON"
             }
           ],
           "nextMainchapterid":-1,
           "nextSubchapterid":-1,
-          "lastnodeid":-1
+          "lastnodeid":10454
         }
       ]
     },

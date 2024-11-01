@@ -592,6 +592,107 @@
           "lineDirection": "LEFT"
         }
       ]
+    },
+    {
+      "id": 8045,
+      "partPositionDatas": [
+        {
+          "id": 804501,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 804502,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8046,
+      "partPositionDatas": [
+        {
+          "id": 804601,
+          "offsetX": 200.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 804602,
+          "offsetX": 0.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8047,
+      "partPositionDatas": [
+        {
+          "id": 804701,
+          "offsetX": 400.0,
+          "offsetY": 150.0,
+          "lineDirection": "LEFT"
+        },
+        {
+          "id": 804702,
+          "offsetX": -200.0,
+          "offsetY": 200.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 8048,
+      "partPositionDatas": [
+        {
+          "id": 804801,
+          "offsetX": -400.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        },
+        {
+          "id": 804802,
+          "offsetX": 200.0,
+          "offsetY": 200.0,
+          "lineDirection": "LEFT"
+        }
+      ]
+    },
+    {
+      "id": 8049,
+      "partPositionDatas": [
+        {
+          "id": 804901,
+          "offsetX": 0.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 80492,
+      "partPositionDatas": [
+        {
+          "id": 804901,
+          "offsetX": 0.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
+    },
+    {
+      "id": 80493,
+      "partPositionDatas": [
+        {
+          "id": 804901,
+          "offsetX": 0.0,
+          "offsetY": 150.0,
+          "lineDirection": "RIGHT"
+        }
+      ]
     }
   ]
 }

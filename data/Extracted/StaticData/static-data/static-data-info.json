@@ -98,7 +98,9 @@
         "gacha-5",
         "gacha-113",
         "gacha-114",
-        "gacha-115"
+        "gacha-115",
+        "gacha-116",
+        "gacha-117"
       ]
     },
     {
@@ -189,6 +191,7 @@
         "dungeonbattle1-1",
         "dungeonbattle1-2",
         "dungeonbattle1-3",
+        "dungeonbattle1-4",
         "dungeonbattle91-3"
       ]
     },
@@ -198,6 +201,7 @@
         "abbattle1-1",
         "abbattle1-2",
         "abbattle1-3",
+        "abbattle1-4",
         "abbattle91-3"
       ]
     },
@@ -500,6 +504,16 @@
       ]
     },
     {
+      "dataClass": "loadingCG-dungeon",
+      "fileList": [
+        "loadingCG-dungeon_101",
+        "loadingCG-dungeon_102",
+        "loadingCG-dungeon_103",
+        "loadingCG-dungeon_104",
+        "loadingCG-dungeon_9103"
+      ]
+    },
+    {
       "dataClass": "credits-ui",
       "fileList": [
         "credits_101",
@@ -666,6 +680,18 @@
       "dataClass": "story-dungeon-map-illust",
       "fileList": [
         "story-dungeon-map-illust"
+      ]
+    },
+    {
+      "dataClass": "restrict-participation",
+      "fileList": [
+        "restrict-participation-1"
+      ]
+    },
+    {
+      "dataClass": "restrict-participation-dungeon",
+      "fileList": [
+        "restrict-participation-dungeon-1"
       ]
     }
   ]

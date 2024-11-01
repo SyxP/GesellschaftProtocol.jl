@@ -752,14 +752,14 @@
         {
           "gaksungLevel": 1,
           "attributeType": "SHAMROCK",
-          "atkType": "SLASH",
+          "atkType": "PENETRATE",
           "defType": "ATTACK",
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.86,
-          "defaultValue": 4,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.8,
+          "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
@@ -767,55 +767,53 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
           ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 6,
+              "scale": 1
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "Burst",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
                   }
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 6,
+              "scale": 1,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "Burst",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                }
-              ]
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 6,
-              "abilityScriptList": [
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "Fragrance",
-                    "target": "Target",
-                    "buffOwner": "",
-                    "stack": 2,
-                    "turn": 0,
-                    "activeRound": 0
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
                   }
                 }
               ]
@@ -828,11 +826,11 @@
             {
               "scriptName": "GiveBuffOnUse",
               "buffData": {
-                "buffKeyword": "Florescence",
+                "buffKeyword": "Vibration",
                 "target": "Self",
                 "buffOwner": "",
-                "stack": 2,
-                "turn": 0,
+                "stack": 0,
+                "turn": 3,
                 "activeRound": 0
               }
             }
@@ -840,51 +838,38 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 6,
-              "abilityScriptList": [
-                {
-                  "scriptName": "GiveBuffOnSucceedAttackHead",
-                  "buffData": {
-                    "buffKeyword": "Burst",
-                    "target": "Target",
-                    "buffOwner": "",
-                    "stack": 2,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                }
-              ]
+              "scale": 1
             },
             {
               "operatorType": "ADD",
-              "scale": 6,
-              "abilityScriptList": [
-                {
-                  "scriptName": "GiveBuffOnSucceedAttackHead",
-                  "buffData": {
-                    "buffKeyword": "Burst",
-                    "target": "Target",
-                    "buffOwner": "",
-                    "stack": 2,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                }
-              ]
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 6,
+              "scale": 1,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 2,
-                    "turn": 0,
-                    "activeRound": 0
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
                   }
                 }
               ]
@@ -893,7 +878,59 @@
         },
         {
           "gaksungLevel": 3,
-          "defaultValue": 5
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 3,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Sinking",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 1
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -906,18 +943,30 @@
         {
           "gaksungLevel": 1,
           "attributeType": "AMBER",
-          "atkType": "PENETRATE",
+          "atkType": "HIT",
           "defType": "ATTACK",
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultSkillLevel": 15.0,
-          "skillLevelPerUnitLevel": 0.86,
-          "defaultValue": 6,
+          "defaultSkillLevel": 14.0,
+          "skillLevelPerUnitLevel": 0.76,
+          "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
           "abilityScriptList": [
+            {
+              "scriptName": "1010402",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 6,
+                "activeRound": 0,
+                "value": 3
+              }
+            }
           ],
           "skillMotion": "S2",
           "viewType": "BATTLE",
@@ -925,51 +974,51 @@
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 1
                   }
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 1
                   }
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Fragrance3",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 3,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 1
                   }
                 }
               ]
@@ -980,69 +1029,67 @@
           "gaksungLevel": 2,
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse",
+              "scriptName": "1010402",
               "buffData": {
-                "buffKeyword": "Florescence",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 2,
-                "turn": 0,
-                "activeRound": 0
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 6,
+                "activeRound": 0,
+                "value": 3
               }
             }
           ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 1
                   }
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 1
                   }
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackIfHasStack_Fragrance3",
+                  "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 3,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 0
+                    "activeRound": 1
                   }
-                },
-                {
-                  "scriptName": "1010402_3_gaksung"
                 }
               ]
             }
@@ -1050,7 +1097,7 @@
         },
         {
           "gaksungLevel": 3,
-          "defaultValue": 7
+          "defaultValue": 4
         }
       ]
     },
@@ -1070,9 +1117,9 @@
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
-          "defaultSkillLevel": 15.0,
+          "defaultSkillLevel": 14.0,
           "skillLevelPerUnitLevel": 0.86,
-          "defaultValue": 8,
+          "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
@@ -1081,108 +1128,81 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "GiveBuffOnUse",
-              "buffData": {
-                "buffKeyword": "Florescence",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 4,
-                "turn": 0,
-                "activeRound": 0
-              }
+              "scriptName": "GiveMpDmgOnLoseDuelSelf20"
             },
             {
-              "scriptName": "HealMpOnUseEveryAlly7"
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 6,
+                "activeRound": 0
+              }
             }
           ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
+                    "stack": 0,
+                    "turn": 1,
                     "activeRound": 0
                   }
-                },
-                {
-                  "scriptName": "1010403_1"
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Fragrance",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
+                    "stack": 0,
+                    "turn": 1,
                     "activeRound": 0
                   }
-                },
-                {
-                  "scriptName": "1010403_2"
                 }
               ]
             },
             {
               "operatorType": "ADD",
-              "scale": 1,
+              "scale": 4,
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "SinkingSurgeOnSucceedAttackViaBuffCheck",
                   "buffData": {
-                    "buffKeyword": "Laceration",
+                    "buffKeyword": "Sinking",
                     "target": "Target",
-                    "buffOwner": "",
-                    "stack": 5,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "AmberTakeDamageUp",
-                    "target": "Target",
-                    "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 1
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
-                  "buffData": {
-                    "buffKeyword": "IndigoTakeDamageUp",
-                    "target": "Target",
-                    "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 1
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnKillTarget",
-                  "buffData": {
-                    "buffKeyword": "Florescence",
-                    "target": "Self",
-                    "buffOwner": "",
+                    "buffOwner": "Target",
                     "stack": 6,
                     "turn": 0,
                     "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveAdditionalDmgOnSuccessAttackViaBuffCheck",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 0,
+                    "turn": 10,
+                    "activeRound": 0,
+                    "value": 0.3
                   }
                 }
               ]
@@ -1207,33 +1227,30 @@
           "mpUsage": 0,
           "defaultSkillLevel": 11.0,
           "skillLevelPerUnitLevel": 0.57,
-          "defaultValue": 8,
+          "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
           "skillMotion": "Default",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnSucceedEvade",
+              "buffData": {
+                "buffKeyword": "Sinking",
+                "target": "Target",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 8,
-              "abilityScriptList": [
-                {
-                  "scriptName": "GiveBuffOnSucceedEvade",
-                  "buffData": {
-                    "buffKeyword": "Florescence",
-                    "target": "Self",
-                    "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveMpDmgOnSucceedEvadeTarget2"
-                }
-              ]
+              "scale": 10 
             }
           ]
         }

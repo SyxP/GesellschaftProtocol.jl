@@ -1310,61 +1310,28 @@
           "targetNum": 1,
           "mpUsage": 0,
           "defaultSkillLevel": 12.0,
-          "skillLevelPerUnitLevel": 0.62,
-          "defaultValue": 2,
+          "skillLevelPerUnitLevel": 0.6,
+          "defaultValue": 3,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf3"
-            },
-            {
-              "scriptName": "GiveBuffOnUse",
-              "buffData": {
-                "buffKeyword": "FairyLiquor",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 1,
-                "turn": 0,
-                "activeRound": 0
-              }
-            }
-          ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 4,
+              "scale": 6,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "ExaltedPersonality",
-                    "target": "Self",
-                    "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                }
-              ]
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 4,
-              "abilityScriptList": [
-                {
-                  "scriptName": "GiveBuffOnSucceedAttackHead",
-                  "buffData": {
-                    "buffKeyword": "Paralysis",
+                    "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 1
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
                   }
                 }
               ]
@@ -1373,53 +1340,31 @@
         },
         {
           "gaksungLevel": 2,
-          "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf3"
-            },
-            {
-              "scriptName": "GiveBuffOnUse",
-              "buffData": {
-                "buffKeyword": "FairyLiquor",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 1,
-                "turn": 0,
-                "activeRound": 0
-              }
-            }
-          ],
           "coinList": [
             {
               "operatorType": "ADD",
-              "scale": 4,
+              "scale": 6,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "ExaltedPersonality",
-                    "target": "Self",
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
                     "buffOwner": "",
                     "stack": 1,
                     "turn": 0,
                     "activeRound": 0
                   }
-                }
-              ]
-            },
-            {
-              "operatorType": "ADD",
-              "scale": 4,
-              "abilityScriptList": [
+                },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Paralysis",
+                    "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 1
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
                   }
                 }
               ]
@@ -1428,7 +1373,7 @@
         },
         {
           "gaksungLevel": 3,
-          "defaultValue": 3
+          "defaultValue": 4
         }
       ]
     },
@@ -1441,13 +1386,13 @@
         {
           "gaksungLevel": 1,
           "attributeType": "CRIMSON",
-          "atkType": "SLASH",
+          "atkType": "HIT",
           "defType": "ATTACK",
           "skillTargetType": "FRONT",
           "targetNum": 1,
           "mpUsage": 0,
           "defaultSkillLevel": 12.0,
-          "skillLevelPerUnitLevel": 0.62,
+          "skillLevelPerUnitLevel": 0.6,
           "defaultValue": 4,
           "canTeamKill": false,
           "canDuel": true,
@@ -1455,32 +1400,16 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf5"
-            },
-            {
-              "scriptName": "GiveBuffOnUse",
-              "buffData": {
-                "buffKeyword": "FairyLiquor",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 3,
-                "turn": 0,
-                "activeRound": 0
-              }
-            }
-          ],
           "coinList": [
             {
               "operatorType": "ADD",
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "ExaltedPersonality",
-                    "target": "Self",
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
                     "buffOwner": "",
                     "stack": 1,
                     "turn": 0,
@@ -1494,12 +1423,12 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
                   "buffData": {
-                    "buffKeyword": "ExaltedPersonality",
-                    "target": "Self",
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
+                    "stack": 2,
                     "turn": 0,
                     "activeRound": 0
                   }
@@ -1510,43 +1439,16 @@
         },
         {
           "gaksungLevel": 2,
-          "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf5"
-            },
-            {
-              "scriptName": "GiveBuffOnUse",
-              "buffData": {
-                "buffKeyword": "FairyLiquor",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 3,
-                "turn": 0,
-                "activeRound": 0
-              }
-            }
-          ],
           "coinList": [
             {
               "operatorType": "ADD",
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSucceedAttackHead",
-                  "buffData": {
-                    "buffKeyword": "PlusCoinValueDown",
-                    "target": "Target",
-                    "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 1
-                  }
-                },
-                {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "ExaltedPersonality",
-                    "target": "Self",
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
                     "buffOwner": "",
                     "stack": 1,
                     "turn": 0,
@@ -1562,23 +1464,12 @@
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "ExaltedPersonality",
-                    "target": "Self",
-                    "buffOwner": "",
-                    "stack": 1,
-                    "turn": 0,
-                    "activeRound": 0
-                  }
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttackTail",
-                  "buffData": {
-                    "buffKeyword": "MinusCoinValueDown",
+                    "buffKeyword": "Vibration",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 1,
+                    "stack": 2,
                     "turn": 0,
-                    "activeRound": 1
+                    "activeRound": 0
                   }
                 }
               ]
@@ -1608,7 +1499,7 @@
           "targetNum": 1,
           "mpUsage": 0,
           "defaultSkillLevel": 12.0,
-          "skillLevelPerUnitLevel": 0.62,
+          "skillLevelPerUnitLevel": 0.6,
           "defaultValue": 6,
           "canTeamKill": false,
           "canDuel": true,
@@ -1616,43 +1507,22 @@
           "skillMotion": "S3",
           "viewType": "ENCOUNTER",
           "parryingCloseType": "NEAR",
-          "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf7"
-            },
-            {
-              "scriptName": "GiveBuffOnUse",
-              "buffData": {
-                "buffKeyword": "FairyLiquor",
-                "target": "Self",
-                "buffOwner": "",
-                "stack": 6,
-                "turn": 0,
-                "activeRound": 0
-              }
-            }
-          ],
           "coinList": [
             {
               "operatorType": "ADD",
               "scale": 16,
+              "cutsceneStart": true,
               "actionIndex": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "1080503_1"
-                },
-                {
-                  "scriptName": "HealHpOnSucceedAttackSelf15"
-                },
-                {
-                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "scriptName": "VibrationExplosionOnSucceedAttackThenLoseTargetVibrationTurn4ThenGiveBuff",
                   "buffData": {
-                    "buffKeyword": "TipsinessPersonality",
+                    "buffKeyword": "Burst",
                     "target": "Target",
                     "buffOwner": "",
-                    "stack": 2,
+                    "stack": 5,
                     "turn": 0,
-                    "activeRound": 1
+                    "activeRound": 0
                   }
                 }
               ]
@@ -1677,7 +1547,7 @@
           "mpUsage": 0,
           "defaultSkillLevel": 15,
           "skillLevelPerUnitLevel": 0.76,
-          "defaultValue": 10,
+          "defaultValue": 12,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
