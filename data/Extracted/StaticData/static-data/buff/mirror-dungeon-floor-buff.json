@@ -74,6 +74,126 @@
           "value": -2
         }
       ]
+    },
+    {
+      "id": "S2Mirror2ndFloor_Hard",
+      "list": [
+        {
+          "key": "SKILL_RESULT_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "ATTACK_ADDER",
+          "isOn": true,
+          "value": 5
+        },
+        {
+          "key": "SKILL_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "PLUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": 2
+        },
+        {
+          "key": "MINUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": -2
+        }
+      ]
+    },
+    {
+      "id": "S2Mirror3rdFloor_Hard",
+      "list": [
+        {
+          "key": "SKILL_RESULT_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "ATTACK_ADDER",
+          "isOn": true,
+          "value": 5
+        },
+        {
+          "key": "SKILL_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "PLUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": 2
+        },
+        {
+          "key": "MINUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": -2
+        }
+      ]
+    },
+    {
+      "id": "S2Mirror4thFloor_Hard",
+      "list": [
+        {
+          "key": "SKILL_RESULT_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "ATTACK_ADDER",
+          "isOn": true,
+          "value": 5
+        },
+        {
+          "key": "SKILL_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "PLUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": 2
+        },
+        {
+          "key": "MINUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": -2
+        }
+      ]
+    },
+    {
+      "id": "S2Mirror5thFloor_Hard",
+      "list": [
+        {
+          "key": "SKILL_RESULT_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "ATTACK_ADDER",
+          "isOn": true,
+          "value": 5
+        },
+        {
+          "key": "SKILL_POWER_ADDER",
+          "isOn": true,
+          "value": 1
+        },
+        {
+          "key": "PLUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": 2
+        },
+        {
+          "key": "MINUS_COIN_SCALE_ADDER",
+          "isOn": true,
+          "value": -2
+        }
+      ]
     }
   ]
 }

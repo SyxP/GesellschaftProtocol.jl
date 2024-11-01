@@ -6444,12 +6444,17 @@
           "unitList": [
             {
               "unitID": 8010,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 35
             },
             {
               "unitID": 8011,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8012,
+              "unitCount": 1,
               "unitLevel": 35
             }
           ],
@@ -6498,18 +6503,13 @@
           },
           "unitList": [
             {
-              "unitID": 8010,
-              "unitCount": 1,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8011,
-              "unitCount": 1,
-              "unitLevel": 35
-            },
-            {
               "unitID": 8013,
               "unitCount": 2,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8015,
+              "unitCount": 1,
               "unitLevel": 35
             }
           ],
@@ -6556,18 +6556,13 @@
           },
           "unitList": [
             {
-              "unitID": 8010,
-              "unitCount": 1,
-              "unitLevel": 35
-            },
-            {
-              "unitID": 8011,
-              "unitCount": 1,
-              "unitLevel": 35
-            },
-            {
               "unitID": 8014,
               "unitCount": 2,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8015,
+              "unitCount": 1,
               "unitLevel": 35
             }
           ],
@@ -6615,12 +6610,17 @@
           "unitList": [
             {
               "unitID": 8013,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 35
             },
             {
               "unitID": 8014,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8015,
+              "unitCount": 1,
               "unitLevel": 35
             }
           ],
@@ -6910,8 +6910,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp4_Ally_6",
-            "Battle_Cp4_Enemy_6"
+            "Battle_Cp1_Ally_3",
+            "Battle_Cp1_Enemy_3"
           ],
           "enemyPositionID": 30
         }

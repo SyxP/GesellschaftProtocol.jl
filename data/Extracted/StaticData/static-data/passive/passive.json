@@ -1378,6 +1378,30 @@
       ]
     },
     {
+      "id": 1080601,
+      "attributeResonanceCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 3
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel2"
+      ]
+    },
+    {
+      "id": 1080621,
+      "attributeStockCondition": [
+        {
+          "type": "CRIMSON",
+          "value": 6
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ]
+    },
+    {
       "id": 90001
     },
     {

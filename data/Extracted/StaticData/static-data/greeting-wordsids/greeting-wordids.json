@@ -239,6 +239,11 @@
       "id": 64,
       "condition": "GetEGO",
       "conditionRefId": 20404
+    },
+    {
+      "id": 65,
+      "condition": "GetPersonality",
+      "conditionRefId": 10806
     }
   ]
 }

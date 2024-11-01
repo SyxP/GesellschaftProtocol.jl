@@ -8,5 +8,7 @@
   "isAlarmAtExitChangeFormationLess": true,
   "moveStartBufMapZoomPC": 1.0,
   "moveStartBufMapZoomMobile": 0.0017,
-  "isInitBuffMap": true
+  "isInitBuffMap": true,
+  "mirrorMapSetting": true,
+  "networkLatencyForTest": 0
 }

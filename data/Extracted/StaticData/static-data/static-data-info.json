@@ -110,7 +110,8 @@
         "gacha-117",
         "gacha-118",
         "gacha-119",
-        "gacha-120"
+        "gacha-120",
+        "gacha-121"
       ]
     },
     {
@@ -131,6 +132,23 @@
       "fileList": [
         "passive",
         "passive-ego"
+      ]
+    },
+    {
+      "dataClass": "personality-passive",
+      "fileList": [
+        "personality-passive-01",
+        "personality-passive-02",
+        "personality-passive-03",
+        "personality-passive-04",
+        "personality-passive-05",
+        "personality-passive-06",
+        "personality-passive-07",
+        "personality-passive-08",
+        "personality-passive-09",
+        "personality-passive-10",
+        "personality-passive-11",
+        "personality-passive-12"
       ]
     },
     {
@@ -221,7 +239,9 @@
         "mirrordungeon-battle1-1",
         "mirrordungeon-abbattle1-1",
         "mirrordungeon-battle2-0",
-        "mirrordungeon-abbattle2-0"
+        "mirrordungeon-abbattle2-0",
+        "mirrordungeon-battle2-1",
+        "mirrordungeon-abbattle2-1"
       ]
     },
     {

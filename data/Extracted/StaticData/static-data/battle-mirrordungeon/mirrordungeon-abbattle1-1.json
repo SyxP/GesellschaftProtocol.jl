@@ -6501,12 +6501,17 @@
           "unitList": [
             {
               "unitID": 8010,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 30
             },
             {
               "unitID": 8011,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 8012,
+              "unitCount": 1,
               "unitLevel": 30
             }
           ],
@@ -6529,6 +6534,14 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
+      "stageScriptNameAfterClear": "ReinforcedHuman",
+      "eventScriptName": "ReinforcedHuman",
+      "abnormalityEventList": [
+        801201,
+        801202,
+        801203,
+        801204
+      ],
       "attackType": "HIT",
       "attributeType": "AMBER"
     },
@@ -6552,12 +6565,7 @@
               "unitLevel": 30
             },
             {
-              "unitID": 8010,
-              "unitCount": 1,
-              "unitLevel": 30
-            },
-            {
-              "unitID": 8011,
+              "unitID": 8015,
               "unitCount": 1,
               "unitLevel": 30
             }
@@ -6581,6 +6589,12 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
+      "stageScriptNameAfterClear": "PinkShoe",
+      "eventScriptName": "PinkShoe",
+      "abnormalityEventList": [
+        801501,
+        801502
+      ],
       "attackType": "HIT",
       "attributeType": "CRIMSON"
     },
@@ -6604,12 +6618,7 @@
               "unitLevel": 30
             },
             {
-              "unitID": 8010,
-              "unitCount": 1,
-              "unitLevel": 30
-            },
-            {
-              "unitID": 8011,
+              "unitID": 8015,
               "unitCount": 1,
               "unitLevel": 30
             }
@@ -6633,6 +6642,12 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
+      "stageScriptNameAfterClear": "PinkShoe",
+      "eventScriptName": "PinkShoe",
+      "abnormalityEventList": [
+        801501,
+        801502
+      ],
       "attackType": "HIT",
       "attributeType": "CRIMSON"
     },
@@ -6652,12 +6667,17 @@
           "unitList": [
             {
               "unitID": 8013,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 30
             },
             {
               "unitID": 8014,
-              "unitCount": 2,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 8015,
+              "unitCount": 1,
               "unitLevel": 30
             }
           ],
@@ -6680,6 +6700,12 @@
       ],
       "rewardList": [],
       "dangerLevel": 0,
+      "stageScriptNameAfterClear": "PinkShoe",
+      "eventScriptName": "PinkShoe",
+      "abnormalityEventList": [
+        801501,
+        801502
+      ],
       "attackType": "HIT",
       "attributeType": "CRIMSON"
     },
@@ -6903,6 +6929,23 @@
               "unitID": 8003,
               "unitCount": 3,
               "unitLevel": 34
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8003,
+              "unitCount": 3,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8004,
+              "unitCount": 4,
+              "unitLevel": 35
+            },
+            {
+              "unitID": 8004,
+              "unitCount": 4,
+              "unitLevel": 35
             }
           ],
           "bgmList": [
