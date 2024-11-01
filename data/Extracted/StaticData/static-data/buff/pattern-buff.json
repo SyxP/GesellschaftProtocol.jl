@@ -793,6 +793,17 @@
           "ability": "Thorn"
         }
       ]
+    },
+    {
+      "id": "KnowledgeExplored",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "KnowledgeExplored"
+        }
+      ]
     }
   ]
 }

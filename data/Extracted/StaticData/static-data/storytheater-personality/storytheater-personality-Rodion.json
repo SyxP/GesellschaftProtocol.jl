@@ -89,7 +89,22 @@
           ],
           "profileId": "zwei_rodion_profile",
           "analysisId": "zwei_rodion_analysis"
-       }            
+       },
+       {
+        "personalityId": 10907,
+        "releaseDay": 20230921,
+        "cv_Id": "",
+        "personalityStoryList": [
+          {
+            "storyId": "P10907",
+            "lockCondition": "gacksung",
+            "order": 1,
+            "reward":{"type":"ITEM","id":2,"num":40}
+          }
+        ],
+        "profileId": "dieci_rodion_profile",
+        "analysisId": "dieci_rodion_analysis"
+     }            
         ]
     }
   ]

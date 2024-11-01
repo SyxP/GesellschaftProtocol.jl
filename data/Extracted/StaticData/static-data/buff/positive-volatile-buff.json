@@ -776,6 +776,17 @@
           "value": 0.1
         }
       ]
+    },
+    {
+      "id": "ChargeForceField",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "ChargeForceField"
+        }
+      ]
     }
   ]
 }

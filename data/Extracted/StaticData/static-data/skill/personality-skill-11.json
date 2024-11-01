@@ -1773,7 +1773,7 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "DiscardLowestSkillOnUse"
+              "scriptName": "DiscardLowestSkillOnUse1"
             }
           ],
           "coinList": [
@@ -1845,7 +1845,7 @@
               }
             },
             {
-              "scriptName": "DiscardLowestSkillOnUse"
+              "scriptName": "DiscardLowestSkillOnUse1"
             }
           ],
           "coinList": [
@@ -1921,7 +1921,7 @@
               }
             },
             {
-              "scriptName": "DiscardLowestSkillOnUse"
+              "scriptName": "DiscardLowestSkillOnUse1"
             }
           ],
           "coinList": [
@@ -2185,7 +2185,7 @@
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
             {
-              "scriptName": "DiscardLowestSkillOnUse"
+              "scriptName": "DiscardLowestSkillOnUse1"
             }
           ],
           "coinList": [

@@ -26,5 +26,6 @@
     11,
     13
   ],
-  "isShowBattleResultAfterGiveUp": true
+  "isShowBattleResultAfterGiveUp": true,
+  "isPassResetRailwayDungeonOnInitialize": true
 }

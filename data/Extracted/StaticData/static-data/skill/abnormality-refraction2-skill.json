@@ -1949,7 +1949,7 @@
               "scriptName": "EmptyBody"
             },
             {
-              "scriptName": "AttackDmgUpByRatioViaBuffCheckOver",
+              "scriptName": "AttackDmgUpByRatioOnUseViaBuffCheckOver",
               "buffData": {
                 "buffKeyword": "SelfCharge",
                 "target": "",
@@ -1961,7 +1961,7 @@
               }
             },
             {
-              "scriptName": "ParryingPowerResultAdderSelfViaBuffDevide",
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheckDevideByStack",
               "buffData": {
                 "buffKeyword": "SelfCharge",
                 "target": "",
@@ -1973,7 +1973,7 @@
               }
             },
             {
-              "scriptName": "UseBuffAllTurnOnEndSkill",
+              "scriptName": "DestroySpecificBuffOnUse",
               "buffData": {
                 "buffKeyword": "SelfCharge",
                 "target": "AbnormalitySelf"
