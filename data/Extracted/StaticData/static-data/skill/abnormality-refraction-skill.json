@@ -285,8 +285,9 @@
               "scriptName": "AttackDmgUpOnAttackNegativeMpByRatio10"
             },
             {
-              "scriptName": "LoseBuffAbnormalitySelfOnLoseDuel",
+              "scriptName": "GiveBuffOnLoseDuel",
               "buffData": {
+                "target": "Self",
                 "buffKeyword": "Vulnerable",
                 "stack": 3
               }
